@@ -1,2 +1,24 @@
-This repository contains a project for use in CSCE 578 at the University of South Carolina.
-All code is property of Austin James, all rights reserved.
+This project is authored by Austin James and it is the sole property of
+Austin James for use in CSCE 3578 by instructor Duncan Buell.
+All Rights Reserved.
+
+This project is coded in version python2.7.10.
+
+The purpose of this project is to create a thesaurus using the GNU dictionary
+through pairing words with similar significant words in their definitions.
+This thesaurus will then be checked for accuracy against the thesaurus parsed
+from the Moby Thesaurus.
+
+The file 'words.txt' contains a list of entries from the Moby Thesaurus.
+The Moby Thesaurus has been placed into the public domain by
+'moby-thesarus.org' and the file 'words.txt' was taken from the open source
+project associated with 'moby-thesarus.org'. Please reference
+'https://github.com/words/moby' for more information.
+
+This project can be executed by entering './run' from the terminal while in
+the assignment02 directory.
+
+This directory contains python files that have the following functions:
+
+  ParseMobyThesaurus.py: parse thesaurus entries from 'words.txt' and write
+  them to 'mobythesarus.txt'.
