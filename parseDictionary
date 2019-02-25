@@ -1,0 +1,34 @@
+#!/bin/bash
+
+echo ""
+echo "GNU Parsing Dictionary"
+
+python2.7 ./ParseDictionary.py A
+python2.7 ./ParseDictionary.py B
+python2.7 ./ParseDictionary.py C
+python2.7 ./ParseDictionary.py D
+python2.7 ./ParseDictionary.py E
+python2.7 ./ParseDictionary.py F
+python2.7 ./ParseDictionary.py G
+python2.7 ./ParseDictionary.py H
+python2.7 ./ParseDictionary.py I
+python2.7 ./ParseDictionary.py J
+python2.7 ./ParseDictionary.py K
+python2.7 ./ParseDictionary.py L
+python2.7 ./ParseDictionary.py M
+python2.7 ./ParseDictionary.py N
+python2.7 ./ParseDictionary.py O
+python2.7 ./ParseDictionary.py P
+python2.7 ./ParseDictionary.py Q
+python2.7 ./ParseDictionary.py R
+python2.7 ./ParseDictionary.py S
+python2.7 ./ParseDictionary.py T
+python2.7 ./ParseDictionary.py U
+python2.7 ./ParseDictionary.py V
+python2.7 ./ParseDictionary.py W
+python2.7 ./ParseDictionary.py X
+python2.7 ./ParseDictionary.py Y
+python2.7 ./ParseDictionary.py Z
+
+echo "GNU Dictionary Parsed"
+echo ""

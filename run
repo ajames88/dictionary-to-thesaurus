@@ -1,3 +1,21 @@
 #!/bin/bash
 
-python2.7 ./ParseMobyThesaurus
+echo ""
+echo "Parsing Moby Thesaurus"
+python2.7 ./ParseMobyThesaurus.py
+echo "Moby Thesaurus Parsed"
+echo ""
+
+./parseDictionary
+
+echo ""
+echo "Creating the Thesaurus for "$1
+python2.7 ./CreateMyThesaurus.py $1
+echo "Thesaurus Created for "$1
+echo ""
+
+echo ""
+echo "Comparing Created Thesaurus Entries to Moby Entries"
+python2.7 ./Compare.py $1
+echo "Entries Compared"
+echo ""

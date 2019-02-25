@@ -4,10 +4,19 @@ All Rights Reserved.
 
 This project is coded in version python2.7.10.
 
+The following command can be entered into the terminal to run this program:
+
+  "./run <letter of the alphabet whose thesaurus to be compared>"
+
+  Example: "./run A"
+
 The purpose of this project is to create a thesaurus using the GNU dictionary
 through pairing words with similar significant words in their definitions.
 This thesaurus will then be checked for accuracy against the thesaurus parsed
 from the Moby Thesaurus.
+
+For purposes of decreasing run-time, this program will only compute a thesaurus
+for all the dictionary entries starting the a given letter.
 
 The file 'words.txt' contains a list of entries from the Moby Thesaurus.
 The Moby Thesaurus has been placed into the public domain by
@@ -15,8 +24,9 @@ The Moby Thesaurus has been placed into the public domain by
 project associated with 'moby-thesarus.org'. Please reference
 'https://github.com/words/moby' for more information.
 
-This project can be executed by entering './run' from the terminal while in
-the assignment02 directory.
+The following command can be entered into the terminal to run this program:
+
+  "./run <letter of the alphabet whose thesaurus we wish to compare>"
 
 This directory contains python files that have the following functions:
 
