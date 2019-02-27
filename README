@@ -10,10 +10,20 @@ The following command can be entered into the terminal to run this program:
 
   Example: "./run A"
 
+  NOTE: the './runAll' script will run the entire alphabet, this process
+  took my machine over 12 hours to complete
+
 The purpose of this project is to create a thesaurus using the GNU dictionary
 through pairing words with similar significant words in their definitions.
 This thesaurus will then be checked for accuracy against the thesaurus parsed
 from the Moby Thesaurus.
+
+The output of this program will appear in a text file named
+'<letter>output.txt'. The generatedThesaurus will appear in a file named
+'thesaurusFor<letter>.txt'. The parsed dictionary will appear in the
+ParsedDictionary directory, and the parsed thesaurus will appear in the file
+'mobyThesaurus.txt'.
+
 
 For purposes of decreasing run-time, this program will only compute a thesaurus
 for all the dictionary entries starting the a given letter.
@@ -24,11 +34,12 @@ The Moby Thesaurus has been placed into the public domain by
 project associated with 'moby-thesarus.org'. Please reference
 'https://github.com/words/moby' for more information.
 
-The following command can be entered into the terminal to run this program:
-
-  "./run <letter of the alphabet whose thesaurus we wish to compare>"
-
 This directory contains python files that have the following functions:
 
-  ParseMobyThesaurus.py: parse thesaurus entries from 'words.txt' and write
-  them to 'mobythesarus.txt'.
+  ParseMobyThesaurus.py: parses thesaurus entries from 'words.txt' and write
+    them to 'mobythesarus.txt'.
+  ParseDictionary.py: parses the dictionary from the files in the gcide-0.52
+    directory and writes them to the files in the ParsedDictionary directory
+  CreateMyThesaurus.py: uses the dictionary files in the ParsedDictionary
+    directory to create a thesaurus
+  Compare.py: compares the generated thesaurus to the Moby Thesaurus

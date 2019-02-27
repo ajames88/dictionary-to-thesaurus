@@ -1,0 +1,28 @@
+#!/bin/bash
+
+./run A
+./run B
+./run C
+./run D
+./run E
+./run F
+./run G
+./run H
+./run I
+./run J
+./run K
+./run L
+./run M
+./run N
+./run O
+./run P
+./run Q
+./run R
+./run S
+./run T
+./run U
+./run V
+./run W
+./run X
+./run Y
+./run Z

@@ -25,7 +25,8 @@ numbers = ["ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT",
 
 
 # removeStops function takes in a definition as its parameter and returns the
-# same definition with no stop words, hypens, or periods ----------------------
+# same definition with no stop words, hypens, commas, semicolons, colons
+# or periods ------------------------------------------------------------------
 
 def removeStops(definition):
 
@@ -47,6 +48,18 @@ def removeStops(definition):
     for x in range(len(definition)):
         if definition[x].count(".") > 0:
             definition[x] = definition[x].replace(".", "")
+
+    for x in range(len(definition)):
+        if definition[x].count(",") > 0:
+            definition[x] = definition[x].replace(",", "")
+
+    for x in range(len(definition)):
+        if definition[x].count(":") > 0:
+            definition[x] = definition[x].replace(":", "")
+
+    for x in range(len(definition)):
+        if definition[x].count(";") > 0:
+            definition[x] = definition[x].replace(";", "")
 
     return definition
 # -----------------------------------------------------------------------------
@@ -108,7 +121,7 @@ for x in read:
         termStart = x.find("<ent>") + 5
         termEnd = x.find("</ent>")
         term = x[termStart:termEnd]
-        entry += "\n\nTERM "+term+":\n"
+        entry += "\nTERM "+term+" DEF "
 
     # Parse the definition
     if (x.find("<def>") >= 0):

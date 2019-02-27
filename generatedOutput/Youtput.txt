@@ -1,0 +1,32 @@
+Thesaurus was generated for the letter Y
+
+TERM			# OF GENERATED SYNONYMS		# OF COMMON SYNONYMS		% OF CORRECT GENERATED SYNONYMS
+YACHTSMAN					3						0						0.0
+YANK					2						1						0.5
+YANK					2						1						0.5
+YANK					72						0						0.0
+YARDSTICK					9						1						0.111111111111
+YAWP					9017						28						0.00310524564711
+YEA					11						5						0.454545454545
+YEARLING					16						0						0.0
+YEARN					7						1						0.142857142857
+YEARN					6						0						0.0
+YELL					1						0						0.0
+YELLOW					5						0						0.0
+YELLOW					1						0						0.0
+YESTERDAY					2						0						0.0
+YESTERYEAR					24						2						0.0833333333333
+YET					28						0						0.0
+YET					3						2						0.666666666667
+YODEL					3						0						0.0
+YOGURT					10						1						0.1
+YOKEL					2						0						0.0
+YORE					77						1						0.012987012987
+YOU					2						1						0.5
+YOUNG					3						0						0.0
+YOUNGSTER					1						0						0.0
+YOURSELF					4						2						0.5
+YOWL					2						1						0.5
+YUCK					16						0						0.0
+YUCK					24						0						0.0
+YUMMY					2						0						0.0
