@@ -1,5 +1,5 @@
 
-TERM V DEF V twenty-second letter English alphabet vocal consonant V U varieties character U cursive form V better adapted engraving stone letters formerly used indiscriminately till comparatively recent date words containing often classed together dictionaries books reference (see letter V Latin alphabet used consonant (about like English vowel Latin derives form (V) Greek vowel (see Greek letter either Semitic letter digamma (see else added Greeks alphabet took Semitic Etymologically nearly related See U F etc numeral V stands English Latin 
+TERM V DEF V twenty-second letter English alphabet vocal consonant V U varieties character U cursive form V better adapted engraving stone letters formerly used indiscriminately till comparatively recent date words containing often classed together dictionaries books reference (see letter V Latin alphabet used consonant (about like English vowel Latin derives form (V) Greek vowel (see Greek letter either Semitic letter digamma (see else added Greeks alphabet took Semitic Etymologically nearly related U F etc numeral V stands English Latin 
 TERM Vaagmer DEF dealfish 
 TERM Vacancy DEF quality state vacant emptiness hence freedom employment intermission leisure idleness listlessness vacant Empty space vacuity vacuum open unoccupied space bodies things interruption continuity chasm gap buildings sentences Unemployed time interval leisure time intermission vacation place post unfilled unoccupied office senate school 
 TERM Vacant DEF Deprived contents filled empty Unengaged business care unemployed unoccupied disengaged free filled occupied incumbent possessor officer unoccupied throne house apartment Empty thought thoughtless occupied study reflection Abandoned heir possessor claimant occupier 
@@ -15,8 +15,8 @@ TERM Vaccination DEF act art practice vaccinating inoculating cowpox order preve
 TERM Vaccinator DEF who which vaccinates 
 TERM Vaccine DEF pertaining cows pertaining to derived from caused by vaccinia virus pertaining vaccine vaccination 
 TERM Vaccine DEF virus vaccinia used vaccination preparation used render organism immune disease inducing increasing natural immunity mechanisms Prior 1995 preparations usually contained killed organisms type immunity desired sometimes used live organisms attenuated virulence Since date preparations containing specific antigenic portions pathogenic organism also used prepared genetic engineering techniques program designed protect computer software viruses detecting eliminating them 
-TERM Vaccine point DEF See 26 
-TERM Vaccinia DEF Cowpox vaccina See 
+TERM Vaccine point DEF 26 
+TERM Vaccinia DEF Cowpox vaccina 
 TERM Vaccinist DEF vaccinator 
 TERM Vaccinium DEF genus ericaceous shrubs including various kinds blueberries true cranberries 
 TERM Vacher DEF keeper stock cattle herdsman 
@@ -45,8 +45,8 @@ TERM Vadantes DEF extensive artificial group birds including wading swimming cur
 TERM Vade DEF fade hence vanish 
 TERM Vade mecum DEF book thing person carries constant companion manual handbook 
 TERM Vadimony DEF bond pledge appearance judge certain day 
-TERM Vadium DEF Pledge security bail See 
-TERM Vae DEF See 
+TERM Vadium DEF Pledge security bail 
+TERM Vae DEF 
 TERM Vafrous DEF Crafty cunning sly 
 TERM Vagabond DEF Moving place place without settled habitation wandering Floating without certain direction driven fro vagabond strolling idle vicious 
 TERM Vagabond DEF wanders place place fixed dwelling abiding it usually without means honest livelihood vagrant tramp hence worthless person rascal 
@@ -61,7 +61,7 @@ TERM Vagantes DEF tribe spiders comprising take prey web also frequently run agi
 TERM Vagarious DEF Given to characterized by vagaries capricious whimsical crochety 
 TERM Vagary DEF wandering strolling Hence wandering thoughts wild fanciful freak whim whimsical purpose 
 TERM Vagient DEF Crying like child 
-TERM Vagina DEF sheath theca portal terminal part oviduct insects various invertebrates See basal expansion certain leaves inwraps stem sheath shaft terminus bust figure seems issue arise 
+TERM Vagina DEF sheath theca portal terminal part oviduct insects various invertebrates basal expansion certain leaves inwraps stem sheath shaft terminus bust figure seems issue arise 
 TERM Vaginal DEF pertaining vagina resembling vagina sheath thecal synovial membrane process temporal pertaining vagina genital canal 
 TERM Vaginant DEF Serving invest sheathe sheathing 
 TERM Vaginated DEF 
@@ -94,7 +94,7 @@ TERM Vail DEF let fall allow cause sink lower take off token inferiority reveren
 TERM Vail DEF yield recede give place show respect yielding uncovering like 
 TERM Vail DEF Submission decline descent 
 TERM Vailer DEF vails 
-TERM Vaimure DEF outer exterior wall See 
+TERM Vaimure DEF outer exterior wall 
 TERM Vain DEF real substance value importance empty void worthless unsatisfying Destitute force efficacy effecting purpose fruitless ineffectual toil Proud petty things trifling attainments high opinion one's accomplishments slight reason conceited puffed up inflated Showy ostentatious 
 TERM Vain DEF Vanity emptiness used phrase 
 TERM Vainglorious DEF Feeling indicating vainglory elated vanity boastful 
@@ -102,16 +102,16 @@ TERM Vainglory DEF Excessive vanity excited one's performances empty pride undue
 TERM Vainly DEF vain manner vain 
 TERM Vainness DEF quality state vain 
 TERM Vair DEF skin squirrel much used fourteenth century fur garments frequently mentioned writers period describing costly dresses kings nobles prelates represented heraldry series small shields placed close together alternately white blue 
-TERM Vairy DEF Charged vair variegated shield-shaped figures See 
+TERM Vairy DEF Charged vair variegated shield-shaped figures 
 TERM Vaishnava DEF worshiper god incarnations 
 TERM Vaishnavism DEF worship Vishnu 
-TERM Vaisya DEF third great original castes among Hindus either extinct partially represented mercantile class Banyas See Note 1 
-TERM Vaivode DEF See 
+TERM Vaisya DEF third great original castes among Hindus either extinct partially represented mercantile class Banyas Note 1 
+TERM Vaivode DEF 
 TERM Vakeel DEF native attorney agent also ambassador 
 TERM Valance DEF Hanging drapery bed couch window like especially hangs around bedstead bed floor drooping edging lid trunk covers joint lid closed 
 TERM Valance DEF furnish valance decorate hangings drapery 
 TERM Vale DEF tract low ground land hills valley 
-TERM Vale DEF See 2d 3 
+TERM Vale DEF 2d 3 
 TERM Valediction DEF farewell bidding farewell 
 TERM Valedictorian DEF pronounces valedictory address especially American colleges student pronounces valedictory graduating class annual commencement usually student ranks first scholarship 
 TERM Valedictory DEF Bidding farewell suitable designed occasion leave-taking 
@@ -119,8 +119,8 @@ TERM Valedictory DEF valedictory oration address spoken commencement American co
 TERM Valence DEF degree combining power atom (or radical) shown number atoms hydrogen (or monads chlorine sodium etc) combine substituted compared thus atom hydrogen monad atoms oxygen nitrogen carbon respectively dyads triads tetrads respectively 
 TERM Valencia DEF kind woven fabric waistcoats weft wool warp silk cotton 
 TERM Valenciennes lace DEF rich kind lace made Valenciennes France piece made throughout ground pattern person thread pattern worked net 
-TERM Valency DEF See 
-TERM Valentia DEF See 
+TERM Valency DEF 
+TERM Valentia DEF 
 TERM Valentine DEF sweetheart chosen St Valentine's Day letter containing professions love missive sentimental comic burlesque character sent St Valentine's Day 
 TERM Valentinian DEF school Judaizing Gnostics second century called founder 
 TERM Valeramide DEF acid amide derivative valeric acid obtained white crystalline substance 
@@ -189,7 +189,7 @@ TERM Valuer DEF values appraiser
 TERM Valure DEF Value 
 TERM Valvar DEF 
 TERM Valval DEF Valvular 
-TERM Valvasor DEF See 
+TERM Valvasor DEF 
 TERM Valvata DEF genus small spiral fresh-water gastropods operculum 
 TERM Valvate DEF Resembling serving as valve consisting of opening by valve valves valvular Meeting edges without overlapping said sepals petals flowers aestivation leaves vernation 
 TERM Valve DEF door especially pair folding doors leaves door lid plug cover applied aperture movement swinging lifting falling sliding turning like open close aperture permit prevent passage fluid membranous partitions flaps folds permit passage contents vessel cavity direction stop retard flow opposite direction ileocolic mitral semilunar pieces capsule naturally separates bursts pieces divisions bivalve multivalve shells 
@@ -204,7 +204,7 @@ TERM Vambrace DEF piece designed protect arm elbow wrist
 TERM vamoose DEF depart quickly depart from 
 TERM vamose DEF vamoose older spelling pronunciation variant 
 TERM Vamp DEF advance travel 
-TERM Vamp DEF part boot shoe sole welt front ankle seam upper piece added old thing give new appearance See usually improvized Jazz accompaniment consisting simple chords sucession 
+TERM Vamp DEF part boot shoe sole welt front ankle seam upper piece added old thing give new appearance usually improvized Jazz accompaniment consisting simple chords sucession 
 TERM vamp DEF woman seduces men charm wiles order exploit them 
 TERM Vamp DEF provide shoe new upper leather hence piece old thing new part repair patch often followed create little skill concoct invent usually implausible 
 TERM vamp DEF seduce (a man) sexually purpose exploitation 
@@ -213,11 +213,11 @@ TERM Vamper DEF swagger make ostentatious show
 TERM Vampire DEF blood-sucking ghost soul dead person superstitiously believed come grave wander night sucking blood persons asleep thus causing death superstition prevalent parts Eastern Europe especially current Hungary year 1730 often said ability transform form bat presented novel depicting legend published 1897 inspired several movies Fig lives preying others extortioner bloodsucker Either species South American blood-sucking bats belonging genera also called bats destitute molar teeth strong sharp cutting incisors make punctured wounds suck blood horses cattle animals well man chiefly sleep caecal appendage stomach blood gorge stored several species harmless tropical American bats genus especially bats feed upon insects fruit formerly erroneously supposed suck blood man animals Called also 
 TERM Vampirism DEF Belief existence vampires actions vampire practice bloodsucking Fig practice extortion 
 TERM Vamplate DEF round plate iron shaft tilting spear protect hand 
-TERM Vamure DEF See 
+TERM Vamure DEF 
 TERM Van DEF front army first line leading column also front line foremost division fleet either sailing battle 
 TERM Van DEF shovel used cleansing ore 
 TERM Van DEF wash cleanse small portion ore shovel 
-TERM Van DEF light wagon either covered open used tradesmen transportation goods large covered wagon moving furniture etc also conveying wild beasts etc exhibition closed railway car baggage See Note 2 
+TERM Van DEF light wagon either covered open used tradesmen transportation goods large covered wagon moving furniture etc also conveying wild beasts etc exhibition closed railway car baggage Note 2 
 TERM Van DEF fan contrivance sieve winnowing grain wing air beaten 
 TERM Van DEF fan cleanse fanning winnow 
 TERM Vanadate DEF salt vanadic acid 
@@ -257,10 +257,10 @@ TERM Vanish DEF pass visible invisible state go sight disappear fade vapor sight
 TERM Vanish DEF brief terminal part vowel vocal element differing less quality main part ordinarily ends vanish 
 TERM Vanishing DEF & 
 TERM Vanishment DEF vanishing 
-TERM Vanity DEF quality state vain want substance satisfy desire emptiness unsubstantialness unrealness falsity inflation mind upon slight grounds empty pride inspired overweening conceit one's personal attainments decorations excessive desire notice approval pride ostentation conceit vain anything empty visionary unreal unsubstantial fruitless desire effort trifling labor productive good empty pleasure vain pursuit idle show unsubstantial enjoyment established characters old moralities puppet shows See 5 cabinet built around bathroom sink usually countertop sometimes drawers 
+TERM Vanity DEF quality state vain want substance satisfy desire emptiness unsubstantialness unrealness falsity inflation mind upon slight grounds empty pride inspired overweening conceit one's personal attainments decorations excessive desire notice approval pride ostentation conceit vain anything empty visionary unreal unsubstantial fruitless desire effort trifling labor productive good empty pleasure vain pursuit idle show unsubstantial enjoyment established characters old moralities puppet shows 5 cabinet built around bathroom sink usually countertop sometimes drawers 
 TERM Vanity box DEF small box usually jeweled precious metal worn chain containing mirror powder puff small toilet articles woman 
 TERM Vanjas DEF Australian pied crow shrike glossy bluish black tail coverts tips bases tail feathers white 
-TERM Vanner DEF machine concentrating ore See 
+TERM Vanner DEF machine concentrating ore 
 TERM Vanner hawk DEF kestrel 
 TERM Vanning DEF process ores washed shovel vanner 
 TERM Vanquish DEF conquer overcome subdue battle enemy Hence defeat contest get better of put down refute 
@@ -269,14 +269,14 @@ TERM Vanquishable DEF may vanquished
 TERM Vanquisher DEF who which vanquishes 
 TERM Vanquishment DEF act vanquishing state vanquished 
 TERM Vansire DEF ichneumon native Southern Africa Madagascar reddish brown dark brown grizzled white Called also 
-TERM Vant DEF See 
+TERM Vant DEF 
 TERM Vantage DEF Superior favorable situation opportunity gain profit advantage position offering superior view scene situation used literally figuratively also called first point scored deuce advantage{5} 
 TERM Vantage DEF profit aid 
-TERM Vantage game DEF first game set deuce See 9 
+TERM Vantage game DEF first game set deuce 9 
 TERM Vantage point DEF point giving advantage vantage ground 
 TERM Vantbrass DEF 
 TERM Vantbrace DEF Armor arm vambrace 
-TERM Vant-courier DEF avant-courier See 
+TERM Vant-courier DEF avant-courier 
 TERM Van't Hoff's law DEF generalization that system equilibrium opposed interactions endothermic promoted raising temperature exothermic lowering it 
 TERM Vanward DEF on towards van front 
 TERM Vap DEF vapid insipid lifeless especially lifeless part liquor wine 
@@ -289,7 +289,7 @@ TERM Vaporability DEF quality state vaporable
 TERM Vaporable DEF Capable converted vapor agency heat vaporizable 
 TERM Vaporate DEF emit vapor evaporate 
 TERM Vaporation DEF act process converting vapor passing vapor evaporation 
-TERM Vapored DEF Wet vapors moist Affected vapors See 5 
+TERM Vapored DEF Wet vapors moist Affected vapors 5 
 TERM Vaporer DEF vapors braggart 
 TERM Vapor galvanizing DEF process coating metal (usually iron steel) surfaces zinc exposing vapor zinc instead of ordinary galvanizing molten zinc called also Vapor galvanizing accomplished heating articles galvanized together zinc dust air tight receptacle temperature F melting point zinc exposing articles vapor molten zinc separate receptacle using hydrogen reducing gas prevent oxidation 
 TERM Vaporiferous DEF Conveying producing vapor 
@@ -312,9 +312,9 @@ TERM Vapory DEF Full vapors vaporous Hypochondriacal splenetic peevish
 TERM Vapulation DEF act beating whipping 
 TERM Vaquero DEF charge cattle horses etc herdsman cowboy 
 TERM Vara DEF Spanish measure length equal yard vara use equals 33385 inches 
-TERM Varan DEF monitor See 3 
+TERM Varan DEF monitor 3 
 TERM Varangian DEF Northmen founded dynasty Russia 9th century also Northmen composing later date imperial bodyguard Constantinople 
-TERM Varanus DEF genus large lizards native Asia Africa includes monitors See 3 
+TERM Varanus DEF genus large lizards native Asia Africa includes monitors 3 
 TERM Vare DEF wand staff authority justice 
 TERM Vare DEF weasel 
 TERM Varec DEF calcined ashes coarse seaweed used manufacture soda iodine also seaweed itself fucus wrack 
@@ -331,7 +331,7 @@ TERM Variant DEF Something differs form another thing though really same type na
 TERM Variate DEF alter make different vary 
 TERM Variation DEF act varying partial change form position state qualities thing modification alteration mutation diversity deviation color different lights size Extent thing varies amount departure position state amount rate change Change termination words declension conjugation derivation etc Repetition theme melody fanciful embellishments modifications time tune harmony sometimes change key presentation musical thought new varied aspects yet essential features original shall still preserve identity different arrangements made number quantities taking certain number together 
 TERM Varicella DEF Chicken pox 
-TERM Varices DEF See 
+TERM Varices DEF 
 TERM Variciform DEF Resembling varix 
 TERM Varicocele DEF varicose enlargement veins spermatic cord also like enlargement veins scrotum 
 TERM Varicose DEF Irregularly swollen enlarged affected with containing varices varicosities pertaining varices varicosities nerve fiber vein Intended treatment varicose veins said elastic stockings bandages like 
@@ -380,10 +380,10 @@ TERM Varsity DEF Colloquial contraction team best players school club main repre
 TERM Varsovienne DEF kind Polish dance 
 TERM Vartabed DEF doctor teacher Armenian church Members order ecclesiastics frequently charge dioceses episcopal functions 
 TERM Varuna DEF god waters Indian Neptune regarded regent west lord punishment represented riding sea monster holding hand snaky cord noose bind offenders water 
-TERM Varus DEF deformity foot turned inward See 
+TERM Varus DEF deformity foot turned inward 
 TERM Varvel DEF falconry rings secured ends jesses 
 TERM Varveled DEF varvels rings 
-TERM Vary DEF change aspect of alter form appearance substance position like make different partial change modify properties proportions nature thing posture attitude one's dress change something else transmute exchange alternate make different kinds make different another diversify variegate embellish change fancifully present new aspects form key measure etc See 4 
+TERM Vary DEF change aspect of alter form appearance substance position like make different partial change modify properties proportions nature thing posture attitude one's dress change something else transmute exchange alternate make different kinds make different another diversify variegate embellish change fancifully present new aspects form key measure etc 4 
 TERM Vary DEF alter altered manner suffer partial change become different modified colors different differ different unlike diverse laws France alter change succession alternate mathematical quantity inversely deviate depart swerve followed law disagree variance dissension men 
 TERM Vary DEF Alteration change 
 TERM Varying DEF & 
@@ -393,10 +393,10 @@ TERM Vascularity DEF quality state vascular
 TERM Vascularization DEF process becoming vascular condition vascular as cartilege 
 TERM Vasculose DEF substances vegetable tissue composed differing cellulose respect solubility certain media 
 TERM Vasculum DEF 1 tin box commonly cylindrical flattened used collecting plants 
-TERM Vase DEF vessel adapted various domestic purposes anciently sacrificial uses especially vessel antique elegant pattern used ornament porcelain gold Grecian See vessel similar described first definition above representation solid block stone like used ornament terrace garden See calyx plant 
+TERM Vase DEF vessel adapted various domestic purposes anciently sacrificial uses especially vessel antique elegant pattern used ornament porcelain gold Grecian vessel similar described first definition above representation solid block stone like used ornament terrace garden calyx plant 
 TERM Vase clock DEF clock decorative case general form vase esp ordinary dial part vase revolves single stationary indicator serves hand 
 TERM Vasectomy DEF Resection excision vas deferens 
-TERM Vaseline DEF yellowish translucent substance almost odorless tasteless obtained residue purification crude petroleum consisting essentially mixture several higher members paraffin series used unguent various purposes arts See Note 
+TERM Vaseline DEF yellowish translucent substance almost odorless tasteless obtained residue purification crude petroleum consisting essentially mixture several higher members paraffin series used unguent various purposes arts Note 
 TERM Vase-shaped DEF Formed like vase like common flowerpot 
 TERM Vasiform DEF form vessel duct 
 TERM Vasoconstrictor DEF Causing constriction blood vessels nerves stimulation causes constriction blood vessels nerves also called 
@@ -405,9 +405,9 @@ TERM Vasodentine DEF modified form dentine permeated blood capillaries vascular 
 TERM Vasodilator DEF Causing dilation relaxation blood vessels nerves stimulation causes dilation blood vessels nerves also called nerves since stimulation causes relaxation rest 
 TERM Vasodilator DEF substance causes dilation blood vessels 
 TERM Vasoformative DEF Concerned development formation blood vessels blood corpuscles 
-TERM Vasohypertonic DEF See 
-TERM Vasohypotonic DEF See 
-TERM Vaso-inhibitory DEF See 
+TERM Vasohypertonic DEF 
+TERM Vasohypotonic DEF 
+TERM Vaso-inhibitory DEF 
 TERM Vasomotor DEF Causing movement walls vessels mechanisms nerves system nerves distributed muscular coats blood 
 TERM Vassal DEF grantee fief feud fee holds land superior vows fidelity homage him feudatory feudal tenant subject dependent servant bondman slave 
 TERM Vassal DEF Resembling vassal slavish servile 
@@ -418,7 +418,7 @@ TERM Vassalry DEF body vassals
 TERM Vast DEF Waste desert desolate lonely great extent spacious large also huge bulk immense enormous ocean mountains empire great numbers quantity amount army sum great force mighty great importance subject 
 TERM Vast DEF waste region boundless space immensity 
 TERM Vastation DEF laying waste waste depopulation devastation 
-TERM Vastel DEF See 
+TERM Vastel DEF 
 TERM Vastidity DEF Vastness immensity 
 TERM Vastitude DEF Vastness immense extent Destruction vastation 
 TERM Vastity DEF Vastness 
@@ -442,7 +442,7 @@ TERM Vaticinator DEF vaticinates prophet
 TERM Vaticine DEF prediction vaticination 
 TERM Vaudeville DEF kind song lively character frequently embodying satire person event sung familiar air couplets refrain street song topical song theatrical piece usually comedy dialogue intermingled light satirical songs set familiar airs performed live theater (see above) play 
 TERM Vaudois DEF inhabitant inhabitants Swiss canton Vaud modern name Waldenses 
-TERM Vaudoux DEF See 
+TERM Vaudoux DEF 
 TERM Vault DEF arched structure masonry forming ceiling canopy arched apartment especially subterranean room used storing articles prison interment like cell cellar canopy heaven sky leap bound 
 TERM Vault DEF form vault cover vault give shape arch to arch roof passage leap over esp leap aid hands pole 
 TERM Vault DEF leap bound jump spring exhibit feats tumbling leaping tumble 
@@ -457,7 +457,7 @@ TERM Vaunt DEF boast of make vain display of display ostentation latter sense te
 TERM Vaunt DEF vain display is has done ostentation vanity boast brag 
 TERM Vaunt DEF first part 
 TERM Vaunt DEF put forward display 
-TERM Vaunt-courier DEF See 
+TERM Vaunt-courier DEF 
 TERM Vaunter DEF vaunts boaster 
 TERM Vauntful DEF Given vaunting boasting vainly ostentatious boastful vainglorious 
 TERM Vauntingly DEF vaunting manner 
@@ -495,10 +495,10 @@ TERM Vega DEF open tract ground plain esp moist fertile used tobacco fields
 TERM vegan DEF vegetarian eat animal products even fish eggs milk 
 TERM Vegetability DEF quality state vegetable 
 TERM Vegetable DEF pertaining plants nature of produced by plants nature growths juices Consisting of comprising plants Plants distinct flowers true seeds Plants without true flowers reproduced minute spores various kinds simple cell division 
-TERM Vegetable DEF plant See plant used cultivated food man domestic animals cabbage turnip potato bean dandelion etc also edible part plant prepared market table person permanently lost consciousness due damage brain remains alive sometimes continued life requires support machinery breathing tubes person said vegetative state 
+TERM Vegetable DEF plant plant used cultivated food man domestic animals cabbage turnip potato bean dandelion etc also edible part plant prepared market table person permanently lost consciousness due damage brain remains alive sometimes continued life requires support machinery breathing tubes person said vegetative state 
 TERM Vegetal DEF pertaining vegetables vegetable kingdom nature vegetable vegetable Of pertaining to designating class vital phenomena digestion absorption assimilation secretion excretion circulation generation etc common plants animals distinction peculiar animals 
 TERM Vegetal DEF vegetable 
-TERM Vegetality DEF quality state vegetal vegetable quality state vegetal exhibiting physiological phenomena common plants animals See 2 
+TERM Vegetality DEF quality state vegetal vegetable quality state vegetal exhibiting physiological phenomena common plants animals 2 
 TERM Vegetarian DEF holds vegetables fruits proper food man Strict vegetarians eat meat eggs milk sometimes referred tro 
 TERM Vegetarian DEF pertaining vegetarianism 
 TERM Vegetarianism DEF theory practice living upon vegetables fruits 
@@ -532,7 +532,7 @@ TERM Veiled DEF Covered by by veil hidden
 TERM Veiled plate DEF fogged plate 
 TERM Veiling DEF veil thin covering also material making veils 
 TERM Veilless DEF veil 
-TERM Vein DEF vessels carry blood either venous arterial heart See 2 similar branches framework leaf ribs nervures wings insects See narrow mass rock intersecting rocks filling inclined vertical fissures corresponding stratification lode dike often limited language miners mineral vein lode is vein contains useful minerals ores fissure cleft cavity earth substance streak wave different color appearing wood marble stones variegation train associations thoughts emotions like current course reasoning Peculiar temper temperament tendency turn mind particular disposition cast genius humor strain quality also manner speech action rich humor satirical 
+TERM Vein DEF vessels carry blood either venous arterial heart 2 similar branches framework leaf ribs nervures wings insects narrow mass rock intersecting rocks filling inclined vertical fissures corresponding stratification lode dike often limited language miners mineral vein lode is vein contains useful minerals ores fissure cleft cavity earth substance streak wave different color appearing wood marble stones variegation train associations thoughts emotions like current course reasoning Peculiar temper temperament tendency turn mind particular disposition cast genius humor strain quality also manner speech action rich humor satirical 
 TERM Vein DEF form mark veins fill cover veins 
 TERM Veinal DEF Pertaining veins venous 
 TERM Veined DEF Full veins streaked variegated fibrovascular threads extending throughout lamina 
@@ -561,18 +561,18 @@ TERM Vellicate DEF twitch cause twitch convulsively
 TERM Vellicate DEF move spasmodically twitch nerve 
 TERM Vellication DEF act twitching causing twitch local twitching convulsive motion muscular fiber especially face 
 TERM Vellicative DEF power vellicating plucking twitching causing vellication 
-TERM Vellon DEF word occurring phrase See Note 1st 
+TERM Vellon DEF word occurring phrase Note 1st 
 TERM Vellum DEF fine kind parchment usually made calfskin rendered clear white used writing upon binding books 
 TERM Vellumy DEF Resembling vellum 
 TERM Velocimeter DEF apparatus measuring speed machinery vessels especially projectiles 
-TERM Velocipede DEF light road carriage propelled feet rider Originally propelled striking tips toes roadway commonly action feet pedal pedals connected axle wheels causing revolution made many forms wheels See 
+TERM Velocipede DEF light road carriage propelled feet rider Originally propelled striking tips toes roadway commonly action feet pedal pedals connected axle wheels causing revolution made many forms wheels 
 TERM Velocipedist DEF rides velocipede cyclist 
-TERM Velocity DEF Quickness motion swiftness speed celerity rapidity wind planet comet orbit course cannon ball Rate motion relation motion time measured number units space passed moving body point unit time usually number feet passed second See Note 
+TERM Velocity DEF Quickness motion swiftness speed celerity rapidity wind planet comet orbit course cannon ball Rate motion relation motion time measured number units space passed moving body point unit time usually number feet passed second Note 
 TERM Velours DEF many textile fabrics pile like velvet 
 TERM Sauce veloute DEF 
 TERM Veloute DEF white sauce stock made boiling ham veal beef fowl bouillon etc adding soup stock seasoning vegetables thickening boiling straining 
 TERM Veltfare DEF fieldfare 
-TERM Velum DEF curtain covering applied various membranous partitions especially soft palate See See 3 veil-like organ part 
+TERM Velum DEF curtain covering applied various membranous partitions especially soft palate 3 veil-like organ part 
 TERM Velure DEF Velvet substance resembling velvet 
 TERM Velutina DEF several species marine gastropods belonging allied genera 
 TERM Velutinous DEF surface covered fine dense silky pubescence velvety 
@@ -597,8 +597,8 @@ TERM Venantes DEF hunting spiders run after leap upon prey
 TERM Venary DEF or pertaining hunting 
 TERM Venatical DEF 
 TERM Venatic DEF pertaining hunting used hunting 
-TERM Venatica DEF See 
-TERM Venation DEF arrangement system veins wing insect leaves plant See Appendix 
+TERM Venatica DEF 
+TERM Venation DEF arrangement system veins wing insect leaves plant Appendix 
 TERM Venation DEF act art hunting state hunted 
 TERM Venatorial DEF pertaining hunting venatic 
 TERM Vend DEF transfer another person pecuniary equivalent make object trade dispose sale sell goods 
@@ -616,7 +616,7 @@ TERM Venditation DEF act setting forth ostentatiously boastful display
 TERM Vendition DEF act vending selling sale 
 TERM Vendor DEF vender seller correlative 
 TERM Vendor's lien DEF implied lien (that is created mortgage express agreement) given equity vendor lands unpaid purchase money 
-TERM Vends DEF See 
+TERM Vends DEF 
 TERM Vendue DEF public sale anything outcry highest bidder auction 
 TERM Veneer DEF overlay plate thin layer wood material outer finish decoration piece furniture Used also figuratively 
 TERM Veneer DEF thin leaf layer valuable beautiful material overlaying inferior especially thin leaf wood glued cheaper wood hence external show gloss false pretense 
@@ -633,7 +633,7 @@ TERM Venene DEF Poisonous venomous
 TERM Venenose DEF Poisonous 
 TERM Venerability DEF quality state venerable venerableness 
 TERM Venerable DEF Capable venerated worthy veneration reverence deserving honor respect generally implying advanced age magistrate Rendered sacred religious associations regarded awe treated reverence walls temple 
-TERM Veneracea DEF extensive tribe bivalve mollusks genus type shells usually oval somewhat heartshaped conspicuous lunule See 
+TERM Veneracea DEF extensive tribe bivalve mollusks genus type shells usually oval somewhat heartshaped conspicuous lunule 
 TERM Venerate DEF regard reverential respect honor mingled respect awe reverence revere parents 
 TERM Veneration DEF act venerating state venerated highest degree respect reverence respect mingled awe feeling sentiment excited dignity wisdom superiority person sacredness character consecration sacred services hallowed associations 
 TERM Venerator DEF venerates 
@@ -687,13 +687,13 @@ TERM Ventilative DEF pertaining ventilation adapted secure ventilation ventilati
 TERM Ventilator DEF contrivance effecting ventilation especially contrivance machine drawing expelling foul stagnant air place apartment introducing fresh pure 
 TERM Ventose DEF ventouse 
 TERM Ventose DEF Windy flatulent 
-TERM Ventose DEF sixth month calendar adopted first French republic began February 19 ended March 20 See 
+TERM Ventose DEF sixth month calendar adopted first French republic began February 19 ended March 20 
 TERM Ventosity DEF Quality state ventose windiness hence vainglory pride 
 TERM Ventouse DEF cupping glass 
 TERM Ventouse DEF cup use cupping glass 
 TERM Ventrad DEF Toward ventral side ventral side ventrally opposed 
 TERM Ventral DEF Of pertaining to situated near belly ventral side animal parts hemal abdominal fin fish root spinal opposed pertaining surface carpel petal etc faces toward center flower 
-TERM Ventricle DEF cavity cavities organ larynx brain specifically posterior chamber posterior chambers heart receives blood auricle forces heart See stomach Fig cavity hollow place function may conceived operating 
+TERM Ventricle DEF cavity cavities organ larynx brain specifically posterior chamber posterior chambers heart receives blood auricle forces heart stomach Fig cavity hollow place function may conceived operating 
 TERM Ventricous DEF 
 TERM Ventricose DEF Swelling side unequally bellied ventricular 
 TERM Ventricular DEF pertaining ventricle bellied 
@@ -707,7 +707,7 @@ TERM Ventriloquist DEF practices skilled in ventriloquism
 TERM Ventriloquize DEF practice ventriloquism speak like ventriloquist 
 TERM Ventriloquous DEF pertaining ventriloquist ventriloquism 
 TERM Ventriloquy DEF 
-TERM Ventrimeson DEF See 
+TERM Ventrimeson DEF 
 TERM Ventro- DEF combining form used anatomy indicate also ventral 
 TERM Ventro-inguinal DEF Pertaining abdomen groin abdomen inguinal canal 
 TERM Venture DEF undertaking chance danger risking something upon event foreseen certainty hazard risk speculation event not be foreseen accident chance hap contingency luck thing put hazard stake risk especially something sent sea trade 
@@ -717,8 +717,8 @@ TERM Venturer DEF ventures puts hazard adventurer strumpet prostitute
 TERM Venturesome DEF Inclined venture loth run risk danger venturous bold daring adventurous boy 
 TERM Venturine DEF Gold powder covering varnished surfaces 
 TERM Venturous DEF Daring bold hardy fearless venturesome adventurous 
-TERM Ventuse DEF See 
-TERM Venue DEF neighborhood near place place county anything alleged happened also place action laid bout hit turn See 
+TERM Ventuse DEF 
+TERM Venue DEF neighborhood near place place county anything alleged happened also place action laid bout hit turn 
 TERM Venule DEF small vein veinlet specifically small branches veins wings insects 
 TERM Venulose DEF Full venules small veins 
 TERM Venus DEF goddess beauty love is beauty love deified planets second order sun orbit lying Mercury Earth mean distance sun 67000000 miles diameter 7700 miles sidereal period 2247 days morning star called ancients evening star metal copper probably designated ancient use metal making mirrors mirror still astronomical symbol planet Venus numerous species marine bivalve shells genus family Many shells large ornamented beautiful frills smooth glossy handsomely colored larger species round clam quahog valued food 
@@ -726,7 +726,7 @@ TERM Venust DEF Beautiful
 TERM Veracious DEF Observant truth habitually speaking truth truthful Characterized truth true false account 
 TERM Veraciously DEF veracious manner 
 TERM Veracity DEF quality state veracious habitual observance truth truthfulness truth man 
-TERM Veranda DEF open roofed gallery portico adjoining dwelling house forming out-of-door sitting room See 
+TERM Veranda DEF open roofed gallery portico adjoining dwelling house forming out-of-door sitting room 
 TERM Veratralbine DEF yellowish amorphous alkaloid extracted rootstock 
 TERM Veratrate DEF salt veratric acid 
 TERM Veratria DEF Veratrine 
@@ -747,7 +747,7 @@ TERM Verbalize DEF verbose
 TERM Verbally DEF verbal manner orally Word word verbatim 
 TERM Verbarian DEF pertaining words verbal 
 TERM Verbarian DEF coins words neologist 
-TERM Verbarium DEF game word making See 2 
+TERM Verbarium DEF game word making 2 
 TERM Verbatim DEF Word word words verbally tell story another related 
 TERM Verbena DEF genus herbaceous plants several species extensively cultivated great beauty flowers vervain 
 TERM Verbenaceous DEF pertaining natural order gamopetalous plants Verbena type order includes also black white mangroves many plants noted medicinal use beauty bloom 
@@ -771,7 +771,7 @@ TERM Verdigris DEF green poisonous substance used pigment drug obtained action a
 TERM Verdigris DEF cover coat verdigris 
 TERM Verdin DEF small yellow-headed bird Lower California allied titmice called also 
 TERM Verdine DEF commercial name green aniline dye 
-TERM Verdingale DEF See 
+TERM Verdingale DEF 
 TERM Verdit DEF Verdict 
 TERM Verditer DEF Verdigris 
 TERM Verditure DEF faintest palest green 
@@ -786,8 +786,8 @@ TERM Verecundity DEF quality state verecund modesty
 TERM Verein DEF union association society used names German organizations 
 TERM Veretillum DEF numerous species club-shaped compound Alcyonaria belonging allied genera tribe whole colony move simple animal 
 TERM Vergaloo DEF 
-TERM Vergalieu DEF See 
-TERM Verge DEF rod staff carried emblem authority carried stick wand persons formerly admitted tenants holding hand swearing fealty lord tenants called compass court Marshalsea Palace court within lord steward marshal king's household special jurisdiction called verge staff marshal bore virgate yardland border limit boundary space edge margin brink something definite extent circumference circle ring shaft column small ornamental shaft spindle watch balance especially pallets old vertical escapement See edge outside bed border penis external male organ certain mollusks worms etc See Appendix 
+TERM Vergalieu DEF 
+TERM Verge DEF rod staff carried emblem authority carried stick wand persons formerly admitted tenants holding hand swearing fealty lord tenants called compass court Marshalsea Palace court within lord steward marshal king's household special jurisdiction called verge staff marshal bore virgate yardland border limit boundary space edge margin brink something definite extent circumference circle ring shaft column small ornamental shaft spindle watch balance especially pallets old vertical escapement edge outside bed border penis external male organ certain mollusks worms etc Appendix 
 TERM Verge DEF border upon tend incline come near approach tend downward bend slope hill 
 TERM Vergeboard DEF ornament woodwork upon gable house used extensively 15th century generally suspended edge projecting roof (see 4) position parallel gable wall Called also 
 TERM Vergency DEF act verging approaching tendency approach reciprocal focal distance lens used measure divergence convergence pencil rays 
@@ -809,7 +809,7 @@ TERM Verisimilitude DEF quality state verisimilar appearance truth probability l
 TERM Verisimility DEF Verisimilitude 
 TERM Verisimilous DEF Verisimilar 
 TERM Veritable DEF Agreeable truth fact actual real true genuine 
-TERM Veritas DEF Bureau Veritas See 
+TERM Veritas DEF Bureau Veritas 
 TERM Verity DEF quality state true real consonance statement proposition thing fact truth reality true true assertion tenet truth reality 
 TERM Verjuice DEF sour juice crab apples green unripe grapes apples etc also acid liquor made juice Tartness sourness disposition 
 TERM Vermeil DEF Vermilion also color vermilion bright beautiful red Silver gilt gilt bronze liquid composition applied gilded surface give luster gold 
@@ -821,7 +821,7 @@ TERM Vermetus DEF many species marine gastropods belonging allied genera family 
 TERM Vermicelli DEF flour hard small-grained wheat made dough forced small cylinders pipes till takes slender wormlike form whence Italian name paste made larger tubes called 
 TERM Vermicide DEF medicine destroys intestinal worms worm killer 
 TERM Vermicious DEF pertaining worms wormy 
-TERM Vermicular DEF pertaining worm worms resembling worm shaped like worm especially resembling motion track worm peristaltic motion See 
+TERM Vermicular DEF pertaining worm worms resembling worm shaped like worm especially resembling motion track worm peristaltic motion 
 TERM Vermiculate DEF form work inlaying irregular lines impressions resembling tracks worms appearing formed motion worms 
 TERM Vermiculate DEF Wormlike shape covered wormlike elevations marked irregular fine lines color irregular wavy impressed lines like worm tracks Crawling creeping like worm hence insinuating sophistical 
 TERM Vermiculated DEF Made marked irregular wavy lines impressions vermiculate 
@@ -831,10 +831,10 @@ TERM Vermiculite DEF group minerals having micaceous structure hydrous silicates
 TERM Vermiculous DEF 
 TERM Vermiculose DEF Containing full of worms resembling worms 
 TERM Vermiform DEF Resembling worm form motions vermicular process 
-TERM Vermiformia DEF tribe worms including Phoronis See 
+TERM Vermiformia DEF tribe worms including Phoronis 
 TERM Vermifugal DEF Tending prevent destroy expel worms vermin anthelmintic 
 TERM Vermifuge DEF medicine substance expels worms animal bodies anthelmintic 
-TERM Vermil DEF See 
+TERM Vermil DEF 
 TERM Vermilinguia DEF tribe edentates comprising South American ant-eaters tongue long slender exsertile flexible whence name 
 TERM Vermilion DEF bright red pigment consisting mercuric sulphide obtained either mineral cinnabar artificially fine red color much used coloring sealing wax printing etc Hence red color like pigment lively brilliant red cheeks 
 TERM Vermilion DEF color vermilion vermilion dye red cover delicate red 
@@ -848,7 +848,7 @@ TERM Verminously DEF verminous manner
 TERM Vermiparous DEF Producing breeding worms 
 TERM Vermivorous DEF Devouring worms feeding worms 
 TERM Vermuth DEF liqueur made white wine absinthe various aromatic drugs used excite appetite 
-TERM Vernacle DEF See 1 
+TERM Vernacle DEF 1 
 TERM Vernacular DEF Belonging country one's birth one's birth nature native indigenous used chiefly language English 
 TERM Vernacular DEF vernacular language one's mother tongue often common forms expression particular locality opposed forms 
 TERM Vernacularism DEF vernacular idiom 
@@ -861,7 +861,7 @@ TERM Vernant DEF Flourishing spring vernal
 TERM Vernate DEF become young again 
 TERM Vernation DEF arrangement leaves within leaf bud regards folding coiling rolling etc prefoliation 
 TERM Verner's law DEF statement propounded Danish philologist 1875 explains certain apparent exceptions Grimm's law original position accent Primitive Indo-European became first Teutonic appear without change old Teutonic accent rested preceding syllable sounds became voiced produced accent originally different syllable Similarly either remained unchanged became later Example Skt (accent ultima) Gr Gothic (seven) Examples English side 
-TERM Vernicle DEF Veronica See 1 
+TERM Vernicle DEF Veronica 1 
 TERM Vernicose DEF brilliantly polished surface leaves 
 TERM Vernier DEF short scale made slide along divisions graduated instrument limb sextant scale barometer indicating parts divisions graduated certain convenient number divisions equal certain number either less more divisions instrument parts division determined observing line vernier coincides line instrument 
 TERM Vernile DEF Suiting slave servile obsequious 
@@ -870,10 +870,10 @@ TERM Vernine DEF alkaloid extracted shoots vetch red clover etc white crystallin
 TERM Vernish DEF Varnish 
 TERM Vernonin DEF glucoside extracted root South African plant genus deliquescent powder used mild heart tonic 
 TERM Veronese DEF pertaining Verona Italy 
-TERM Veronica DEF portrait representation face Savior alleged handkerchief Saint Veronica preserved Rome hence representation portrait similar representation face Savior Formerly called also genus scrophulariaceous plants speedwell See 
+TERM Veronica DEF portrait representation face Savior alleged handkerchief Saint Veronica preserved Rome hence representation portrait similar representation face Savior Formerly called also genus scrophulariaceous plants speedwell 
 TERM Verray DEF Very true 
 TERM Verrayment DEF Verily truly 
-TERM Verrel DEF See 
+TERM Verrel DEF 
 TERM Verriculate DEF thickset tufts parallel hairs bristles branches 
 TERM Verruca DEF wart wartlike elevation roughness 
 TERM Verruciform DEF Shaped like wart warts 
@@ -881,7 +881,7 @@ TERM Verrucose DEF Covered wartlike elevations tuberculate warty verrucous
 TERM Verrucous DEF Verrucose 
 TERM Verruculose DEF Minutely verrucose leaf 
 TERM Verrugas DEF endemic disease occurring Andes Peru characterized warty tumors ulcerate bleed probably due special bacillus often fatal 
-TERM Vers DEF verse verses See 
+TERM Vers DEF verse verses 
 TERM Versability DEF quality state versable 
 TERM Versable DEF Capable turned 
 TERM Versableness DEF Versability 
@@ -890,7 +890,7 @@ TERM Versant DEF Familiar conversant
 TERM Versant DEF slope side mountain chain hence general slope country aspect 
 TERM Versatile DEF Capable turned round Liable turned opinion changeable variable unsteady inconstant Turning ease thing another readily applied new task various subjects many-sided genius Capable turning freely movable anther fixed point filament hence easily turned around toe 
 TERM Versatility DEF quality state versatile versatileness 
-TERM Vers de societe DEF See 
+TERM Vers de societe DEF 
 TERM Verse DEF line consisting certain number metrical feet (see 9) disposed according metrical rules Metrical arrangement language composed metrical form versification poetry short division composition stanza stave hymn short divisions chapters Old New Testaments portion anthem performed single voice part piece poetry 
 TERM Verse DEF tell verse poetry 
 TERM Verse DEF make verses versify 
@@ -909,7 +909,7 @@ TERM Versificator DEF versifier
 TERM Versifier DEF versifies makes verses every converts verse expresses verse ideas another written prose Watts Psalms 
 TERM Versify DEF make verses 
 TERM Versify DEF relate describe verse compose verse turn verse render metrical form 
-TERM Version DEF change form direction like transformation conversion turning condition uterus axis deflected normal position without bent upon itself See act translating rendering language another language translation rendered another language Common Authorized Scriptures (see Septuagint Old account description particular point view especially contrasted another account gave another 
+TERM Version DEF change form direction like transformation conversion turning condition uterus axis deflected normal position without bent upon itself act translating rendering language another language translation rendered another language Common Authorized Scriptures (see Septuagint Old account description particular point view especially contrasted another account gave another 
 TERM Versionist DEF makes favors version translator 
 TERM Verso DEF reverse left-hand page book folded sheet paper opposed 
 TERM Versor DEF turning factor quaternion 
@@ -938,7 +938,7 @@ TERM Verticality DEF quality state vertical verticalness
 TERM Vertically DEF vertical manner position direction perpendicularly look raise thing 
 TERM Verticalness DEF Quality state vertical 
 TERM Verticil DEF circle either leaves flowers stem node whorl 
-TERM Verticillaster DEF whorl flowers apparently cluster composed opposite axillary cymes mint See 
+TERM Verticillaster DEF whorl flowers apparently cluster composed opposite axillary cymes mint 
 TERM Verticillated DEF 
 TERM Verticillate DEF Arranged transverse whorl whorls like rays wheel leaves plant 
 TERM Verticillus DEF whorl verticil 
@@ -948,12 +948,12 @@ TERM Vertiginate DEF Turned round giddy
 TERM Vertiginous DEF Turning round whirling rotary revolving Affected vertigo giddy dizzy 
 TERM Vertigo DEF Dizziness swimming head affection head objects though stationary appear move various directions person affected finds difficult maintain erect posture giddiness numerous species small land snails belonging genus elongated conical spiral shell usually teeth aperture 
 TERM Vertilinear DEF Straight rectilinear 
-TERM Vertu DEF Virtue power See See 
+TERM Vertu DEF Virtue power 
 TERM Vertuous DEF Virtuous powerful 
 TERM Verumontanum DEF elevation crest wall urethra seminal ducts enter it 
 TERM Vervain DEF plant genus 
 TERM Verve DEF Excitement imagination animates poet artist musician composing performing rapture enthusiasm spirit energy 
-TERM Vervel DEF See 
+TERM Vervel DEF 
 TERM Vervet DEF South African monkey syn upper parts grayish green finely specked black cheeks belly reddish white 
 TERM Very DEF True real actual veritable 
 TERM Very DEF high degree small extent exceedingly excessively extremely great mountain bright sun cold day river flows rapidly much 
@@ -1027,7 +1027,7 @@ TERM Vestiture DEF Investiture
 TERM Vestlet DEF several species actinians belonging genus animals long smooth body tapering base separate circles tentacles around mouth form tough flexible feltlike tube smooth internal lining dwell whence name 
 TERM Vestment DEF covering garment part clothing dress 
 TERM Vestry DEF room appendant church sacerdotal vestments sacred utensils sometimes kept meetings worship parish business held sacristy formerly called parochial assembly assembly persons manage parochial affairs called usually held vestry body composed wardens vestrymen chosen annually parish manage temporal concerns 
-TERM Vestryman DEF member vestry especially Epis member warden See 
+TERM Vestryman DEF member vestry especially Epis member warden 
 TERM Vesture DEF garment garments robe clothing dress apparel vestment covering envelope corn grass underwood stubble etc land covered 
 TERM Vestured DEF Covered vesture garments clothed enveloped 
 TERM Vesuvian DEF pertaining Vesuvius volcano near 
@@ -1074,7 +1074,7 @@ TERM Vial DEF put vial vials
 TERM Viameter DEF odometer called also 
 TERM Viand DEF article food provisions food victuals used chiefly plural 
 TERM Viander DEF feeder eater also provides viands food host 
-TERM Vi-apple DEF See 
+TERM Vi-apple DEF 
 TERM Viary DEF pertaining roads happening roads 
 TERM Viatecture DEF art making roads ways traveling including construction bridges canals viaducts etc 
 TERM Viatic DEF pertaining journey traveling 
@@ -1126,7 +1126,7 @@ TERM Viceroyalty DEF dignity office jurisdiction viceroy
 TERM Viceroyship DEF Viceroyalty 
 TERM Vicety DEF Fault defect coarseness 
 TERM Vichy water DEF mineral water found France essentially effervescent sodium calcium magnesium carbonates sodium potassium chlorides also extension artificial natural water resembling composition Vichy water proper Called also colloquially 
-TERM Viciate DEF See 
+TERM Viciate DEF 
 TERM Vicinage DEF place places adjoining near neighborhood vicinity jury must 
 TERM Vicinal DEF Near vicine substituted groups carbon atom 
 TERM Vicine DEF Near neighboring vicinal 
@@ -1143,7 +1143,7 @@ TERM Vickers-Maxim automatic machine gun DEF automatic machine gun mechanism wor
 TERM Vickers-Maxim gun DEF system ordnance including machine quick-fire coast field guns calibers manufactured combined firms Vickers' Sons Sheffield Maxim Birmingham elsewhere England 
 TERM Vicontiel DEF pertaining viscount sheriff county 
 TERM Vicontiels DEF Things belonging sheriff especially farms (called also sheriff used pay rent king 
-TERM Vicount DEF See 
+TERM Vicount DEF 
 TERM Victim DEF living sacrificed deity performance religious rite creature immolated made offering of person thing destroyed sacrificed pursuit object gratification passion jealousy lust person living creature destroyed by suffering grievous injury from another fortune accident defaulter railroad Hence duped cheated dupe gull 
 TERM Victimate DEF make victim of sacrifice immolate 
 TERM Victimize DEF make victim of esp deception dupe cheat 
@@ -1160,7 +1160,7 @@ TERM Victory DEF defeat enemy battle antagonist contest gaining superiority stru
 TERM Victress DEF woman wins victory female victor 
 TERM Victrice DEF victress 
 TERM Victrix DEF victress 
-TERM Victual DEF Food used chiefly plural See Grain kind 
+TERM Victual DEF Food used chiefly plural Grain kind 
 TERM Victual DEF supply provisions subsistence provide food store sustenance army 
 TERM Victualage DEF Victuals food 
 TERM Victualer DEF furnishes victuals keeps house entertainment tavern keeper innkeeper vessel employed carry provisions usually military naval use provision ship deals grain corn factor 
@@ -1171,7 +1171,7 @@ TERM Vicugna DEF
 TERM Vicuna DEF South American mammal native elevated plains Andes allied llama smaller thick coat fine reddish brown wool long pendent white hair breast belly hunted wool flesh 
 TERM Vida finch DEF whidah bird 
 TERM Vidame DEF class temporal officers originally represented bishops later erected offices fiefs became feudal nobles 
-TERM Vide DEF L see used direct attention something see 
+TERM Vide DEF L see used direct attention something 
 TERM Videlicet DEF wit namely often abbreviated 
 TERM videocasette DEF casette containing magnetic tape used videocasette recorder record play back electronic signals television programs long magnetic tape videocasette moved spindles small portion tape time passed recording playback head 
 TERM videocasette recorder DEF electronic device record electronic signals television program magnetic tape contained videocassette also play back recording used example record television programs broadcast particular time viewed subsequent time attaching videocasette recorder television receiver playing signals throught television receiver Also called 
@@ -1182,7 +1182,7 @@ TERM Viduage DEF state widows widowhood also widows collectively
 TERM Vidual DEF pertaining state widow widowed 
 TERM Viduation DEF state widowed bereaved loss bereavement 
 TERM Viduity DEF Widowhood 
-TERM Vie DEF stake sum upon hand cards old game gleek See strive superiority contend use emulous effort race contest competition 
+TERM Vie DEF stake sum upon hand cards old game gleek strive superiority contend use emulous effort race contest competition 
 TERM Vie DEF stake wager produce emulation competition rivalry put competition bandy 
 TERM Vie DEF contest superiority competition rivalry strife also challenge wager 
 TERM Vielle DEF old stringed instrument played upon wheel hurdy-gurdy 
@@ -1252,15 +1252,15 @@ TERM Villanize DEF make vile debase degrade revile
 TERM Villanizer DEF villanizes 
 TERM Villanousness DEF 
 TERM Villanously DEF 
-TERM Villanous DEF See etc 
-TERM Villany DEF See 
+TERM Villanous DEF etc 
+TERM Villany DEF 
 TERM Villatic DEF pertaining farm village rural 
-TERM Villein DEF See 1 
+TERM Villein DEF 1 
 TERM Villenage DEF Villanage 
 TERM Villenous DEF pertaining villein 
 TERM Villi DEF 
 TERM Villiform DEF form appearance villi like close-set fibers either hard soft teeth perch 
-TERM Villose DEF See 
+TERM Villose DEF 
 TERM Villosity DEF State villous coating long slender hairs villus 
 TERM Villous DEF Abounding in covered with fine hairs woolly substance shaggy soft hairs nappy Furnished clothed villi 
 TERM Villus DEF minute papillary processes certain vascular membranes villosity cover lining small intestines many animals serve increase absorbing Fine hairs plants resembling pile velvet 
@@ -1298,7 +1298,7 @@ TERM Vined DEF leaves like vine ornamented vine leaves
 TERM Vinedresser DEF cultivates prunes cares for grapevines laborer vineyard 
 TERM Vinegar DEF sour liquid used condiment preservative obtained spontaneous fermentation artificial oxidation wine cider beer like Hence anything sour used also metaphorically 
 TERM Vinegar DEF convert vinegar make like vinegar render sour sharp 
-TERM Vinegarette DEF See 2 
+TERM Vinegarette DEF 2 
 TERM Vinegar fly DEF several fruit flies esp breed imperfectly sealed preserves pickles 
 TERM Vinegarroon DEF whip scorpion esp large Mexican species popularly supposed venomous odor emits alarmed 
 TERM Vinegary DEF nature vinegar sour unamiable 
@@ -1322,7 +1322,7 @@ TERM Vin ordinaire DEF cheap claret used table wine France
 TERM Vinose DEF Vinous 
 TERM Vinosity DEF quality state vinous 
 TERM Vinous DEF pertaining wine qualities wine 
-TERM Vinquish DEF See 
+TERM Vinquish DEF 
 TERM Vintage DEF produce vine season grapes wine abundant act time gathering crop grapes making wine season 
 TERM Vintager DEF gathers vintage 
 TERM Vintaging DEF act gathering vintage crop grapes 
@@ -1368,7 +1368,7 @@ TERM Violous DEF Violent
 TERM Violuric DEF Of pertaining to designating complex nitroso derivative barbituric acid obtained white yellow crystalline substance forms characteristic yellow blue violet salts 
 TERM VIOXX DEF trade name 
 TERM viper DEF numerous species Old World venomous snakes belonging genera family dangerous treacherous malignant person Loosely venomous presumed venomous snake 
-TERM Viperina DEF See 
+TERM Viperina DEF 
 TERM Viperine DEF pertaining viper vipers resembling viper 
 TERM Viperish DEF Somewhat like viper viperous 
 TERM Viperoid DEF Like pertaining vipers 
@@ -1389,12 +1389,12 @@ TERM Virgalieu DEF valuable kind pear obovate shape melting flesh delicious flav
 TERM Virgate DEF form straight rod wand-shaped straight slender 
 TERM Virgate DEF yardland measure land varying fifteen forty acres 
 TERM Virgated DEF Striped streaked 
-TERM Virge DEF wand See 
-TERM Virger DEF See 
+TERM Virge DEF wand 
+TERM Virger DEF 
 TERM Virgilian DEF pertaining Virgil Roman poet resembling style Virgil 
-TERM Virgin DEF woman carnal knowledge man maid person male sex known sexual indulgence See several species gossamer-winged butterflies family female insect producing eggs young hatched though fecundation male parthenogenetic insect 
+TERM Virgin DEF woman carnal knowledge man maid person male sex known sexual indulgence several species gossamer-winged butterflies family female insect producing eggs young hatched though fecundation male parthenogenetic insect 
 TERM Virgin DEF virgin chaste pertaining virgin becoming virgin maidenly modest indicating modesty Pure undefiled unmixed fresh new soil yet pregnant impregnant 
-TERM Virgin DEF act virgin keep chaste followed See 5 
+TERM Virgin DEF act virgin keep chaste followed 5 
 TERM Virginal DEF pertaining virgin becoming virgin maidenly 
 TERM Virginal DEF instrument somewhat resembling spinet rectangular form like small piano strings keys wire note instrument used sixteenth century wholly obsolete sometimes called 
 TERM Virginal DEF play fingers virginal tap pat 
@@ -1417,7 +1417,7 @@ TERM Viridness DEF Viridity greenness
 TERM Virile DEF nature properties qualities adult man characteristic developed manhood hence masterful forceful specifically capable begetting opposed age power 
 TERM Virility DEF quality state virile developed manhood manliness specif power procreation 
 TERM Viripotent DEF Developed manhood hence able beget marriageable 
-TERM Virmilion DEF See 
+TERM Virmilion DEF 
 TERM Virole DEF ring surrounding bugle hunting horn 
 TERM Viroled DEF Furnished virole viroles said horn bugle rings different tincture rest horn 
 TERM Virose DEF nauseous odor fetid poisonous 
@@ -1437,7 +1437,7 @@ TERM Virulence DEF quality state virulent venomous poisonousness malignancy Extr
 TERM Virulent DEF Extremely poisonous venomous active injury bitter enmity actuated desire injure malignant 
 TERM Virulented DEF Made virulent poisoned 
 TERM Virulently DEF virulent manner 
-TERM Virus DEF Contagious poisonous matter specific ulcers bite snakes etc applied organic poisons causative agent disease numerous submicroscopic complex organic objects genetic material may considered living organisms proper cell membrane thus cannot perform metabolic processes requiring entry host cell order multiply simplest viruses lipid envelope may considered complex aggregates molecules sometimes nucleic acid (DNA RNA) coat protein sometimes viewed borderline living nonliving objects smaller living cells size usually 20 300 nm thus pass standard filters previously referred manifestations disease caused multiplication viruses cells may due destruction cells caused subversion cellular metabolic processes virus synthesis virus-specific toxin Viruses may infect animals plants microorganisms infecting bacteria also called Certain bacteriophages may non-destructive benign host see Fig morbid corrupting quality intellectual moral conditions something poisons mind soul obscene program segment program code may make copies (replicate) attach programs perform unwanted actions within computer also called programs almost always introduced computer without knowledge assent owner often malicious causing destructive actions erasing data disk sometime annoying causing peculiar objects appear display form sociopathic mental disease causes programmer write program yet given name Compare 
+TERM Virus DEF Contagious poisonous matter specific ulcers bite snakes etc applied organic poisons causative agent disease numerous submicroscopic complex organic objects genetic material may considered living organisms proper cell membrane thus cannot perform metabolic processes requiring entry host cell order multiply simplest viruses lipid envelope may considered complex aggregates molecules sometimes nucleic acid (DNA RNA) coat protein sometimes viewed borderline living nonliving objects smaller living cells size usually 20 300 nm thus pass standard filters previously referred manifestations disease caused multiplication viruses cells may due destruction cells caused subversion cellular metabolic processes virus synthesis virus-specific toxin Viruses may infect animals plants microorganisms infecting bacteria also called Certain bacteriophages may non-destructive benign host Fig morbid corrupting quality intellectual moral conditions something poisons mind soul obscene program segment program code may make copies (replicate) attach programs perform unwanted actions within computer also called programs almost always introduced computer without knowledge assent owner often malicious causing destructive actions erasing data disk sometime annoying causing peculiar objects appear display form sociopathic mental disease causes programmer write program yet given name Compare 
 TERM Vis DEF Force power Physical force 
 TERM Visa DEF written stamp document obtained citizen country proper authorities another country denoting person's passport examined person bears visa permitted enter pass second country usually form endorsement passport person seeking permission enter foreign country however cases separate document issued create mark passport 
 TERM Visa DEF 
@@ -1446,7 +1446,7 @@ TERM Visa DEF indorse examination word passport
 TERM Visage DEF face countenance look person animal chiefly applied human face 
 TERM Visage DEF face 
 TERM Visaged DEF visage 
-TERM Visard DEF mask See 
+TERM Visard DEF mask 
 TERM Visard DEF mask 
 TERM Vis-a-vis DEF who which face face another esp faces another dancing carriage persons sit face face Also form sofa seats persons arranged occupants face face sitting opposite sides 
 TERM Vis-a-vis DEF Face face 
@@ -1463,7 +1463,7 @@ TERM Viscin DEF clear viscous tasteless substance extracted mucilaginous sap mis
 TERM Viscoidal DEF Somewhat viscous Cf 2 
 TERM Viscosimeter DEF instrument measuring degree viscosity liquids solutions gum 
 TERM Viscosity DEF quality state viscous property possessed viscous fluid resistance forces causing fluid flow caused interactions molecules fluid fluid walls conduit moves also measure property 
-TERM Viscount DEF officer formerly supplied place count earl sheriff county nobleman fourth rank next order earl next baron also degree title nobility See 3 
+TERM Viscount DEF officer formerly supplied place count earl sheriff county nobleman fourth rank next order earl next baron also degree title nobility 3 
 TERM Viscountcy DEF dignity jurisdiction viscount 
 TERM Viscountess DEF wife viscount 
 TERM Viscounty DEF 
@@ -1478,9 +1478,9 @@ TERM Vishnu DEF divinity modern Hindu trimurti trinity regarded preserver Brahma
 TERM Visibility DEF quality state visible 
 TERM Visible DEF Perceivable eye capable seen perceptible view star least spot white Noticeable apparent open conspicuous 
 TERM Visible speech DEF system characters invented Prof Alexander Melville Bell represent sounds may uttered speech organs intended suggestive position organs speech uttering them 
-TERM Visigoth DEF West Goths See Note 
+TERM Visigoth DEF West Goths Note 
 TERM Vision DEF act seeing external objects actual sight faculty seeing sight senses colors physical qualities external objects appreciated result stimulating action light sensitive retina expansion optic nerve seen object sight Especially seen otherwise ordinary sight rational eye supernatural prophetic imaginary sight apparition phantom specter Hence something unreal imaginary creation fancy 
-TERM Vision DEF see vision dream 
+TERM Vision DEF vision dream 
 TERM Visional DEF pertaining vision 
 TERM Visionariness DEF quality state visionary 
 TERM Visionary DEF pertaining visions visions characterized by appropriate to favorable for visions Affected phantoms disposed receive impressions imagination given reverie apt receive act upon fancies realities Existing imagination only real fanciful imaginary solid foundation prospect scheme 
@@ -1488,22 +1488,22 @@ TERM Visionary DEF imagination disturbed sees visions phantoms imagination overp
 TERM Visioned DEF power seeing visions inspired also seen visions 
 TERM Visionist DEF visionary 
 TERM Visionless DEF Destitute vision sightless 
-TERM Visit DEF go come see purpose friendship business curiosity etc attend call upon physician go come see inspection examination correction abuses etc examine inspect bishop diocese superintendent persons works come purpose chastising rewarding comforting come upon reward retribution appear judge mercy 
+TERM Visit DEF go come see purpose friendship business curiosity etc attend call upon physician go come inspection examination correction abuses etc examine inspect bishop diocese superintendent persons works come purpose chastising rewarding comforting come upon reward retribution appear judge mercy 
 TERM Visit DEF make visit visits maintain visiting relations practice calling others 
-TERM Visit DEF act visiting going see person thing brief stay business friendship ceremony curiosity like usually longer call civility respect Saratoga act going view inspect official formal inspection examination visitation trustee 
+TERM Visit DEF act visiting going person thing brief stay business friendship ceremony curiosity like usually longer call civility respect Saratoga act going view inspect official formal inspection examination visitation trustee 
 TERM Visitable DEF Liable subject visited inspected 
 TERM Visitant DEF visits guest visitor 
 TERM Visitant DEF Visiting 
-TERM Visitation DEF act visiting state visited access inspection examination Specifically act superior superintending officer who discharge office visits corporation college etc examine manner conducted see laws regulations duly observed executed diocese object visit act naval commander visits enters board vessel belonging another nation purpose ascertaining character object without claiming exercising right searching vessel is however usually coupled (see visitation used purpose search Special dispensation communication divine favor goodness or usually divine wrath vengeance retributive calamity retribution judgment festival honor visit Virgin Mary Elisabeth mother John Baptist celebrated second July 
+TERM Visitation DEF act visiting state visited access inspection examination Specifically act superior superintending officer who discharge office visits corporation college etc examine manner conducted laws regulations duly observed executed diocese object visit act naval commander visits enters board vessel belonging another nation purpose ascertaining character object without claiming exercising right searching vessel is however usually coupled (see visitation used purpose search Special dispensation communication divine favor goodness or usually divine wrath vengeance retributive calamity retribution judgment festival honor visit Virgin Mary Elisabeth mother John Baptist celebrated second July 
 TERM Visitatorial DEF pertaining visitation judicial visitor superintendent visitorial 
 TERM Visite DEF light cape short cloak silk lace worn women summer 
 TERM Visiter DEF visitor 
 TERM Visiting DEF & vb 
-TERM Visitor DEF visits comes goes see another civility friendship superior person lawfully appointed purpose makes formal visits inspection corporation institution See 2 2 
+TERM Visitor DEF visits comes goes another civility friendship superior person lawfully appointed purpose makes formal visits inspection corporation institution 2 2 
 TERM Visitorial DEF 
 TERM Visive DEF pertaining sight visual 
 TERM Vis major DEF superior force certain circumstances held exempt contract obligations inevitable accident civil-law term used nearly equivalent to broader than common-law term (which see) 
-TERM Visne DEF Neighborhood vicinity venue See 
+TERM Visne DEF Neighborhood vicinity venue 
 TERM Visnomy DEF Face countenance 
 TERM Vison DEF mink 
 TERM Visor DEF part helmet arranged lift open show face openings seeing breathing generally it mask used disfigure disguise fore piece cap projecting over protecting eyes 
@@ -1511,7 +1511,7 @@ TERM Visored DEF Wearing visor masked
 TERM Vista DEF view especially view intervening objects trees view prospect avenue like hence trees objects form avenue 
 TERM Visto DEF vista prospect 
 TERM Visual DEF pertaining sight used sight serving instrument seeing seen visible 
-TERM Visualize DEF make visual visible see imagination form mental image of 
+TERM Visualize DEF make visual visible imagination form mental image of 
 TERM Visualize DEF form mental image something present eye time 
 TERM Visualizer DEF visualizes proficient visualization 
 TERM Vitaille DEF Food victuals 
@@ -1534,8 +1534,8 @@ TERM vitamin B DEF group water-soluble vitamins originally thought single vitami
 TERM vitamin B1 DEF B vitamin prevents beriberi maintains appetite growth 
 TERM vitamin B12 DEF B vitamin used treat pernicious anemia 
 TERM vitamin B2 DEF B vitamin prevents skin lesions weight loss 
-TERM vitamin B3 DEF See 
-TERM vitamin B5 DEF See 
+TERM vitamin B3 DEF 
+TERM vitamin B5 DEF 
 TERM vitamin B6 DEF B vitamin essential metabolism amino acids starch 
 TERM vitamin Bc DEF B vitamin essential cell growth reproduction Also called 
 TERM vitamin B complex DEF mixture water-soluble vitamins originally thought single vitamin known mixture several compounds vitaminic activity 
@@ -1557,7 +1557,7 @@ TERM Vitelligenous DEF Producing yolk vitelline substance applied certain cells 
 TERM Vitellin DEF albuminous body belonging class globulins obtained yolk egg chief proteid constituent seeds many plants latter separated crystalline form 
 TERM Vitelline DEF pertaining yolk eggs membrane smooth transparent membrane surrounding 
 TERM Vitellogene DEF gland secreting yolk eggs trematodes turbellarians helminths 
-TERM Vitellus DEF contents substance ovum egg yolk See Perisperm early condition 
+TERM Vitellus DEF contents substance ovum egg yolk Perisperm early condition 
 TERM Vitiate DEF make vicious faulty imperfect render defective injure substance qualities of impair contaminate spoil exaggeration style writing sewer gas cause fail effect either wholly part make void destroy validity binding force instrument transaction annul undue influence exerted jury verdict fraud 
 TERM Vitiation DEF act vitiating state vitiated depravation corruption invalidation blood 
 TERM Viticulose DEF long slender trailing stems 
@@ -1570,9 +1570,9 @@ TERM Vitilitigation DEF Cavilous litigation cavillation
 TERM Vitiosity DEF Viciousness depravity 
 TERM Vitiousness DEF 
 TERM Vitiously DEF 
-TERM Vitious DEF See 
+TERM Vitious DEF 
 TERM Vitis DEF genus plants including true grapevines 
-TERM Vitoe DEF See 
+TERM Vitoe DEF 
 TERM Vitrage DEF curtain light translucent material intended secured directly woodwork French casement window glazed door 
 TERM Vitrella DEF transparent lenslike cells ocelli certain arthropods 
 TERM Vitre-o-electic DEF Containing exhibiting positive vitreous electricity 
@@ -1606,7 +1606,7 @@ TERM Vitriolic DEF pertaining vitriol derived from resembling vitriol vitriolous
 TERM Vitriolizable DEF Capable converted vitriol 
 TERM Vitriolization DEF act vitriolizing state vitriolized vitriolation 
 TERM Vitriolize DEF convert vitriol vitriolate injure (a person) vitriol sulphuric acid throwing upon face 
-TERM Vitriolous DEF See 
+TERM Vitriolous DEF 
 TERM Vitrite DEF kind glass hard difficult fuse used insulator electrical lamps apparatus 
 TERM Vitro-di-trina DEF kind Venetian glass glassware white threads embedded transparent glass lacelike netlike effect 
 TERM Vitruvian DEF pertaining ancient Roman architect 
@@ -1629,7 +1629,7 @@ TERM Vivant DEF mort bridge similar games partner dummy
 TERM Vivarium DEF place artificially arranged keeping raising living animals park pond aquarium warren etc 
 TERM Vivary DEF vivarium 
 TERM Viva voce DEF word mouth orally 
-TERM Vivda DEF See 
+TERM Vivda DEF 
 TERM Vive DEF Long live is success to le long live king la success trifles 
 TERM Vive DEF Lively animated forcible 
 TERM Vively DEF lively manner 
@@ -1666,17 +1666,17 @@ TERM Vizarded DEF Wearing vizard
 TERM Vizcacha DEF 
 TERM Vizier DEF councilor state high executive officer Turkey Oriental countries 
 TERM Vizierate DEF office dignity authority vizier 
-TERM Vizier-azem DEF grand vizier See 
+TERM Vizier-azem DEF grand vizier 
 TERM Vizierial DEF Of pertaining to issued by vizier 
-TERM Vizir DEF See 
-TERM Vizor DEF See 
-TERM Vlissmaki DEF diadem indris See 
+TERM Vizir DEF 
+TERM Vizor DEF 
+TERM Vlissmaki DEF diadem indris 
 TERM V moth DEF common gray European moth spot dark brown fore wings 
 TERM Vocable DEF word term name specifically word considered composed certain sounds letters without regard meaning 
 TERM Vocabulary DEF list collection words arranged alphabetical order explained dictionary lexicon either whole language single work author branch science like word-book 
 TERM . . . DEF sum stock words employed 
 TERM Vocabulist DEF writer maker vocabulary lexicographer 
-TERM Vocal DEF pertaining voice speech voice endowed utterance full voice voices Uttered modulated voice oral melody pertaining vowel voice sound also spoken tone intonation resonance sonant sonorous said certain articulate sounds Consisting of characterized by voice tone produced larynx may modified either resonance case vowels obstructive action certain consonants etc both nasals sonant intonated voiced See also 199-202 
+TERM Vocal DEF pertaining voice speech voice endowed utterance full voice voices Uttered modulated voice oral melody pertaining vowel voice sound also spoken tone intonation resonance sonant sonorous said certain articulate sounds Consisting of characterized by voice tone produced larynx may modified either resonance case vowels obstructive action certain consonants etc both nasals sonant intonated voiced also 199-202 
 TERM Vocal DEF vocal sound specifically purely vocal element speech unmodified except resonance vowel diphthong tonic element tonic distinguished man right vote certain elections 
 TERM Vocalic DEF pertaining vowel sounds consisting vowel sounds 
 TERM Vocalism DEF exercise vocal organs vocalization vocalic sound 
@@ -1721,17 +1721,17 @@ TERM Voiding DEF Receiving ejected voided
 TERM Voidness DEF quality state void emptiness vacuity nullity want substantiality 
 TERM Voir dire DEF oath administered witness usually sworn chief requiring speak truth make true answers reference matters inquired of ascertain competency give evidence 
 TERM Voiture DEF carriage 
-TERM Voivode DEF See 
+TERM Voivode DEF 
 TERM Volacious DEF Apt fit fly 
 TERM Volador DEF flying fish California called also 
 TERM Volage DEF Light giddy 
 TERM Volant DEF Passing air upon wings upon wings flying hence passing place place current Nimble light quick active rapid Represented flying wings spread eagle 
 TERM Volante DEF two-wheeled carriage formerly much used Cuba body front axle driver rides horse 
 TERM Volapuk DEF 
-TERM Volapuek DEF Literally world's speech name artificial language invented Martin 1879 see 
+TERM Volapuek DEF Literally world's speech name artificial language invented Martin 1879 
 TERM Volap<uum/kist DEF conversant with favors adoption of 
 TERM Volar DEF pertaining palm hand sole foot 
-TERM Volary DEF See 
+TERM Volary DEF 
 TERM Volatile DEF Passing air wings buoyant force atmosphere flying power fly Capable wasting away easily passing aeriform state subject evaporation Fig Light-hearted easily affected circumstances airy lively hence changeable fickle 
 TERM Volatile DEF winged animal wild fowl game 
 TERM Volatility DEF 
@@ -1830,7 +1830,7 @@ TERM Voluptuous DEF Full delight pleasure especially senses ministering sensuous
 TERM Volupty DEF Voluptuousness 
 TERM Voluta DEF numerous species large handsome marine gastropods belonging allied genera 
 TERM Volutation DEF rolling body wallowing 
-TERM Volute DEF spiral scroll forms chief feature Ionic capital which much smaller scale feature Corinthian Composite capitals See also spiral turn certain shells voluta 
+TERM Volute DEF spiral scroll forms chief feature Ionic capital which much smaller scale feature Corinthian Composite capitals also spiral turn certain shells voluta 
 TERM Voluted DEF volute spiral scroll 
 TERM Volution DEF spiral turn wreath whorl spiral shell 
 TERM Volva DEF saclike envelope certain fungi bursts open plant develops 
@@ -1840,7 +1840,7 @@ TERM Volyer DEF lurcher
 TERM Vomer DEF bone pair bones beneath ethmoid region skull forming part part partition nostrils man mammals 
 TERM Vomerine DEF pertaining vomer 
 TERM Vomica DEF abscess cavity lungs 
-TERM Vomicine DEF See 
+TERM Vomicine DEF 
 TERM Vomic nut DEF 
 TERM Vomit DEF eject contents stomach mouth puke spew 
 TERM Vomit DEF throw up eject stomach mouth disgorge puke spew out often followed Hence eject hollow place belch forth emit throw forth volcanoes flame stones 
@@ -1848,12 +1848,12 @@ TERM Vomit DEF Matter vomited esp matter ejected stomach mouth excites vomiting 
 TERM Vomiting DEF spasmodic ejection matter stomach mouth 
 TERM Vomition DEF act power vomiting 
 TERM Vomitive DEF Causing ejection matter stomach emetic 
-TERM Vomito DEF yellow fever worst form usually attended black vomit See 
+TERM Vomito DEF yellow fever worst form usually attended black vomit 
 TERM Vomitory DEF Causing vomiting emetic vomitive 
 TERM Vomitory DEF emetic vomit principal door large ancient building amphitheater 
 TERM Vomiturition DEF ineffectual attempt vomit 
 TERM Vondsira DEF 
-TERM Voodoo DEF See practices voodooism negro sorcerer 
+TERM Voodoo DEF practices voodooism negro sorcerer 
 TERM Voodoo DEF pertaining voodooism voodoo 
 TERM Voodoo economics DEF economic hypothesis proposed President large cuts tax rates would stimulate economy tax revenue increases business personal income would offset anticipated tax revenue losses tax cuts would increasing federal budget deficit believers consider actual massive deficit increases subsequent 1982-83 tax cut caused tax cut itself governmental policies hypothesis graphically illustrated 
 TERM Voodooism DEF degraded form superstition sorcery said include human sacrifices cannibalism rites prevalent among negroes Haiti extent United States regarded relic African barbarism 
@@ -1861,7 +1861,7 @@ TERM Voortreker DEF treks first pioneer
 TERM Voracious DEF Greedy eating hungry eager devour swallow ravenous gluttonous edacious rapacious man appetite gulf 
 TERM Voracity DEF quality voracious voraciousness 
 TERM Voraginous DEF Pertaining gulf full gulfs hence devouring 
-TERM Vortex DEF mass fluid especially liquid whirling circular motion tending form cavity vacuum center circle draw towards center bodies subject action form assumed fluid motion whirlpool eddy supposed collection particles subtile matter endowed rapid rotary motion around axis also axis sun planet Descartes attempted account formation universe movements bodies composing it theory vortices numerous species small Turbellaria belonging allied genera See Appendix 
+TERM Vortex DEF mass fluid especially liquid whirling circular motion tending form cavity vacuum center circle draw towards center bodies subject action form assumed fluid motion whirlpool eddy supposed collection particles subtile matter endowed rapid rotary motion around axis also axis sun planet Descartes attempted account formation universe movements bodies composing it theory vortices numerous species small Turbellaria belonging allied genera Appendix 
 TERM Vortex filament DEF vortex tube infinitesimal cross section 
 TERM Vortex fringe DEF region immediately surrounding disk moving flatwise air called air cyclic motion vortex ring 
 TERM Vortex line DEF line within rotating fluid tangent every point instantaneous axis rotation point fluid 
@@ -1899,7 +1899,7 @@ TERM Voussoir DEF wedgelike stones arch composed
 TERM Vow DEF solemn promise made God deity act consecrates devotes himself absolutely conditionally wholly part longer shorter time act service condition devotion one's possessions baptismal Specifically promise fidelity pledge love affection marriage 
 TERM Vow DEF give consecrate dedicate God deity solemn promise devote promise solemnly assert solemnly asseverate 
 TERM Vow DEF make vow solemn promise 
-TERM Vowel DEF vocal sometimes whispered sound modified resonance oral passage peculiar resonance case giving several vowel distinctive character quality sound speech distinguished latter whether made without vocality derives character every case kind obstructive action mouth organs Also letter character represents sound See 5 146-149 
+TERM Vowel DEF vocal sometimes whispered sound modified resonance oral passage peculiar resonance case giving several vowel distinctive character quality sound speech distinguished latter whether made without vocality derives character every case kind obstructive action mouth organs Also letter character represents sound 5 146-149 
 TERM Vowel DEF pertaining vowel vocal 
 TERM Voweled DEF Furnished vowels 
 TERM Vowelish DEF nature vowel 
@@ -1915,7 +1915,7 @@ TERM Voyage DEF travel pass over traverse
 TERM Voyageable DEF may sailed over water air navigable 
 TERM Voyager DEF voyages sails passes sea water 
 TERM Voyageur DEF traveler applied Canada man employed fur companies transporting goods rivers across land remote stations Northwest 
-TERM Voyol DEF See 2 
+TERM Voyol DEF 2 
 TERM Vraisemblance DEF appearance truth verisimilitude 
 TERM Vugh DEF 
 TERM Vugg DEF cavity lode called also 
@@ -1960,7 +1960,7 @@ TERM Vulpine DEF pertaining fox resembling fox foxy cunning crafty artful
 TERM Vulpinic DEF 
 TERM Vulpinism DEF quality cunning like fox craft artfulness 
 TERM Vulpinite DEF scaly granular variety anhydrite grayish white color used ornamental purposes 
-TERM Vultern DEF brush turkey Australia See 
+TERM Vultern DEF brush turkey Australia 
 TERM Vulture DEF numerous species rapacious birds belonging various genera family 
 TERM Vulturine DEF pertaining vulture resembling vulture qualities looks sea eagle 
 TERM Vulturish DEF Vulturous 

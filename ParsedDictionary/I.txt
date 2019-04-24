@@ -1,16 +1,16 @@
 
 TERM I DEF I ninth letter English alphabet takes form Latin Greek letter probably Egyptian origin original value nearly Italian I long Etymologically closely related L E AS E AS E old authors often used (or yes pronounced nearly like it numeral stands 1 II 2 etc 
-TERM I- DEF See 
+TERM I- DEF 
 TERM I DEF nominative case pronoun first person word speaker writer denotes himself 
 TERM IAA DEF Indoleacetic acid plant hormone promoting elongation stems roots 
 TERM Iamatology DEF Materia Medica branch therapeutics treats remedies 
 TERM Iamb DEF iambus iambic 
-TERM Iambic DEF Consisting short syllable followed long unaccented syllable followed accented Pertaining to composed of iambics verse meter See 
+TERM Iambic DEF Consisting short syllable followed long unaccented syllable followed accented Pertaining to composed of iambics verse meter 
 TERM Iambic DEF iambic foot iambus satirical poem (such poems anciently written iambic verse) satire lampoon 
 TERM Iambical DEF Iambic 
 TERM Iambically DEF iambic manner manner iambics 
 TERM Iambize DEF satirize iambics lampoon 
-TERM Iambus DEF foot consisting short syllable followed long unaccented syllable followed accented iambic See Couplet 
+TERM Iambus DEF foot consisting short syllable followed long unaccented syllable followed accented iambic Couplet 
 TERM Ianthina DEF gastropod genus various species found living mid ocean called also 
 TERM Iatraliptic DEF Treating diseases anointing friction 
 TERM Iatrical DEF 
@@ -26,7 +26,7 @@ TERM Ibero-mesornis DEF sparrow-sized fossil bird Lower Cretaceous strutlike pec
 TERM Ibex DEF several species wild goats large recurved horns transversely ridged front called also 
 TERM Ibidem DEF place abbreviated 
 TERM Ibis DEF bird genus several allied genera family inhabiting Old World New Numerous species known large wading birds long curved beak feed largely reptiles 
-TERM -ible DEF See 
+TERM -ible DEF 
 TERM IBRD DEF Bank Reconstruction agency created assist developing nations loans guaranteed member governments 
 TERM Ibsen DEF (1828-1906) Norwegian poet dramatist 
 TERM Ibsenian DEF pertaining 
@@ -103,10 +103,10 @@ TERM Ichthyomorphic DEF Fish-shaped idols ancient
 TERM Ichthyophagist DEF eats subsists on fish 
 TERM Ichthyophagous DEF Eating subsisting on fish 
 TERM Ichthyophagy DEF practice eating living upon fish 
-TERM Ichthyophthalmite DEF See 
+TERM Ichthyophthalmite DEF 
 TERM Ichthyophthira DEF division copepod crustaceans including numerous species parasitic fishes 
 TERM Ichthyopsida DEF grand division Vertebrata including Amphibia Fishes 
-TERM Ichthyopterygia DEF See 
+TERM Ichthyopterygia DEF 
 TERM Ichthyopterygium DEF typical limb lateral fin fishes 
 TERM Ichthyornis DEF extinct genus toothed birds found American Cretaceous formation remarkable biconcave sharp conical teeth set sockets wings well developed type order 
 TERM Ichthyosaur DEF Ichthyosaura 
@@ -185,7 +185,7 @@ TERM Idealist DEF idealizes forms picturesque fancies given romantic expectation
 TERM Idealistic DEF pertaining idealists theories 
 TERM Ideality DEF quality state ideal capacity form ideals beauty perfection conceptive faculty 
 TERM Idealization DEF act process idealizing representation natural objects scenes etc way show important characteristics study ideal defense mechanism splits something ambivalent representations good bad something exists idea protrayal something ideal 
-TERM Idealize DEF make ideal consider ideal give ideal form value to attribute ideal characteristics excellences to real treat ideal manner See 2 form ideals 
+TERM Idealize DEF make ideal consider ideal give ideal form value to attribute ideal characteristics excellences to real treat ideal manner 2 form ideals 
 TERM Idealize DEF form ideals 
 TERM Idealizer DEF idealist 
 TERM Ideally DEF ideal manner means ideals mentally 
@@ -256,7 +256,7 @@ TERM Idiopathic DEF Pertaining idiopathy characterizing disease arising primaril
 TERM Idiopathy DEF peculiar individual characteristic affection morbid state condition preceded occasioned disease primary disease 
 TERM Idiophanous DEF Exhibiting interference figures without aid polariscope certain crystals 
 TERM Idioplasm DEF 
-TERM Idioplasma DEF portion cell protoplasm seat active changes carries function hereditary transmission distinguished portion termed See 
+TERM Idioplasma DEF portion cell protoplasm seat active changes carries function hereditary transmission distinguished portion termed 
 TERM Idiorepulsive DEF Repulsive itself power 
 TERM Idiosyncrasy DEF peculiarity physical mental constitution temperament characteristic belonging to distinguishing individual characteristic susceptibility idiocrasy eccentricity 
 TERM Idiosyncratical DEF 
@@ -279,7 +279,7 @@ TERM Idle DEF spend idleness waste consume often followed away hour
 TERM Idle-headed DEF Foolish stupid Delirious infatuated 
 TERM Idleness DEF condition quality idle (in various senses word) uselessness fruitlessness triviality inactivity laziness 
 TERM Idle-pated DEF Idle-headed stupid 
-TERM Idler DEF idles spends time inaction lazy person sluggard constant day duties board ship keeps regular watch idle wheel pulley See 
+TERM Idler DEF idles spends time inaction lazy person sluggard constant day duties board ship keeps regular watch idle wheel pulley 
 TERM Idlesse DEF 
 TERM Idless DEF Idleness 
 TERM Idly DEF idle manner ineffectually vainly lazily carelessly foolishly 
@@ -307,7 +307,7 @@ TERM Idolous DEF Idolatrous
 TERM Idolon DEF 
 TERM Idolum DEF Appearance image phantasm spectral image also mental image idea 
 TERM Idoneous DEF Appropriate suitable proper fit adequate 
-TERM Idorgan DEF morphological unit consisting plastids possess positive character person stock distinction physiological organ See 
+TERM Idorgan DEF morphological unit consisting plastids possess positive character person stock distinction physiological organ 
 TERM Idrialite DEF 
 TERM Idrialine DEF bituminous substance obtained mercury mines occurs mixed cinnabar 
 TERM Idumean DEF pertaining ancient Edom Western Asia 
@@ -320,7 +320,7 @@ TERM Ifere DEF Together
 TERM Igasuric DEF Pertaining to obtained from nux vomica St Ignatius's bean 
 TERM Igasurine DEF alkaloid found nux vomica extracted white crystalline substance 
 TERM Igloo DEF Eskimo snow house cavity excavation made snow seal breathing hole ice 
-TERM Ignatius bean DEF See Ignatius's 
+TERM Ignatius bean DEF Ignatius's 
 TERM Igneous DEF Pertaining to nature of fire containing fire resembling fire Resulting from produced by action fire lavas basalt 
 TERM Ignescent DEF Emitting sparks fire struck steel scintillating 
 TERM Ignicolist DEF worshiper fire 
@@ -355,7 +355,7 @@ TERM Ignorant DEF person untaught uninformed unlettered unskilled ignoramous
 TERM Ignorantism DEF spirit extol advantage ignorance obscurantism 
 TERM Ignorantist DEF opposed diffusion knowledge obscurantist 
 TERM Ignorantly DEF ignorant manner without knowledge inadvertently 
-TERM Ignore DEF ignorant acquainted with throw reject false ungrounded said bill rejected grand jury lack evidence See Hence refuse take notice of shut eyes to recognize disregard willfully causelessly certain facts presence objectionable 
+TERM Ignore DEF ignorant acquainted with throw reject false ungrounded said bill rejected grand jury lack evidence Hence refuse take notice of shut eyes to recognize disregard willfully causelessly certain facts presence objectionable 
 TERM Ignoscible DEF Pardonable 
 TERM Ignote DEF Unknown 
 TERM Iguana DEF species genus genus large American lizards family arboreal habits usually green color feed chiefly upon fruits 
@@ -363,28 +363,28 @@ TERM Iguania DEF superfamily (or suborder) New World lizards including
 TERM Iguanian DEF Resembling pertaining to iguana 
 TERM Iguanid DEF 
 TERM Iguanidae DEF natural family New World lizards including common Iguana 
-TERM Iguanodon DEF genus gigantic herbivorous dinosaurs birdlike pelvis large hind legs three-toed feet capable supporting entire body teeth resemble iguana whence name Several species known mostly Wealden England Europe See Appendix 
+TERM Iguanodon DEF genus gigantic herbivorous dinosaurs birdlike pelvis large hind legs three-toed feet capable supporting entire body teeth resemble iguana whence name Several species known mostly Wealden England Europe Appendix 
 TERM Iguanodont DEF Like pertaining genus Iguanodon 
 TERM Iguanoid DEF Pertaining 
 TERM Ihlang-ihlang DEF rich powerful perfume obtained volatile oil flowers East Indian tree 
 TERM Ihram DEF peculiar dress worn pilgrims Mecca 
 TERM IHVH DEF transliteration constants forming Hebrew tetragrammaton Supreme Being latter Jewish tradition pronounced save vowels true pronunciation lost 
 TERM Ik DEF I 
-TERM Il- DEF form prefix not among See 
+TERM Il- DEF form prefix not among 
 TERM ilama DEF tropical American tree grown southern U S whitish pink-tinged fruit whitish tropical fruit pinkish tinge related custard apples grown southern U S 
 TERM ilang-ilang DEF oil distilled flowers ilang-ilang tree used perfumery evergreen Asian tree aromatic greenish-yellow flowers yielding volatile oil widely grown tropics ornamental 
 TERM Ile DEF Ear corn 
 TERM Ile DEF aisle 
 TERM Ile DEF isle 
-TERM Ileac DEF Pertaining ileum See 1 
+TERM Ileac DEF Pertaining ileum 1 
 TERM Ileocaecal DEF Pertaining ileum 
 TERM Ileocolic DEF Pertaining ileum colon valve valve ileum opens large 
 TERM Ile-St-Louis DEF island Seine 
-TERM Ileum DEF last usually longest division small intestine part jejunum large intestine See 
+TERM Ileum DEF last usually longest division small intestine part jejunum large intestine 
 TERM Ileus DEF morbid condition due intestinal obstruction characterized complete constipation griping pains abdomen greatly distended later stages vomiting fecal matter Called also 
 TERM Ilex DEF holm oak 
 TERM Iliac DEF Pertaining ancient Ilium Troy 
-TERM Iliac DEF Pertaining to region of ilium dorsal bone pelvis See 1 
+TERM Iliac DEF Pertaining to region of ilium dorsal bone pelvis 1 
 TERM Iliacal DEF Iliac 
 TERM Iliad DEF celebrated Greek epic poem twenty-four books destruction Ilium ancient Troy Iliad ascribed Homer 
 TERM Ilial DEF Pertaining ilium iliac 
@@ -396,7 +396,7 @@ TERM Iliofemoral DEF Pertaining ilium femur
 TERM Iliolumbar DEF Pertaining iliac lumbar regions 
 TERM Ilion DEF Ilium Troy ancient city Asia Minor site Trojan War variant spelling 
 TERM Iliopsoas DEF great flexor muscle hip joint divisible parts iliac great psoas often regarded distinct muscles 
-TERM Ilium DEF dorsal principal bones comprising either lateral half pelvis dorsal upper part hip bone See 
+TERM Ilium DEF dorsal principal bones comprising either lateral half pelvis dorsal upper part hip bone 
 TERM Ilixanthin DEF yellow dye obtained leaves holly 
 TERM Ilk DEF Same each every 
 TERM Ilk DEF Kind class sort type sometimes used indicate disapproval applied people 
@@ -423,7 +423,7 @@ TERM Illative DEF illative particle
 TERM Illatively DEF inference illative illative manner 
 TERM Illaudable DEF laudable praise-worthy worthy censure disapprobation 
 TERM Ill-boding DEF Boding evil inauspicious ill-omened 
-TERM Ill-bred DEF Badly educated brought up impolite incivil rude See Note 
+TERM Ill-bred DEF Badly educated brought up impolite incivil rude Note 
 TERM Illecebration DEF Allurement 
 TERM Illecebrous DEF Alluring attractive enticing 
 TERM Illegal DEF according to authorized by law specif contrary to violation of human law unlawful illicit hence immoral act trade 
@@ -475,7 +475,7 @@ TERM Illiterate DEF Unable read write ignorant letters books unlettered uninstru
 TERM Illiterature DEF Lack learning illiteracy 
 TERM Ill-judged DEF well judged unwise well considered thought out 
 TERM Ill-lived DEF Leading wicked life 
-TERM Ill-looking DEF bad look threatening ugly See Note 
+TERM Ill-looking DEF bad look threatening ugly Note 
 TERM Ill-mannered DEF Impolite rude displaying socially incorrect behavior 
 TERM Ill-minded DEF Ill-disposed 
 TERM Ill-natured DEF habitual bad temper unpleasant disposition surly disagreeable cross peevish fractious crabbed people person disagreeable old Opposite Dictated by indicating ill nature spiteful Intractable yielding culture one's liking unpleasant disagreeable Opposite 
@@ -483,7 +483,7 @@ TERM Illness DEF condition ill evil bad badness unfavorableness Disease indispos
 TERM Ill-nurtured DEF Ill-bred 
 TERM Illocality DEF Lack locality place 
 TERM Illogical DEF Ignorant negligent rules logic correct reasoning contrary rules logic sound reasoning 
-TERM Ill-omened DEF unlucky omens inauspicious See Note 
+TERM Ill-omened DEF unlucky omens inauspicious Note 
 TERM ill-proportioned DEF proportion shape lacking pleasing shape 
 TERM ill repute DEF Bad reputation notoriety 
 TERM ill-shapen DEF badly formed shape ugly 
@@ -506,10 +506,10 @@ TERM Illuminate DEF enlightened esp pretender extraordinary light knowledge
 TERM illuminated DEF rendered luminous rays light striking reflecting used especially illumination artificial light Adorned pictorial graphical designs book page borders initial letters miniature pictures colors gold done manuscripts Middle Ages 
 TERM Illuminati DEF Literally enlightened Persons early church received baptism ceremony lighted taper given them symbol spiritual illumination received sacrament Members sect sprung Spain year 1575 principal doctrine was that means prayer attained perfect state need ordinances sacraments good works etc called also etc Members certain associations Modern Europe combined promote social reforms expected raise men society perfection esp originated 1776 Adam Weishaupt professor canon law Ingolstadt spread rapidly time ceased years obscure sect French Familists persons profess special spiritual intellectual enlightenment 
 TERM Illuminating DEF Giving producing light used illumination 
-TERM Illumination DEF act illuminating supplying light state illuminated Festive decoration houses buildings lights Adornment books manuscripts colored illustrations See 3 illuminated house also ornamented book manuscript illuminates gives light brightness splendor especially intellectual light knowledge special communication knowledge mind God inspiration 
+TERM Illumination DEF act illuminating supplying light state illuminated Festive decoration houses buildings lights Adornment books manuscripts colored illustrations 3 illuminated house also ornamented book manuscript illuminates gives light brightness splendor especially intellectual light knowledge special communication knowledge mind God inspiration 
 TERM Illuminatism DEF Illuminism 
 TERM Illuminative DEF Tending illuminate illustrate throwing light illustrative 
-TERM Illuminator DEF occupation adorn books especially manuscripts miniatures borders etc See 3 condenser reflector light optical apparatus also illuminant 
+TERM Illuminator DEF occupation adorn books especially manuscripts miniatures borders etc 3 condenser reflector light optical apparatus also illuminant 
 TERM Illumine DEF illuminate light up adorn 
 TERM Illuminee DEF Illuminati 
 TERM Illuminer DEF who which illuminates 
@@ -544,15 +544,15 @@ TERM Illustriousness DEF state quality eminent greatness grandeur glory fame
 TERM Illustrous DEF Without luster 
 TERM Illutation DEF act operation smearing body mud especially sediment mineral springs mud bath 
 TERM Illuxurious DEF luxurious 
-TERM Ill-will DEF See 
+TERM Ill-will DEF 
 TERM Ill-wisher DEF wishes ill another enemy 
 TERM Illy DEF 
-TERM Ilmenite DEF Titanic iron See 
+TERM Ilmenite DEF Titanic iron 
 TERM Ilmenium DEF supposed element claimed discovered RHarmann 
 TERM Ilvaite DEF silicate iron lime occurring black prismatic crystals columnar masses 
 TERM I'm DEF contraction 
-TERM Im- DEF form prefix not in See also occurs composition words Latin origin 
-TERM Image DEF imitation representation similitude person thing act sculptured drawn painted otherwise made perceptible sight visible presentation copy likeness effigy picture semblance Hence likeness anything worship paid idol Show appearance cast representation anything mind picture drawn fancy conception idea picture example illustration often taken sensible objects used illustrate subject usually extended metaphor figure picture object formed focus lens mirror rays light several points object symmetrically refracted reflected corresponding points focus may received screen photographic plate retina eye viewed directly eye eyeglass telescope microscope likeness object formed reflection see one's 
+TERM Im- DEF form prefix not in also occurs composition words Latin origin 
+TERM Image DEF imitation representation similitude person thing act sculptured drawn painted otherwise made perceptible sight visible presentation copy likeness effigy picture semblance Hence likeness anything worship paid idol Show appearance cast representation anything mind picture drawn fancy conception idea picture example illustration often taken sensible objects used illustrate subject usually extended metaphor figure picture object formed focus lens mirror rays light several points object symmetrically refracted reflected corresponding points focus may received screen photographic plate retina eye viewed directly eye eyeglass telescope microscope likeness object formed reflection one's 
 TERM Image DEF represent form image of still lake shore mirror represent mental vision form likeness fancy recollection imagine 
 TERM Imageable DEF may imaged 
 TERM Imageless DEF image 
@@ -572,31 +572,31 @@ TERM Imaginational DEF Pertaining to involving caused by imagination
 TERM Imaginationalism DEF Idealism 
 TERM Imaginative DEF Proceeding from characterized by imagination generally highest sense word Given imagining full images fancies etc quick imagination conceptive creative Unreasonably suspicious jealous 
 TERM imaginativeness DEF capability imagining power imagination 
-TERM Imagine DEF form mind notion idea of form mental image of conceive produce imagination contrive purpose scheme devise compass purpose See 5 represent one's self think believe 
+TERM Imagine DEF form mind notion idea of form mental image of conceive produce imagination contrive purpose scheme devise compass purpose 5 represent one's self think believe 
 TERM Imagine DEF form images conceptions conceive devise think suppose 
 TERM imagined DEF existing mind only real actual 
 TERM Imaginer DEF forms ideas conceptions contrives 
 TERM Imaginous DEF Imaginative 
-TERM Imago DEF image final adult usually winged state insect See 
+TERM Imago DEF image final adult usually winged state insect 
 TERM Imaum DEF 
 TERM Iman DEF 
 TERM Imam DEF Among Muslims minister priest performs regular service mosque Muslim prince who successor Mohammed unites person supreme spiritual temporal power 
 TERM Imaret DEF lodging house Muslim pilgrims 
-TERM Imbalm DEF See 
+TERM Imbalm DEF 
 TERM Imban DEF put ban 
 TERM Imband DEF form band bands 
-TERM Imbank DEF inclose defend bank banks See 
-TERM Imbankment DEF act surrounding bank bank mound raised defense roadway etc embankment See 
+TERM Imbank DEF inclose defend bank banks 
+TERM Imbankment DEF act surrounding bank bank mound raised defense roadway etc embankment 
 TERM Imbannered DEF banners 
 TERM Imbar DEF bar in secure 
-TERM Imbargo DEF See 
-TERM Imbark DEF See 
+TERM Imbargo DEF 
+TERM Imbark DEF 
 TERM Imbarn DEF store barn 
-TERM Imbase DEF See 
+TERM Imbase DEF 
 TERM Imbase DEF diminish value 
 TERM Imbastardize DEF bastardize debase 
 TERM Imbathe DEF bathe wash freely immerse 
-TERM Imbay DEF See 
+TERM Imbay DEF 
 TERM Imbecile DEF Destitute strength whether body mind feeble impotent esp mentally wea feeble-minded hospitals 
 TERM Imbecile DEF destitute strength esp feeble mind sometimes used pejorative term person degree mental retardation idiot moron former classification mentally retarded person applied person adult mental age eith years IQ 26 50 
 TERM Imbecile DEF weaken make imbecile men's 
@@ -605,34 +605,34 @@ TERM Imbecility DEF quality imbecile weakness feebleness esp mind
 TERM Imbed DEF sink lay bed deposit partly inclosing mass clay mortar cover earth sand etc 
 TERM Imbellic DEF warlike martial 
 TERM Imbenching DEF raised work like bench 
-TERM Imber-goose DEF loon See 
-TERM Imbezzle DEF See 
+TERM Imber-goose DEF loon 
+TERM Imbezzle DEF 
 TERM Imbibe DEF drink in absorb soak up suck take in receive drinking person drink sponge receive absorb mind retain principles saturate imbue 
 TERM Imbiber DEF who which imbibes 
 TERM Imbibition DEF act process imbibing absorbing post-mortem 
 TERM Imbitter DEF make bitter hence make distressing distressing make sad morose sour malignant 
 TERM Imbitterer DEF who which imbitters 
 TERM Imbitterment DEF act imbittering bitter feeling embitterment 
-TERM Imblaze DEF See 
-TERM Imblazon DEF See 
-TERM Imbody DEF become corporeal assume qualities material body See 
-TERM Imboil DEF See 
-TERM Imbolden DEF See 
+TERM Imblaze DEF 
+TERM Imblazon DEF 
+TERM Imbody DEF become corporeal assume qualities material body 
+TERM Imboil DEF 
+TERM Imbolden DEF 
 TERM Imbonity DEF Lack goodness 
 TERM Imborder DEF furnish inclose border form border of 
 TERM Imbosk DEF conceal bushes hide 
 TERM Imbosk DEF concealed 
 TERM Imbosom DEF hold bosom cherish heart affection embosom inclose place midst of surround shelter house 
-TERM Imboss DEF See 
+TERM Imboss DEF 
 TERM Imbosture DEF Embossed raised work 
 TERM Imbound DEF inclose limits shut in 
 TERM Imbow DEF make like bow curve arch vault embow 
-TERM Imbowel DEF See 
-TERM Imbower DEF See 
+TERM Imbowel DEF 
+TERM Imbower DEF 
 TERM Imbowment DEF act imbowing arch vault 
 TERM Imbox DEF inclose box 
 TERM Imbracery DEF Embracery 
-TERM Imbraid DEF See 
+TERM Imbraid DEF 
 TERM Imbrangle DEF entangle cobweb mix confusedly 
 TERM Imbreed DEF generate within inbreed 
 TERM Imbricated DEF 
@@ -664,7 +664,7 @@ TERM Imitable DEF Capable imitated copied Worthy imitation character
 TERM Imitableness DEF state quality imitable worthness imitation 
 TERM Imitancy DEF Tendency imitation 
 TERM Imitate DEF follow pattern model example copy strive copy acts manners etc produce semblance likeness of form character color qualities conduct manners like counterfeit copy resemble (another species animal plant inanimate object) form color ornamentation instinctive habits derive advantage thereby sa harmless snake venomous color manner odorless insect color secretion offensive birds 
-TERM Imitation DEF act imitating made produced copy made resemble something else whether laudable fraudulent purposes likeness resemblance principal means securing unity consistency polyphonic composition repetition essentially melodic theme phrase motive different degrees pitch parts voises Cf act condition imitating another species animal plant unanimate object See 3 
+TERM Imitation DEF act imitating made produced copy made resemble something else whether laudable fraudulent purposes likeness resemblance principal means securing unity consistency polyphonic composition repetition essentially melodic theme phrase motive different degrees pitch parts voises Cf act condition imitating another species animal plant unanimate object 3 
 TERM Imitational DEF Pertaining to employed in imitation 
 TERM Imitative DEF Inclined imitate copy follow imitating exhibiting qualities characteristics pattern model dependent example original man being painting Formed model pattern original Designed imitate another species animal plant inanimate object useful purpose protection enemies resemblance something else colors habits dendritic mammillary forms minerals 
 TERM Imitative DEF verb expressive imitation resemblance 
@@ -683,7 +683,7 @@ TERM Immanence DEF condition quality immanent inherence indwelling
 TERM Immanent DEF Remaining within inherent indwelling abiding intrinsic internal subjective hence limited activity agency effect subject associated acts opposed 
 TERM Immanifest DEF manifest 
 TERM Immanity DEF state quality immane barbarity 
-TERM Immantle DEF See 
+TERM Immantle DEF 
 TERM Immanuel DEF God us appellation Christ 
 TERM Immarcescible DEF Unfading lasting 
 TERM Immarcescibly DEF Unfadingly 
@@ -730,12 +730,12 @@ TERM Immensive DEF Huge
 TERM Immensurability DEF quality immensurable 
 TERM Immensurable DEF Immeasurable 
 TERM Immensurate DEF Unmeasured unlimited 
-TERM Immerge DEF plungel into under within anything especially fuid dip immerse See 
+TERM Immerge DEF plungel into under within anything especially fuid dip immerse 
 TERM Immerge DEF dissapear entering medium star light sun 
 TERM Immerit DEF Lack worth demerit 
 TERM Immerited DEF Unmerited 
 TERM Immeritous DEF Undeserving 
-TERM Immersable DEF See 
+TERM Immersable DEF 
 TERM Immerse DEF Immersed buried hid sunk 
 TERM Immerse DEF plunge anything surrounds covers especially fluid dip sink bury immerge baptize immersion engage deeply engross attention of involve overhelm 
 TERM Immersed DEF Deeply plunged anything especially fluid Deeply occupied engrossed entangled Growing wholly water 
@@ -749,9 +749,9 @@ TERM Immethodically DEF Without method confusedly unsystematically
 TERM Immethodicalness DEF Lack method 
 TERM Immethodize DEF render immethodical destroy method of confuse 
 TERM Immetrical DEF metrical rhythmical 
-TERM Immew DEF See 
+TERM Immew DEF 
 TERM Immigrant DEF immigrates comes country purpose permanent residence correlative 
-TERM Immigrate DEF come country native purpose permanent residence See 
+TERM Immigrate DEF come country native purpose permanent residence 
 TERM Immigration DEF act immigrating passing coming country purpose permanent residence 
 TERM Imminence DEF condition quality imminent threatening something happen imminence danger distress imminent impending evil danger 
 TERM imminency DEF state imminent liable happen soon imminence 
@@ -774,7 +774,7 @@ TERM immobilization DEF
 TERM immobilisation DEF act process limiting movement making incapable movement injured knee necessary storm caused complete rescue 
 TERM Immobility DEF condition quality immobile fixedness place state 
 TERM Immobilize DEF make immovable surgery make immovable (a naturally mobile part joint) use splints stiffened bandages 
-TERM Immoble DEF See 
+TERM Immoble DEF 
 TERM Immoderacy DEF Immoderateness 
 TERM Immoderancy DEF Immoderateness excess 
 TERM Immoderate DEF moderate exceeding usual suitable bounds excessive extravagant unreasonable demands grief 
@@ -803,10 +803,10 @@ TERM Immortalization DEF act immortalizing state immortalized
 TERM Immortalize DEF render immortal cause live exist forever exempt oblivion perpetuate fame 
 TERM Immortalize DEF become immortal 
 TERM Immortally DEF immortal manner 
-TERM Immortelle DEF plant conspicuous dry unwithering involucre species etc See 
+TERM Immortelle DEF plant conspicuous dry unwithering involucre species etc 
 TERM Immortification DEF Failure mortify passions 
 TERM Immovability DEF quality state immovable fixedness steadfastness heavy body 
-TERM Immovable DEF Incapable moved firmly fixed fast used material things Steadfast fixed unalterable unchangeable used mind will purpose man remains capable affected moved feeling sympathy unimpressible impassive liable removed permanent place tenure fixed See 
+TERM Immovable DEF Incapable moved firmly fixed fast used material things Steadfast fixed unalterable unchangeable used mind will purpose man remains capable affected moved feeling sympathy unimpressible impassive liable removed permanent place tenure fixed 
 TERM Immovable DEF moved Lands things adherent thereto nature trees hand man buildings accessories destination seeds plants manure etc objects applied servitudes 
 TERM Immovableness DEF Quality immovable 
 TERM Immovably DEF immovable manner 
@@ -814,7 +814,7 @@ TERM Immund DEF Unclean
 TERM Immundicity DEF Uncleanness filthiness 
 TERM Immune DEF Exempt protected Protected disease due action immune system especially inoculated previously exposed disease pertaining immune system components immune system responsive 
 TERM Immune DEF immune esp person immune disease reason previous affection disease inoculation 
-TERM immune system DEF complex cells cellular processes substances within diffused throughout organism allow organism counteract destroy noxious foreign substances introduced body destroy infectious agents bacteria viruses destroy malignant cells remove cellular debris thus protecting organism many potentially harmful external agents internal events could lead sickness death system numerous interacting components including circulating antibodies antibody-producing cells white blood cells lymphokines lymph tissue lymph nodes stem cells may differentiate types cell together thymus spleen system responsible phenomenon immunity{3} See also 
+TERM immune system DEF complex cells cellular processes substances within diffused throughout organism allow organism counteract destroy noxious foreign substances introduced body destroy infectious agents bacteria viruses destroy malignant cells remove cellular debris thus protecting organism many potentially harmful external agents internal events could lead sickness death system numerous interacting components including circulating antibodies antibody-producing cells white blood cells lymphokines lymph tissue lymph nodes stem cells may differentiate types cell together thymus spleen system responsible phenomenon immunity{3} also 
 TERM immunisation DEF 
 TERM Immunity DEF Freedom exemption charge duty obligation office tax imposition penalty service particular privilege free cities Germany Freedom exemption state insusceptible disease certain poisons etc 
 TERM immunization DEF act making immune (especially inoculation) 
@@ -850,8 +850,8 @@ TERM Impairer DEF who which impairs
 TERM Impairment DEF state act process impaired injury 
 TERM impala DEF antelope Southeastern Africa male ringed lyre-shaped horns curve first backward sideways upwards ALso called 
 TERM Impalatable DEF Unpalatable 
-TERM Impale DEF pierce pale put death fixing sharp stake See inclose pales stakes surround join coats arms shield palewise hence join honorable mention 
-TERM Impalement DEF act impaling state impaled inclosing stakes pales space inclosed hedges in inclosure division shield palewise vertical line esp purpose putting side side arms husband wife See 3 
+TERM Impale DEF pierce pale put death fixing sharp stake inclose pales stakes surround join coats arms shield palewise hence join honorable mention 
+TERM Impalement DEF act impaling state impaled inclosing stakes pales space inclosed hedges in inclosure division shield palewise vertical line esp purpose putting side side arms husband wife 3 
 TERM Impalla DEF 
 TERM Impallid DEF make pallid blanch 
 TERM Impalm DEF grasp hold hand 
@@ -922,7 +922,7 @@ TERM Impatronize DEF make lord master one's self
 TERM Impave DEF pave 
 TERM Impavid DEF Fearless 
 TERM Impawn DEF put pawn pledge pawn 
-TERM Impeach DEF hinder impede prevent charge crime misdemeanor accuse especially charge (a public officer) competent tribunal misbehavior office cite tribunal judgment official misconduct arraign See Hence charge impropriety dishonor bring discredit on call question one's motives challenge discredit credibility of witness validity of commercial paper 
+TERM Impeach DEF hinder impede prevent charge crime misdemeanor accuse especially charge (a public officer) competent tribunal misbehavior office cite tribunal judgment official misconduct arraign Hence charge impropriety dishonor bring discredit on call question one's motives challenge discredit credibility of witness validity of commercial paper 
 TERM Impeach DEF Hindrance impeachment 
 TERM Impeachable DEF may impeached liable impeachment chargeable crime 
 TERM Impeacher DEF impeaches 
@@ -952,7 +952,7 @@ TERM Impellent DEF impelling power force
 TERM Impeller DEF who which impels 
 TERM Impen DEF shut inclose pen 
 TERM Impend DEF pay 
-TERM Impend DEF hang over suspended above threaten near hand menace imminent See 
+TERM Impend DEF hang over suspended above threaten near hand menace imminent 
 TERM Impendency DEF 
 TERM Impendence DEF state impending state imminent liable happen soon also impends 
 TERM Impendent DEF Impending threatening 
@@ -1006,7 +1006,7 @@ TERM Imperial DEF tuft hair man's lower lip chin called style beard Napoleon III
 TERM Imperialism DEF power character emperor imperial authority spirit empire policy practice advocacy seeking acquiescing in extension control dominion empire nation acquirement new esp distant territory dependencies closer union parts less independent operations war copyright internal commerce etc practise building extending empire 
 TERM Imperialist DEF serves emperor favors imperialism 
 TERM imperialistic DEF Of pertaining to advocating imperialism 
-TERM Imperiality DEF Imperial power imperial right privilegs See 
+TERM Imperiality DEF Imperial power imperial right privilegs 
 TERM Imperialize DEF invest imperial authority character style bring form empire 
 TERM Imperially DEF imperial manner 
 TERM Imperially DEF Imperial power 
@@ -1056,7 +1056,7 @@ TERM Imperviable DEF pervious impervious
 TERM Impervious DEF pervious admitting entrance passage through substance water 
 TERM Impery DEF Empery 
 TERM Impest DEF affict pestilence infect plague 
-TERM Impester DEF See 
+TERM Impester DEF 
 TERM Impetiginous DEF nature of pertaining to impetigo 
 TERM Impetigo DEF cutaneous pustular eruption attended fever usually kind eczema pustulation 
 TERM Impetrable DEF Capable obtained moved petition 
@@ -1084,7 +1084,7 @@ TERM Impingent DEF Striking upon
 TERM Impinguate DEF fatten make fat 
 TERM Impinguation DEF act making fat state fat fattened 
 TERM Impious DEF pious wanting piety irreligious irreverent ungodly profane wanting reverence Supreme Being deed 
-TERM Impire DEF See 
+TERM Impire DEF 
 TERM impish DEF qualities showing characteristics imp naughtily annoyingly playful teasing worrying 
 TERM Impishly DEF manner imp 
 TERM Impiteous DEF Pitiless cruel 
@@ -1124,7 +1124,7 @@ TERM Implicit DEF Infolded entangled complicated involved Tacitly comprised fair
 TERM Implicitly DEF implicit manner without reserve unreserved confidence implication impliedly deny providence God deny 
 TERM Implicitness DEF State quality implicit 
 TERM Implicity DEF Implicitness 
-TERM Implied DEF Virtually involved included involved substance inferential tacitly conceded correlative express expressed See 
+TERM Implied DEF Virtually involved included involved substance inferential tacitly conceded correlative express expressed 
 TERM Impliedly DEF implication inference 
 TERM implode DEF burst inward contrasting 
 TERM Imploded DEF Formed implosion 
@@ -1200,10 +1200,10 @@ TERM imposed DEF rules
 TERM Imposement DEF Imposition 
 TERM Imposer DEF imposes 
 TERM Imposing DEF Laying duty enjoining Adapted impress forcibly impressive commanding air Deceiving deluding misleading 
-TERM Imposing DEF act imposing columns page pages sheet See 4 
+TERM Imposing DEF act imposing columns page pages sheet 4 
 TERM Imposingly DEF imposing manner 
 TERM Imposingness DEF quality imposing 
-TERM Imposition DEF act imposing laying on affixing enjoining inflicting obtruding like imposed levied enjoined charge burden injunction tax extra exercise enjoined students punishment excessive arbitrary unlawful exaction hence trick deception put laid others cheating fraud delusion imposture act laying hands religious ceremoy ordination confirmation etc act process imosing pages columns type See 4 
+TERM Imposition DEF act imposing laying on affixing enjoining inflicting obtruding like imposed levied enjoined charge burden injunction tax extra exercise enjoined students punishment excessive arbitrary unlawful exaction hence trick deception put laid others cheating fraud delusion imposture act laying hands religious ceremoy ordination confirmation etc act process imosing pages columns type 4 
 TERM Impossibility DEF quality impossible impracticability impossible thing possible thought done endured Inability helplessness 
 TERM Impossible DEF possible incapable done existing etc unattainable nature things means command insuperably difficult circumstances absurd impracticable feasible 
 TERM Impossible DEF impossibility tried 
@@ -1238,7 +1238,7 @@ TERM Impounder DEF impounds
 TERM Impoverish DEF make poor reduce poverty indigence misfortune disease exhaust strength richness fertility of make sterile 
 TERM Impoverisher DEF who which impoverishes 
 TERM Impoverishment DEF act impoverishing state impoverished reduction poverty 
-TERM Impower DEF See 
+TERM Impower DEF 
 TERM Imp-pole DEF pole supporting scaffold 
 TERM Impracticability DEF state quality impracticable infeasibility impracticable thing Intractableness stubbornness 
 TERM Impracticable DEF practicable incapable performed accomplished means employed command impossible overcome persuaded controlled reasonable method unmanageable intractable capable easily dealt with used general sense applied person thing difficult control get along with Incapable used availed of road 
@@ -1268,10 +1268,10 @@ TERM Impresario DEF projector manager conductor opera concert company manager or
 TERM Imprescriptibility DEF quality imprescriptible 
 TERM Imprescriptible DEF capable lost impaired neglect disuse claims another founded prescription rights derived from dependent on external authority self-evidencing obvious 
 TERM Imprescriptibly DEF imprescriptible manner obviously 
-TERM Imprese DEF device See 
+TERM Imprese DEF device 
 TERM Impress DEF press stamp print something upon mark pressure pressure imprint (that bears impression) produce pressure mark stamp image etc imprint (a mark figure upon something) fix deeply mind present forcibly attention etc imprint inculcate take force public service sailors 
 TERM Impress DEF impressed rest 
-TERM Impress DEF act impressing making mark made pressure indentation imprint image figure anything formed pressure pressure result produced pressure influence Characteristic mark distinction stamp device See act impressing taking force public service compulsion serve also impressed 
+TERM Impress DEF act impressing making mark made pressure indentation imprint image figure anything formed pressure pressure result produced pressure influence Characteristic mark distinction stamp device act impressing taking force public service compulsion serve also impressed 
 TERM impressed DEF conscious mind deeply markedly affected influenced usually used 
 TERM Impressibility DEF quality impressible susceptibility 
 TERM Impressible DEF Capable impressed susceptible sensitive 
@@ -1301,7 +1301,7 @@ TERM Impriming DEF beginning
 TERM Imprimis DEF first place first order 
 TERM Imprint DEF impress mark pressure indent stamp stamp mark letters paper means type plates stamps like print mark (figures letters etc upon something) fix indelibly permanently mind memory impress create acquire (a behavioral pattern) process 
 TERM Imprint DEF Whatever impressed imprinted impress mark left something specifically name printer publisher (usually) time place issue title-page book printed sheet 
-TERM imprinting DEF learning behavioral pattern occurs soon birth hatching certain animals long-lasting response individual (such parent) object rapidly acquired particularly noted response certain birds animal first see hatching usually parent ducks follow adult duck first see 
+TERM imprinting DEF learning behavioral pattern occurs soon birth hatching certain animals long-lasting response individual (such parent) object rapidly acquired particularly noted response certain birds animal first hatching usually parent ducks follow adult duck first see 
 TERM Imprison DEF put prison jail arrest detain custody confine limit restrain confine way 
 TERM Imprisoner DEF imprisons 
 TERM Imprison ment DEF act imprisoning state imprisoned confinement restraint 
@@ -1358,10 +1358,10 @@ TERM Improvisate DEF improvise extemporize
 TERM Improvisation DEF act art composing rendering music poetry like extemporaneously improvised impromptu 
 TERM Improvisatize DEF 
 TERM Improvisator DEF improviser improvvisatore 
-TERM Improvisatore DEF See 
+TERM Improvisatore DEF 
 TERM Improvisatory DEF 
 TERM Improvisatorial DEF pertaining improvisation extemporaneous composition 
-TERM Improvisatrice DEF See 
+TERM Improvisatrice DEF 
 TERM Improvise DEF compose recite sing extemporaneously especially verse extemporize also play upon instrument act extemporaneously bring about arrange do make immediately short notice without previous preparation known precedent guide invent provide offhand spur moment hammer 
 TERM Improvise DEF produce render extemporaneous compositions especially verse music without previous preparation hence anything offhand 
 TERM Improviser DEF improvises 
@@ -1419,14 +1419,14 @@ TERM Imputrescible DEF putrescible
 TERM Imrigh DEF peculiar strong soup broth made Scotland 
 TERM In- DEF prefix Eng prep also Lat prep meaning words Latin regularly becomes labial sometimes used simple intensive force 
 TERM In- DEF inseparable prefix particle meaning as regularly becomes labial 
-TERM -in DEF suffix See Note 
+TERM -in DEF suffix Note 
 TERM In DEF specific signification situation place respect surrounding environment encompassment etc used verbs signifying being resting moving within limits within circumstances conditions kind conceived limiting confining investing either wholly part different applications approaches meanings of sometimes interchangeable with reference space place lives Boston traveled Italy castles reference circumstances conditions difficulties stood blaze reference whole includes comprises part spoken of first family first regiment reference physical surrounding personal states etc abstractly denoted doubt room darkness live reference character reach scope influence considered establishing limitation one's reference movement tendency toward certain limit environment sometimes equivalent put seed ground fall love end death put trust reference limit time hour happened last century 
 TERM In DEF out within inside preposition becomes adverb omission object leaving representative adverbial phrase context indicating omitted object is takes situation comprehends mind) Republicans office) ear head) side turn bat) came privilege possession used denote holding possession seisin descent purchase seisin 
 TERM In DEF office opposite angle nook corner 
 TERM In DEF inclose take in harvest 
 TERM Inability DEF quality state unable lack ability lack sufficient power strength resources capacity 
-TERM Inable DEF See 
-TERM Inablement DEF See 
+TERM Inable DEF 
+TERM Inablement DEF 
 TERM Inabstinence DEF Lack abstinence indulgence 
 TERM Inabstracted DEF abstracted 
 TERM Inabusively DEF Without abuse 
@@ -1478,7 +1478,7 @@ TERM Inamorate DEF Enamored
 TERM Inamorato DEF male lover 
 TERM Inamovable DEF amovable removable 
 TERM In-and-in DEF old game played dice signified doublet dice alike either doubles dice alike 
-TERM In and in DEF Applied breeding male female parentage See 
+TERM In and in DEF Applied breeding male female parentage 
 TERM Inane DEF Without contents empty void sense intelligence purposeless pointless characterless useless 
 TERM Inane DEF void empty 
 TERM Inangular DEF angular 
@@ -1495,7 +1495,7 @@ TERM Inanitiation DEF Inanition
 TERM Inanition DEF condition inane emptiness lack fullness vessels body hence specifically exhaustion lack food either partial complete starvation disorder digestive apparatus producing result 
 TERM Inanity DEF Inanition void space vacuity emptiness Lack seriousness aimlessness frivolity inane useless thing pursuit vanity silly object chiefly 
 TERM Inantherate DEF bearing anthers said sterile stamens 
-TERM In antis DEF said portico classical style columns set forming angles building See 
+TERM In antis DEF said portico classical style columns set forming angles building 
 TERM Inapathy DEF Sensibility feeling opposed 
 TERM Inappealable DEF admitting appeal appealable 
 TERM Inappeasable DEF Incapable appeased satisfied unappeasable 
@@ -1520,14 +1520,14 @@ TERM Inaquate DEF Embodied in changed into water
 TERM Inaquation DEF state inaquate 
 TERM Inarable DEF arable 
 TERM Inarch DEF graft uniting scion stock without separating either root union complete also called 
-TERM Inarching DEF method ingrafting See 
+TERM Inarching DEF method ingrafting 
 TERM Inarticulate DEF uttered articulation intelligible distinctness speech words jointed articulated distinct body segments Incapable articulating Incapable expressing one's ideas feelings clearly 
 TERM Inarticulated DEF articulated jointed connected joint 
 TERM Inarticulately DEF inarticulate manner 
 TERM Inarticulateness DEF state quality inarticulate 
 TERM Inarticulation DEF Inarticulateness 
 TERM Inartificial DEF artificial made elaborated art natural simple artless argument 
-TERM Inasmuch DEF like degree like manner seeing that considering that since followed See much 
+TERM Inasmuch DEF like degree like manner seeing that considering that since followed much 
 TERM Inattention DEF Lack attention failure pay attention disregard heedlessness neglect 
 TERM Inattentive DEF attentive fixing mind object heedless careless negligent regardless spectator hearer 
 TERM Inaudibility DEF quality inaudible inaudibleness 
@@ -1562,7 +1562,7 @@ TERM Inbreaking DEF
 TERM Inbreak DEF breaking in inroad invasion 
 TERM Inbreathe DEF infuse breathing inspire 
 TERM Inbred DEF Bred within innate 
-TERM Inbreed DEF produce generate within breed in See 
+TERM Inbreed DEF produce generate within breed in 
 TERM Inburning DEF Burning within 
 TERM Inburnt DEF Burnt in ineffaceable 
 TERM Inburst DEF bursting into 
@@ -1635,7 +1635,7 @@ TERM Incendious DEF Promoting faction contention seditious inflammatory
 TERM Incensant DEF modern term applied animals (as boar) borne raging furious aspect 
 TERM Incensation DEF offering incense 
 TERM Incense DEF set fire inflame kindle burn inflame anger enrage endkindle fire incite provoke heat madden 
-TERM Incense DEF offer incense to See perfume with with incense 
+TERM Incense DEF offer incense to perfume with with incense 
 TERM Incense DEF perfume odors exhaled spices gums burned celebrating religious rites offering deity materials used purpose producing perfume burned fragrant gums spices frankincense etc Also used figuratively 
 TERM Incense-breathing DEF Breathing exhaling incense 
 TERM Incensed DEF Angered enraged Represented enraged wild creature depicted fire issuing mouth eyes 
@@ -1674,15 +1674,15 @@ TERM Inch DEF advance retire inches small degrees move slowly
 TERM Inch DEF Measuring inch dimension whether length breadth thickness used composition cable 
 TERM Inchamber DEF lodge chamber 
 TERM Inchangeability DEF Unchangeableness 
-TERM Inchant DEF See 
+TERM Inchant DEF 
 TERM Incharitable DEF Uncharitable unfeeling 
 TERM Incharity DEF Lack charity 
-TERM Inchase DEF See 
+TERM Inchase DEF 
 TERM Inchastity DEF Unchastity 
 TERM Inched DEF measuring (so many) inches 
 TERM Inchest DEF put chest 
 TERM in-chief DEF suffix signifying 
-TERM Inchipin DEF See 
+TERM Inchipin DEF 
 TERM Inchmeal DEF piece inch long 
 TERM Inchmeal DEF Little little gradually 
 TERM Inchoate DEF Recently just begun beginning partially fully existence operation existing elements incomplete 
@@ -1691,7 +1691,7 @@ TERM Inchoation DEF Act beginning commencement inception
 TERM Inchoative DEF Expressing pertaining beginning inceptive 
 TERM Inchon DEF name town Korea battle Korean War (1950) United Nations forces made amphibious landing Inchon harbor west coast Korea 
 TERM Inchpin DEF sweetbread deer 
-TERM Inchworm DEF larva geometrid moth progresses forward first bringing rear end body forward forming loop moving front part body called also worm See 
+TERM Inchworm DEF larva geometrid moth progresses forward first bringing rear end body forward forming loop moving front part body called also worm 
 TERM Incicurable DEF Untamable 
 TERM Incide DEF cut separate remove resolve break up medicines 
 TERM Incidence DEF falling upon incident event occurrence direction body ray light heat falls surface rate ratio something occurs murder Los Angeles cancer men 
@@ -1708,7 +1708,7 @@ TERM Incineration DEF act incinerating state incinerated cremation
 TERM Incipiency DEF 
 TERM Incipience DEF Beginning commencement incipient state 
 TERM Incipient DEF Beginning be show itself commencing initial stage fever light 
-TERM Incircle DEF See 
+TERM Incircle DEF 
 TERM Incirclet DEF small circle 
 TERM Incircumscriptible DEF Incapable circumscribed limited 
 TERM Incircumscription DEF Condition quality incircumscriptible limitless 
@@ -1720,7 +1720,7 @@ TERM Incisely DEF incised manner
 TERM Incision DEF act incising cutting substance produced incising separation parts substance made cutting pointed instrument cut gash Separation solution viscid matter medicines 
 TERM Incisive DEF quality incising cutting penetrating sharp instrument cutting pertaining incisors incisor bones Clearly succinctly stated penetrating insight issue hand 
 TERM incisiveness DEF keenness forcefulnelss thought expression intellect 
-TERM Incisor DEF teeth front canines either jaw incisive tooth See 
+TERM Incisor DEF teeth front canines either jaw incisive tooth 
 TERM Incisor DEF Adapted cutting pertaining incisors incisive nerve foramen 
 TERM Incisory DEF quality cutting incisor incisive 
 TERM Incisure DEF cut incision gash 
@@ -1806,16 +1806,16 @@ TERM Incoherentness DEF Incoherence
 TERM Incoincidence DEF quality incoincident lack coincidence 
 TERM Incoincident DEF coincident agreeing time place principle 
 TERM Incolumity DEF Safety security 
-TERM Incomber DEF See 
+TERM Incomber DEF 
 TERM Incombine DEF incapable combining disagree differ 
 TERM Incombustibility DEF quality incombustible 
 TERM Incombustible DEF combustible capable burned decomposed consumed fire uninflammable asbestus substance carbon dioxide 
-TERM Income DEF coming in entrance admittance ingress infusion caused enter inspiration influence hence courage zeal imparted gain proceeds labor business property capital kind produce farm rent houses proceeds professional business profits commerce occupation interest money stock funds etc revenue receipts salary especially annual receipts private person corporation property large taken body food ingesta sometimes restricted nutritive digestible portion food See Opposed 
+TERM Income DEF coming in entrance admittance ingress infusion caused enter inspiration influence hence courage zeal imparted gain proceeds labor business property capital kind produce farm rent houses proceeds professional business profits commerce occupation interest money stock funds etc revenue receipts salary especially annual receipts private person corporation property large taken body food ingesta sometimes restricted nutritive digestible portion food Opposed 
 TERM Incomer DEF comes in succeeds another tenant land houses etc 
 TERM Incoming DEF Coming in accruing Coming in succeeding following occupant possessor 
 TERM Incoming DEF act coming in arrival Income gain 
 TERM Incomity DEF Lack comity incivility rudeness 
-TERM In commendam DEF See 
+TERM In commendam DEF 
 TERM Incommensurability DEF quality state incommensurable 
 TERM Incommensurable DEF commensurable common measure standard comparison quantities third quantity found aliquot part both side diagonal square other diameter circumference circle 
 TERM Incommensurable DEF quantities common measure 
@@ -1840,7 +1840,7 @@ TERM Incompacted DEF
 TERM Incompact DEF compact parts firmly united solid incoherent loose discrete 
 TERM Incomparable DEF comparable admitting comparison others unapproachably eminent without peer equal matchless peerless transcendent 
 TERM Incompared DEF Peerless incomparable 
-TERM Incompass DEF See 
+TERM Incompass DEF 
 TERM Incompassion DEF Lack compassion pity 
 TERM Incompassionate DEF compassionate void pity tenderness remorseless 
 TERM Incompatibility DEF quality state incompatible inconsistency irreconcilableness 
@@ -1852,8 +1852,8 @@ TERM Incompetency DEF
 TERM Incompetence DEF quality state incompetent lack physical intellectual moral ability lack qualifications training (for particular task) insufficiency inadequacy child hard labor idiot intellectual Lack competency legal fitness incapacity disqualification person heard witness act juror judge try cause 
 TERM Incompetent DEF competent wanting adequate strength power capacity means qualifications like incapable unable inadequate unfit Wanting legal constitutional qualifications inadmissible person professedly wanting religious belief witness court law equity evidence mentally defective person care requires legal lying within one's competency capacity authorized power permissible 
 TERM Incompetently DEF competent manner inadequately unsuitably 
-TERM Incompetibility DEF See 
-TERM Incompetible DEF See 
+TERM Incompetibility DEF 
+TERM Incompetible DEF 
 TERM Incomplete DEF complete filled up finished parts adjusted imperfect defective Wanting usual floral organs said flower 
 TERM Incompletely DEF incomplete manner 
 TERM Incompleteness DEF state incomplete imperfectness defectiveness 
@@ -2077,8 +2077,8 @@ TERM Incubator DEF incubates especially apparatus means eggs hatched artificial 
 TERM Incubatory DEF Serving incubation 
 TERM Incube DEF fix firmly cube secure place firmly 
 TERM Incubiture DEF Incubation 
-TERM Incubous DEF leaves placed upper part covers base leaf next it hepatic mosses genus See 
-TERM Incubus DEF demon fiend lascivious spirit supposed sexual intercourse women night nightmare See oppressive encumbrance burden anything prevents free use faculties 
+TERM Incubous DEF leaves placed upper part covers base leaf next it hepatic mosses genus 
+TERM Incubus DEF demon fiend lascivious spirit supposed sexual intercourse women night nightmare oppressive encumbrance burden anything prevents free use faculties 
 TERM Inculcate DEF teach impress frequent repetitions admonitions urge mind Christ followers 
 TERM Inculcation DEF teaching impressing frequent repetitions 
 TERM Inculcator DEF inculcates 
@@ -2099,7 +2099,7 @@ TERM Incumbency DEF state incumbent lying resting something physically incumbent
 TERM Incumbent DEF Lying resting reclining recumbent superimposed superincumbent Lying resting imposed duty obligation obligatory always Leaning resting said anthers lying inner side filament cotyledons radicle lies back them Bent downwards ends touch rest on something else toe 
 TERM Incumbent DEF person present possession benefice office 
 TERM Incumbently DEF incumbent manner incumbent 
-TERM Incumber DEF See 
+TERM Incumber DEF 
 TERM Incumbition DEF Incubation 
 TERM Incumbrance DEF burdensome troublesome load anything impedes motion action renders difficult laborious clog impediment hindrance check burden charge upon property claim lien upon estate may diminish value 
 TERM Incumbrancer DEF holds incumbrance legal claim lien charge estate 
@@ -2127,29 +2127,29 @@ TERM Incurvation DEF act bending curving state bent curved curvature act bowing 
 TERM Incurve DEF bend curve make crooked 
 TERM Incurved DEF Bending gradually toward axis center branches petals 
 TERM Incurvity DEF state bent curved incurvation bending inwards 
-TERM Incus DEF anvil small bones tympanum ear anvil bone See central portion armature pharynx 
+TERM Incus DEF anvil small bones tympanum ear anvil bone central portion armature pharynx 
 TERM Incuse DEF Cut stamped in hollowed engraving 
 TERM Incuss DEF 
 TERM Incuse DEF form mold striking stamping coin medal 
 TERM Incute DEF strike stamp in 
-TERM Incyst DEF See 
-TERM Incysted DEF See 
+TERM Incyst DEF 
+TERM Incysted DEF 
 TERM Ind DEF India 
 TERM Indagate DEF seek search out 
 TERM Indagation DEF Search inquiry investigation 
 TERM Indagative DEF Searching exploring investigating 
 TERM Indagator DEF searcher explorer investigator 
-TERM Indamage DEF See 
+TERM Indamage DEF 
 TERM Indamaged DEF damaged 
 TERM Indart DEF pierce dart 
 TERM Indazole DEF bicyclic nitrogenous compound analogous indole benzene ring fused pyrazole ring called also produced diazo derivative cinnamic acid 
 TERM Inde DEF Azure-colored bright blue color 
-TERM Indear DEF See 
+TERM Indear DEF 
 TERM Indebt DEF bring debt place obligation chiefly used participle 
 TERM Indebted DEF Brought debt obligation held payment requital beholden Placed obligation something received restitution gratitude due parents care us infancy friends help 
 TERM Indebtedness DEF state indebted sum owed debts collectively 
 TERM Indebtment DEF Indebtedness 
-TERM Indecence DEF See 
+TERM Indecence DEF 
 TERM Indecency DEF quality state indecent lack decency modesty good manners obscenity indecent indecent word act offense delicacy 
 TERM Indecent DEF decent unfit seen heard offensive modesty delicacy 
 TERM Indecently DEF indecent manner 
@@ -2210,7 +2210,7 @@ TERM Indemonstrable DEF Incapable demonstrated
 TERM Indenization DEF act naturalizing endenization 
 TERM Indenize DEF naturalize 
 TERM Indenizen DEF invest privileges denizen naturalize 
-TERM Indent DEF notch jag cut points like row teeth edge dent stamp press in impress smooth surface hammer wax bind indenture contract indenture apprentice young man shoemaker begin (a line lines) greater less distance margin first line paragraph em second paragraph ems first See make order upon draw upon military stores 
+TERM Indent DEF notch jag cut points like row teeth edge dent stamp press in impress smooth surface hammer wax bind indenture contract indenture apprentice young man shoemaker begin (a line lines) greater less distance margin first line paragraph em second paragraph ems first make order upon draw upon military stores 
 TERM Indent DEF cut notched dented crook turn wind out zigzag contract bargain covenant 
 TERM Indent DEF cut notch margin anything recess like notch stamp impression certificate intended certificate issued government United States close Revolution principal interest public debt requisition order supplies sent commissariat army 
 TERM Indentation DEF act indenting state indented notch recess margin border anything leaf coast recess sharp depression surface act beginning line series lines little distance within flush line column page common way beginning first line paragraph 
@@ -2268,7 +2268,7 @@ TERM Indian DEF native inhabitant India aboriginal inhabitants America called or
 TERM Indianan DEF resident Indiana 
 TERM Indian corn DEF cereal plant genus also simply called used widely food maize native plant America 
 TERM Indianeer DEF Indiaman 
-TERM India rubber DEF See 
+TERM India rubber DEF 
 TERM India steel DEF 
 TERM Indical DEF Indexical 
 TERM Indican DEF glucoside obtained woad (indigo plant plants (see yellow light brown sirup purified obtained spear-shaped crystals nauseous bitter taste action acids enzymes etc breaks sugar indigo source Chemically 3-glucoside indole indigo-forming substance found urine animal fluids convertible red blue indigo Chemically indoxyl sulphate potash derived indol formed alimentary canal Called also 
@@ -2280,12 +2280,12 @@ TERM Indication DEF Act pointing indicating serves indicate point out mark token
 TERM Indicative DEF Pointing out bringing notice giving intimation knowledge something visible obvious Suggestive representing whole part fleet ship forest tree etc 
 TERM Indicative DEF indicative mood 
 TERM Indicatively DEF indicative manner way show signify 
-TERM Indicator DEF who which shows points out fare street pressure gauge water gauge steam boiler apparatus instrument showing working machine moving part part instrument effect indicated index pointer bird genus allied genera See indicates condition acidity alkalinity deficiency excess sufficiency standard reagent causing appearance disappearance change color titration volumetric analysis 
+TERM Indicator DEF who which shows points out fare street pressure gauge water gauge steam boiler apparatus instrument showing working machine moving part part instrument effect indicated index pointer bird genus allied genera indicates condition acidity alkalinity deficiency excess sufficiency standard reagent causing appearance disappearance change color titration volumetric analysis 
 TERM Indicatory DEF Serving show make known showing indicative signifying implying 
 TERM Indicatrix DEF certain conic section supposed drawn tangent plane surface used determine accidents curvature surface point contact curve similar intersection surface parallel tangent plane indefinitely near it ellipse curvature synclastic hyperbola curvature anticlastic 
 TERM Indicavit DEF writ prohibition proceeding spiritual court certain cases suit belongs common-law courts 
 TERM Indice DEF Index indication 
-TERM Indices DEF See 
+TERM Indices DEF 
 TERM Indicia DEF Discriminating marks signs tokens indications appearances 
 TERM Indicible DEF Unspeakable 
 TERM Indicolite DEF variety tourmaline indigo-blue color 
@@ -2338,11 +2338,11 @@ TERM Indignly DEF Unworthily
 TERM Indigo DEF kind deep blue prismatic colors blue dyestuff obtained several plants belonging different genera orders as woad (family (family Ait (family etc called also dark blue earthy substance tasteless odorless copper-violet luster rubbed Indigo exist plants such obtained decomposition glycoside 
 TERM Indigo DEF color of pertaining to derived from indigo 
 TERM Indigofera DEF genus leguminous plants (family many species mostly tropical countries several yielding indigo esp 
-TERM Indigogen DEF See 2 
+TERM Indigogen DEF 2 
 TERM Indigometer DEF instrument ascertaining strength indigo solution volumetric analysis 
 TERM Indigometry DEF art method determining coloring power indigo 
 TERM Indigotic DEF Pertaining to derived from indigo acid also called 
-TERM Indigotin DEF See 
+TERM Indigotin DEF 
 TERM Indigrubin DEF 
 TERM Indihumin DEF brown amorphous substance resembling humin obtained indican 
 TERM Indilatory DEF dilatory 
@@ -2480,13 +2480,13 @@ TERM Indophenol DEF series artificial blue dyestuffs resembling indigo appearanc
 TERM Indorsable DEF Capable indorsed transferable convertible 
 TERM Indorsation DEF Indorsement 
 TERM Indorse DEF cover back of load burden write upon back outside paper letter direction heading memorandum address write one's name alone words upon back (a paper) purpose transferring it secure payment note draft like guarantee payment fulfillment performance validity of certify something upon back (a check draft writ warrant arrest etc) give one's name support to sanction aid approval approve 
-TERM Indorsed DEF See 
+TERM Indorsed DEF 
 TERM Indorsee DEF person note bill indorsed assigned indorsement 
 TERM Indorsement DEF act writing back note bill written instrument written back note bill paper name order for receipt of payment return officer etc writing usually upon back sometimes face negotiable instrument property therein assigned transferred Sanction support approval rumor opinion course 
 TERM Indorsor DEF 
 TERM Indorser DEF person indorses 
-TERM Indow DEF See 
-TERM Indowment DEF See 
+TERM Indow DEF 
+TERM Indowment DEF 
 TERM Indoxyl DEF nitrogenous substance isomeric oxindol obtained oily liquid 
 TERM Indoxylic DEF pertaining to producing indoxyl 
 TERM Indraught DEF opening sea land inlet draught air flow water setting inward 
@@ -2543,7 +2543,7 @@ TERM Indult DEF privilege exemption indulgence dispensation granted pope duty le
 TERM Indument DEF Plumage feathers dense covering especially hairy called also 
 TERM Induplicate DEF edges bent abruptly toward axis said parts calyx corolla 
 TERM Induplicative DEF induplicate sepals petals 
-TERM Indurance DEF See 
+TERM Indurance DEF 
 TERM Indurate DEF Hardened soft indurated Without sensibility unfeeling obdurate 
 TERM Indurate DEF make hard extreme heat clay fossils exposure make unfeeling deprive sensibility render obdurate 
 TERM Indurate DEF grow hard harden become hard clay drying 
@@ -2761,7 +2761,7 @@ TERM Ineye DEF ingraft tree plant insertion bud eye inoculate
 TERM Infabricated DEF fabricated unwrought artificial natural 
 TERM Infallibilist DEF accepts maintains dogma papal infallibility 
 TERM Infallibility DEF quality state infallible exempt error inerrability 
-TERM Infallible DEF fallible capable erring entirely exempt liability mistake unerring inerrable liable fail deceive disappoint indubitable sure certain evidence success Incapable error defining doctrines touching faith morals See 
+TERM Infallible DEF fallible capable erring entirely exempt liability mistake unerring inerrable liable fail deceive disappoint indubitable sure certain evidence success Incapable error defining doctrines touching faith morals 
 TERM Infallibleness DEF state quality infallible infallibility 
 TERM Infallibly DEF infallible manner certainly unfailingly unerringly 
 TERM Infame DEF defame make infamous 
@@ -2816,14 +2816,14 @@ TERM Infective DEF Infectious
 TERM Infecund DEF Unfruitful producing young barren infertile 
 TERM Infecundity DEF Lack fecundity fruitfulness barrenness sterility unproductiveness 
 TERM Infecundous DEF Infertile barren unprofitable unproductive 
-TERM Infeeble DEF See 
+TERM Infeeble DEF 
 TERM Infelicitous DEF felicitous unhappy unfortunate fortunate appropriate application well said expressed done condition remark description 
 TERM Infelicity DEF state quality infelicitous unhappiness misery wretchedness misfortune lack suitableness appropriateness (as act word expression etc) infelicitous 
 TERM Infelonious DEF felonious malignant criminal 
 TERM Infelt DEF Felt inwardly heartfelt 
-TERM Infeodation DEF See 
-TERM Infeoff DEF See 
-TERM Infeoffment DEF See 
+TERM Infeodation DEF 
+TERM Infeoff DEF 
+TERM Infeoffment DEF 
 TERM Infer DEF bring on induce occasion offer violence bring forward employ argument adduce allege offer derive deduction induction conclude surmise facts premises accept derive consequence conclusion probability determination show manifest prove 
 TERM Inferable DEF Capable inferred deduced premises 
 TERM Inference DEF act process inferring deduction induction inferred truth proposition drawn another admitted supposed true conclusion deduction 
@@ -2858,7 +2858,7 @@ TERM Infidel DEF holding faith applied Christians believe inspiration Scriptures
 TERM Infidel DEF believe prevailing religious faith heathen freethinker used especially Christians Muslims 
 TERM Infidelity DEF Lack faith belief religious system especially lack faith in disbelief of inspiration Scriptures divine origin Christianity Unfaithfulness marriage vow contract violation marriage covenant adultery Breach trust unfaithfulness charge moral obligation treachery deceit 
 TERM Infield DEF inclose field 
-TERM Infield DEF Arable manured land kept continually crop distinguished diamond opposed See 5 
+TERM Infield DEF Arable manured land kept continually crop distinguished diamond opposed 5 
 TERM infighting DEF contention among members organization (usually concealed outsiders) sometimes bitter intense prolonged character fighting boxing close quarters rough-and-tumble free-for-all fighting 
 TERM Infile DEF arrange file rank place order 
 TERM Infilm DEF cover film coat thinly metal another process gilding glass 
@@ -2881,7 +2881,7 @@ TERM Infinitival DEF Pertaining infinite mood
 TERM Infinitive DEF Unlimited bounded restricted undefined 
 TERM Infinitive DEF infinitive form verb verb infinitive mood infinitive mood 
 TERM Infinitive DEF manner infinitive mood 
-TERM Infinito DEF Infinite perpetual canon end leads back beginning See 5 
+TERM Infinito DEF Infinite perpetual canon end leads back beginning 5 
 TERM Infinitude DEF quality state infinite without limits infiniteness Infinite extent unlimited space immensity infinity Boundless number countless multitude 
 TERM Infinituple DEF Multiplied infinite number times 
 TERM Infinity DEF Unlimited extent time space quantity eternity boundlessness immensity Unlimited capacity energy excellence knowledge God Endless indefinite number great multitude beauties quantity greater assignable quantity kind part line plane space infinitely distant modern geometry parallel lines planes sometimes treated lines planes meeting infinity 
@@ -2962,8 +2962,8 @@ TERM Inform DEF take form become visible manifest appear give intelligence infor
 TERM Informal DEF regular usual established form according official conventional prescribed customary forms rules irregular hence without ceremony writing proceeding Deranged mind one's senses 
 TERM Informality DEF state informal lack regular prescribed customary form legal informal unconventional unofficial act proceeding something proper prescribed form conform established rule 
 TERM Informally DEF informal manner 
-TERM Informant DEF who which informs animates vivifies imparts information instruction offers accusation informer See 
-TERM Information DEF act informing communicating knowledge intelligence fact set facts knowledge news advice whether communicated obtained personal study investigation datum reduces uncertainty state part world intelligence knowledge derived reading observation instruction proceeding nature prosecution offense government instituted prosecuted really nominally authorized public officer behalf government differs indictment criminal cases chiefly based finding grand jury See measure number possible choices messages contained symbol signal transmitted message information-bearing object usually quantified negative logarithm number allowed symbols could contained message logarithms base 2 measure corresponds unit information 3323 bits called also smallest unit information contained transmitted corresponding yes-or-no decision Useful facts contrasted raw data among data must interesting 
+TERM Informant DEF who which informs animates vivifies imparts information instruction offers accusation informer 
+TERM Information DEF act informing communicating knowledge intelligence fact set facts knowledge news advice whether communicated obtained personal study investigation datum reduces uncertainty state part world intelligence knowledge derived reading observation instruction proceeding nature prosecution offense government instituted prosecuted really nominally authorized public officer behalf government differs indictment criminal cases chiefly based finding grand jury measure number possible choices messages contained symbol signal transmitted message information-bearing object usually quantified negative logarithm number allowed symbols could contained message logarithms base 2 measure corresponds unit information 3323 bits called also smallest unit information contained transmitted corresponding yes-or-no decision Useful facts contrasted raw data among data must interesting 
 TERM information content DEF 
 TERM information processing DEF processing information especially computers including organization distribution frequently analysis data presentation results easily understood form 
 TERM information theory DEF science studies capacity systems contain store transmit 4} factors noise channel capacity may affect rate accuracy information transmission reception 
@@ -2997,7 +2997,7 @@ TERM Inframarginal DEF margin submarginal convolution
 TERM Inframaxillary DEF lower jaw submaxillary 
 TERM Inframedian DEF pertaining interval zone along sea bottom depth fifty hundred fathoms 
 TERM Inframundane DEF Lying situated beneath world 
-TERM Infranchise DEF See 
+TERM Infranchise DEF 
 TERM Infrangibility DEF quality state infrangible infrangibleness 
 TERM Infrangible DEF capable broken separated parts infringed violated 
 TERM Infrangibleness DEF state quality infrangible infrangibility 
@@ -3077,7 +3077,7 @@ TERM Ingeminate DEF Redoubled repeated
 TERM Ingeminate DEF redouble repeat reiterate 
 TERM Ingemination DEF Repetition reduplication reiteration 
 TERM Ingena DEF gorilla 
-TERM Ingender DEF See 
+TERM Ingender DEF 
 TERM Ingenerabillty DEF Incapacity engendered produced 
 TERM Ingenerable DEF Incapable engendered produced original 
 TERM Ingenerably DEF ingenerable manner 
@@ -3085,7 +3085,7 @@ TERM Ingenerate DEF Generated within inborn innate powers
 TERM Ingenerate DEF generate produce within beget engender occasion cause 
 TERM Ingeneration DEF Act ingenerating 
 TERM Ingeniate DEF invent contrive 
-TERM Ingenie DEF See 
+TERM Ingenie DEF 
 TERM Ingeniosity DEF Ingenuity skill cunning 
 TERM Ingenious DEF Possessed genius faculty invention skillful promp invent aptitude contrive form new combinations author Proceeding from pertaining to characterized by genius ingenuity curious design structure mechanism model machine scheme contrivance Witty shrewd adroit keen sagacious Mental intellectual 
 TERM Ingeniously DEF ingenious manner ingenuity skillfully wittily cleverly 
@@ -3108,7 +3108,7 @@ TERM Ingirt DEF encircle gird engirt
 TERM Ingirt DEF Surrounded encircled 
 TERM Ingle DEF Flame blaze fire fireplace 
 TERM Ingle DEF paramour favourite sweetheart engle 
-TERM Ingle DEF cajole coax wheedle See 
+TERM Ingle DEF cajole coax wheedle 
 TERM Inglobate DEF form globe sphere applied nebulous matter collected sphere force gravitation 
 TERM Inglobe DEF infix globe fix secure firmly 
 TERM Inglorious DEF glorious bringing honor glory accompanied fame honor celebrity obscure humble life Shameful disgraceful ignominious flight defeat 
@@ -3120,12 +3120,12 @@ TERM Ingluvies DEF crop craw birds
 TERM Ingluvious DEF Gluttonous 
 TERM In-going DEF act going in entrance 
 TERM In-going DEF Going entering upon office possession 
-TERM Ingorge DEF See 
+TERM Ingorge DEF 
 TERM Ingot DEF metal cast mold bar wedge steel gold malleable metal cast mold mass unwrought cast metal 
 TERM Ingot steel DEF Steel cast ingots Bessemer converter open-hearth furnace 
 TERM Ingrace DEF ingratiate 
 TERM Ingracious DEF Ungracious unkind 
-TERM Ingraff DEF See 
+TERM Ingraff DEF 
 TERM Ingraft DEF insert scion tree shrub plant another propagation peach scion plum subject process grafting furnish grafts scions graft 
 TERM Ingrafter DEF person ingrafts 
 TERM Ingraftment DEF act ingrafting thing ingrafted scion 
@@ -3157,7 +3157,7 @@ TERM Ingress DEF go in enter
 TERM Ingression DEF Act entering entrance 
 TERM Ingrieve DEF render grievous aggravate 
 TERM Ingroove DEF groove in join groove 
-TERM Ingross DEF See 
+TERM Ingross DEF 
 TERM in group DEF 
 TERM in-group DEF exclusive circle people common purpose interests attitudes especially produces feelings camaraderie exclusivity community solidarity 
 TERM Ingrowing DEF Growing appearing grow substance 
@@ -3166,7 +3166,7 @@ TERM Ingrowth DEF growth development inward
 TERM Inguen DEF groin 
 TERM Inguilty DEF guilty 
 TERM Inguinal DEF pertaining to region of inguen groin canal ligament 
-TERM Ingulf DEF swallow overwhelm in in gulf cast gulf See 
+TERM Ingulf DEF swallow overwhelm in in gulf cast gulf 
 TERM Ingulfment DEF act ingulfing state ingulfed 
 TERM Ingurgitate DEF swallow devour drink greedily large quantity guzzle swallow up gulf 
 TERM Ingurgitate DEF guzzle swill 
@@ -3186,7 +3186,7 @@ TERM Inhabitation DEF act inhabiting state inhabited indwelling Abode place dwel
 TERM Inhabitativeness DEF tendency propensity permanent residence place abode love home country 
 TERM Inhabited DEF Uninhabited 
 TERM Inhabiter DEF inhabitant 
-TERM Inhabitiveness DEF See 
+TERM Inhabitiveness DEF 
 TERM Inhabitress DEF female inhabitant 
 TERM Inhalant DEF Inhaling used inhaling 
 TERM Inhalant DEF apparatus also called (which see) also inhaled especially medicine taken inhalation 
@@ -3195,7 +3195,7 @@ TERM Inhale DEF breathe draw lungs inspire opposed
 TERM inhaled DEF drawn lungs breathed in smoke damage Inverse 
 TERM Inhalent DEF Used inhaling end 
 TERM Inhaler DEF inhales apparatus inhaling vapor volatile substance ether chloroform aerosol mist solution medicinal purposes alway carried around pocket case asthmatic contrivance filter air order protect lungs inhaling damp cold air noxious gases dust etc also respiratory apparatus divers 
-TERM Inhance DEF See 
+TERM Inhance DEF 
 TERM Inharmonical DEF 
 TERM Inharmonic DEF harmonic inharmonious discordant dissonant 
 TERM Inharmonious DEF harmonious unmusical discordant dissonant Conflicting jarring harmony 
@@ -3221,7 +3221,7 @@ TERM inheriting DEF capable inheriting law
 TERM Inheritor DEF inherits heir 
 TERM Inheritress DEF heiress 
 TERM Inheritrix DEF 
-TERM Inherse DEF See 
+TERM Inherse DEF 
 TERM Inhesion DEF state existing inherent something inherence 
 TERM Inhiation DEF gaping after eager desire craving 
 TERM Inhibit DEF check hold back restrain hinder forbid prohibit interdict cause rate (a chemical biochemical reaction) proceed slower halt vitamin C oxidation penicillins bacterial cell wall restrain (a behavior) mechanism involving conscious unconscious motivations 
@@ -3259,7 +3259,7 @@ TERM Inimitable DEF capable imitated copied counterfeited beyond imitation surpa
 TERM Inion DEF external occipital protuberance skull 
 TERM Iniquitous DEF Characterized iniquity unjust wicked bargain 
 TERM Iniquitously DEF iniquitous manner unjustly wickedly 
-TERM Iniquity DEF Absence of deviation from dealing lack rectitude uprightness gross injustice unrighteousness wickedness bribery unjust iniquitous act thing deed injustice unrighteousness sin crime character personification old English moralities moral dramas name sometimes vice sometimes another See 
+TERM Iniquity DEF Absence of deviation from dealing lack rectitude uprightness gross injustice unrighteousness wickedness bribery unjust iniquitous act thing deed injustice unrighteousness sin crime character personification old English moralities moral dramas name sometimes vice sometimes another 
 TERM Iniquous DEF Iniquitous 
 TERM Inirritable DEF irritable esp incapable stimulated action muscle 
 TERM Inirritative DEF accompanied excitement 
@@ -3287,7 +3287,7 @@ TERM injectable DEF capable conveniently injected used drug preparations sterile
 TERM Injection DEF act injecting throwing in applied particularly forcible insertion liquid gas means syringe pump etc injected especially liquid inserted thrown cavity body syringe pipe clyster enema act process filling vessels cavities tissues fluid substance act throwing cold water condenser produce vacuum 
 TERM Injector DEF who which injects contrivance forcing feed water steam boiler direct action steam upon water water driven boiler impulse jet steam becomes condensed soon strikes stream cold water impels also called inventor 
 TERM Injelly DEF place jelly 
-TERM Injoin DEF See 
+TERM Injoin DEF 
 TERM Injoint DEF join unite 
 TERM Injoint DEF disjoint separate 
 TERM Injucundity DEF Unpleasantness disagreeableness 
@@ -3307,10 +3307,10 @@ TERM Injuriousness DEF quality injurious hurtful harmfulness injury
 TERM Injury DEF damage hurt done person thing detriment to violation of person character feelings rights property interests individual injures occasions wrong loss damage detriment harm hurt loss mischief wrong evil health impaired severe slander 
 TERM Injustice DEF Lack justice equity violation rights another others iniquity wrong unfairness imposition unjust act deed sin crime wrong 
 TERM Ink DEF step socket lower end millstone spindle runs 
-TERM Ink DEF fluid viscous material preparation various kinds (commonly black colored) used writing printing pigment See 
+TERM Ink DEF fluid viscous material preparation various kinds (commonly black colored) used writing printing pigment 
 TERM Ink DEF put ink upon supply ink blacken color daub ink 
 TERM Inker DEF who which inks especially printing pad roller inks type 
-TERM Inkfish DEF cuttlefish See 
+TERM Inkfish DEF cuttlefish 
 TERM Inkhorn DEF small bottle horn material formerly used holding ink inkstand portable case writing materials 
 TERM Inkhorn DEF Learned pedantic affected 
 TERM Inkhornism DEF Pedantry 
@@ -3321,7 +3321,7 @@ TERM Inkle DEF kind tape braid
 TERM Inkle DEF guess 
 TERM Inkling DEF hint intimation 
 TERM Inknee DEF 
-TERM Inkneed DEF See 
+TERM Inkneed DEF 
 TERM Inknot DEF fasten bind knot knot together 
 TERM Inkstand DEF small vessel holding ink dip pen into also device holding ink writing materials 
 TERM Inkstone DEF kind stone containing native vitriol sulphate iron used making ink 
@@ -3329,28 +3329,28 @@ TERM Inky DEF Consisting of resembling ink soiled ink black
 TERM Inlace DEF work in lace embellish work resembling lace also lace enlace 
 TERM Inlagation DEF restitution outlawed person protection law inlawing 
 TERM Inlaid DEF 
-TERM Inland DEF Within land less remote ocean open water interior Limited land inland routes within seashore boundary passing on over sea transportation commerce navigation Confined country state domestic foreign bill See 
+TERM Inland DEF Within land less remote ocean open water interior Limited land inland routes within seashore boundary passing on over sea transportation commerce navigation Confined country state domestic foreign bill 
 TERM Inland DEF interior part country 
 TERM Inland DEF Into towards interior away coast 
 TERM Inlander DEF lives interior country distance sea 
 TERM Inlandish DEF Inland 
 TERM Inlapidate DEF convert stony substance petrify 
-TERM Inlard DEF See 
+TERM Inlard DEF 
 TERM Inlaw DEF clear outlawry attainder place protection law 
 TERM in-law DEF person related marriage distinguished esp (the mother one's spouse) (the father one's spouse) (the brother one's spouse husband one's spouse's sister) (the sister one's spouse wife one's spouse's brother) 
-TERM -in-law DEF suffix meaning See 
+TERM -in-law DEF suffix meaning 
 TERM Inlay DEF lay within hence insert pieces pearl ivory mother-of-pearl choice woods like groundwork material form ornamental surface diversify adorn insertions 
 TERM Inlay DEF Matter pieces wood ivory etc inlaid prepared inlaying inserted inlaid ornament variety ornamented ivory 
 TERM Inlayer DEF inlays occupation inlay 
 TERM Inleague DEF ally form alliance with unite combine 
 TERM Inleaguer DEF beleaguer 
 TERM Inlet DEF passage inclosed place may entered place ingress entrance bay recess shore sea lake large river narrow strip water running land islands let inlaid inserted material 
-TERM Inlighten DEF See 
-TERM Inlist DEF See 
+TERM Inlighten DEF 
+TERM Inlist DEF 
 TERM Inlive DEF animate 
 TERM Inlock DEF lock in inclose 
 TERM In loco DEF place proper natural place 
-TERM Inlumine DEF See 
+TERM Inlumine DEF 
 TERM Inly DEF Internal interior secret 
 TERM Inly DEF Internally within heart 
 TERM Inmacy DEF state inmate 
@@ -3363,9 +3363,9 @@ TERM in-migration DEF migration place
 TERM Inmost DEF Deepest within farthest surface external part innermost 
 TERM Inn DEF place shelter hence dwelling habitation residence abode house lodging entertainment travelers wayfarers tavern public house hotel town residence nobleman distinguished person Leicester colleges (societies buildings) London students law barristers Court Chancery Serjeants' 
 TERM Inn DEF take lodging lodge 
-TERM Inn DEF house lodge get in in See 
+TERM Inn DEF house lodge get in in 
 TERM innards DEF internal organs animal collectively especially abdominal cavity 
-TERM Innate DEF Inborn native natural vigor Originating in derived from constitution intellect opposed acquired experience See Joined base tip filament 
+TERM Innate DEF Inborn native natural vigor Originating in derived from constitution intellect opposed acquired experience Joined base tip filament 
 TERM Innate DEF cause exit call being 
 TERM Innately DEF Naturally 
 TERM Innateness DEF quality innate 
@@ -3426,7 +3426,7 @@ TERM Inoceramus DEF extinct genus large fossil bivalve shells allied mussels gen
 TERM Inoculability DEF quality state inoculable 
 TERM Inoculable DEF Capable inoculated capable communicating disease communicated inoculation 
 TERM Inocular DEF Inserted corner eye said certain insects 
-TERM Inoculate DEF bud insert graft bud tree plant another tree plant insert foreign bud into communicate disease (a person) inserting infectious matter skin flesh especially means inducing immunological resistance related diseases person virus smallpox rabies See Fig introduce mind used especially harmful ideas principles imbue treason introduce microorganisms (a growth medium) cause growth multiplication microorganisms fermentation vat actinomycete culture order produce 
+TERM Inoculate DEF bud insert graft bud tree plant another tree plant insert foreign bud into communicate disease (a person) inserting infectious matter skin flesh especially means inducing immunological resistance related diseases person virus smallpox rabies Fig introduce mind used especially harmful ideas principles imbue treason introduce microorganisms (a growth medium) cause growth multiplication microorganisms fermentation vat actinomycete culture order produce 
 TERM Inoculate DEF graft inserting buds communicate disease inoculation 
 TERM Inoculation DEF act art inoculating trees plants act practice communicating disease person health inserting contagious matter skin flesh usually purpose inducing immunity disease Fig communication principles especially false principles mind introduction microorganisms growth medium cause growth multiplication microorganisms 
 TERM Inoculator DEF inoculates propagates plants diseases inoculation 
@@ -3512,7 +3512,7 @@ TERM In rem DEF Lit (or the) thing
 TERM Inro DEF small closed receptacle set receptacles hard material lacquered wood iron bronze ivory used Japanese hold medicines perfumes like carried girdle usually secured silk cord wearer may grasp it cord passes ornamental button knob called netsuke 
 TERM Inroad DEF entrance enemy country purposes hostility sudden desultory incursion invasion raid encroachment 
 TERM Inroad DEF make inroad into invade 
-TERM Inroll DEF See 
+TERM Inroll DEF 
 TERM Inrunning DEF act place entrance inlet 
 TERM Inrush DEF rush inwards 
 TERM Inrush DEF rush in 
@@ -3526,7 +3526,7 @@ TERM Insanability DEF state insanable incurable insanableness
 TERM Insanable DEF capable healed incurable irremediable 
 TERM Insanableness DEF state insanable insanability incurableness 
 TERM Insanably DEF incurable manner 
-TERM Insane DEF Exhibiting unsoundness disorder mind sane mad deranged mind delirious distracted See 2 Used by appropriated to insane persons Causing insanity madness Characterized insanity utmost folly chimerical unpractical plan attempt 
+TERM Insane DEF Exhibiting unsoundness disorder mind sane mad deranged mind delirious distracted 2 Used by appropriated to insane persons Causing insanity madness Characterized insanity utmost folly chimerical unpractical plan attempt 
 TERM Insanely DEF Without reason madly foolishly 
 TERM Insaneness DEF Insanity madness 
 TERM Insaniate DEF render unsound make mad 
@@ -3548,7 +3548,7 @@ TERM Insaturable DEF capable saturated satisfied
 TERM Inscience DEF Lack knowledge ignorance 
 TERM Inscient DEF little knowledge ignorant stupid silly 
 TERM Inscient DEF knowledge insight intelligent 
-TERM Insconce DEF See 
+TERM Insconce DEF 
 TERM Inscribable DEF Capable inscribed used specif solids plane figures capable inscribed solids figures 
 TERM Inscribableness DEF Quality inscribable 
 TERM Inscribe DEF write engrave mark something read imprint mark letters characters words assign address to commend short address dedicate informally ode imprint deeply impress stamp sentence draw within meet yet cut boundaries 
@@ -3569,9 +3569,9 @@ TERM Inseam DEF impress mark seam cicatrix
 TERM inseam DEF inside seam article clothing especially seam runs crotch trouser leg bottom length inseam trouser leg 
 TERM Insearch DEF make search after investigate examine ensearch 
 TERM Insecable DEF Incapable divided cutting indivisible 
-TERM Insect DEF esp Hexapoda See air-breathing arthropod spider scorpion small crustacean wider sense word often loosely applied various small invertebrates Fig small trivial contemptible person thing 
+TERM Insect DEF esp Hexapoda air-breathing arthropod spider scorpion small crustacean wider sense word often loosely applied various small invertebrates Fig small trivial contemptible person thing 
 TERM Insect DEF pertaining insect insects Like insect small mean ephemeral 
-TERM Insecta DEF classes including pair pairs mouth organs breathe air means opening spiracles along sides body sense includes Hexapoda six-legged insects Myriapoda numerous legs See restricted sense Hexapoda alone See general sense Hexapoda Myriapoda Arachnoidea combined 
+TERM Insecta DEF classes including pair pairs mouth organs breathe air means opening spiracles along sides body sense includes Hexapoda six-legged insects Myriapoda numerous legs restricted sense Hexapoda alone general sense Hexapoda Myriapoda Arachnoidea combined 
 TERM Insectary DEF place keeping living insects 
 TERM Insectation DEF act pursuing pursuit harassment persecution 
 TERM Insectator DEF pursuer persecutor censorious critic 
@@ -3627,7 +3627,7 @@ TERM Insheathe DEF insert sheath sheathe
 TERM Inshell DEF hide shell 
 TERM Inship DEF embark 
 TERM Inshore DEF near moving towards shore fisheries 
-TERM Inshrine DEF See 
+TERM Inshrine DEF 
 TERM Insiccation DEF act process drying in 
 TERM Inside DEF Within sides of interior contained within house book bottle 
 TERM Inside DEF within included inclosed anything contained interior internal passengers stagecoach Adapted interior 
@@ -3670,7 +3670,7 @@ TERM Insipient DEF Wanting wisdom stupid foolish
 TERM Insist DEF stand rest find support take stand refuse give way hold something firmly determinedly persistent urgent pressing persist demanding followed conditions going once must 
 TERM Insistence DEF quality insisting urgent pressing act dwelling upon special importance persistence urgency 
 TERM insistency DEF state urgently demanding notice attention insistence quality ignorable 
-TERM Insistent DEF Standing resting something Insisting persistent persevering See 
+TERM Insistent DEF Standing resting something Insisting persistent persevering 
 TERM Insistently DEF insistent manner 
 TERM Insisture DEF dwelling standing something fixedness persistence 
 TERM Insitiency DEF Freedom thirst 
@@ -3728,7 +3728,7 @@ TERM Inspirable DEF Capable inspired drawn lungs inhalable respirable admitting 
 TERM Inspiration DEF act inspiring breathing in breath specif drawing air lungs accomplished mammals elevation chest walls flattening diaphragm opposite act power exercising elevating stimulating influence upon intellect emotions result influence quickens stimulates occasion art supernatural divine influence prophets apostles sacred writers qualified communicate moral religious truth authority supernatural influence qualifies men receive communicate divine truth also truth communicated 
 TERM Inspirational DEF Pertaining inspiration Imparting inspiration{2} 
 TERM Inspirationist DEF holds inspiration 
-TERM Inspirator DEF kind injector forcing water steam See 2 
+TERM Inspirator DEF kind injector forcing water steam 2 
 TERM Inspiratory DEF Pertaining to aiding inspiration 
 TERM Inspire DEF breathe into fill breath animate infuse breathing breathing draw operation breathing inhale opposed infuse mind communicate spirit convey divine supernatural influence disclose preternaturally produce in inspiration infuse into affect superior supernatural influence fill animates enlivens exalts communicate inspiration to child sentiments virtue person extraordinary 
 TERM Inspire DEF draw breath inhale air lungs opposed breathe blow gently 
@@ -3748,14 +3748,14 @@ TERM Installation DEF act installing air conditioner took half act installing (a
 TERM installing DEF act installing something (as equipment) 
 TERM instalment DEF 
 TERM installment DEF act installing installation seat placed portion debt sum money divided portions made payable different times portion debt payed back payment next due January Payment payment parts different times amounts times often definitely stipulated part broadcast serial part published serial 
-TERM Instamp DEF See 
+TERM Instamp DEF 
 TERM Instance DEF act quality instant pressing urgency solicitation application suggestion motion instant urgent motive Occasion order occurrence offers offered illustrative case something cited proof exemplification case occurring example could find poisoning town within past token sign symptom indication 
 TERM Instance DEF mention case example refer to cite 
 TERM Instance DEF give example 
 TERM Instancy DEF Instance urgency 
 TERM Instant DEF Pressing urgent importunate earnest Closely pressing impending respect time deferred immediate without delay Present current 
 TERM Instant DEF Instantly 
-TERM Instant DEF point time moment portion time short estimated also particular moment situation may change day present current month sixth elliptical expression equivalent sixth month i e current See 3 
+TERM Instant DEF point time moment portion time short estimated also particular moment situation may change day present current month sixth elliptical expression equivalent sixth month i e current 3 
 TERM Instantaneity DEF Quality instantaneous 
 TERM Instantaneous DEF Done occurring instant without perceptible duration time passage electricity appears given instant acceleration velocity 
 TERM Instanter DEF Immediately instantly once left 
@@ -3793,7 +3793,7 @@ TERM Instinction DEF Instinct incitement inspiration
 TERM Instinctive DEF pertaining instinct derived from prompted by instinct nature instinct determined natural impulse propensity acting produced without reasoning deliberation instruction experience spontaneous 
 TERM Instinctively DEF instinctive manner force instinct natural impulse 
 TERM Instinctivity DEF quality instinctive prompted instinct 
-TERM Instipulate DEF See 
+TERM Instipulate DEF 
 TERM Institute DEF Established organized founded 
 TERM Institute DEF set up establish ordain laws rules originate establish found organize court nominate appoint begin commence set foot inquiry ground establish principles rudiments educate instruct invest spiritual charge benefice care souls 
 TERM Institute DEF act instituting institution instituted established fixed law habit custom Hence elementary necessary principle precept maxim rule recognized established authoritative usually plural collection principles precepts esp comprehensive summary legal principles decisions Justinian Coke's Laws Cf institution society established promotion learning art science etc college Massachusetts Technology also building owned occupied institute Cooper person estate first given destination limitation 
@@ -3811,7 +3811,7 @@ TERM Instratified DEF Interstratified
 TERM Instroke DEF inward stroke specif steam engine stroke piston moving away crank shaft opposed 
 TERM Instruct DEF Arranged furnished provided Instructed taught enlightened 
 TERM Instruct DEF put order form prepare form communication knowledge inform mind of impart knowledge information to enlighten teach discipline furnish directions advise direct command judge 
-TERM Instructer DEF See 
+TERM Instructer DEF 
 TERM Instructible DEF Capable instructed teachable docible 
 TERM Instruction DEF act instructing teaching furnishing knowledge information instructs instructed intelligence information imparted segment coded data interpreted computer command perform operation series operations term applied electronic form data represented executed computer line written computer code interpreted instruction compiler comprised 
 TERM Instructional DEF Pertaining to promoting instruction educational 
@@ -3842,7 +3842,7 @@ TERM Insubstantial DEF Unsubstantial real strong
 TERM Insubstantiality DEF Unsubstantiality unreality 
 TERM Insuccation DEF act soaking moistening maceration solution juice herbs 
 TERM Insuccess DEF Lack success 
-TERM Insue DEF See 
+TERM Insue DEF 
 TERM Insuetude DEF state quality unaccustomed absence use habit 
 TERM Insufferable DEF Incapable suffered borne endured insupportable unendurable intolerable heat cold pain Offensive beyond endurance detestable 
 TERM Insufferably DEF manner degree beyond endurance intolerably blaze bright person 
@@ -3912,18 +3912,18 @@ TERM Intactable DEF
 TERM Intactible DEF perceptible touch 
 TERM Intagliated DEF Engraved intaglio 
 TERM Intaglio DEF cutting engraving figure cut something gem make design depressed surface material hence anything carved impressed gem matrix etc opposed Also used adjectively 
-TERM Intail DEF See 
+TERM Intail DEF 
 TERM Intake DEF place water air substance taken pipe conduit machine opposed beginning contraction narrowing tube cylinder quantity taken in 
 TERM Intaminated DEF Uncontaminated 
 TERM Intangibility DEF quality state intangible intangibleness 
 TERM Intangible DEF tangible incapable touched perceptible touch impalpable imperceptible 
-TERM Intangle DEF See 
+TERM Intangle DEF 
 TERM Intastable DEF Incapable tasted tasteless unsavory 
 TERM Integer DEF complete entity whole number contradistinction fraction mixed number 
 TERM Integrability DEF quality integrable 
 TERM Integrable DEF Capable integrated 
 TERM Integral DEF Lacking nothing completeness complete perfect uninjured whole entire Essential completeness constituent part pertaining to serving form integer integrant Of pertaining to being whole number undivided quantity fractional 
-TERM Integral DEF whole entire thing whole number individual expression which differentiated produce given differential See differential Cf 
+TERM Integral DEF whole entire thing whole number individual expression which differentiated produce given differential differential Cf 
 TERM Integrality DEF Entireness 
 TERM Integrally DEF integral manner wholly completely also integration 
 TERM Integrant DEF Making part whole necessary constitute entire thing integral 
@@ -3931,7 +3931,7 @@ TERM Integrate DEF form whole make entire complete renew restore perfect indicat
 TERM integrated DEF Formed united whole Formed whole introduced another entity Opposite different groups treated together equals group racially Resembling living organism organization development combined Opposite constituent parts mixed form single unit Opposite 
 TERM integrating DEF action incorporating racial religious group community 
 TERM integrative DEF tending combine coordinate diverse elements whole centralizing(prenominal) Opposite 
-TERM Integration DEF act process making whole entire operation finding primitive function given function differential coefficient See theory evolution process manifold compacted relatively simple permanent supposed alternate differentiation agent development 
+TERM Integration DEF act process making whole entire operation finding primitive function given function differential coefficient theory evolution process manifold compacted relatively simple permanent supposed alternate differentiation agent development 
 TERM Integrator DEF integrates esp instrument means area figure measured directly moment inertia statical moment etc determined 
 TERM Integrity DEF state quality entire complete wholeness entireness unbroken state empire Moral soundness honesty freedom corrupting influence motive used especially reference fulfillment contracts discharge agencies trusts like uprightness rectitude Unimpaired unadulterated genuine state entire correspondence original condition purity 
 TERM Integropallial DEF pallial line entire without sinus certain bivalve shells 
@@ -3987,7 +3987,7 @@ TERM Intendant DEF Attentive
 TERM Intended DEF Made tense stretched out extended forcible violent Purposed designed harm Betrothed affianced 
 TERM Intended DEF marriage designed betrothed affianced lover 
 TERM Intendedly DEF Intentionally 
-TERM Intendent DEF See 
+TERM Intendent DEF 
 TERM Intender DEF intends 
 TERM Intendiment DEF Attention consideration knowledge understanding 
 TERM Intendment DEF Charge oversight Intention design purpose true meaning understanding intention law legal instrument 
@@ -4017,7 +4017,7 @@ TERM Intensiveness DEF quality state intensive intensity
 TERM Intent DEF Closely directed strictly attentive bent said mind thoughts etc mind mind closely directed bent object sedulous eager pursuit object formerly business 
 TERM Intent DEF act turning mind toward object hence design purpose intention meaning drift aim 
 TERM Intentation DEF Intention 
-TERM Intention DEF stretching bending mind toward object closeness application fixedness attention earnestness determination act certain way certain thing purpose design go New object toward thoughts directed end aim state strained See mental apprehension object 
+TERM Intention DEF stretching bending mind toward object closeness application fixedness attention earnestness determination act certain way certain thing purpose design go New object toward thoughts directed end aim state strained mental apprehension object 
 TERM Intentional DEF Done intention design intended designed act Opposite 
 TERM Intentionality DEF quality state intentional purpose design 
 TERM Intentionally DEF intentional manner intention design purpose 
@@ -4039,7 +4039,7 @@ TERM Interagent DEF intermediate agent
 TERM Interall DEF Entrail inside 
 TERM Interalveolar DEF alveoli septa adjacent air cells 
 TERM Interambulacral DEF pertaining interambulacra 
-TERM Interambulacrum DEF echinoderms areas zones intervening ambulacra See 
+TERM Interambulacrum DEF echinoderms areas zones intervening ambulacra 
 TERM Interamnian DEF Situated rivers 
 TERM Interanimate DEF animate inspire mutually 
 TERM Interarboration DEF interweaving branches trees 
@@ -4049,14 +4049,14 @@ TERM Interaulic DEF Existing royal courts
 TERM Interauricular DEF auricles partition 
 TERM Interaxal DEF Situated interaxis 
 TERM Interaxillary DEF Situated within axils leaves 
-TERM Interaxis DEF space axes See 6 
+TERM Interaxis DEF space axes 6 
 TERM Interbastation DEF Patchwork 
 TERM Interbrachial DEF arms 
-TERM Interbrain DEF See 
+TERM Interbrain DEF 
 TERM Interbranchial DEF 
 TERM Interbreed DEF breed crossing different stocks animals plants 
 TERM Intercalar DEF Intercalary 
-TERM Intercalary DEF Inserted introduced among calendar month day applied particularly odd day (Feb 29) inserted calendar leap year See Introduced inserted among others additional supernumerary 
+TERM Intercalary DEF Inserted introduced among calendar month day applied particularly odd day (Feb 29) inserted calendar leap year Introduced inserted among others additional supernumerary 
 TERM Intercalate DEF insert day portion time calendar insert among others verse stanza specif introduce bed stratum layers regular series rocks 
 TERM Intercalation DEF insertion day portion time calendar insertion introduction anything among others insertion phrase line verse metrical composition 
 TERM Intercarotid DEF Situated external internal carotid arteries 
@@ -4096,7 +4096,7 @@ TERM Intercident DEF Falling coming between happening accidentally
 TERM Intercipient DEF Intercepting stopping 
 TERM Intercision DEF cutting off through asunder interruption 
 TERM Intercitizenship DEF mutual right civic privileges different States 
-TERM Interclavicle DEF See 
+TERM Interclavicle DEF 
 TERM Interclavicular DEF clavicles notch 
 TERM Interclose DEF shut in inclose 
 TERM Intercloud DEF cloud 
@@ -4175,7 +4175,7 @@ TERM Interfacial DEF Included plane surfaces faces pertaining interface
 TERM interfaith DEF involving persons different religious faiths marriage good 
 TERM Interfascicular DEF fascicles bundles spaces connective 
 TERM Interferant DEF contestants interference Patent Office 
-TERM Interfere DEF come collision opposition clash usually used claims commands workers crowded shop may other's enter into take part in concerns others intermeddle interpose used way raise strike foot opposite foot ankle using legs sometimes said human being usually horse horse act reciprocally augment diminish otherwise affect another said waves rays light heat etc See 2 cover ground claim invention another 
+TERM Interfere DEF come collision opposition clash usually used claims commands workers crowded shop may other's enter into take part in concerns others intermeddle interpose used way raise strike foot opposite foot ankle using legs sometimes said human being usually horse horse act reciprocally augment diminish otherwise affect another said waves rays light heat etc 2 cover ground claim invention another 
 TERM Interference DEF act state interfering stoppage machine parts meddlesome business mutual influence certain conditions streams light pulsations sound or generally waves vibrations kind producing certain characteristic phenomena colored fringes dark bands darkness case light silence increased intensity sounds neutralization superposition waves generally act state interfering claiming right invention 
 TERM Interferer DEF interferes 
 TERM Interferingly DEF interference 
@@ -4187,7 +4187,7 @@ TERM Interfolded DEF Intertwined interlocked clasped together
 TERM Interfoliaceous DEF node opposite whorled leaves occupying position places attachment 
 TERM Interfoliate DEF interleave 
 TERM Interfollicular DEF follicles septa lymphatic 
-TERM Interfretted DEF Interlaced linked together said charges bearings See 
+TERM Interfretted DEF Interlaced linked together said charges bearings 
 TERM Interfulgent DEF Shining between 
 TERM Interfuse DEF pour spread among diffuse scatter spread through permeate pervade mix together associate 
 TERM Interfusion DEF act interfusing state interfused 
@@ -4268,7 +4268,7 @@ TERM Interlunar DEF Belonging pertaining time moon near conjunction sun invisibl
 TERM Intermandibular DEF mandibles interramal 
 TERM Intermarriage DEF Connection marriage reciprocal marriage giving taking marriage families tribes races castes nations 
 TERM Intermarry DEF become connected marriage members give take mutually marriage said families ranks races castes etc 
-TERM Intermaxilla DEF See 
+TERM Intermaxilla DEF 
 TERM Intermaxillary DEF maxillary bones 
 TERM Intermean DEF Something done meantime interlude 
 TERM Intermeation DEF flowing between 
@@ -4301,7 +4301,7 @@ TERM Intermention DEF mention among things casually incidentally
 TERM Intermesenteric DEF Within mesentery aortic 
 TERM Intermetacarpal DEF metacarpal bones 
 TERM Intermetatarsal DEF metatarsal bones 
-TERM Intermezzo DEF interlude intermede See 
+TERM Intermezzo DEF interlude intermede 
 TERM Intermicate DEF flash shine among 
 TERM Intermication DEF shining among 
 TERM Intermigration DEF Reciprocal migration interchange dwelling place migration 
@@ -4391,8 +4391,8 @@ TERM Interoperable DEF able function different programs operating systems Used d
 TERM Interopercular DEF pertaining interoperculum 
 TERM Interoperculum DEF postero-inferior opercular bone fishes 
 TERM Interorbital DEF orbits 
-TERM Interosculant DEF Mutually touching intersecting Uniting groups said certain genera connect family groups species connect genera See 
-TERM Interosculate DEF kiss together touch See character of lie between distinct groups 
+TERM Interosculant DEF Mutually touching intersecting Uniting groups said certain genera connect family groups species connect genera 
+TERM Interosculate DEF kiss together touch character of lie between distinct groups 
 TERM Interosseous DEF 
 TERM Interosseal DEF Situated bones 
 TERM Interpale DEF place pales among separate pales interweave interlace 
@@ -4415,7 +4415,7 @@ TERM Interpilaster DEF interval space pilasters
 TERM Interplace DEF place among 
 TERM Interplanetary DEF planets spaces 
 TERM Interplay DEF Mutual action influence interaction 
-TERM Interplead DEF plead other go trial themselves claimants interpleader See 
+TERM Interplead DEF plead other go trial themselves claimants interpleader 
 TERM Interpleader DEF interpleads proceeding devised enable person debt duty thing claimed adversely parties compel litigate right title themselves thereby relieve suits might otherwise bring him 
 TERM Interpledge DEF pledge mutually 
 TERM Interpoint DEF point mark stops pauses punctuate 
@@ -4590,7 +4590,7 @@ TERM Intestate DEF Without made valid will without will die devised bequeathed d
 TERM Intestate DEF person dies without making valid will 
 TERM Intestinal DEF pertaining intestines animal tube digestion 
 TERM Intestine DEF Internal inward opposed Internal regard state country domestic foreign applied usually evil disorders calamities Depending upon internal constitution body entity subjective Shut up inclosed 
-TERM Intestine DEF part alimentary canal stomach anus See bowels entrails viscera 
+TERM Intestine DEF part alimentary canal stomach anus bowels entrails viscera 
 TERM Intext DEF text book 
 TERM Intextine DEF thin membrane existing pollen grains plants situated extine intine 
 TERM Intextured DEF Inwrought woven in 
@@ -4601,7 +4601,7 @@ TERM Inthrone DEF
 TERM Inthrong DEF throng collect together 
 TERM Inthronization DEF Enthronement 
 TERM Inthronize DEF enthrone 
-TERM Intice DEF See 
+TERM Intice DEF 
 TERM intima DEF innermost coat organ blood vessel usually consists endothelial layer cells backed connective tissue elastic tissue 
 TERM intimal DEF pertaining intima 
 TERM Intimacy DEF state intimate close familiarity association nearness friendship 
@@ -4620,8 +4620,8 @@ TERM Intinction DEF act tingeing dyeing method practice administration sacrament
 TERM Intinctivity DEF lack quality coloring tingeing bodies 
 TERM Intine DEF transparent extensible membrane extreme tenuity forms innermost coating grains pollen 
 TERM Intirely DEF 
-TERM Intire DEF See 
-TERM Intitle DEF See 
+TERM Intire DEF 
+TERM Intitle DEF 
 TERM Intitule DEF entitle give title to 
 TERM Into DEF inside of within used variety applications Expressing entrance passing outside thing interior parts following verbs expressing motion come house go church stream falls runs another water enters fine vessels Expressing penetration beyond outside surface access inside contents look letter book look Indicating insertion infuse spirit animation Denoting inclusion put ideas Indicating passing thing form condition state another compound substances may resolved simple ice convertible water water vapor men easily drawn forced compliance may reduce many distinct substances mass men led evidence belief truth often enticed commission crimes burst tears children sometimes frightened fits persons liable seduced error 
 TERM Intolerability DEF quality intolerable intolerableness 
@@ -4634,8 +4634,8 @@ TERM Intolerantly DEF intolerant manner
 TERM Intolerated DEF tolerated 
 TERM Intolerating DEF Intolerant 
 TERM Intoleration DEF Intolerance lack toleration refusal tolerate difference opinion 
-TERM Intomb DEF place tomb bury entomb See 
-TERM Intombment DEF See 
+TERM Intomb DEF place tomb bury entomb 
+TERM Intombment DEF 
 TERM Intonate DEF thunder 
 TERM Intonate DEF sound tones musical scale practice sol-fa modulate voice musical sonorous measured manner reading liturgy intone 
 TERM Intonate DEF utter musical sonorous manner chant 
@@ -4645,7 +4645,7 @@ TERM Intone DEF utter musical prolonged note tone chant church speak distinctive
 TERM Intone DEF utter prolonged tone deep protracted sound speak recite measured sonorous manner intonate 
 TERM Intorsion DEF winding bending twisting bending twining part plant toward side other direction vertical 
 TERM Intort DEF twist out twine wreathe wind wring 
-TERM Intortion DEF See 
+TERM Intortion DEF 
 TERM Intoxicant DEF intoxicates intoxicating agent alcohol opium laughing gas 
 TERM Intoxicate DEF Intoxicated Overexcited joy grief 
 TERM Intoxicate DEF poison drug make drunk inebriate excite stupefy strong drink narcotic substance excite transport enthusiasm frenzy madness elate unduly excessively 
@@ -4663,7 +4663,7 @@ TERM Intractile DEF tractile incapable drawn extended
 TERM intracutaneous DEF relating areas layers skin 
 TERM intradermal DEF relating areas layers skin 
 TERM intradermic DEF 
-TERM Intrados DEF interior curve arch esp inner lower curved face whole body voussoirs taken together See 
+TERM Intrados DEF interior curve arch esp inner lower curved face whole body voussoirs taken together 
 TERM Intrafoliaceous DEF Growing immediately above front of leaf 
 TERM Intrafusion DEF act pouring vessel specif operation introducing substance blood vessel 
 TERM Intralobular DEF Within lobules branches hepatic 
@@ -4687,7 +4687,7 @@ TERM Intransmutable DEF capable transmuted changed another substance
 TERM Intrant DEF Entering penetrating 
 TERM Intrant DEF enters especially person entering upon office station 
 TERM Intranuclear DEF pertaining to located inside nucleus taking place within nucleus referring especially nucleus cell network fibrils seen first stages 
-TERM Intrap DEF See 
+TERM Intrap DEF 
 TERM Intraparietal DEF Situated occurring within inclosure shut public sight private secluded retired 
 TERM Intrapetiolar DEF Situated petiole stem said pair stipules base petiole united margins next petiole thus seeming form single stipule petiole stem branch often confounded differs essentially meaning 
 TERM Intraterritorial DEF Within territory territory 
@@ -4700,7 +4700,7 @@ TERM Intravenous DEF Within veins Administered injection vein antibiotic
 TERM Intraventricular DEF Within ventricles 
 TERM in-tray DEF wood metal receptacle placed desk hold incoming material requiring attention especially documents 
 TERM Intreasure DEF lay up treasury hoard 
-TERM Intreat DEF See 
+TERM Intreat DEF 
 TERM Intreatable DEF entreated inexorable 
 TERM Intreatance DEF Entreaty 
 TERM Intreatful DEF Full entreaty 
@@ -4805,7 +4805,7 @@ TERM Intwine DEF twine twist into together wreathe wreath flowers
 TERM Intwine DEF become intwined 
 TERM Intwinement DEF act intwining state intwined 
 TERM Intwist DEF twist together interweave 
-TERM Inuendo DEF See 
+TERM Inuendo DEF 
 TERM Inulin DEF substance wide occurrence found dissolved sap roots rhizomes many composite plants etc extracted solution tasteless white semicrystalline substance resembling starch isomeric fructose units place glucose units intermediate nature starch sugar replaces starch reserve food Compositae Called also etc 
 TERM Inuloid DEF substance resembling inulin found unripe bulbs dahlia 
 TERM Inumbrate DEF shade darken 
@@ -4848,7 +4848,7 @@ TERM Invalidate DEF render invalid weaken lessen force of destroy authority of r
 TERM invalidated DEF deprived legal force 
 TERM invalidating DEF tending invalidate prove false 
 TERM Invalidation DEF act inavlidating state invalidated 
-TERM Invalide DEF See 
+TERM Invalide DEF 
 TERM Invalidism DEF condition invalid sickness infirmity 
 TERM Invalidity DEF Lack validity cogency lack legal force efficacy invalidness agreement Lack health infirmity 
 TERM Invalidness DEF Invalidity 
@@ -4878,7 +4878,7 @@ TERM Inveigler DEF inveigles
 TERM Inveil DEF cover veil 
 TERM Invendibility DEF quality invendible invendibleness unsalableness 
 TERM Invendible DEF vendible salable 
-TERM Invenom DEF See 
+TERM Invenom DEF 
 TERM Invent DEF come light upon meet find discover study inquiry find out devise contrive produce first time applied commonly discovery serviceable mode instrument machine frame imagination fabricate mentally forge good bad sense machinery poem 
 TERM Inventer DEF invents 
 TERM Inventful DEF Full invention 
@@ -4900,8 +4900,8 @@ TERM Inverness DEF kind full sleeveless cape fitting closely neck
 TERM Inverse DEF Opposite order relation effect reversed inverted reciprocal opposed Inverted position mode attachment reverse usual Opposite nature effect said reference operations which performed succession upon quantity reproduce quantity multiplication operation symbol inverse operation symbol direct operation index Thus means arc angle sine 
 TERM Inverse DEF inverse 
 TERM Inversely DEF inverse order manner inversion opposed 
-TERM Inversion DEF act inverting turning backward state inverted change inverted order reversed position arrangement things transposition movement tactics order companies line inverted right left left right on change order terms proportion second takes place first fourth third peculiar method transformation figure replaced inverse figure Propositions true original figure thus furnish new propositions true inverse figure See change usual order words phrases vices impurity instead of detestable method reasoning orator shows arguments advanced adversary opposition really favorable cause Said lower tone placed octave higher fifths become fourths thirds sixths etc folding back strata upon themselves upheaval manner order succession appears reversed act process cane sugar action heat acids enzymes (as broken split grape sugar fruit sugar also less properly process starch converted grape sugar reversal usual temperature gradient atmosphere temperature increases increased altitude rather falling Called also conversion direct current alternating current inverse See portion genome DNA turned around runs direction opposite normal direction consequently genes present reverse usual order 
-TERM Invert DEF turn over put upside down upset place contrary order direction reverse cup order words rules justice change position of said tones form chord parts compose harmony divert convert wrong use convert reverse decompose by subject to inversion See 10 
+TERM Inversion DEF act inverting turning backward state inverted change inverted order reversed position arrangement things transposition movement tactics order companies line inverted right left left right on change order terms proportion second takes place first fourth third peculiar method transformation figure replaced inverse figure Propositions true original figure thus furnish new propositions true inverse figure change usual order words phrases vices impurity instead of detestable method reasoning orator shows arguments advanced adversary opposition really favorable cause Said lower tone placed octave higher fifths become fourths thirds sixths etc folding back strata upon themselves upheaval manner order succession appears reversed act process cane sugar action heat acids enzymes (as broken split grape sugar fruit sugar also less properly process starch converted grape sugar reversal usual temperature gradient atmosphere temperature increases increased altitude rather falling Called also conversion direct current alternating current inverse portion genome DNA turned around runs direction opposite normal direction consequently genes present reverse usual order 
+TERM Invert DEF turn over put upside down upset place contrary order direction reverse cup order words rules justice change position of said tones form chord parts compose harmony divert convert wrong use convert reverse decompose by subject to inversion 10 
 TERM Invert DEF undergo inversion sugar 
 TERM Invert DEF Subjected process inversion inverted converted 
 TERM Invert DEF inverted arch 
@@ -4994,22 +4994,22 @@ TERM Invocatory DEF Making containing invocation invoking
 TERM Invoice DEF written account particulars merchandise shipped sent purchaser consignee factor etc value prices charges annexed lot set goods shipped received merchant receives large 
 TERM Invoice DEF make written list account of goods sent consignee insert priced list write enter invoice 
 TERM Invoke DEF call aid protection invite earnestly solemnly summon address prayer solicit demand invocation implore Supreme Being 
-TERM Involucel DEF partial secondary small involucre See 
+TERM Involucel DEF partial secondary small involucre 
 TERM Involucellate DEF Furnished involucels 
-TERM Involucellum DEF See 
+TERM Involucellum DEF 
 TERM Involucral DEF Pertaining to possessing like involucrum 
 TERM Involucrated DEF 
 TERM Involucrate DEF involucre involucred 
 TERM Involucre DEF whorl set bracts around flower umbel head 
 TERM Involucred DEF involucre umbels heads etc 
 TERM Involucret DEF involucel 
-TERM Involucrum DEF See sheath surrounds base lasso cells 
+TERM Involucrum DEF sheath surrounds base lasso cells 
 TERM Involuntarily DEF involuntary manner voluntarily intentionally willingly 
 TERM Involuntariness DEF quality state involuntary unwillingness automatism 
 TERM Involuntary DEF power choice influence control will voluntary movements body muscle proceeding choice done unwillingly reluctant compulsory 
 TERM Involuted DEF 
 TERM Involute DEF Rolled inward edges said leaves vernation petals flowers Turned inward margin exterior lip Cyprea 
-TERM Involute DEF curve traced end string wound upon another curve unwound it called also See 
+TERM Involute DEF curve traced end string wound upon another curve unwound it called also 
 TERM Involution DEF act involving infolding state entangled involved complication entanglement anything involved folded wrapped envelope insertion clauses subject verb way involves complicates construction act process raising quantity power assigned multiplication quantity given number times reverse relation exists sets points related point O line product = = constant Sets lines surfaces possessing corresponding properties may return enlarged part organ normal size pregnancy 
 TERM Involve DEF roll fold up wind round entwine envelop completely surround cover hide darkness obscurity complicate make intricate grammatical structure connect something natural logical consequence effect include necessarily imply take in gather in mingle confusedly blend merge envelop infold entangle embarrass person debt engage thoroughly occupy employ absorb raise assigned power multiply quantity given number times quantity third fourth 
 TERM Involved DEF 
@@ -5030,7 +5030,7 @@ TERM Inward DEF Toward inside toward center interior bend thing Into toward mind
 TERM Inwardly DEF inner parts internally Toward center inward curve heart mind mentally privately secretly Intimately thoroughly 
 TERM inward-moving DEF moving directed toward center axis especially spinning traveling curve 
 TERM Inwardness DEF Internal true state essential nature Intimacy familiarity Heartiness earnestness 
-TERM Inwards DEF See 
+TERM Inwards DEF 
 TERM Inweave DEF weave together intermix intertwine weaving interlace 
 TERM Inwheel DEF encircle 
 TERM Inwit DEF Inward sense mind understanding conscience 
@@ -5042,7 +5042,7 @@ TERM Inwreathe DEF surround encompass wreath
 TERM Inwrought DEF Wrought worked among things worked fabric part texture wrought adorned figures 
 TERM Io DEF exclamation joy triumph often interjectional 
 TERM Io DEF Greek mythology beautiful daughter Inachus king Argos Greece changed Hera (Juno) fit jealousy white heifer placed watch Argus hundred large moons planet Jupiter remarkable intense volcanic activity observed fly-bys space probes named mythological Io 
-TERM Iod- DEF See 
+TERM Iod- DEF 
 TERM Iodal DEF oily liquid analogous chloral bromal 
 TERM Iodate DEF salt iodic acid 
 TERM Iodhydrin DEF series compounds containing iodine analogous chlorhydrins 
@@ -5064,9 +5064,9 @@ TERM Iodocresol DEF several isomeric iodine derivatives cresols esp odorless amo
 TERM Iodoform DEF yellow crystalline volatile substance offensive odor sweetish taste analogous chloroform used medicine healing antiseptic dressing wounds sores 
 TERM Iodoformogen DEF light powder used substitute iodoform compound iodoform albumin 
 TERM Iodol DEF crystallized substance composition technically tetra-iodo-pyrrol used like iodoform 
-TERM Iodoquinine DEF iodide quinine obtained brown substance base herapathite See 
+TERM Iodoquinine DEF iodide quinine obtained brown substance base herapathite 
 TERM Iodothyrin DEF peculiar substance obtained thyroid gland containing per cent iodine 
-TERM Iodous DEF Pertaining to containing iodine See (chemical suffix) 
+TERM Iodous DEF Pertaining to containing iodine (chemical suffix) 
 TERM Ioduret DEF Iodide 
 TERM Iodyrite DEF Silver iodide mineral yellowish color 
 TERM Iolite DEF silicate alumina iron magnesia bright blue color vitreous luster cordierite remarkable dichroism also called variety called lighter blue color 
@@ -5076,13 +5076,13 @@ TERM Ion DEF atom goup atoms (radical) carrying electrical charge contrasted neu
 TERM ionate DEF add ions 
 TERM Ionia DEF region Western Asia Minor colonized Ancient Greeks 
 TERM Ionian DEF pertaining Ionia Ionians Ionic 
-TERM Ionic DEF pertaining Ionia Ionians Pertaining Ionic order architecture orders invented Greeks recognized Italian writers sixteenth century distinguishing feature capital spiral volutes See 
+TERM Ionic DEF pertaining Ionia Ionians Pertaining Ionic order architecture orders invented Greeks recognized Italian writers sixteenth century distinguishing feature capital spiral volutes 
 TERM Ionic DEF foot consisting syllables either long short is spondee pyrrhic case called short long is pyrrhic spondee case called Ionic dialect Homeric Ionic type 
 TERM ionic DEF pertaining ions composed ions containing ions breaking ions dissolved polar solvent solution conduct current Opposite 
 TERM Ionidium DEF genus violaceous plants chiefly found tropical America species used substitutes ipecacuanha 
 TERM Ionization DEF process converting neutral atoms molecules ions process may occur dissolving ionic substance dissociating solvent water adding subtracting electron atom molecule latter process occurs example electron beam mass spectrometer interaction substances 
 TERM ionize DEF dissociate ions dissolution water another polar solvent 
-TERM ionize DEF convert (an atom molecule) ions e g dissolving water reaction acid alkali interaction ionizing radiation See 
+TERM ionize DEF convert (an atom molecule) ions e g dissolving water reaction acid alkali interaction ionizing radiation 
 TERM ionized DEF converted totally partly ions Opposite 
 TERM ionizing radiation DEF rays rapidly moving subatomic particles x-reys gamma rays sufficiently energetic cause ionization absorbed matter 
 TERM ionophore DEF compound enhances transport ions across cellular membranes binding carrying across class tend lipophilic nature compound usually specific small number ions 
@@ -5102,7 +5102,7 @@ TERM Ipsus DEF battle successors (301 BC) defeated
 TERM I.Q. DEF 
 TERM IQ DEF measure person's intelligence indicated intelligence test ratio person's mental age chronological age (multiplied 100) 
 TERM Ir DEF chemical symbol iridium metallic element platinum group atomic number 77 atomic weight 19222 
-TERM Ir- DEF form prefix See 
+TERM Ir- DEF form prefix 
 TERM IRA DEF individual retirement account special type savings account allowed law provide deferred taxation interest paid 
 TERM IRA DEF Irish Republican Army group Ireland primary goal promoting unification Ireland severing political bond Northern Ireland Great Britain mostly secret membership militant wing sponsoring terrorist activities bombings killings police British soldiers Unionist sympathizers Northern Ireland 
 TERM Iracund DEF Irascible choleric 
@@ -5133,7 +5133,7 @@ TERM Iridaceous DEF Pertaining to resembling large natural order endogenous plan
 TERM Iridal DEF pertaining iris rainbow prismatic 
 TERM Iridectomy DEF act process cutting portion iris order form artificial pupil 
 TERM Iridescence DEF Exhibition colors like rainbow especially surface reflection changes color angle object viewed quality state iridescent prismatic play color due interference light waves reflected front back surfaces thin layer transpatrent semitransparent film 
-TERM Iridescent DEF colors like rainbow exhibiting play changeable colors nacreous prismatic See 
+TERM Iridescent DEF colors like rainbow exhibiting play changeable colors nacreous prismatic 
 TERM Iridian DEF pertaining iris rainbow 
 TERM Iridiated DEF Iridescent 
 TERM Iridic DEF pertaining iris eye 
@@ -5145,7 +5145,7 @@ TERM Iridize DEF point tip iridium gold pen make iridescent
 TERM Iridoline DEF nitrogenous base extracted coal-tar naphtha oily liquid member quinoline series probably identical 
 TERM Iridosmium DEF 
 TERM Iridosmine DEF native compound iridium osmium found flattened metallic grains extreme hardness often used pointing gold pens 
-TERM Iris DEF goddess rainbow swift-footed messenger gods rainbow appearance resembling rainbow prismatic play colors contractile membrane perforated pupil forming colored portion eye See genus plants showy flowers bulbous tuberous roots flower-de-luce orris species flag examples See See 2 inner circle oscillated color spot 
+TERM Iris DEF goddess rainbow swift-footed messenger gods rainbow appearance resembling rainbow prismatic play colors contractile membrane perforated pupil forming colored portion eye genus plants showy flowers bulbous tuberous roots flower-de-luce orris species flag examples 2 inner circle oscillated color spot 
 TERM Irisated DEF Exhibiting prismatic colors irised iridescent 
 TERM Iriscope DEF philosophical toy exhibiting prismatic tints means thin films 
 TERM Iris diaphragm DEF adjustable diaphragm reminiscent iris eye action diameter approximately circular opening may controlled regulating aperture lens consists number movable thin curved plates fastened regular intervals around inside ring positions simultaneously adjusted single knob outside lens used cameras microscopes 
@@ -5207,7 +5207,7 @@ TERM Ironware DEF Articles made iron household utensils tools like
 TERM Ironweed DEF tall weed purplish flowers name also applied plants genus 
 TERM Ironwood DEF tree unusually hard strong heavy wood 
 TERM Ironwork DEF Anything made iron general name parts pieces building vessel carriage etc consist iron 
-TERM Iron works DEF See 
+TERM Iron works DEF 
 TERM Ironwort DEF herb Mint family supposed heal sword cuts also species 
 TERM Irony DEF Made consisting iron partaking iron iron chains sense common term Resembling iron taste hardness physical property 
 TERM Irony DEF Dissimulation ignorance feigned purpose confounding provoking antagonist sort humor ridicule light sarcasm adopts mode speech meaning contrary literal sense words 
@@ -5225,7 +5225,7 @@ TERM irradiate DEF emit rays shine
 TERM irradiate DEF Illuminated irradiated 
 TERM irradiation DEF Act irradiating state irradiated foods X-rays preserve freshness killing bacteria cause spoilage Illumination irradiance brilliancy Fig Mental light illumination apparent enlargement bright object seen upon dark ground due fact portions retina around image stimulated intense light dark spot white ground appears smaller white spot dark ground larger really is esp little focus 
 TERM irradicate DEF root deeply 
-TERM irrational DEF rational void reason understanding brutes according reason rational basis clearly contrary reason easily disproved reasoning absurd assertions beliefs capable exactly expressed integral number ratio integral numbers surd said especially roots See 
+TERM irrational DEF rational void reason understanding brutes according reason rational basis clearly contrary reason easily disproved reasoning absurd assertions beliefs capable exactly expressed integral number ratio integral numbers surd said especially roots 
 TERM irrationality DEF quality state irrational absence rationality 
 TERM irrationally DEF irrational manner 
 TERM irrationalness DEF Irrationality 
@@ -5364,14 +5364,14 @@ TERM Irrevoluble DEF finite period revolution revolving
 TERM Irrhetorical DEF rhetorical 
 TERM irridentist DEF 
 TERM irridentism DEF 
-TERM irridenta DEF See 
+TERM irridenta DEF 
 TERM Irrigate DEF water wet moisten running dropping water bedew water land causing stream flow upon over it artificial channels rinse (a wound infected area etc) flow spray liquid 
 TERM Irrigation DEF act process irrigating state irrigated especially operation causing water flow lands nourishing plants 
 TERM Irriguous DEF Watered watery moist dewy Gently penetrating pervading 
 TERM Irrisible DEF risible 
 TERM Irrision DEF act laughing another derision 
-TERM Irritability DEF state quality irritable quick excitability petulance fretfulness natural susceptibility characteristic living organisms tissues cells influence certain stimuli response manifested variety ways quality plants exhibit motion suitable stimulation esp property living muscle possesses responding either direct stimulus substance stimulating influence nerve fibers response indicated change form contraction contractility condition morbid excitability organ part body undue susceptibility influence stimuli See 3 
-TERM Irritable DEF Capable irritated susceptible anger passion easily inflamed exasperated Endowed irritability susceptible irritation capable excited action application certain stimuli Susceptible irritation unduly sensitive irritants stimuli See 3 
+TERM Irritability DEF state quality irritable quick excitability petulance fretfulness natural susceptibility characteristic living organisms tissues cells influence certain stimuli response manifested variety ways quality plants exhibit motion suitable stimulation esp property living muscle possesses responding either direct stimulus substance stimulating influence nerve fibers response indicated change form contraction contractility condition morbid excitability organ part body undue susceptibility influence stimuli 3 
+TERM Irritable DEF Capable irritated susceptible anger passion easily inflamed exasperated Endowed irritability susceptible irritation capable excited action application certain stimuli Susceptible irritation unduly sensitive irritants stimuli 3 
 TERM Irritableness DEF Irritability 
 TERM Irritably DEF irritable manner 
 TERM Irritancy DEF state quality null void invalidity forfeiture 
@@ -5380,7 +5380,7 @@ TERM Irritant DEF Rendering null void conditionally invalidating
 TERM Irritant DEF Irritating producing irritation inflammation 
 TERM Irritant DEF irritates excites agent irritation produced chemical mechanical electrical poison produces inflammation 
 TERM Irritate DEF render null void 
-TERM Irritate DEF increase action violence of heighten excitement in intensify stimulate excite anger displeasure in provoke tease exasperate annoy vex insolence tyrant produce irritation in stimulate cause contract See 2 make morbidly excitable oversensitive fret skin friction wound coarse 
+TERM Irritate DEF increase action violence of heighten excitement in intensify stimulate excite anger displeasure in provoke tease exasperate annoy vex insolence tyrant produce irritation in stimulate cause contract 2 make morbidly excitable oversensitive fret skin friction wound coarse 
 TERM Irritate DEF Excited heightened 
 TERM irritated DEF aroused impatience anger made 
 TERM irritating DEF causing annoyance causing irritation living tissue used physical stimuli causing pain physical discomfort burr 
@@ -5397,13 +5397,13 @@ TERM Irrupted DEF Broken violence
 TERM Irruption DEF bursting in sudden violent rushing place sudden violent inroad entrance invaders Goths 
 TERM Irruptive DEF Rushing upon 
 TERM Irvingite DEF common designation member sect founded Edward (about 1830) call Apostolic highly ritualistic worship elaborate hierarchy apostles prophets etc look speedy coming Christ 
-TERM Is- DEF See 
-TERM Is DEF third person singular substantive verb indicative mood present tense See 
+TERM Is- DEF 
+TERM Is DEF third person singular substantive verb indicative mood present tense 
 TERM Isabel color DEF 
-TERM Isabel DEF See 
+TERM Isabel DEF 
 TERM Isabella color DEF 
 TERM Isabella DEF brownish yellow color 
-TERM Isabella grape DEF favorite sweet American grape purple color See Fox 
+TERM Isabella grape DEF favorite sweet American grape purple color Fox 
 TERM Isabella moth DEF common American moth isabella color larva called densely covered hairs black end body red middle part 
 TERM Isabelline DEF isabel isabella color 
 TERM Isagel DEF 
@@ -5421,7 +5421,7 @@ TERM Isatin DEF orange-red crystalline substance obtained oxidation indigo blue 
 TERM Isatis DEF genus herbs species which especially yield blue dye similar indigo woad 
 TERM Isatogen DEF complex nitrogenous radical regarded essential residue series compounds related isatin easily pass reduction indigo blue 
 TERM Isatropic DEF Pertaining to designating acid obtained atropine isomeric cinnamic acid 
-TERM Ischiac DEF See 
+TERM Ischiac DEF 
 TERM Ischiadic DEF Ischial 
 TERM Ischial DEF pertaining ischium hip ischiac ischiadic ischiatic 
 TERM Ischiatic DEF 
@@ -5433,18 +5433,18 @@ TERM Ischiopodite DEF third joint typical appendages Crustacea
 TERM Ischiorectal DEF pertaining region rectum ishial tuberosity 
 TERM Ischuretic DEF quality relieving ischury 
 TERM Ischury DEF retention suppression urine 
-TERM -ise DEF See 
+TERM -ise DEF 
 TERM Isentropic DEF equal entropy 
 TERM Isethionic DEF Pertaining to derived from designating acid obtained oily crystalline substance action sulphur trioxide alcohol ether derivative sulphuric acid 
 TERM -ish DEF suffix used adjectives nouns adjectives denotes sometimes force somewhat 
 TERM -ish DEF verb ending originally appearing certain verbs French origin 
-TERM Ishmaelite DEF descendant (the son Abraham Hagar) said hand every man every man's hand enmity society wanderer vagabond outcast See 
+TERM Ishmaelite DEF descendant (the son Abraham Hagar) said hand every man every man's hand enmity society wanderer vagabond outcast 
 TERM Ishmaelitish DEF Of pertaining to resembling Ishmaelite Ishmaelites 
 TERM Isiac DEF Pertaining goddess Isis 
 TERM Isicle DEF icicle 
 TERM Isidorian DEF Pertaining ascribed Isidore decretals spurious collection decretals published ninth 
 TERM Isinglass DEF semitransparent whitish pure form gelatin chiefly prepared sounds air bladders various species sturgeons (as found rivers Western Russia used making jellies clarifier etc Cheaper forms gelatin unfrequently called Called also popular name mica especially thin sheets 
-TERM Isis DEF principal goddess worshiped Egyptians regarded mother Horus sister wife Osiris Egyptians adored goddess fecundity great benefactress country instructed ancestors art agriculture coral genus Isis family composed joints white stony coral alternating flexible horny joints See asteroids 
+TERM Isis DEF principal goddess worshiped Egyptians regarded mother Horus sister wife Osiris Egyptians adored goddess fecundity great benefactress country instructed ancestors art agriculture coral genus Isis family composed joints white stony coral alternating flexible horny joints asteroids 
 TERM ISKCON DEF abbreviation International Society Krishna Consciousness society founded US 1966 based Vedic scriptures Groups devotees engage joyful chanting "Hare Krishna" ("O Krishna!") 
 TERM Islam DEF religion Muslims Islamism formula faith is God Allah Mohammed prophet older term term considered offensive many Muslims submission Allah Mohammed whole body Muslims countries occupy 
 TERM Islamabad DEF capital city Pakistan 
@@ -5453,11 +5453,11 @@ TERM Islamism DEF faith doctrines religious system Muslims less commonly used
 TERM Islamite DEF Muslim 
 TERM Islamitic DEF pertaining Islam Islamic Muslim 
 TERM Islamize DEF conform cause conform religion Islam 
-TERM Island DEF tract land surrounded water smaller continent Cf Anything regarded resembling island See 2 
+TERM Island DEF tract land surrounded water smaller continent Cf Anything regarded resembling island 2 
 TERM Island DEF cause become resemble island make island islands of isle furnish island islands 
 TERM Islander DEF inhabitant island 
 TERM Islandy DEF pertaining islands full islands 
-TERM Isle DEF See 
+TERM Isle DEF 
 TERM Isle DEF island spot within another different color upon wings insects 
 TERM Isle DEF cause become island like island surround encompass island 
 TERM Islet DEF little island 
@@ -5499,7 +5499,7 @@ TERM Isocrymal DEF Pertaining to nature of illustrating isocryme line
 TERM Isocryme DEF line connecting points earth's surface mean temperature coldest month year 
 TERM Isocrymic DEF Isocrymal 
 TERM Isocyanic DEF Designating acid isomeric cyanic acid 
-TERM Isocyanuric DEF Designating pertaining to acid isomeric cyanuric acid called also See 
+TERM Isocyanuric DEF Designating pertaining to acid isomeric cyanuric acid called also 
 TERM Isodiabatic DEF Pertaining reception giving equal quantities heat substance 
 TERM Isodiametric DEF Developed alike directions several lateral axes said crystals tetragonal hexagonal systems several diameters nearly equal said cells ordinary parenchyma 
 TERM Isodimorphic DEF Isodimorphous 
@@ -5519,7 +5519,7 @@ TERM Isographic DEF pertaining isography
 TERM Isography DEF Imitation another's handwriting 
 TERM Isohyetose DEF pertaining lines connecting places earth's surface mean annual rainfall 
 TERM Isolable DEF Capable isolated obtained pure state gold 
-TERM Isolate DEF place detached situation place alone insulate separate others infected person others troublemakers insulate See separate (a substance) foreign substances make pure obtain free state desired product reaction obtain culture microorganism pure form (from complex mixture) patient's 
+TERM Isolate DEF place detached situation place alone insulate separate others infected person others troublemakers insulate separate (a substance) foreign substances make pure obtain free state desired product reaction obtain culture microorganism pure form (from complex mixture) patient's 
 TERM Isolate DEF Something isolated powerful antibiotic tropical plant tuberculosis bacillus infected 
 TERM Isolated DEF Placed standing alone detached separated others 
 TERM Isolatedly DEF isolated manner 
@@ -5587,7 +5587,7 @@ TERM Isothermal DEF Relating equality temperature isotherm
 TERM Isothermobath DEF line drawn points equal temperature vertical section ocean 
 TERM Isothermobathic DEF pertaining isothermobath possessing indicating equal temperatures vertical section ocean 
 TERM Isotherombrose DEF line connecting marking points earth's surface mean summer rainfall 
-TERM Isotonic DEF indicating equal tones tension osmotic pressure (tonicity) equal reference solution aqueous solutions Contrasting See 
+TERM Isotonic DEF indicating equal tones tension osmotic pressure (tonicity) equal reference solution aqueous solutions Contrasting 
 TERM Isotrimorphic DEF Isotrimorphous 
 TERM Isotrimorphism DEF Isomorphism forms severally trimorphous substances 
 TERM Isotrimorphous DEF quality isotrimorphism isotrimorphic 
@@ -5603,7 +5603,7 @@ TERM Issuable DEF Leading to producing relating to issue capable made issue law 
 TERM Issuably DEF issuable manner way issue plead 
 TERM Issuance DEF act issuing giving out order rations 
 TERM Issuant DEF Issuing coming up term used express charge bearing rising coming another 
-TERM Issue DEF act passing flowing out moving inclosed place egress water pipe blood wound air bellows people act sending out causing go forth delivery issuance order commanding officer money passes flows sent out whole quantity sent forth emitted time bank notes daily Progeny child children offspring law sometimes general sense persons descended common ancestor lineal descendants Produce earth profits land tenements property conveyed B right term years rents discharge flux blood artificial ulcer usually made fleshy part arm leg produce secretion discharge pus relief affected part final outcome result upshot conclusion event hence contest test trial point debate controversy parties take affirmative negative positions presentation alternatives choose decide point contention matter controversy pleading single material point law fact depending suit which affirmed side denied other presented determination See 
+TERM Issue DEF act passing flowing out moving inclosed place egress water pipe blood wound air bellows people act sending out causing go forth delivery issuance order commanding officer money passes flows sent out whole quantity sent forth emitted time bank notes daily Progeny child children offspring law sometimes general sense persons descended common ancestor lineal descendants Produce earth profits land tenements property conveyed B right term years rents discharge flux blood artificial ulcer usually made fleshy part arm leg produce secretion discharge pus relief affected part final outcome result upshot conclusion event hence contest test trial point debate controversy parties take affirmative negative positions presentation alternatives choose decide point contention matter controversy pleading single material point law fact depending suit which affirmed side denied other presented determination 
 TERM Issue DEF pass flow out run out inclosed place go out rush out sally forth troops town attacked proceed source water springs light proceed progeny derived descended spring extend pass open path produced effect result grow accrue arise proceed rents profits land tenements capital close end terminate turn out know cause pleading come point fact law parties join issue 
 TERM Issue DEF send out put circulation notes deliver use send officially deliver authority order 
 TERM Issueless DEF issue progeny childless 
@@ -5618,7 +5618,7 @@ TERM Isthmus DEF neck narrow slip land continents connected peninsula united mai
 TERM Istle DEF 
 TERM Isuret DEF artificial nitrogenous base isomeric urea forming white crystalline substance called also 
 TERM It DEF neuter pronoun third person corresponding masculine pronoun feminine plural substance noun neuter gender book take demonstrative especially beginning sentence pointing stated named mentioned referring apparent well known saw indefinite nominative impersonal verb snows substitute general terms as state affairs condition things like sick indefinite object intransitive verbs substantive used humorously verb foot 
-TERM Itacism DEF Pronunciation (eta) modern Greeks pronounce it is like English word pronunciation advocated Reuchlin followers opposition etacism Erasmus See 
+TERM Itacism DEF Pronunciation (eta) modern Greeks pronounce it is like English word pronunciation advocated Reuchlin followers opposition etacism Erasmus 
 TERM Itacist DEF favor itacism 
 TERM Itacolumite DEF laminated granular siliceous rocks often occurring regions diamond found 
 TERM Itaconic DEF Pertaining to designating acid obtained white crystalline substance decomposing aconitic organic acids 
@@ -5666,16 +5666,16 @@ TERM itinerary DEF Itinerant traveling passing place place done journey
 TERM Itinerary DEF account travels register places distances guide travelers detailed plan journey including list places visited often information dates places residence transportation used journey catacombs aren't 
 TERM itinerate DEF wander without settled habitation travel place circuit particularly purpose preaching lecturing etc 
 TERM -itis DEF suffix used medical terms denote disease 
-TERM Its DEF Possessive form pronoun See 
+TERM Its DEF Possessive form pronoun 
 TERM itself DEF neuter reflexive pronoun thing good stands 
 TERM itty-bitty DEF 
 TERM itsy-bitsy DEF small tiny 
-TERM Ittria DEF See 
-TERM Ittrium DEF See 
+TERM Ittria DEF 
+TERM Ittrium DEF 
 TERM Itzibu DEF silver coin Japan worth thirty-four cents 
 TERM IUD DEF consisting small usually plastic object placed within uterus prevent conception 
-TERM Iulidan DEF family myriapods genus type See 
-TERM Iulus DEF genus chilognathous myriapods body long round consisting numerous smooth equal segments bears pairs short legs includes galleyworms See 
+TERM Iulidan DEF family myriapods genus type 
+TERM Iulus DEF genus chilognathous myriapods body long round consisting numerous smooth equal segments bears pairs short legs includes galleyworms 
 TERM Ivan Ivanovitch DEF ideal personification typical Russian Russian people used used typical Englishman 
 TERM I've DEF Colloquial contraction 
 TERM -ive DEF adjective suffix signifying nature 
@@ -5688,13 +5688,13 @@ TERM Ivorytype DEF picture produced superposing light print rendered translucent
 TERM Ivry DEF battle (1590) Huguenots France defeated Catholics duke Mayenne 
 TERM Ivy DEF plant genus common Europe leaves evergreen dark smooth shining mostly five-pointed flowers yellowish small berries black yellow stem clings walls trees rootlike fibers 
 TERM Ivy-mantled DEF Covered ivy 
-TERM Iwis DEF Indeed truly See 
+TERM Iwis DEF Indeed truly 
 TERM Iwo DEF bloody prolonged military operation American marines landed defeated Japanese defenders (February March 1945) 
 TERM I. W. W. DEF Industrial Workers World (the name American labor organizations advocates syndicalism) 
 TERM ix DEF Roman numerals signifying denoting quantity consisting less 
 TERM Ixia DEF South African bulbous plant Iris family remarkable brilliancy flowers 
 TERM Ixobrychus DEF genus birds consisting certain bitterns 
-TERM Ixodes DEF genus parasitic Acarina includes various species ticks See insect 
+TERM Ixodes DEF genus parasitic Acarina includes various species ticks insect 
 TERM Ixodian DEF tick genus family 
 TERM ixodid DEF member family ticks hard shield back mouth parts project head 
 TERM Ixodidae DEF natural family ticks hard shield back mouth parts project head hard ticks 
@@ -5710,5 +5710,5 @@ TERM Izard DEF variety chamois found Pyrenees
 TERM -ize DEF verb suffix signifying 
 TERM Izedi DEF Oriental religious sect worships Satan Devil 
 TERM Izedism DEF religion Izedis 
-TERM Izzard DEF See 
+TERM Izzard DEF 
 TERM Izzard DEF letter formerly called 

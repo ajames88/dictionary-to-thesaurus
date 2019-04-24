@@ -1,5 +1,5 @@
 
-TERM Y DEF Y twenty-fifth letter English alphabet beginning word syllable except prefix (see Y-) usually fricative vocal consonant prefix usually middle end syllable vowel See 145 178-9 272 
+TERM Y DEF Y twenty-fifth letter English alphabet beginning word syllable except prefix (see Y-) usually fricative vocal consonant prefix usually middle end syllable vowel 145 178-9 272 
 TERM Y DEF Something shaped like letter forked piece resembling form letter 
 TERM Y DEF I 
 TERM I- DEF 
@@ -11,14 +11,14 @@ TERM Yacht DEF light elegantly furnished vessel used either private parties plea
 TERM Yacht DEF manage yacht voyage yacht 
 TERM Yachter DEF engaged sailing yacht 
 TERM Yachting DEF Sailing pleasure yacht 
-TERM Yachtman DEF See 
+TERM Yachtman DEF 
 TERM Yachtsman DEF sails yacht yachter 
-TERM Yaf DEF Gave See 
+TERM Yaf DEF Gave 
 TERM Yaffingale DEF yaffle 
 TERM Yaffle DEF European green woodpecker syn noted loud laughlike note Called also 
 TERM Yager DEF German army belonging body light infantry armed rifles resembling French army 
 TERM Yaguarundi DEF 
-TERM yahoo DEF race filthy brutes resembling men subject Houyhnhnms Swift's See Dictionary Noted Names Fiction Hence brutish vicious character raw countryman lout greenhorn Someone intelligent interested culture 
+TERM yahoo DEF race filthy brutes resembling men subject Houyhnhnms Swift's Dictionary Noted Names Fiction Hence brutish vicious character raw countryman lout greenhorn Someone intelligent interested culture 
 TERM Yahwe DEF 
 TERM Yahweh DEF 
 TERM Jahve DEF 
@@ -29,9 +29,9 @@ TERM Yahwist DEF
 TERM Jehovist DEF 
 TERM Jahwist DEF 
 TERM Jahvist DEF author passages Old Testament esp Hexateuch God styled author Yahwistic Jehovistic Prophetic Document (J) also document itself 
-TERM Yajur-Veda DEF See 
+TERM Yajur-Veda DEF 
 TERM Yak DEF bovine mammal native high plains Central Asia neck outer side legs flanks covered long flowing fine hair tail long bushy often white valued ornament purposes India China several domesticated varieties lack mane long hair flanks Called also 
-TERM Yakamilk DEF See 3 
+TERM Yakamilk DEF 3 
 TERM Yakare DEF 
 TERM Yakin DEF large Asiatic antelope native higher parts Himalayas lofty mountains head neck resemble ox tail like goat Called also 
 TERM Yakoots DEF nomadic Mongolian tribe native Northern Siberia supposed Turkish stock mainly pastoral habits 
@@ -46,7 +46,7 @@ TERM Yamma DEF llama
 TERM Yamp DEF umbelliferous plant also small fleshy roots eaten Indians Idaho California 
 TERM Yang DEF cry wild goose honk 
 TERM Yang DEF make cry wild goose 
-TERM yang DEF fundamental principles See 
+TERM yang DEF fundamental principles 
 TERM Yangtze DEF major river Asia flows East China Sea 
 TERM Yank DEF jerk twitch 
 TERM Yank DEF twitch jerk 
@@ -61,7 +61,7 @@ TERM Yap DEF bark yelp
 TERM Yapock DEF South American aquatic opossum found Guiana Brazil hind feet webbed fore feet opposable thumb climbing Called also 
 TERM Yapon DEF 
 TERM Yarage DEF power moving managed sea said reference ship 
-TERM Yard DEF rod stick staff branch twig long piece timber rafter etc measure length equaling feet thirty-six inches standard English American measure penis long piece timber nearly cylindrical tapering toward ends designed support extend square sail yard usually hung center mast See place moose deer herd together winter pasture protection etc 
+TERM Yard DEF rod stick staff branch twig long piece timber rafter etc measure length equaling feet thirty-six inches standard English American measure penis long piece timber nearly cylindrical tapering toward ends designed support extend square sail yard usually hung center mast place moose deer herd together winter pasture protection etc 
 TERM Yard DEF inclosure usually small inclosed place front of around house barn inclosure within work business carried on 
 TERM Yard DEF confine (cattle) yard shut up keep yard 
 TERM yardage DEF distance measured yards 
@@ -79,16 +79,16 @@ TERM Yark DEF yerk
 TERM Yarke DEF 
 TERM Yarn DEF Spun wool woolen thread also thread material cotton flax hemp silk material spun prepared use weaving knitting manufacturing sewing thread like threads strands rope composed story told sailor amusement companions story tale spin 
 TERM Yarnen DEF Made yarn consisting yarn 
-TERM Yarnut DEF See 
+TERM Yarnut DEF 
 TERM Yarr DEF growl snarl dog 
 TERM Yarrish DEF rough dry taste 
 TERM Yarrow DEF American European composite plant finely dissected leaves small white corymbed flowers strong somewhat aromatic odor taste sometimes used making beer dried smoking Called also 
-TERM Yarwhip DEF European bar-tailed godwit called also See 
+TERM Yarwhip DEF European bar-tailed godwit called also 
 TERM yashmak DEF face veil worn Muslim women 
 TERM Yataghan DEF long knife short saber common among Mohammedan nations usually double curve sometimes nearly straight 
-TERM Yate DEF gate See 1st 
-TERM Yaud DEF See 
-TERM Yaul DEF See 
+TERM Yate DEF gate 1st 
+TERM Yaud DEF 
+TERM Yaul DEF 
 TERM Yaulp DEF yaup 
 TERM Yaup DEF cry like child yelp 
 TERM Yaup DEF cry distress rage like cry sickly bird child pain blue titmouse 
@@ -101,11 +101,11 @@ TERM Yaw DEF movement vessel temporarily alters course deviation straight course
 TERM yawd DEF jade old horse mare 
 TERM yawl DEF small ship's boat usually rowed oars fore-and-aft-rigged vessel masts mainmast carrying mainsail jibs taller mizzenmast stepped little farther forward mizzenmast jiggermast far aft usually placed aft water line aft rudder post mizzenmast yawl smaller set aft 
 TERM Yawl DEF cry like dog cat howl yell 
-TERM Yawl-rigged DEF masts fore-and-aft sails differing schooner mast small stepped far aft possible See Appendix 
+TERM Yawl-rigged DEF masts fore-and-aft sails differing schooner mast small stepped far aft possible Appendix 
 TERM Yawn DEF open mouth involuntarily drowsiness dullness fatigue gape oscitate open wide gape allow entrance exit anything open mouth gape surprise bewilderment eager desire swallow anything express desire yawning fat 
 TERM Yawn DEF involuntary act excited drowsiness etc consisting deep long inspiration following several successive attempts inspiration mouth fauces etc wide open act opening wide gaping chasm mouth passageway 
 TERM Yawningly DEF yawning manner 
-TERM Yawp DEF See 
+TERM Yawp DEF 
 TERM Yaws DEF disease occurring Antilles Africa characterized yellowish reddish tumors contagious character which shape appearance often resemble currants strawberries raspberries several varieties disease variously known 
 TERM Yaw-weed DEF low shrubby rubiaceous plant growing along seacoast West Indies small white odorous flowers 
 TERM Yazoo Fraud DEF grant State Georgia Act Jan 7 1795 35000000 acres western territory $500000 companies known region granted commonly called act known Frauds alleged corruption legislature every member shareholder companies act granting land repealed 1796 new legislature repealing provision incorporated State constitution 1798 1802 territory ceded United States claims purchasers Georgia refused compensate sustained United States Supreme Court (1810) declared repealing act 1796 unconstitutional Congress 1814 ordered lands sold appropriated $5000000 pay claims 
@@ -114,20 +114,20 @@ TERM Ycleped DEF Called named obsolete except archaic humorous writings
 TERM Y current DEF current branch star arrangement three-phase circuit 
 TERM Ydo DEF Done 
 TERM Ydrad DEF Dreaded 
-TERM Ye DEF old method printing article (AS used place Anglo-Saxon thorn sometimes incorrectly pronounced See 4 
+TERM Ye DEF old method printing article (AS used place Anglo-Saxon thorn sometimes incorrectly pronounced 4 
 TERM Ye DEF eye 
 TERM Ye DEF plural pronoun second person nominative case 
 TERM Ye DEF Yea yes 
-TERM Yea DEF Yes ay word expressing assent affirmative affirmative answer question superseded See this so but used mark addition specific emphatic clause Cf 2 
+TERM Yea DEF Yes ay word expressing assent affirmative affirmative answer question superseded this so but used mark addition specific emphatic clause Cf 2 
 TERM Yea DEF affirmative vote votes affirmative vote 
-TERM Yead DEF Properly variant defective imperfect sometimes mistaken present See Note 
+TERM Yead DEF Properly variant defective imperfect sometimes mistaken present Note 
 TERM Yean DEF bring forth young goat sheep ean 
 TERM Yeanling DEF lamb kid eanling 
 TERM Year DEF time apparent revolution sun trough ecliptic period occupied earth making revolution around sun called also period less nearly agreeing this adopted various nations measure time called common lunar 354 days still use among Mohammedans 360 days etc common usage year consists 365 days every fourth year (called 366 days day added February year account excess 365 days (see time planet completes revolution sun Jupiter Age old age man 
 TERM year 2000 problem DEF 
 TERM year 2000 bug DEF error coding certain computer programs year portion dates represented decimal digits assuming first digits program year 1975 represented common practise computer programming even 1990's many programmers failed consider programs would used year 1999 Thus program person born 2000 would considered 101 years old 2001 many different serious problems various programs could caused error 
 TERM year 2000 compliant DEF dates fully properly represented susceptible failure due 2000 
-TERM Yeara DEF California poison oak See 
+TERM Yeara DEF California poison oak 
 TERM Yearbook DEF book published yearly annual report summary statistics facts year designed used reference book Congregational book containing annual reports cases adjudged courts England 
 TERM Yeared DEF Containing years existed continued many years aged 
 TERM year-end DEF end calendar year 
@@ -156,7 +156,7 @@ TERM Yeast-bitten DEF term used beer froth yeast reentered body beer
 TERM Yeastiness DEF quality state yeasty frothy 
 TERM Yeasty DEF Frothy foamy spumy like yeast 
 TERM Yedding DEF song minstrel hence song 
-TERM Yede DEF Went See 
+TERM Yede DEF Went 
 TERM Yeel DEF eel 
 TERM Yeldhall DEF Guildhall 
 TERM Yeldrine DEF 
@@ -170,9 +170,9 @@ TERM Yellow DEF bright saffronlike color color gold brass hue part rainbow solar
 TERM Yellow DEF bright golden color reflecting light except white color part spectrum orange green yellow pigment 
 TERM Yellow DEF make yellow cause yellow tinge color dye yellow 
 TERM Yellow DEF become yellow yellower 
-TERM Yellowammer DEF See 
+TERM Yellowammer DEF 
 TERM Yellowbill DEF American scoter 
-TERM Yellowbird DEF American goldfinch thistle bird See 
+TERM Yellowbird DEF American goldfinch thistle bird 
 TERM Yellow Book DEF France official government publication bound yellow covers 
 TERM yellow-brown DEF color intermediate yellow brown 
 TERM Yellow-covered DEF Covered bound yellow paper 
@@ -184,14 +184,14 @@ TERM yellow-green DEF midway yellow green
 TERM Yellowhammer DEF common European finch color male bright yellow breast neck sides head back yellow brown top head tail quills blackish Called also 
 TERM Yellowing DEF act process making yellow 
 TERM Yellowish DEF Somewhat yellow amber 
-TERM Yellowlegs DEF several species long-legged sandpipers genus legs bright yellow called also See 2 
+TERM Yellowlegs DEF several species long-legged sandpipers genus legs bright yellow called also 2 
 TERM Yellowness DEF quality state yellow Jealousy 
 TERM Yellowroot DEF several plants yellow roots 
 TERM Yellow pages DEF telephone book part book telephone numbers often advertisements business enterprises listed numerous sections organized category business categories arranged alphabetically classified telephone directory called many years listing thus organized printed yellow paper distinguish white pages containing names individuals listed alphabetically last name yellow pages usually bound together white pages telephone book distributed telephone company subscribers name adopted companies affiliated telephone company classified business directories sell 
-TERM Yellows DEF disease bile horses cattle sheep causing yellowness eyes jaundice disease plants esp peach trees leaves turn yellowish color jeterus group butterflies predominating color yellow includes common small yellow butterflies Called also See 
+TERM Yellows DEF disease bile horses cattle sheep causing yellowness eyes jaundice disease plants esp peach trees leaves turn yellowish color jeterus group butterflies predominating color yellow includes common small yellow butterflies Called also 
 TERM Yellowseed DEF kind pepper grass 
 TERM Yellowshins DEF 
-TERM Yellowshanks DEF See 
+TERM Yellowshanks DEF 
 TERM Yellowtail DEF several species marine carangoid fishes genus especially large California species sometimes weighs thirty forty pounds highly esteemed food fish called also 
 TERM Yellowthroat DEF several species American ground warblers genus esp Maryland yellowthroat common species 
 TERM Yellowtop DEF kind grass perhaps species 
@@ -212,21 +212,21 @@ TERM Yenite DEF silicate iron lime occurring black prismatic crystals also calle
 TERM Yeoman DEF common man commonly first respectable class freeholder man free born servant retainer yeoman guard also member yeomanry cavalry interior officer boatswain gunner carpenters charged stowage account distribution stores 
 TERM Yeomanlike DEF Resembling suitable to yeoman yeomanly 
 TERM Yeomanly DEF Pertaining yeoman becoming suitable to yeoman yeomanlike 
-TERM Yeomanry DEF position rank yeoman collective body yeomen freeholders British volunteer cavalry force growing royal regiment fox hunters raised Yorkshire gentlemen 1745 fight Pretender Charles Edward calle dalso members furnish horses fourteen days' annual camp training receive pay allowance duty 1901 name altered recognition services force Boer war See above 
+TERM Yeomanry DEF position rank yeoman collective body yeomen freeholders British volunteer cavalry force growing royal regiment fox hunters raised Yorkshire gentlemen 1745 fight Pretender Charles Edward calle dalso members furnish horses fourteen days' annual camp training receive pay allowance duty 1901 name altered recognition services force Boer war above 
 TERM Yeorling DEF European yellow-hammer 
 TERM Yer DEF Ere before 
 TERM Yerba DEF herb plant 
-TERM Yerd DEF See 1st & 2d 
+TERM Yerd DEF 1st & 2d 
 TERM Yerk DEF throw thrust sudden smart movement kick strike suddenly jerk strike lash whip 
 TERM Yerk DEF throw heels kick jerk move quick jerking motion 
 TERM Yerk DEF sudden quick thrust motion jerk 
-TERM Yern DEF See 3d 
+TERM Yern DEF 3d 
 TERM Yern DEF Eager brisk quick active 
 TERM Yerne DEF Eagerly briskly quickly 
-TERM Yernut DEF earthnut groundnut See 
-TERM Yerst DEF See 
+TERM Yernut DEF earthnut groundnut 
+TERM Yerst DEF 
 TERM Yes DEF Ay yea word expresses affirmation consent opposed 
-TERM Yest DEF See 
+TERM Yest DEF 
 TERM Yester DEF Last last past next before pertaining yesterday 
 TERM Yesterday DEF day last past day next present Fig recent time time long past 
 TERM Yesterday DEF day last past day preceding to-day affair took place 
@@ -241,13 +241,13 @@ TERM Yesternoon DEF noon yesterday noon last past
 TERM Yesterweek DEF week last past last week 
 TERM Yesteryear DEF year last past last year 
 TERM Yestreen DEF Yester-evening yesternight last night 
-TERM Yesty DEF See 
+TERM Yesty DEF 
 TERM Yet DEF several species large marine gastropods belonging genus boat shell 
-TERM Yet DEF addition further besides above still time continuance former state still present time thus far hitherto now negative present time soon now time go? See future time end eventually time Even used emphatically 
+TERM Yet DEF addition further besides above still time continuance former state still present time thus far hitherto now negative present time soon now time go? future time end eventually time Even used emphatically 
 TERM Yet DEF Nevertheless notwithstanding however 
 TERM Yeve DEF give 
 TERM Yeven DEF Given 
-TERM Yew DEF See 
+TERM Yew DEF 
 TERM Yew DEF evergreen tree Europe allied pines peculiar berrylike fruit instead cone frequently grows British churchyards wood yew light red color compact fine-grained elastic preferred kinds wood bows whipstocks best purposes coming Spain bow shooting made yew 
 TERM Yew DEF pertaining yew trees made wood yew tree 
 TERM Yewen DEF Made yew 
@@ -257,8 +257,8 @@ TERM Yezdegerdian DEF pertaining last Sassanian monarch Persia overthrown Muslim
 TERM Yezdi DEF 
 TERM Yezidi DEF 
 TERM Yezidee DEF 
-TERM Yfere DEF Together See 
-TERM Ygdrasyl DEF See Dictionary Noted Names Fiction 
+TERM Yfere DEF Together 
+TERM Ygdrasyl DEF Dictionary Noted Names Fiction 
 TERM Yghe DEF Eye 
 TERM Ygo DEF Gone 
 TERM Yground DEF 
@@ -276,22 +276,22 @@ TERM Yielding DEF Inclined give way comply flexible compliant accommodating
 TERM Yieldless DEF Without yielding unyielding 
 TERM Yift DEF Gift 
 TERM Yin DEF Chinese weight pounds 
-TERM Yin DEF fundamental principles See 
+TERM Yin DEF fundamental principles 
 TERM yin and yang DEF fundamental principles negative dark passive cold wet feminine (yin) (yang) positive bright active dry hot masculine interactions balance forces people nature influence behavior fate 
 TERM Yis DEF Yes 
 TERM Yit DEF Yet 
 TERM Yite DEF European yellow-hammer 
 TERM Yive DEF give 
 TERM -yl DEF suffix used characteristic termination chemical radicals etc 
-TERM Ylang-ylang DEF See 
+TERM Ylang-ylang DEF 
 TERM Yle DEF Isle 
-TERM Y level DEF See 
+TERM Y level DEF 
 TERM Ylike DEF 
 TERM Yliche DEF Like alike 
 TERM Yllanraton DEF agouara 
 TERM Ymaked DEF Made 
 TERM Ymel DEF Among 
-TERM Ynambu DEF South American tinamou called also See 
+TERM Ynambu DEF South American tinamou called also 
 TERM Ynow DEF 
 TERM Ynough DEF Enough 
 TERM Yockel DEF yaffle 
@@ -314,7 +314,7 @@ TERM Yojan DEF measure distance varying miles usually
 TERM Yoke DEF bar frame wood oxen joined heads necks working together frame piece resembling yoke use shape Fig connects binds chain link bond connection mark servitude hence servitude slavery bondage service animals yoked together couple pair work together quantity land plowed day yoke oxen portion working day work is work portions day morning clamp similar piece embraces parts hold unite respective relative positions strap connecting slide valve valve stem soft iron block bar permanently connecting pole pieces electromagnet dynamo 
 TERM Yoke DEF put yoke on join yoke oxen pair couple join another enslave bring bondage restrain confine 
 TERM Yoke DEF joined associated intimately connected consort closely mate 
-TERM Yokeage DEF See 
+TERM Yokeage DEF 
 TERM Yokefellow DEF associate companion in in mate fellow especially partner marriage 
 TERM Yokel DEF country bumpkin 
 TERM Yokelet DEF small farm called requiring yoke oxen till it 
@@ -339,10 +339,10 @@ TERM Yore DEF time long past old time long since
 TERM Yorker DEF tice 
 TERM York rite DEF rite ceremonial observed Masonic systems deriving name city England also system itself which England confers first degrees 
 TERM Yorkshire DEF county north England 
-TERM York use DEF printed uses England followed north based Sarum use See 6 
+TERM York use DEF printed uses England followed north based Sarum use 6 
 TERM Yot DEF unite closely 
 TERM Yote DEF pour water on soak in mix with water 
-TERM You DEF pronoun second person nominative dative objective case indicating person persons addressed See Note 
+TERM You DEF pronoun second person nominative dative objective case indicating person persons addressed Note 
 TERM Youl DEF yell yowl 
 TERM Young DEF long born still first part life yet arrived adolescence maturity age old juvenile said animals child man first part pr period growth plant little experience inexperienced unpracticed ignorant weak 
 TERM Young DEF offspring animals either single animal offspring collectively 
@@ -354,19 +354,19 @@ TERM Youngling DEF young person youth also animal early life
 TERM Youngling DEF Young youthful 
 TERM Youngly DEF Like young person thing young youthful 
 TERM Youngly DEF young manner period youth early life Ignorantly weakly 
-TERM Young Men's Christian Association DEF organization promoting spiritual intellectual social physical welfare young men founded June 6 1844 George Williams (knighted therefor Queen Victoria) London 1851 extended United States Canada 1855 representatives similar organizations throughout Europe America formed international body movement successfully expanded among young men general also specifically among railroad men army navy provision Indians negroes full duplication various lines oepration boys' departments currently (1998) maintains buildings usually recreational facilities dormitories dwelling usually called acronym See also similar organizations Women's Christian 
+TERM Young Men's Christian Association DEF organization promoting spiritual intellectual social physical welfare young men founded June 6 1844 George Williams (knighted therefor Queen Victoria) London 1851 extended United States Canada 1855 representatives similar organizations throughout Europe America formed international body movement successfully expanded among young men general also specifically among railroad men army navy provision Indians negroes full duplication various lines oepration boys' departments currently (1998) maintains buildings usually recreational facilities dormitories dwelling usually called acronym also similar organizations Women's Christian 
 TERM Youngness DEF quality state young 
 TERM Young one DEF young human being child also young animal colt 
 TERM Youngster DEF young person youngling lad 
 TERM Youngth DEF Youth 
 TERM Youngthly DEF Pertaining to resembling youth youthful 
 TERM Young'un DEF young human being contraction 
-TERM Young Women's Christian Association DEF organization promoting spiritual intellectual social economic welfare young women originating 1855 Lady Kinnaird's home young women Miss Emma Robert's prayer union young womenin England combined year 1884 national association nearly civilized countries esp United States local national international organizations See also similar organizations Men's Christian 
+TERM Young Women's Christian Association DEF organization promoting spiritual intellectual social economic welfare young women originating 1855 Lady Kinnaird's home young women Miss Emma Robert's prayer union young womenin England combined year 1884 national association nearly civilized countries esp United States local national international organizations also similar organizations Men's Christian 
 TERM Younker DEF young person stripling yonker 
 TERM Youpon DEF 
 TERM Your DEF form possessive case personal pronoun 
-TERM Yours DEF See Note 
-TERM Yourself DEF emphasized reflexive form pronoun second person used subject commonly shall see also alone predicate either nominative objective case injured 
+TERM Yours DEF Note 
+TERM Yourself DEF emphasized reflexive form pronoun second person used subject commonly shall also alone predicate either nominative objective case injured 
 TERM Youth DEF quality state young youthfulness juvenility part life succeeds childhood period existence preceding maturity age whole early part life childhood or sometimes infancy manhood young person especially young man Young persons collectively 
 TERM Youthful DEF yet mature aged young pertaining early part life suitable early life days Fresh vigorous youth 
 TERM Youthhood DEF quality state youth period youth 
@@ -380,8 +380,8 @@ TERM Yowe DEF ewe
 TERM Yowl DEF utter loud long mournful cry dog howl yell 
 TERM Yowl DEF loud protracted mournful cry dog howl 
 TERM Yowley DEF European yellow-hammer 
-TERM Yox DEF See 
-TERM Ypight DEF See 
+TERM Yox DEF 
+TERM Ypight DEF 
 TERM Ypocras DEF Hippocras 
 TERM Ypres lace DEF Fine bobbin lace made Belgium usually exactly like Valenciennes lace 
 TERM Ypsiliform DEF Resembling appearance said germinal spot ripe egg stages fecundation 
@@ -403,7 +403,7 @@ TERM Yttro-cerite DEF mineral violet-blue color inclining gray white hydrous flu
 TERM Yttro-tantalite DEF 
 TERM Yttro-columbite DEF tantalate uranium yttrium calcium brown black color 
 TERM Yu DEF Jade 
-TERM Yucca DEF See 2 
+TERM Yucca DEF 2 
 TERM Yucca DEF genus American liliaceous sometimes arborescent plants long pointed often rigid leaves top less woody stem bearing large panicle showy white blossoms 
 TERM Yucca borer DEF California boring weevil 
 TERM Yuck DEF itch 
@@ -422,7 +422,7 @@ TERM Yugoslav DEF
 TERM Yugoslavian DEF pertaining Yugoslavia 
 TERM Yugoslavian DEF native inhabitant Yugoslavia 
 TERM Yuke DEF 
-TERM Yulan DEF species Magnolia large white blossoms open leaves See Note 
+TERM Yulan DEF species Magnolia large white blossoms open leaves Note 
 TERM Yule DEF Christmas Christmastide feast Nativity Savior 
 TERM Yuletide DEF Christmas time Christmastide season Christmas 
 TERM Yuman DEF Designating pertaining to important linguistic stock North American Indians southwestern United States northwestern Mexico nearly agriculturists adept potters basket makers usual dwelling brush wikiup native state wear little clothing Yuma Maricopa Mohave Walapi Yavapai among chief tribes fine physique 
@@ -433,7 +433,7 @@ TERM Yunx DEF genus birds comprising wrynecks
 TERM Yupon DEF 
 TERM yuppy DEF 
 TERM yuppie DEF ambitious young adult usually college-educated living near large city professional career affluent lifestyle "u" word sometimes interpreted meaning 
-TERM Yux DEF See 
+TERM Yux DEF 
 TERM Yvel DEF Evil ill 
 TERM Ywar DEF Aware wary 
 TERM Ywis DEF Certainly likely truly probably 

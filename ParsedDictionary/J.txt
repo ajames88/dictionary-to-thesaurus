@@ -1,7 +1,7 @@
 
 TERM J DEF J tenth letter English alphabet later variant form Roman letter I used express consonantal sound is originally sound English forms J have recent time classed together used interchangeably 
 TERM Jaal goat DEF species wild goat found mountains Abyssinia Upper Egypt Arabia called also 
-TERM Jab DEF thrust stab punch See 
+TERM Jab DEF thrust stab punch 
 TERM Jab DEF thrust stab 
 TERM Jabber DEF talk rapidly indistinctly unintelligibly utter gibberish nonsense chatter 
 TERM Jabber DEF utter rapidly indistinctly gabble 
@@ -19,17 +19,17 @@ TERM Jacal DEF Mexico southwestern United States kind plastered house hut usuall
 TERM Jacamar DEF numerous species tropical American birds genus allied genera allied kingfishers climb tree trunks like nuthatches feed upon insects colors often brilliant 
 TERM Jacana DEF several wading birds belonging genus several allied genera spurs wings able run floating water weeds means long spreading toes Called also 
 TERM Jacaranda DEF native Brazilian name certain leguminous trees produce beautiful woods called 
-TERM Jacare DEF cayman See 
+TERM Jacare DEF cayman 
 TERM Jacchus DEF common marmoset Formerly name also applied species genus 
-TERM Jacconet DEF See 
+TERM Jacconet DEF 
 TERM Jacent DEF Lying length 
-TERM Jacinth DEF See 
+TERM Jacinth DEF 
 TERM Jack DEF large tree common East Indies closely allied breadfruit differs leaves entire fruit great size weighing thirty forty pounds soft fibrous matter scattered seeds roasted eaten wood yellow color fine grain rather heavy much used cabinetwork also used dyeing brilliant yellow 
 TERM Jack DEF familiar nickname of substitute for impertinent silly fellow simpleton boor clown also servant rustic popular colloquial name sailor called also mechanical contrivance auxiliary machine subordinate part machine rendering convenient service often supplying place boy attendant commonly called portable machine variously constructed exerting great pressure lifting moving heavy body automobile small distance consists lever screw rack pinion hydraulic press simple combination mechanical powers working compact pedestal support operated lever crank capstan bar etc name often given jackscrew kind jack small bowl used mark game bowls male certain animals ass young pike pickerel drinking measure holding half pint also holding quarter pint flag containing union without fly usually hoisted jack staff bowsprit cap called also American small blue flag star State knave suit playing cards game played small (metallic tetrahedrally oriented spikes) objects (the jacks(1950+) formerly jackstones) tossed caught picked up arranged horizontal surface various patterns modern American game movements accompanied tossing bouncing rubber ball horizontal surface supporting jacks Money Apple jack Brandy 
 TERM Jack DEF coarse cheap coat defense esp made leather 
 TERM Jack DEF pitcher waxed leather called also 
-TERM Jack DEF hunt game night means jack See 2d 4 
-TERM Jack DEF move lift house means jack jacks See 2d 5 
+TERM Jack DEF hunt game night means jack 2d 4 
+TERM Jack DEF move lift house means jack jacks 2d 5 
 TERM Jack-a-dandy DEF little dandy little foppish impertinent fellow 
 TERM Jackal DEF several species carnivorous animals inhabiting Africa Asia related dog wolf cowardly nocturnal gregarious feed largely carrion noted piercing dismal howling mean work another's advantage jackals thought kill game lions appropriated 
 TERM Jack-a-lent DEF small stuffed puppet pelted Lent hence simple fellow 
@@ -41,7 +41,7 @@ TERM Jackass DEF male ass donkey conceited dolt perverse blockhead disparaging o
 TERM jackboot DEF man's high tasseled boot strong leather boot reaching knee worn mostly soldiers 
 TERM jackbooted DEF Wearing jackboots used especially metaphor repressive government 
 TERM jackboot tactics DEF Harsh strongarm tactics repressive bullying militaristic tactics like used authoritarian totalitarian countries used opprobriously often hyperbolic exaggeration police tactics democratic countries 
-TERM Jackdaw DEF See 
+TERM Jackdaw DEF 
 TERM Jackeen DEF drunken dissolute fellow 
 TERM Jacket DEF short upper garment extending downward hips short coat without skirts outer covering anything esp covering nonconducting material wood felt used prevent radiation heat steam boiler cylinder pipe etc ordnance strengthening band surrounding tube charge fired garment resembling waistcoat lined cork serve life preserver called also 
 TERM Jacket DEF put jacket on furnish boiler jacket thrash beat 
@@ -54,19 +54,19 @@ TERM Jack Ketch DEF public executioner hangman
 TERM Jackknife DEF large strong clasp knife pocket pocket knife 
 TERM jacklight DEF portable source light oil lantern electric light used lure hunting night 
 TERM jacklight DEF fish hunt jacklight 
-TERM Jackman DEF wearing jack horse soldier retainer See 3d cream cheese 
+TERM Jackman DEF wearing jack horse soldier retainer 3d cream cheese 
 TERM Jack-with-a-lantern DEF 
 TERM Jack-o'-lantern DEF large orange-colored luminescent mushroom also classified poisonous sometimes found hardwood tree stumps pale light sometimes seen night marshy ground will-o'-the-wisp lantern carved hollowed-out pumpkin holes cut rind shaped illuminated candle inside features human face cat's face etc appear glowing yellow color used mostly decoration Halloween 
-TERM Jackpot DEF See larger-than-usual gambling prize formed accumulation unwon bets highest gambling prize awarded gambling game smaller prizes also awarded especially prize slot machine unusually large success enterprise either unexpected unpredictable esp providing great financial benefit 
+TERM Jackpot DEF larger-than-usual gambling prize formed accumulation unwon bets highest gambling prize awarded gambling game smaller prizes also awarded especially prize slot machine unusually large success enterprise either unexpected unpredictable esp providing great financial benefit 
 TERM Jackpudding DEF merry-andrew buffoon 
 TERM Jacksaw DEF merganser 
-TERM Jackscrew DEF jack screw used lifting exerting pressure See 2d 5 
+TERM Jackscrew DEF jack screw used lifting exerting pressure 2d 5 
 TERM Jackslave DEF low servant mean fellow 
-TERM Jacksmith DEF smith makes jacks See 2d 4 c 
+TERM Jacksmith DEF smith makes jacks 2d 4 c 
 TERM Jacksnipe DEF small European snipe called also 
 TERM Jackstay DEF rail wood iron stretching along yard vessel sails fastened 
-TERM Jackstone DEF pebbles pieces used game jackstones game played small stones pieces metal See 6th Also called See 
-TERM Jackstraw DEF effigy stuffed straw scarecrow hence man without property influence set straws strips ivory bone wood etc playing child's game jackstraws thrown confusedly together table gathered singly hooked instrument without touching disturbing rest pile See modern variation called (US 1940+) played thin wooden sticks different colors color different values scoring sticks dislodged pile hand sticks 
+TERM Jackstone DEF pebbles pieces used game jackstones game played small stones pieces metal 6th Also called 
+TERM Jackstraw DEF effigy stuffed straw scarecrow hence man without property influence set straws strips ivory bone wood etc playing child's game jackstraws thrown confusedly together table gathered singly hooked instrument without touching disturbing rest pile modern variation called (US 1940+) played thin wooden sticks different colors color different values scoring sticks dislodged pile hand sticks 
 TERM jackstraws DEF game played jackstraws{2} resembles 
 TERM Jackwood DEF Wood jack used cabinetwork 
 TERM Jacky DEF Dim pet 
@@ -100,16 +100,16 @@ TERM Jaculate DEF throw cast dart throw out emit
 TERM Jaculation DEF act tossing throwing hurling spears 
 TERM Jaculator DEF throws casts archer fish 
 TERM Jaculatory DEF Darting throwing suddenly also suddenly thrown out uttered short sentences ejaculatory 
-TERM Jadding DEF See 
+TERM Jadding DEF 
 TERM Jade DEF stone commonly pale dark green color sometimes whitish hard compact capable fine polish used ornamental purposes implements esp Eastern countries among many early peoples color resembling jade{1} varies yellowish-green bluish-green 
 TERM Jade DEF mean tired horse worthless nag disreputable vicious woman wench quean also sometimes worthless man young woman generally called irony slight contempt 
 TERM Jade DEF treat like jade spurn make ridiculous contemptible exhaust overdriving long-continued labor kind tire make dull wear severe tedious tasks harass 
 TERM Jade DEF become weary lose spirit 
 TERM jaded DEF dulled surfeit amoral bored upper fatigued due excess effort 
-TERM Jadeite DEF See stone 
+TERM Jadeite DEF stone 
 TERM Jadery DEF tricks jade 
 TERM Jadish DEF Vicious ill-tempered resembling jade applied horse Unchaste applied woman 
-TERM Jaeger DEF See 
+TERM Jaeger DEF 
 TERM Jag DEF notch cleft barb ragged sharp protuberance denticulation part broken off fragment cleft division leather bag wallet Enough liquor make man noticeably drunk small time case drunkeness esp phr jag drunk 
 TERM Jag DEF cut notches teeth like saw notch 
 TERM Jag DEF small load hay grain straw ore 
@@ -120,12 +120,12 @@ TERM Juggernaut DEF
 TERM Jaganatha DEF 
 TERM Jagannatha DEF 
 TERM Jagannath DEF particular form chief idol worship Puri Orissa idol considered contain bones possess soul principal festivals idol bathed image drawn upon car adorned obscene paintings Formerly erroneously supposed devotees allowed crushed beneath wheels car known death within temple Jagannath considered render place unclean spilling blood presence idol pollution 
-TERM Jager DEF sharpshooter See species gull genus species occur Atlantic coast jagers pursue species gulls force disgorge prey middle tail feathers usually decidedly longer rest Called also name also applied skua Arctic gull 
-TERM jagg DEF See 
-TERM jaggary DEF unrefined brown sugar made palm sap See 
+TERM Jager DEF sharpshooter species gull genus species occur Atlantic coast jagers pursue species gulls force disgorge prey middle tail feathers usually decidedly longer rest Called also name also applied skua Arctic gull 
+TERM jagg DEF 
+TERM jaggary DEF unrefined brown sugar made palm sap 
 TERM jagged DEF jags rough sharp notches protuberances teeth cleft laciniate divided 
 TERM jaggedness DEF something irregular like bump crack smooth surface 
-TERM Jagger DEF carries small load peddler See 2d 
+TERM Jagger DEF carries small load peddler 2d 
 TERM Jagger DEF who which jags 
 TERM Jaggery DEF Raw palm sugar made East Indies evaporating fresh juice several kinds palm trees specifically 
 TERM Jaggery palm DEF East Indian palm leaves pinnate wedge-shaped divisions petiole stout principal source jaggery often cultivated ornament 
@@ -138,9 +138,9 @@ TERM Jaguar DEF large powerful feline animal formerly ranging Texas Mexico Patag
 TERM Jaguarondi DEF South American wild cat long slim body short legs color grayish brown varied blackish hue arboreal habits feeds mostly birds 
 TERM Jah DEF Jehovah 
 TERM Jahvistic DEF 
-TERM Jahvist DEF See 
+TERM Jahvist DEF 
 TERM Jahvey DEF 
-TERM Jahweh DEF name Old Testament God transliterated Hebrew YHVH See 
+TERM Jahweh DEF name Old Testament God transliterated Hebrew YHVH 
 TERM Jail DEF kind prison building confinement persons held lawful custody especially minor offenses reference future judicial proceeding 
 TERM Jail DEF imprison 
 TERM jail bird DEF 
@@ -154,11 +154,11 @@ TERM Jain DEF numerous sect British India holding tenets Jainism
 TERM Jain DEF pertaining Jainism 
 TERM Jainism DEF heterodox Hindu religion founded 6th century revolt Hinduism striking features exaltation saints holy mortals called ordinary Hindu gods denial supreme divine origin infallibility Vedas Also sect comprising adhering Jainism Jainism believes immortality transmigration soul intermediate Brahmanism Buddhism things common each 
 TERM Jairou DEF ahu Asiatic gazelle 
-TERM Jak DEF see 1st 
+TERM Jak DEF 1st 
 TERM Jakes DEF privy 
 TERM Jakie DEF South American striped frog remarkable tadpole larger adult hence called also 
 TERM Jako DEF African parrot commonly kept cage bird called also 
-TERM Jakwood DEF See 
+TERM Jakwood DEF 
 TERM Jalap DEF tubers Mexican plant (or family climber much like morning-glory abstract extract powder prepared tubers well known purgative (cathartic) medicines also called species yield several inferior kinds jalap 
 TERM Jalapic DEF pertaining jalap 
 TERM Jalapin DEF glucoside found stems jalap plant scammony strong purgative 
@@ -166,7 +166,7 @@ TERM Jalons DEF Long poles topped wisps straw used landmarks signals
 TERM Jalousie DEF Venetian slatted inside window blind window door made multiple glass plastic slats opened closed like jalousie{1} 
 TERM Jalousied DEF Furnished jalousies 
 TERM Jam DEF kind frock children 
-TERM Jam DEF See 
+TERM Jam DEF 
 TERM Jam DEF press close tight position crowd squeeze wedge in cram rock fans theater crush bruise finger crack bring (a vessel) close wind half upper sails laid aback block obstruct packing much (people objects) into shoppers aisles fire interfere (a radio signal) sending signals nearby frequency Soviets Radio Free Europe broadcasts years cold cause become nonfunctional putting something blocks movement part parts drawer putting many loose papers lock trying pick 
 TERM Jam DEF become stuck function copier play instrument jam session crowd together usually used fifty people conference room designed 
 TERM Jam DEF mass people objects crowded together also pressure crowd crush street logs injury caused jamming difficult situation got 
@@ -177,12 +177,12 @@ TERM Jamaica DEF West Indian islands
 TERM Jamaican DEF pertaining Jamaica 
 TERM Jamaicine DEF alkaloid said contained bark leguminous tree growing Jamaica Surinam called also 
 TERM Jamb DEF vertical side opening door fireplace hence less properly narrow vertical surface wall chimney-breast pier distinguished face thick mass rock prevents miners following lode vein 
-TERM Jamb DEF See t & 
+TERM Jamb DEF t & 
 TERM Jambeau DEF 
 TERM Jambe DEF 
-TERM Jamb DEF See 
+TERM Jamb DEF 
 TERM jambalaya DEF spicy Creole dish rice ham sausage chicken shellfish plus tomatoes seasoned peppers onions herbs celery 
-TERM jambeau DEF See type spikefish Atlantic Ocean 
+TERM jambeau DEF type spikefish Atlantic Ocean 
 TERM Jambee DEF fashionable cane 
 TERM Jambeux DEF 
 TERM Jambes DEF Middle Ages armor legs knees usually front back pieces called also 
@@ -195,14 +195,14 @@ TERM James DEF American psychologist philosopher (1842-1910) brother American no
 TERM Jamesonia DEF genus xerophytic ferns South America 
 TERM Jamesonite DEF steel-gray mineral metallic luster commonly fibrous massive sulphide antimony lead little iron 
 TERM James's powder DEF Antimonial powder first prepared English physician called also 
-TERM Jamestown weed DEF poisonous thorn apple stramonium rank weed early noticed Virginia See 
+TERM Jamestown weed DEF poisonous thorn apple stramonium rank weed early noticed Virginia 
 TERM jamjar DEF jar holding jellies preserves 
 TERM jammed DEF filled capacity overfilled auditorium 
 TERM jampack DEF stuff fill completely tightly jam{1} 
 TERM jampan DEF kind sedan chair used India 
 TERM jampot DEF jar holding jellies preserves jamjar 
 TERM Jan DEF intermediate order angels men 
-TERM Jane DEF coin Genoa small coin kind twilled cotton cloth See 
+TERM Jane DEF coin Genoa small coin kind twilled cotton cloth 
 TERM Jane-of-apes DEF silly pert girl corresponding 
 TERM Jangle DEF sound harshly discordantly bells tune talk idly prate babble chatter gossip quarrel words altercate wrangle 
 TERM Jangle DEF cause sound harshly inharmoniously produce discordant sounds with 
@@ -213,7 +213,7 @@ TERM Janglery DEF Jangling
 TERM Jangling DEF Producing discordant sounds 
 TERM Jangling DEF Idle babbling vain disputation Wrangling altercation 
 TERM jangly DEF like discordant ringing nonmusical metallic objects striking together sounding jangle{3} custodian set 
-TERM Janissary DEF See 
+TERM Janissary DEF 
 TERM Janitor DEF door-keeper porter employed care public building building occupied offices suites rooms etc caretaker duties may include removal trash cleaning rooms public areas minor repairs 
 TERM Janitrix DEF 
 TERM Janitress DEF female janitor 
@@ -223,12 +223,12 @@ TERM Janizary DEF soldier privileged military class formed nucleus Turkish infan
 TERM Janker DEF long pole wheels used hauling logs 
 TERM Jansenism DEF doctrine regarding free divine grace 
 TERM Jansenist DEF follower Roman Catholic bishop Ypres Flanders 17th century taught certain doctrines denying free possibility resisting divine grace 
-TERM Jant DEF See 
-TERM Janthina DEF See 
-TERM Jantily DEF See 
-TERM Jantiness DEF See 
+TERM Jant DEF 
+TERM Janthina DEF 
+TERM Jantily DEF 
+TERM Jantiness DEF 
 TERM Jantu DEF machine great antiquity used Bengal raising water irrigate land 
-TERM Janty DEF See 
+TERM Janty DEF 
 TERM January DEF first month year containing thirty-one days 
 TERM Janus DEF Latin deity represented faces looking opposite directions Numa said dedicated Janus covered passage Rome near Forum usually called Temple Janus passage open war closed peace 
 TERM Janus-faced DEF Double-faced deceitful 
@@ -264,7 +264,7 @@ TERM Jards DEF callous tumor leg horse hock
 TERM Jargle DEF emit harsh discordant sound 
 TERM Jargon DEF Confused unintelligible language gibberish artificial idiom dialect cant language slang 
 TERM Jargon DEF utter jargon emit confused unintelligible sounds talk unintelligibly harsh noisy manner 
-TERM Jargon DEF variety zircon See 
+TERM Jargon DEF variety zircon 
 TERM Jargonelle DEF variety pear ripens early 
 TERM Jargonic DEF pertaining mineral jargon 
 TERM Jargonist DEF addicted jargon uses cant slang 
@@ -272,7 +272,7 @@ TERM Jarl DEF chief earl English history leaders Danish Norse invasions
 TERM Jarnut DEF earthnut 
 TERM Jarosite DEF ocher-yellow mineral occurring minute rhombohedral crystals hydrous sulphate iron potash 
 TERM Jar-owl DEF goatsucker 
-TERM Jarrah DEF mahoganylike wood Australian See 
+TERM Jarrah DEF mahoganylike wood Australian 
 TERM Jarring DEF Shaking disturbing discordant 
 TERM Jarring DEF shaking tremulous motion steamship caused Discord clashing interests 
 TERM Jarringly DEF jarring discordant manner 
@@ -319,12 +319,12 @@ TERM jawbone DEF attempt influence solely talking contrasted threatening inducin
 TERM Jawed DEF jaws chiefly composition 
 TERM Jaw-fall DEF Depression jaw hence depression spirits 
 TERM Jaw-fallen DEF Dejected chopfallen 
-TERM Jawfoot DEF See 
+TERM Jawfoot DEF 
 TERM Jawing DEF Scolding clamorous abusive talk 
-TERM Jawn DEF See 
+TERM Jawn DEF 
 TERM Jawy DEF Relating jaws 
 TERM Jay DEF numerous species birds belonging allied genera family allied crows smaller graceful form often handsomely colored usually crest 
-TERM Jayet DEF See 
+TERM Jayet DEF 
 TERM Jayhawker DEF name given free-booting unenlisted armed man guerrilla 
 TERM Jazel DEF gem azure color 
 TERM Jazerant DEF coat defense made small plates metal sewed upon linen like also kind armor taken generally coat 
@@ -341,10 +341,10 @@ TERM Jealousness DEF State quality jealous
 TERM Jealousy DEF quality jealous earnest concern solicitude painful apprehension rivalship cases directly affecting one's happiness painful suspicion faithfulness husband wife lover 
 TERM Jeames DEF footman flunky 
 TERM jean DEF twilled cotton cloth Pants made different fabrics resembling 
-TERM Jears DEF See 1st 
-TERM Jeat DEF See 
+TERM Jears DEF 1st 
+TERM Jeat DEF 
 TERM Jedding ax DEF stone mason's tool flat face pointed part 
-TERM Jee DEF See 
+TERM Jee DEF 
 TERM Jeel DEF morass shallow lake 
 TERM Jeer DEF gear tackle 
 TERM Jeer DEF utter sarcastic scoffing reflections speak mockery derision use taunting language scoff 
@@ -352,16 +352,16 @@ TERM Jeer DEF treat scoffs derision address jeers taunt flout mock at
 TERM Jeer DEF railing remark reflection scoff taunt biting jest flout jibe mockery 
 TERM Jeerer DEF scoffer railer mocker 
 TERM Jeering DEF Mocking scoffing 
-TERM Jeers DEF See 1st 
+TERM Jeers DEF 1st 
 TERM Jeffersonia DEF American herb pretty white solitary blossom deeply two-cleft leaves twinleaf 
 TERM Jeffersonian DEF Pertaining to characteristic of (third President United States) political doctrines Republicanism time opposed Federalists 
 TERM Jeffersonian simplicity DEF absence pomp display Jefferson aimed administration President (1801-1809) eschewing display ceremony tending distinguish President people going capital horseback escort abolition court etiquette weekly levee refusal recognize titles honor etc 
 TERM Jeffersonite DEF variety pyroxene olive-green color passing brown contains zinc 
-TERM Jeg DEF See 6 
+TERM Jeg DEF 6 
 TERM jehad DEF 
 TERM Jehovah DEF Scripture name Supreme Being revealed Jews covenant God Sovereign theocracy Supreme Being pronounced Jews 
-TERM Jehovist DEF maintains vowel points word Hebrew proper vowels word opposed writer passages Old Testament especially Pentateuch Supreme styled See 
-TERM Jehovistic DEF Relating to containing Jehovah name God said certain parts Old Testament especially Pentateuch appears name Deity See 
+TERM Jehovist DEF maintains vowel points word Hebrew proper vowels word opposed writer passages Old Testament especially Pentateuch Supreme styled 
+TERM Jehovistic DEF Relating to containing Jehovah name God said certain parts Old Testament especially Pentateuch appears name Deity 
 TERM Jehu DEF coachman driver especially drives furiously 
 TERM Jejunal DEF Pertaining jejunum 
 TERM Jejune DEF Lacking matter empty void substance Void interest barren meager dry Juvenile childish immature Lacking nutritional value 
@@ -377,17 +377,17 @@ TERM jello DEF
 TERM Jell-O DEF brand sweetened fruit-flavored powdered mixture packaged conveniently dissolved hot water solidified gelatin used dessert sometimes pieces fruit mixed in also gelatin dessert thus prepared sometimes used metaphorically pulled gun me knees turned 
 TERM jelly DEF Anything brought gelatinous condition viscous translucent substance condition liquid solid stiffened solution gelatin gum like juice fruits meats boiled sugar elastic consistence currant calf's-foot 
 TERM Jelly DEF become jelly come state consistency jelly 
-TERM Jellyfish DEF acalephs esp larger species jellylike appearance See 
+TERM Jellyfish DEF acalephs esp larger species jellylike appearance 
 TERM Jemidar DEF chief leader band body persons esp native army India officer rank corresponding lieutenant English army 
 TERM Jemlah goat DEF jharal 
 TERM Jemminess DEF Spruceness 
 TERM Jemmy DEF Spruce 
-TERM Jemmy DEF short crowbar See baked sheep's head 
+TERM Jemmy DEF short crowbar baked sheep's head 
 TERM Jeniquen DEF Mexican name Sisal hemp also fiber 
-TERM Jenite DEF See 
+TERM Jenite DEF 
 TERM Jenkins DEF name contempt flatterer persons high social official life employed 
 TERM Jennet DEF small Spanish horse genet 
-TERM Jenneting DEF variety early apple See 
+TERM Jenneting DEF variety early apple 
 TERM Jenny DEF familiar pet form proper name familiar name European wren 
 TERM Jenny DEF machine spinning number threads once used factories Also called 
 TERM Jentling DEF fish genus blue chub Danube 
@@ -405,9 +405,9 @@ TERM Jereed DEF blunt javelin used people Levant especially mock fights
 TERM Jeremiade DEF 
 TERM Jeremiad DEF tale sorrow disappointment complaint doleful story dolorous tirade generally used satirically 
 TERM Jerfalcon DEF gyrfalcon 
-TERM Jerguer DEF See 
+TERM Jerguer DEF 
 TERM Jerid DEF 
-TERM Jerk DEF cut long slices strips dry sun See 
+TERM Jerk DEF cut long slices strips dry sun 
 TERM Jerk DEF beat strike give quick suddenly arrested thrust push pull twist to yerk elbow coat throw quick suddenly arrested motion hand 
 TERM Jerk DEF make sudden motion move start starts flout contempt 
 TERM Jerk DEF short sudden pull thrust push twitch jolt shake similar motion sudden start spring foolish stupid otherwise contemptible person lifting weight single rapid motion shoulder height arms outstretched head distinguished motion rapid body may moved weight assist completion movement clean hundred Calisthenic exercises push-ups deep knee bends also called 
@@ -420,10 +420,10 @@ TERM jerkoff DEF lazy foolish stupid otherwise contemptible person offensive dis
 TERM jerk off DEF masturbate 
 TERM jerkwater DEF small remote insignificant main railroad line 
 TERM jerky DEF Moving jerks starts characterized abrupt transitions vehicle Foolish ridiculous stupid 
-TERM jerky DEF Meat especially beef cut strips dried meat jerked see first beef 
+TERM jerky DEF Meat especially beef cut strips dried meat jerked first beef 
 TERM Jermoonal DEF Himalayan snow partridge 
 TERM Jeronymite DEF belonging religious orders called St 
-TERM Jeropigia DEF See 
+TERM Jeropigia DEF 
 TERM Jerquer DEF customhouse officer searches ships unentered goods 
 TERM Jerquing DEF searching ship unentered goods 
 TERM Jerquing DEF searching ship unentered goods 
@@ -433,12 +433,12 @@ TERM Jerry-built DEF Built hastily bad materials Developed unsystematic inexpert
 TERM Jersey DEF finest wool separated rest combed wool also fine yarn wool kind knitted jacket hence general closefitting jacket upper garment made elastic fabric (as stockinet) breed cattle Island Jersey Jerseys noted richness milk 
 TERM Jerusalem DEF chief city Palestine intimately associated glory Jewish nation life death Jesus Christ 
 TERM Jervine DEF poisonous alkaloid resembling veratrine found white hellebore called also 
-TERM Jess DEF short strap leather silk secured round leg hawk leash line wrapped round falconer's hand attached used See 
+TERM Jess DEF short strap leather silk secured round leg hawk leash line wrapped round falconer's hand attached used 
 TERM Jessamine DEF 
 TERM Jessant DEF Springing emerging said plant animal 
 TERM Jesse DEF representation suggestion genealogy Christ decorative art 
 TERM Jessed DEF jesses on hawk 
-TERM Jest DEF deed action gest mask pageant interlude Something done said order amuse joke witticism jocose sportive remark phrase See Synonyms object laughter sport laughingstock 
+TERM Jest DEF deed action gest mask pageant interlude Something done said order amuse joke witticism jocose sportive remark phrase Synonyms object laughter sport laughingstock 
 TERM Jest DEF take part merrymaking especially act mask interlude make merriment words actions joke make light anything 
 TERM Jester DEF buffoon merry-andrew court fool person addicted jesting indulgence light amusing talk 
 TERM Jestful DEF Given jesting full jokes 
@@ -461,20 +461,20 @@ TERM Jet DEF variety lignite compact texture velvet black color susceptible good
 TERM Jet DEF shooting forth spouting spurt sudden rush gush water pipe flame orifice also issues jet Drift scope range argument sprue type broken type cold 
 TERM Jet DEF strut walk lofty haughty gait insolent obtrude jerk jolt shaken shoot forward out project jut out 
 TERM Jet DEF spout emit stream jet 
-TERM Jet-black DEF Black jet deep black See first 
+TERM Jet-black DEF Black jet deep black first 
 TERM Jet d'eau DEF stream water spouting esp upward fountain pipe ornament also fountain pipe issues 
 TERM Jeterus DEF yellowness parts plants normally green yellows 
 TERM Jetson DEF 
-TERM Jetsam DEF Goods sink cast sea remain water distinguished goods float (or goods sunk attached buoy act throwing objects ship lighten load jettison{1} See 1 Anything thrown overboard ship whether floating not Objects scattered disorderly manner couldn't find sneakers among 
+TERM Jetsam DEF Goods sink cast sea remain water distinguished goods float (or goods sunk attached buoy act throwing objects ship lighten load jettison{1} 1 Anything thrown overboard ship whether floating not Objects scattered disorderly manner couldn't find sneakers among 
 TERM jet set DEF international group wealthy individuals travel frequently international resorts group organized membership defined solely frequent travel pleasure 
 TERM jet-setter DEF member jet set 
 TERM jet-setting DEF frequent international travel pleasure contrasted business 
-TERM Jetteau DEF See 
-TERM Jettee DEF See 
+TERM Jetteau DEF 
+TERM Jettee DEF 
 TERM Jetter DEF struts bears jauntily fop 
 TERM Jettiness DEF state jetty blackness 
 TERM jetting DEF propelled violently usually narrow stream liquids 
-TERM Jettison DEF throwing overboard goods necessity order lighten vessel danger wreck See 1 
+TERM Jettison DEF throwing overboard goods necessity order lighten vessel danger wreck 1 
 TERM Jetton DEF metal counter used playing cards 
 TERM Jetty DEF Made jet like jet color 
 TERM Jetty DEF part building jets projects beyond rest overhangs wall below wharf pier extending shore structure wood stone extended sea influence current tide protect harbor mole Eads system mouth Mississippi 
@@ -491,10 +491,10 @@ TERM Jewel DEF dress adorn deck supply jewels dress sword hilt watch bespangle j
 TERM jewelled DEF 
 TERM jeweled DEF covered beads jewels sequins 
 TERM Jeweler DEF makes deals in jewels precious stones similar ornaments 
-TERM Jewellery DEF See 
+TERM Jewellery DEF 
 TERM Jewelry DEF art trade jeweler Jewels collectively bride's 
 TERM jewels-of-opar DEF erect plant tuberous roots terminal panicles red yellow flowers grwing Southwestern North America Central America widely introduced elsewhere 
-TERM Jewelweed DEF See 
+TERM Jewelweed DEF 
 TERM Jewess DEF female Jew Hebrew woman female adherent Judaism 
 TERM Jewfish DEF large serranoid fish Florida Gulf Mexico often reaches weight hundred pounds color olivaceous yellowish numerous brown spots Called also similar gigantic fish Southern California valued food fish black grouper Florida Texas large herringlike fish tarpum 
 TERM Jewise DEF 
@@ -513,14 +513,14 @@ TERM Jib DEF move restively backward sidewise said horse balk
 TERM Jibb DEF 
 TERM Jib DEF shift swing round sail boom yard etc tacking 
 TERM Jibber DEF horse jibs 
-TERM Jibe DEF shift boom fore-and-aft sail side vessel wind aft quarter See 
-TERM Jibe DEF change ship's course cause shifting boom See agree harmonize 
+TERM Jibe DEF shift boom fore-and-aft sail side vessel wind aft quarter 
+TERM Jibe DEF change ship's course cause shifting boom agree harmonize 
 TERM Jiffy DEF moment instant ready 
 TERM Jig DEF light brisk musical movement light humorous piece writing esp rhyme farce verse ballad piece sport trick prank trolling bait consisting bright spoon hook attached small machine handy tool 
-TERM Jig DEF sing tune jig trick cheat cajole delude sort separate ore jigger sieve See cut form piece metal jigging machine 
+TERM Jig DEF sing tune jig trick cheat cajole delude sort separate ore jigger sieve cut form piece metal jigging machine 
 TERM Jig DEF dance jig skip about move skip rhythm move vibrations jerks 
 TERM jigaboo DEF negro especially African-American offensive term usually intended ethnic slur 
-TERM Jigger DEF species flea burrows beneath skin called also See several species small red mites (esp family which larval leptus stage burrow beneath skin man various animals causing great annoyance Also called 
+TERM Jigger DEF species flea burrows beneath skin called also several species small red mites (esp family which larval leptus stage burrow beneath skin man various animals causing great annoyance Also called 
 TERM Jigger DEF who which jigs specifically miner sorts cleans ore process jigging also sieve used jigging horizontal table carrying revolving mold earthen vessels shaped rapid motion potter's wheel light tackle consisting double single block fall used various purposes increase purchase topsail sheet hauling home watch tackle pendulum rolling machine slicking graining leather 4 small glass measuring vessel holding ounces (45 ml) used mostly measuring liquor drinking whiskey also quantity liquid held jigger 
 TERM Jigger DEF move send drive jerk jerk also drive send jerk golf ball 
 TERM jiggery-pokery DEF verbal misrepresentation intended take advantage person way 
@@ -531,12 +531,12 @@ TERM Jigjog DEF jolting motion jogging pace
 TERM Jigjog DEF jolting motion 
 TERM Jihad DEF 
 TERM Jehad DEF religious war infidels Muslim heretics also bitter war crusade principle belief 
-TERM Jill DEF young woman sweetheart See 
-TERM Jill-flirt DEF light giddy wanton girl woman See 
+TERM Jill DEF young woman sweetheart 
+TERM Jill-flirt DEF light giddy wanton girl woman 
 TERM Jilt DEF woman capriciously deceives lover coquette flirt 
 TERM Jilt DEF cast capriciously unfeelingly lover deceive love 
 TERM Jilt DEF play jilt practice deception love discard lovers capriciously 
-TERM Jimcrack DEF See 
+TERM Jimcrack DEF 
 TERM Jim Crow DEF negro said called popular negro dance song refrain turn jump Jim produced 1835 D (1808-1860) famous negro minstrel considered disparaging offensive legally sanctioned system racial discrimination practised southern United States declared unconstitutional 1953 restricted federal legislation means negroes segregated discriminated employment many places public accommodation parks commercial establishments public transportation 
 TERM Jim-crow DEF negroes only set aside used negroes policy racial discrimination 
 TERM Jim-crow DEF machine bending straightening rails planing machine reversing tool plane ways 
@@ -546,10 +546,10 @@ TERM jimmies DEF Small cylindrical bits sweet chocolate used granular topping eg
 TERM Jimmy DEF short crowbar used burglars breaking open doors 
 TERM jimmy DEF immigrant 
 TERM jimmy DEF pry open (a door window etc) jimmy similar device often used burglar open back door stole TV 
-TERM Jimp DEF Neat handsome elegant See Slender trim Scant barely enough 
-TERM Jimson weed DEF See 
+TERM Jimp DEF Neat handsome elegant Slender trim Scant barely enough 
+TERM Jimson weed DEF 
 TERM Jinn DEF 
-TERM Jin DEF See 
+TERM Jin DEF 
 TERM Jingal DEF small portable piece ordnance mounted swivel 
 TERM Jingle DEF sound fine sharp rattling clinking tinkling sound sleigh bells rhyme sound jingling effect 
 TERM Jingle DEF cause give sharp metallic sound little bell coins shaken together tinkle 
@@ -558,7 +558,7 @@ TERM Jingler DEF who which jingles
 TERM Jingling DEF act process producing jingle also sound itself chink 
 TERM Jinglingly DEF jingle 
 TERM Jingo DEF word used jocular oath statesman pursues favors aggressive domineering policy foreign affairs bellicose superpatriot chavinist 
-TERM jingoism DEF policy Jingoes called See 2 bellicose patriotism aggressive chauvinism belligerence international relations 
+TERM jingoism DEF policy Jingoes called 2 bellicose patriotism aggressive chauvinism belligerence international relations 
 TERM jingoist DEF jingoistic bellicose patriot extreme bellicose nationalist aggressive chauvinist 
 TERM jingoistic DEF fanatically bellicosely patriotic aggressively chauvinistic belligerent international relations Given expressing partisan sentiments slogans especially belligerently patriotic views 
 TERM Jink DEF move quickly esp sudden turn hence dodge escape quick turn obs dial except hunting term pig-sticking games spoilfive forty-five win game taking tricks also play win tricks losing already won unsuccessful 
@@ -581,7 +581,7 @@ TERM jiujitsu DEF method self-defense without weapons developed China Japan hold
 TERM jive DEF style jazz played big bands popular 1930s flowing rhythms less complex later styles jazz 
 TERM Jnr. DEF Abbreviation used name son first last name father less commonly used 
 TERM Jo DEF sweetheart darling 
-TERM Job DEF sudden thrust stab jab piece chance occasional work definite work undertaken gross fixed price thousand public transaction done private profit something performed ostensibly part official duty really private gain corrupt official business affair event affects whether fortunately unfortunately situation opportunity work lost task execution task Michelangelo great David task coordinated set tasks multitasking computer submitted processing single unit usually execution background See control 
+TERM Job DEF sudden thrust stab jab piece chance occasional work definite work undertaken gross fixed price thousand public transaction done private profit something performed ostensibly part official duty really private gain corrupt official business affair event affects whether fortunately unfortunately situation opportunity work lost task execution task Michelangelo great David task coordinated set tasks multitasking computer submitted processing single unit usually execution background control 
 TERM Job DEF strike stab pointed instrument thrust in pointed instrument cause done separate portions lots sublet (work) buy sell broker purchase importers manufacturers purpose selling retailers hire let job period service 
 TERM Job DEF chance work hire work piece petty work seek private gain pretense public service turn public matters private advantage carry business jobber merchandise stocks 
 TERM Job DEF hero book name Old Testament prototypical patient man 
@@ -614,14 +614,14 @@ TERM joculatory DEF Droll sportive
 TERM Jocund DEF Merry cheerful gay airy lively sportive 
 TERM Jocund DEF Merrily cheerfully 
 TERM Jocundity DEF state quality jocund gayety sportiveness 
-TERM Joe DEF See 
+TERM Joe DEF 
 TERM Joe Miller DEF jest book stale jest worn-out joke 
 TERM Joe-Pye weed DEF tall composite plant genus purplish flowers whorled leaves 
 TERM joewood DEF West Indian shrub small tree leathery saponaceous leaves extremely hard wood 
 TERM joey DEF young animal especially young kangaroo young child three-penny piece 
-TERM Jog DEF push shake elbow hand jostle esp push touch order give notice excite one's attention warn suggest to notify remind call attention of cause jog drive jog horse See 
+TERM Jog DEF push shake elbow hand jostle esp push touch order give notice excite one's attention warn suggest to notify remind call attention of cause jog drive jog horse 
 TERM Jog DEF move jogs small shocks like slow trot move slowly leisurely monotonously usually sometimes run less maximum speed move foot pace walk run run moderate pace able continue time performed people mostly exercise 
-TERM Jog DEF slight shake shake push intended give notice awaken attention push jolt rub slight stop obstruction hence irregularity motion from hitch break direction line surface plane liesurely running pace See 
+TERM Jog DEF slight shake shake push intended give notice awaken attention push jolt rub slight stop obstruction hence irregularity motion from hitch break direction line surface plane liesurely running pace 
 TERM Jogger DEF jogs paths Central Park summer Saturday filled 
 TERM Jogging DEF act giving jog jogs traveling jog 
 TERM Joggle DEF shake slightly push suddenly slightly cause shake totter jostle jog join means joggles prevent sliding apart sometimes loosely dowel 
@@ -638,7 +638,7 @@ TERM Johnsonese DEF literary style Samuel formed imitation it inflated stilted p
 TERM Johnson grass DEF tall perennial grass valuable Southern Western States pasture hay rootstocks large juicy eagerly sought swine Called also 
 TERM Johnsonian DEF Pertaining resembling style pompous inflated 
 TERM Johnsonianism DEF manner acting writing peculiar to characteristic of 
-TERM John's-wort DEF See St 
+TERM John's-wort DEF St 
 TERM Join DEF bring together literally figuratively place contact connect couple unite combine associate add append associate one's self to become connected with league one's self with unite with party unite marriage enjoin upon command accept engage in contest encounter battle meet accompany combine (another person) performing activity welcoming new 
 TERM Join DEF contiguous close contact come together unite mingle form union bones skull rivers 
 TERM Join DEF line joining points point common intersecting lines place part objects joined joint seam combining multiple tables answer query relational database system 
@@ -648,7 +648,7 @@ TERM joined DEF married connected link railway cars trailer trucks connected sha
 TERM Joiner DEF who which joins occupation construct articles joining pieces wood mechanic woodwork (as doors stairs etc) necessary finishing buildings wood-working machine sawing plaining mortising tenoning grooving etc 
 TERM Joinery DEF art trade joiner work joiner woodwork (as doors stairs etc) necessary finishing buildings 
 TERM Joinhand DEF Writing letters joined words distinguished writing single letters 
-TERM Joint DEF place part things parts joined united union smooth even surfaces admitting close-fitting junction junction pieces timber joining things parts admit motion articulation whether movable not hinge knee node stem ball socket See part space included joints knots nodes articulations cane grass stem large pieces meat cut portions butcher roasting plane fracture divisional plane rock transverse stratification space adjacent surfaces bodies joined held together means cement mortar etc thin means whereby meeting surfaces pieces structure secured together projecting retreating part something irregularity line surface wall narrow piece scenery used join together flats wings interior setting disreputable establishment place low resort smoking opium also used commercial establishment implying less impeccable reputation often jest talking high-class marijuana cigarette prison used 
+TERM Joint DEF place part things parts joined united union smooth even surfaces admitting close-fitting junction junction pieces timber joining things parts admit motion articulation whether movable not hinge knee node stem ball socket part space included joints knots nodes articulations cane grass stem large pieces meat cut portions butcher roasting plane fracture divisional plane rock transverse stratification space adjacent surfaces bodies joined held together means cement mortar etc thin means whereby meeting surfaces pieces structure secured together projecting retreating part something irregularity line surface wall narrow piece scenery used join together flats wings interior setting disreputable establishment place low resort smoking opium also used commercial establishment implying less impeccable reputation often jest talking high-class marijuana cigarette prison used 
 TERM Joint DEF Joined united combined concerted Involving united activity more done produced working together United joined sharing another others solitary interest action holding common associate associates acting together heir creditor bank account debtor Shared by affecting more held common property 
 TERM Joint DEF unite joint joints fit together prepare fit together join connect unite combine provide joint joints articulate separate joints of divide joint joints disjoint cut joints meat 
 TERM Joint DEF fit joints coalesce joints do stones 
@@ -662,15 +662,15 @@ TERM Jointress DEF woman jointure
 TERM Jointure DEF joining joint estate settled wife enjoy husband's decease life least satisfaction dower 
 TERM Jointure DEF settle jointure upon 
 TERM Jointureless DEF jointure 
-TERM Jointuress DEF See 
+TERM Jointuress DEF 
 TERM Jointweed DEF slender nearly leafless American herb jointed spikes small flowers 
 TERM Jointworm DEF larva small hymenopterous fly found gall-like swellings stalks wheat usually first joint parts America great damage crop 
-TERM Joist DEF piece timber laid horizontally nearly so planks floor laths furring strips ceiling nailed called according position use etc See 
+TERM Joist DEF piece timber laid horizontally nearly so planks floor laths furring strips ceiling nailed called according position use etc 
 TERM Joist DEF fit furnish joists 
 TERM Joke DEF Something said sake exciting laugh something witty sportive (commonly indicating hilarity humor jest witticism crack good-natured Something said seriously actually meant something done sport 
 TERM Joke DEF make merry with make jokes upon rally banter 
 TERM Joke DEF something sport joke merry words actions jest 
-TERM Joker DEF makes jokes jests See 2d extra card usually included deck playing cards design back face picture jester included deck used games certain games may included takes special value highest-valued card wild card clause placed document contract piece legislation appearing significant subtle way substantially changing effect document fact condition unknown apparent reverses apparently advantageous position kicker person fellow chap usually used mildly disparaging sense who's left ice cream 
+TERM Joker DEF makes jokes jests 2d extra card usually included deck playing cards design back face picture jester included deck used games certain games may included takes special value highest-valued card wild card clause placed document contract piece legislation appearing significant subtle way substantially changing effect document fact condition unknown apparent reverses apparently advantageous position kicker person fellow chap usually used mildly disparaging sense who's left ice cream 
 TERM joking DEF intended joke communications 
 TERM Jokingly DEF joking way sportively 
 TERM Joll DEF 
@@ -688,7 +688,7 @@ TERM Jolly-boat DEF boat medium size belonging ship
 TERM Jollyhead DEF Jollity 
 TERM Jolt DEF shake short abrupt risings fallings carriage moving rough ground coach 
 TERM Jolt DEF cause move sudden motion especially motion carriage going rough ground high-trotting horse horse rider fast driving carriage stun shock person physically blow electrical shock earthquake stun shock change mental state (a person) suddenly blow sight house fire action mother's early death idyllic 
-TERM Jolt DEF sudden shock jerk jolting motion carriage moving rough ground physical psychological shock see senses 2 3 stock market plunge big sense affluence touched casing ungrounded motor got short Something causes bad news 
+TERM Jolt DEF sudden shock jerk jolting motion carriage moving rough ground physical psychological shock senses 2 3 stock market plunge big sense affluence touched casing ungrounded motor got short Something causes bad news 
 TERM Jolter DEF who which jolts 
 TERM Jolthead DEF 
 TERM Jolterhead DEF dunce blockhead 
@@ -697,10 +697,10 @@ TERM Jolty DEF jolts
 TERM Jonah DEF Hebrew prophet cast overboard endangered ship hence person presence unpropitious 
 TERM Jonesian DEF pertaining Jones 
 TERM Jongler DEF 
-TERM Jongleur DEF Middle Ages court attendant person who hire recited sang verses usually composition See juggler conjuror See 
+TERM Jongleur DEF Middle Ages court attendant person who hire recited sang verses usually composition juggler conjuror 
 TERM Jonquille DEF 
-TERM Jonquil DEF bulbous plant genus allied daffodil long rushlike leaves yellow white fragrant flowers root emetic properties sometimes called See 
-TERM Joram DEF See 
+TERM Jonquil DEF bulbous plant genus allied daffodil long rushlike leaves yellow white fragrant flowers root emetic properties sometimes called 
+TERM Joram DEF 
 TERM Jordan DEF landlocked country Middle East surrounded Israel Iraq Syria Saudi Arabia area west bank Jordan river claimed Jordan present occupied Israel part governed Palestinian authority population 4212152 (1996) total area 89213 sq km population predominantly Arab Moslem Officially known Kingdom formerly called occupied British 
 TERM Jorden DEF 
 TERM Jordan DEF pot vessel large neck formerly used physicians alchemists chamber pot 
@@ -721,10 +721,10 @@ TERM Jostlement DEF Crowding hustling
 TERM Jot DEF iota point tittle smallest particle Cf 
 TERM Jot DEF set down make brief note of usually followed 
 TERM Jotter DEF jots memoranda memorandum book 
-TERM Jougs DEF iron collar fastened wall post formerly used Scotland kind pillory also See 
+TERM Jougs DEF iron collar fastened wall post formerly used Scotland kind pillory also 
 TERM Jouissance DEF Jollity merriment 
-TERM Jouk DEF See 
-TERM Joul DEF See 
+TERM Jouk DEF 
+TERM Joul DEF 
 TERM joule DEF unit work equal ergs (the unit work C G S system units) equivalent watt-second energy expended second electric current ampere resistance ohm also called abbreviated slightly larger 1000167 times absolute joule absolute approximately equal 0737562 foot pounds 0239006 gram-calories (small calories) 372506 x horsepower-hours 0000948451 Btu 
 TERM Joulemeter DEF integrating wattmeter measuring energy joules expended electric circuit developed machine 
 TERM Joule's cycle DEF cycle air engine proposed air taken pump cold chamber compressed adiabatically pressure eqal air hot chamber delivered thereby displacing equal amount hot air engine cylinder expands adiabatically temperature cold chamber finally exhausted cycle reversed used refrigerating machines 
@@ -732,7 +732,7 @@ TERM Joule's law DEF law rate heat produced part electric circuit measured produ
 TERM Jounce DEF jolt shake especially rough riding driving obstructions 
 TERM Jounce DEF jolt shake hard trot 
 TERM Journal DEF Daily diurnal 
-TERM Journal DEF diary account daily transactions events occurred day day's work travel day's journey portion rotating piece shaft axle spindle etc turns bearing box See 
+TERM Journal DEF diary account daily transactions events occurred day day's work travel day's journey portion rotating piece shaft axle spindle etc turns bearing box 
 TERM journalese DEF linguistic style newspapers written 
 TERM Journalism DEF keeping journal diary periodical collection publication current news business managing editing writing for journals newspapers magazines broadcasting media radio television news media distribution internet political broadcast print branch knowledge studies phenomena associated news collection distribution editing course study especially institutions higher learning teaches students write edit report news 
 TERM Journalist DEF keeps journal diary diarist occupation write public news media newspapers magazines radio television internet also editorial professional writer periodical 
@@ -792,7 +792,7 @@ TERM Jubilate DEF third Sunday Easter called introit 66th Psalm which Latin vers
 TERM Jubilate DEF exult rejoice 
 TERM Jubilation DEF triumphant shouting rejoicing exultation 
 TERM Jubilee DEF Every fiftieth year year following completion seventh sabbath years time slaves Hebrew blood liberated lands alienated whole period reverted former owners joyful commemoration held fiftieth anniversary event Queen Victoria's reign American Board church solemnity ceremony celebrated Rome stated intervals originally hundred years latterly twenty-five plenary extraordinary indulgence granted sovereign pontiff universal church invariable condition granting indulgence confession sins receiving eucharist season general joy state joy exultation 
-TERM Jucundity DEF Pleasantness agreeableness See 
+TERM Jucundity DEF Pleasantness agreeableness 
 TERM Judahite DEF tribe Judah member kingdom Judah Jew 
 TERM Judaical DEF 
 TERM Judaic DEF pertaining Jews 
@@ -804,20 +804,20 @@ TERM Judaization DEF act Judaizing conforming Jewish religion ritual
 TERM Judaize DEF conform doctrines observances methods Jews inculcate impose Judaism 
 TERM Judaize DEF impose Jewish observances rites upon convert Judaism 
 TERM Judaizer DEF conforms inculcates Judaism 
-TERM Judaizers DEF See 
+TERM Judaizers DEF 
 TERM Judas DEF disciple betrayed Christ 
 TERM Judas-colored DEF Red tradition red hair beard 
-TERM Juddock DEF See 
+TERM Juddock DEF 
 TERM Judean DEF pertaining Judea 
 TERM Judeo-Christian DEF origins Judaism Christianity pertaining Christianity 
 TERM Judge DEF public officer invested authority hear determine litigated causes administer justice parties courts held purpose skill knowledge experience sufficient decide merits question quality value anything discerns properties relations skill readiness connoisseur expert critic person appointed decide trial skill speed etc parties umpire horse supreme magistrates civil military powers governed Israel hundred years title seventh book Old Testament Book Judges 
-TERM Judge DEF hear determine causes trial decide judge give judgment pass sentence assume right pass judgment another sit judgment commendation criticise pass adverse judgment upon others See 3 compare facts ideas perceive relations attributes thus distinguish truth falsehood determine discern distinguish form opinion about 
+TERM Judge DEF hear determine causes trial decide judge give judgment pass sentence assume right pass judgment another sit judgment commendation criticise pass adverse judgment upon others 3 compare facts ideas perceive relations attributes thus distinguish truth falsehood determine discern distinguish form opinion about 
 TERM Judge DEF hear determine authority case court controversy parties examine pass sentence on try doom arrogate judicial authority over sit judgment upon censorious toward determine upon deliberation esteem think reckon exercise functions magistrate over govern 
 TERM Judge-made DEF Created judges judicial decision applied esp law applied established judicial interpretation statutes extend restrict scope meet new cases provide new better remedies etc often used opprobriously acts judicial interpretation considered this law contrasted 
 TERM Judger DEF judges 
 TERM judgeship DEF office position judge 
 TERM judging DEF cognitive process reaching decision drawing conclusions 
-TERM Judgment DEF act judging operation mind involving comparison discrimination knowledge values relations things whether moral qualities intellectual concepts logical propositions material facts obtained careful avoided peril series wrong forfeited power faculty performing operations (see 1) esp unqualified faculty judging deciding rightly justly wisely good sense man politician without conclusion result judging opinion decision act determining courts law conformable law justice also determination decision sentence court judge mandate sentence God judge all act mind notions ideas apprehended distinct compared purpose ascertaining agreement disagreement See 1 comparison may threefold (1) individual objects forming concept (2) concepts giving technically called judgment (3) judgments giving inference Judgments classed analytic synthetic identical calamity regarded sent God way recompense wrong committed providential punishment final award last sentence 
+TERM Judgment DEF act judging operation mind involving comparison discrimination knowledge values relations things whether moral qualities intellectual concepts logical propositions material facts obtained careful avoided peril series wrong forfeited power faculty performing operations (see 1) esp unqualified faculty judging deciding rightly justly wisely good sense man politician without conclusion result judging opinion decision act determining courts law conformable law justice also determination decision sentence court judge mandate sentence God judge all act mind notions ideas apprehended distinct compared purpose ascertaining agreement disagreement 1 comparison may threefold (1) individual objects forming concept (2) concepts giving technically called judgment (3) judgments giving inference Judgments classed analytic synthetic identical calamity regarded sent God way recompense wrong committed providential punishment final award last sentence 
 TERM judgmental DEF depending judgment Inclined make moral judgements behavior people contrasted inclination judge moral qualities others Opposite 
 TERM judgship DEF variant spelling 
 TERM Judicable DEF Capable judged capable tried decided upon 
@@ -825,7 +825,7 @@ TERM Judicative DEF power judge judicial
 TERM Judicatory DEF Pertaining administration justice dispensing justice judicial 
 TERM Judicatory DEF court justice tribunal Administration justice 
 TERM Judicature DEF state profession employed administration justice also dispensing administration justice court justice judicatory right judicial action jurisdiction extent jurisdiction judge court 
-TERM Judicial DEF Pertaining appropriate courts justice judge practiced conformed administration justice sanctioned ordered court power proceedings Fitted apt judging deciding mind Belonging judiciary distinguished See Judicious 
+TERM Judicial DEF Pertaining appropriate courts justice judge practiced conformed administration justice sanctioned ordered court power proceedings Fitted apt judging deciding mind Belonging judiciary distinguished Judicious 
 TERM Judicially DEF judicial capacity judicial manner 
 TERM Judiciary DEF pertaining courts judicature legal tribunals judicial 
 TERM Judiciary DEF branch government judicial power vested system courts justice country judges taken collectively independent senate committee 
@@ -842,17 +842,17 @@ TERM Jugated DEF Coupled together
 TERM Juge DEF judge 
 TERM Jugement DEF Judgment 
 TERM Juger DEF Roman measure land measuring 28800 square feet 240 feet length 120 breadth 
-TERM Jugger DEF East Indian falcon See 
-TERM Juggernaut DEF names Vishnu incarnation Krishna worshiped Hindus See also large unstoppable force power popular movement defeats destroys person gets way attempts stop it years Notre Dame football team unstoppable early primaries Johnson's campaign became crushing 
+TERM Jugger DEF East Indian falcon 
+TERM Juggernaut DEF names Vishnu incarnation Krishna worshiped Hindus also large unstoppable force power popular movement defeats destroys person gets way attempts stop it years Notre Dame football team unstoppable early primaries Johnson's campaign became crushing 
 TERM Juggle DEF play tricks sleight hand cause amusement sport tricks skill conjure especially maintian several objects air time tossing hand catching hand passing catching tossing hand practice artifice imposture 
-TERM Juggle DEF deceive trick artifice maintain (several objects) continuous motion air time tossing hand catching hand passing catching tossing hand variations basic motion also used Also used figuratively see senses 3 4 alter (financial records) secretly purpose theft deception arrange performance tasks responsibilities alternate times able both responsibilities job 
+TERM Juggle DEF deceive trick artifice maintain (several objects) continuous motion air time tossing hand catching hand passing catching tossing hand variations basic motion also used Also used figuratively senses 3 4 alter (financial records) secretly purpose theft deception arrange performance tasks responsibilities alternate times able both responsibilities job 
 TERM Juggle DEF trick sleight hand imposture deception block timber cut length either round split 
 TERM Juggler DEF juggles practices exhibits tricks sleight hand skilled legerdemain conjurer deceiver cheat person juggles objects i e maintains several objects air passing turn hand another 
 TERM Juggleress DEF female juggler 
 TERM Jugglery DEF art act juggler sleight hand Trickery imposture political 
 TERM Juggling DEF Cheating tricky 
-TERM Juggling DEF Jugglery underhand practice act process keeping several objects air time tossing hands See senses 2 3 4 
-TERM Juggs DEF See 
+TERM Juggling DEF Jugglery underhand practice act process keeping several objects air time tossing hands senses 2 3 4 
+TERM Juggs DEF 
 TERM Juglandin DEF extractive matter contained juice green shucks walnut used medicinally alterative also black hair dye 
 TERM Juglandine DEF alkaloid found leaves walnut 
 TERM Juglans DEF genus valuable trees including true walnut Europe America black walnut butternut 
@@ -890,9 +890,9 @@ TERM Julep DEF refreshing drink flavored aromatic herbs alcoholic beverage compo
 TERM Julian DEF Relating to derived from 
 TERM Julienne DEF kind soup containing thin slices shreds carrots onions etc 
 TERM Juliform DEF shape appearance julus catkin 
-TERM Julus DEF catkin ament See 
+TERM Julus DEF catkin ament 
 TERM July DEF seventh month year containing thirty-one days 
-TERM July-flower DEF See 
+TERM July-flower DEF 
 TERM Jumart DEF fabled offspring bull mare 
 TERM jumbal DEF small flat ring-shaped cake cookie hole middle 
 TERM Jumble DEF mix confused mass put throw together without order often followed 
@@ -916,10 +916,10 @@ TERM Jump DEF Exactly pat
 TERM jump DEF 
 TERM jump DEF 
 TERM jumped-up DEF Upstart 
-TERM jumper DEF who which jumps long drilling tool used masons quarrymen rude kind sleigh usually simple box runners piece poles form thills larva cheese fly See name applied 18th century certain Calvinistic Methodists Wales worship characterized violent convulsions spring impel star wheel also pawl lock fast wheel repeating timepiece 
+TERM jumper DEF who which jumps long drilling tool used masons quarrymen rude kind sleigh usually simple box runners piece poles form thills larva cheese fly name applied 18th century certain Calvinistic Methodists Wales worship characterized violent convulsions spring impel star wheel also pawl lock fast wheel repeating timepiece 
 TERM Jumper DEF loose upper garment sleeveless one-piece dress either full shoulders straps sometimes front part bodice usually worn women blouse underneath 
 TERM jumper DEF thing jumps esp various tools contrivances operating jumping motion short wire small plastic object containing short wire used optionally connect disconnect points electronic circuit include exclude portions circuit thus modify function circuit much used adapt add-on circuit boards different conditions functions within computer 
-TERM jumper DEF insert jumper{2} contacts (a circuit) See 2nd 
+TERM jumper DEF insert jumper{2} contacts (a circuit) 2nd 
 TERM Jumper cable DEF cable pair cables used vehicle 
 TERM Jumpered DEF jumper{2} connecting contacts (a circuit) 
 TERM Jumping DEF leap 
@@ -931,11 +931,11 @@ TERM jumpstart DEF start (the engine motor vehicle) using temporary connection s
 TERM Jump-start DEF action event jump-starting motor vehicles jump-starting engine also called 
 TERM Jumpsuit DEF 
 TERM Jump suit DEF one-piece coverall used parachutists jumping airplane one-piece garment resembling jumpsuit{1} shirt blouse attached trousers shorts 
-TERM Jumpweld DEF See 
+TERM Jumpweld DEF 
 TERM Jumpy DEF Jumping inducing jump characterized jumps 
 TERM Juncaceae DEF natural family tufted herbs resembling grasses including true called also 
 TERM Juncaceous DEF Of pertaining to resembling natural family plants common rush type 
-TERM Juncate DEF See 
+TERM Juncate DEF 
 TERM Juncite DEF fossil rush 
 TERM Junco DEF bird genus includes several species North American finches called also 
 TERM Juncous DEF Full rushes resembling rushes juncaceous 
@@ -946,7 +946,7 @@ TERM Juncus DEF type genus comprising rushes perennial tufted glabrous marsh pla
 TERM June DEF sixth month year containing thirty days 
 TERM Juneating DEF kind early apple 
 TERM Juneberry DEF small applelike berry American trees genus also called 
-TERM June bug DEF See 
+TERM June bug DEF 
 TERM Jung DEF Gustav noted Swiss psychiatrist Psychologist(1875-1961) 
 TERM Jungermannia DEF genus hepatic mosses much circumscribed formerly comprising plants family sometimes therefore called 
 TERM Jungermanniaceae DEF natural family plants comprising leafy members order 
@@ -954,14 +954,14 @@ TERM Jungermanniales DEF large order chiefly tropical liverworts
 TERM Jungian DEF pertaining Swiss psychiatrist 
 TERM Jungle DEF dense growth brushwood grasses reeds vines etc almost impenetrable thicket trees canes reedy vegetation India Africa Australia Brazil place danger ruthless competition survival Anything causes confusion difficulty due intricacy environmental 
 TERM Jungly DEF Consisting jungles abounding jungles nature jungle 
-TERM Junior DEF Less advanced age another younger Abbreviated Lower standing rank entered later position office partner counsel captain Senator New Composed juniors whether younger lower standing class baseball pertaining juniors junior class See 2 Belonging younger person earlier time life relating third year four-year term used third next final year U S high school college See 
+TERM Junior DEF Less advanced age another younger Abbreviated Lower standing rank entered later position office partner counsel captain Senator New Composed juniors whether younger lower standing class baseball pertaining juniors junior class 2 Belonging younger person earlier time life relating third year four-year term used third next final year U S high school college 
 TERM Junior DEF younger person lower later standing specifically American colleges four-year high schools third year course fourth final year designated seminaries first year others second year years' course 
 TERM Juniority DEF state quality junior 
 TERM Juniper DEF evergreen shrub tree genus order 
 TERM Juniperin DEF yellow amorphous substance extracted juniper berries 
 TERM Juniperite DEF fossil evidently allied juniper 
 TERM Juniperus DEF genus trees comprising junipers 
-TERM Junk DEF fragment solid substance thick piece See 
+TERM Junk DEF fragment solid substance thick piece 
 TERM Junk DEF Pieces old cable old cordage used making gaskets mats swabs etc picked pieces forming oakum filling seams ships Old iron metal glass paper etc bought sold junk dealers Something worthless worth value recyclable scrap Hard salted beef supplied ships 
 TERM Junk DEF large vessel without keel prominent stem huge masts piece used Chinese Japanese Siamese Malays etc navigating waters 
 TERM junked DEF Contrasted 
@@ -983,7 +983,7 @@ TERM Jupe DEF
 TERM Jupiter DEF supreme deity king gods men reputed son Saturn Rhea Jove corresponds Greek Zeus planets fifth sun brightest except Venus largest all mean radius 43345 miles (69758 kilometers) almost exactly one-tenth sun revolves sun 43326 days mean distance 52025 sun (778140000 km) earth's mean distance (the taken unity mass 1901 x kg one-thousandth sun remainder planets combined average solar day equal 9842 earth hours rapid revolution causes noticeable flattening poles diameter equator 71370 km poles 66644 km 
 TERM Juppon DEF 
 TERM Jupon DEF sleeveless jacket worn armor 14th century fitted closely descended hips petticoat 
-TERM Jura DEF 1 range mountains France Switzerland Jurassic period See 
+TERM Jura DEF 1 range mountains France Switzerland Jurassic period 
 TERM Jural DEF Pertaining natural positive right pertaining jurisprudence 
 TERM Juramentum DEF oath 
 TERM Jurassic DEF age middle Mesozoic 190 140 million years ago including divided England Europe Lias Wealden named certain rocks mountains noted predominance dinosaurs land development first birds mammals 
@@ -1009,11 +1009,11 @@ TERM Juristical DEF
 TERM Juristic DEF pertaining jurist legal profession jurisprudence 
 TERM Juror DEF member jury juryman member jury awarding prizes etc 
 TERM Jury DEF temporary use applied temporary contrivance 
-TERM Jury DEF body people selected according law impaneled sworn inquire try matter fact render true verdict according evidence legally adduced criminal trials number persons usually twelve civil cases grand juries may different See committee determining relative merit awarding prizes exhibition competition art gave first 
+TERM Jury DEF body people selected according law impaneled sworn inquire try matter fact render true verdict according evidence legally adduced criminal trials number persons usually twelve civil cases grand juries may different committee determining relative merit awarding prizes exhibition competition art gave first 
 TERM Juryman DEF impaneled jury serves juror 
 TERM Jury mast DEF temporary mast place carried away broken 
-TERM Jury-rig DEF rig temporary service construct flimsily makeshift fashion See 
-TERM jury-rigged DEF Rigged temporary service done made using whatever materials available makeshift survivors used fishing See 
+TERM Jury-rig DEF rig temporary service construct flimsily makeshift fashion 
+TERM jury-rigged DEF Rigged temporary service done made using whatever materials available makeshift survivors used fishing 
 TERM Jussi DEF delicate fiber produced Philippine Islands unidentified plant dresses etc made 
 TERM jussive DEF Indicating expressive mild command 
 TERM Just DEF Conforming conformable rectitude justice wrong any violating right obligation upright righteous honest true said persons things transgressing requirement truth propriety conformed truth things reason proper standard exact normal reasonable regular due statement Rendering disposed render due equitable fair impartial 
@@ -1039,7 +1039,7 @@ TERM Justificator DEF justifies vindicates justifier
 TERM Justificatory DEF Vindicatory defensory justificative 
 TERM justified DEF Arranged spaced line left side right side printed page sides left right 
 TERM Justifier DEF justifies vindicates supports defends absolves 
-TERM Justify DEF prove show just vindicate maintain defend conformable law right justice propriety duty pronounce free guilt blame declare prove done just right proper etc absolve exonerate clear treat righteous just pardon exculpate absolve prove ratify confirm make even true lines type proper spacing align (text) left (left justify) right (right justify) margins column page margins adjust type See 4 show (a person) sufficient legal reason act made subject charge accusation 
+TERM Justify DEF prove show just vindicate maintain defend conformable law right justice propriety duty pronounce free guilt blame declare prove done just right proper etc absolve exonerate clear treat righteous just pardon exculpate absolve prove ratify confirm make even true lines type proper spacing align (text) left (left justify) right (right justify) margins column page margins adjust type 4 show (a person) sufficient legal reason act made subject charge accusation 
 TERM Justify DEF form even surface true line something else fit exactly take oath ownership property sufficient qualify one's self bail surety 
 TERM Justinian DEF pertaining Institutes laws Roman Justinian 
 TERM Justle DEF run strike other encounter clash jostle 
@@ -1066,9 +1066,9 @@ TERM juvenile hormone DEF hormone secreted insects inhibits molting insect juven
 TERM Juvenileness DEF state quality juvenile juvenility 
 TERM Juvenility DEF Youthfulness adolescence manners character youth immaturity 
 TERM Juvia DEF Brazilian name lofty myrtaceous tree produces large seeds known 
-TERM Juwansa DEF camel's thorn See 
+TERM Juwansa DEF camel's thorn 
 TERM Juwise DEF 
 TERM Juxtapose DEF place juxtaposition 
 TERM Juxtaposit DEF place close connection contiguity juxtapose 
 TERM Juxtaposition DEF placing placed nearness contiguity side side 
-TERM Jymold DEF See 
+TERM Jymold DEF 

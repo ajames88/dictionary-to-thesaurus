@@ -1,0 +1,5 @@
+Thesaurus was generated for the letter X
+
+TERM			# OF GENERATED SYNONYMS		# OF COMMON SYNONYMS		% OF CORRECT GENERATED SYNONYMS
+X RAY					4						1						0.25
+X RAY					4						1						0.25

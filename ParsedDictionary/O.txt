@@ -5,12 +5,12 @@ TERM O' DEF prefix Irish family names signifies of character dignity
 TERM O' DEF shortened form 
 TERM O DEF 
 TERM O DEF exclamation used calling directly addressing person personified object also emotional impassioned exclamation expressing pain grief surprise desire fear etc 
-TERM Oad DEF See 
+TERM Oad DEF 
 TERM Oaf DEF Originally elf's child changeling left fairies goblins hence deformed foolish child simpleton idiot clumsy awkward person 
 TERM Oafish DEF Like oaf simple clumsy 
 TERM Oak DEF tree shrub genus oaks alternate leaves often variously lobed staminate flowers catkins fruit smooth nut called less inclosed scaly involucre called recognized hundred species nearly fifty occur United States rest Europe Asia parts North America barely reaching northern parts South America Africa Many oaks form forest trees grand proportions live many centuries wood usually hard tough provided conspicuous medullary rays forming silver grain strong wood timber oak 
 TERM Oaken DEF Made consisting oaks wood oaks 
-TERM Oaker DEF See 
+TERM Oaker DEF 
 TERM Oakling DEF young oak 
 TERM Oakum DEF material obtained untwisting picking loose fiber old hemp ropes used calking seams ships stopping leaks etc coarse portion separated flax hemp nackling 
 TERM Oaky DEF Resembling oak strong 
@@ -24,7 +24,7 @@ TERM Oarless DEF Without oars
 TERM Oarlock DEF notch fork device gunwale boat oar rests holds oar place acts fulcrum rowing Certain oarlocks designed use oars attached swivels insert oarlock provide firm pivot 
 TERM Oarsman DEF uses skilled use of oar rower 
 TERM oarsmanship DEF skill oarsman 
-TERM Oarsweed DEF large seaweed genus tangle kelp See 
+TERM Oarsweed DEF large seaweed genus tangle kelp 
 TERM oarswoman DEF woman oarsman 
 TERM Oary DEF form use oar swan's 
 TERM OAS DEF American international association countries Western hemisphere created 1948 promote military economic social cultural cooperation 
@@ -57,7 +57,7 @@ TERM Obdured DEF
 TERM Obdure DEF Obdurate hard 
 TERM Obduredness DEF 
 TERM Obdureness DEF Hardness 
-TERM Obe DEF See 
+TERM Obe DEF 
 TERM Obeah DEF 
 TERM obechi DEF large Western African tree large palmately lobed leaves axillary cymose panicles small white flowers one-winged seeds yields soft white pale yellow wood 
 TERM Obedible DEF Obedient 
@@ -67,11 +67,11 @@ TERM Obedient DEF Subject act authority willing obey submissive restraint contro
 TERM Obediential DEF According rule obedience 
 TERM Obediently DEF obedient manner obedience 
 TERM Obeisance DEF Obedience Deference homage expression deference respect bow curtsy 
-TERM Obeisancy DEF See 
+TERM Obeisancy DEF 
 TERM Obeisant DEF Ready obey reverent deferential also servilely submissive 
 TERM Obelion DEF region skull parietal foramina closure sagittal suture usually begins 
 TERM Obeliscal DEF Formed like obelisk 
-TERM obelisk DEF upright four-sided pillar gradually tapering rises terminating pyramid called ordinarily monolithic Egyptian obelisks commonly covered hieroglyphic writing top bottom mark reference called also See 2 
+TERM obelisk DEF upright four-sided pillar gradually tapering rises terminating pyramid called ordinarily monolithic Egyptian obelisks commonly covered hieroglyphic writing top bottom mark reference called also 2 
 TERM Obelisk DEF mark designate obelisk 
 TERM Obelize DEF designate obelus mark doubtful spirituous 
 TERM Obelus DEF mark [thus called resembling needle old MSS editions classics marks suspected passages readings 
@@ -97,7 +97,7 @@ TERM Obiism DEF Belief in practice of obi superstitions rites
 TERM Obimbricate DEF Imbricated overlapping ends directed downward 
 TERM Obit DEF Death decease date one's death funeral solemnity office obsequies service soul deceased person anniversary day death shortenting 
 TERM Obiter DEF passing incidentally way 
-TERM obiter dictum DEF incidental collateral opinion uttered judge See 2 
+TERM obiter dictum DEF incidental collateral opinion uttered judge 2 
 TERM Obitual DEF pertaining obits days obits celebrated 
 TERM Obituarily DEF manner obituary 
 TERM Obituary DEF pertaining death person persons notice 
@@ -116,9 +116,9 @@ TERM Objectionable DEF Liable objection likely objected disapproved of offensive
 TERM Objectist DEF adheres to skilled in objective philosophy 
 TERM Objectivate DEF objectify 
 TERM Objectivation DEF Converting object 
-TERM Objective DEF pertaining object pertaining object contained in nature position of object outward external extrinsic epithet applied whatever exterior mind simply thought feeling opposed related thoughts feelings opposed Unbiased unprejudiced fair uninfluenced personal feelings personal interests considering facts situation unrelated observer judgments opinions evaluations conclusions reasoning processes Pertaining to designating case follows transitive verb preposition case direct verb placed See 
-TERM Objective DEF objective case called also See 
-TERM objective lens DEF See 
+TERM Objective DEF pertaining object pertaining object contained in nature position of object outward external extrinsic epithet applied whatever exterior mind simply thought feeling opposed related thoughts feelings opposed Unbiased unprejudiced fair uninfluenced personal feelings personal interests considering facts situation unrelated observer judgments opinions evaluations conclusions reasoning processes Pertaining to designating case follows transitive verb preposition case direct verb placed 
+TERM Objective DEF objective case called also 
+TERM objective lens DEF 
 TERM Objectively DEF manner state object determinate idea 
 TERM Objectiveness DEF Objectivity 
 TERM Objectivity DEF state quality relation objective character object objective 
@@ -126,14 +126,14 @@ TERM Objectize DEF make object of regard object place position object
 TERM Objectless DEF object purposeless 
 TERM Objector DEF objects offers objections proposition measure 
 TERM object-oriented DEF Using data structures called objects encapsulate data typically accessed passing messages turn may trigger internal procedures within object invisible outside object 
-TERM Objibways DEF See 
+TERM Objibways DEF 
 TERM Objicient DEF makes objection objector 
 TERM Objuration DEF binding oath 
 TERM Objurgate DEF chide reprove 
 TERM Objurgation DEF act objurgating reproof 
 TERM Objurgatory DEF Designed objurgate chide containing expressing reproof culpatory 
 TERM Oblanceolate DEF Lanceolate reversed order is narrowing toward point attachment toward apex 
-TERM Oblate DEF Flattened depressed poles earth Offered up devoted consecrated dedicated used chiefly titles Roman Catholic orders See 
+TERM Oblate DEF Flattened depressed poles earth Offered up devoted consecrated dedicated used chiefly titles Roman Catholic orders 
 TERM Oblate DEF association priests religious women offered service church associations priests women called oblates 
 TERM Oblateness DEF quality state oblate 
 TERM Oblati DEF Children dedicated early years monastic state 
@@ -149,7 +149,7 @@ TERM Obligate DEF bring place obligation moral legal hold constraining motive bi
 TERM obligated DEF moral obligation someone legal obligation someone owing gratitude recognition another help favors etc Opposite 
 TERM Obligation DEF act obligating obligates constrains binding power promise contract oath vow law constitutes legal moral duty act person becomes bound something another forbear something external duties imposed law promise contract relations society courtesy kindness etc state obligated bound state indebted act favor kindness often used indicate state place bond condition annexed penalty nonfulfillment larger sense acknowledgment duty pay certain sum certain things 
 TERM obligational DEF relating constituting qualified create legal financial obligation 
-TERM Obligato DEF See 
+TERM Obligato DEF 
 TERM Obligatorily DEF obligatory manner reason obligation 
 TERM Obligatoriness DEF quality state obligatory 
 TERM Obligatory DEF Binding law conscience imposing duty obligation requiring performance forbearance act often followed obedience 
@@ -186,7 +186,7 @@ TERM Oblongish DEF Somewhat oblong
 TERM Oblongly DEF oblong form 
 TERM Oblongness DEF State quality oblong 
 TERM Oblong-ovate DEF oblong ovate inclined latter 
-TERM Oblongum DEF prolate spheroid figure described revolution ellipse greater axis Cf see 
+TERM Oblongum DEF prolate spheroid figure described revolution ellipse greater axis Cf 
 TERM Obloquious DEF Containing obloquy reproachful 
 TERM Obloquy DEF Censorious speech defamatory language language casts contempt men actions blame reprehension Cause reproach disgrace 
 TERM Obluctation DEF struggle against resistance opposition 
@@ -197,7 +197,7 @@ TERM Oboe DEF higher wind instruments modern orchestra yet great antiquity penet
 TERM Oboist DEF performer oboe 
 TERM Obolary DEF Possessing small coins impoverished 
 TERM Obole DEF weight twelve grains or according some grains half scruple 
-TERM Obolize DEF See 
+TERM Obolize DEF 
 TERM Obolo DEF copper coin used Ionian Islands cent value 
 TERM Obolus DEF small silver coin Athens sixth part drachma cents value 
 TERM Obomegoid DEF Obversely omegoid 
@@ -227,7 +227,7 @@ TERM obsecration DEF act obsecrating imploring Litany clauses beginning figure s
 TERM Obsecratory DEF Expressing used in entreaty supplicatory 
 TERM Obsequent DEF Obedient submissive obsequious 
 TERM Obsequience DEF Obsequiousness 
-TERM Obsequies DEF See 
+TERM Obsequies DEF 
 TERM Obsequious DEF Promptly obedient submissive another compliant yielding desires another devoted Servilely meanly attentive compliant excess cringing fawning flatterer pertaining obsequies funereal 
 TERM Obsequiously DEF obsequious manner compliantly fawningly manner appropriate obsequies 
 TERM Obsequiousness DEF quality state obsequious 
@@ -244,7 +244,7 @@ TERM Observation DEF act faculty observing taking notice act seeing fixing mind 
 TERM Observational DEF pertaining observation consisting of containing observations 
 TERM Observation car DEF railway passenger car made facilitate seeing scenery en route car open glass sides kind open balcony rear 
 TERM Observation deck DEF room platform high point tall building broad view surrounding area often outdoor platform sometimes indoors room large windows accommodate viewing 
-TERM Observation post DEF military outpost usually height surrounding terrain near front line battle observer may see enemy's positions direct artillery fire 
+TERM Observation post DEF military outpost usually height surrounding terrain near front line battle observer may enemy's positions direct artillery fire 
 TERM Observative DEF Observing watchful 
 TERM Observator DEF observes takes notice makes remark 
 TERM Observatory DEF place building making observations heavenly bodies building fitted instruments making systematic observations particular class series natural phenomena place elevated chamber view may observed commanded lookout flank battery whence officer note range effect fire usually referred 
@@ -302,9 +302,9 @@ TERM Obstructive DEF Tending obstruct presenting obstacles hindering causing imp
 TERM Obstructive DEF obstructive person thing 
 TERM Obstruent DEF Causing obstruction blocking up hindering 
 TERM Obstruent DEF Anything obstructs closes passage esp obstructs natural passages body medicine acts 
-TERM Obstupefaction DEF See 
+TERM Obstupefaction DEF 
 TERM Obstupefactive DEF Stupefactive 
-TERM Obstupefy DEF See 
+TERM Obstupefy DEF 
 TERM Obtain DEF hold keep possess get hold effort gain possession of procure acquire way 
 TERM Obtain DEF gain firm footing recognized established become prevalent general prevail custom going seashore prevail succeed 
 TERM Obtainable DEF Capable obtained 
@@ -335,7 +335,7 @@ TERM Obturate DEF stop close opening
 TERM Obturation DEF act stopping up closing opening 
 TERM Obturator DEF closes stops opening apparatus designed close unnatural opening fissure palate device preventing escape gas breech mechanism breech-loading gun gas check camera shutter 
 TERM Obturator DEF Serving obturator closing opening pertaining to region of obturator foramen 
-TERM Obtusangular DEF See 
+TERM Obtusangular DEF 
 TERM Obtuse DEF pointed acute blunt applied esp angles greater right angle containing ninety degrees acute sensibility perceptions alert especially feelings others dull stupid Dull deadened 
 TERM obtuse-angular DEF 
 TERM Obtuse-angled DEF obtuse angle 
@@ -360,7 +360,7 @@ TERM Obviation DEF act obviating state obviated
 TERM Obvious DEF Opposing fronting Exposed subject open liable Easily discovered seen understood readily perceived eye intellect plain evident apparent meaning 
 TERM Obvoluted DEF 
 TERM Obvolute DEF Overlapping contorted convolute applied primarily botany opposite leaves edge overlapping nearest edge other secondarily circle several leaves petals thus overlap 
-TERM Oby DEF See 
+TERM Oby DEF 
 TERM Oca DEF Peruvian name certain species bear edible tubers 
 TERM Ocarina DEF kind small simple wind instrument 
 TERM Occamy DEF alloy imitating gold silver 
@@ -377,7 +377,7 @@ TERM Occasive DEF pertaining setting sun falling descending western
 TERM Occecation DEF act making blind state blind 
 TERM Occident DEF part horizon sun last appears evening part earth towards sunset west opposed Specifically former times Europe opposed Asia now also Western hemisphere 
 TERM Occidental DEF Of pertaining to situated in occident west western opposed climates customs Possessing inferior hardness brilliancy beauty used inferior precious stones gems found Orient generally superior 
-TERM Occidentals DEF Western Christians Latin rite See 
+TERM Occidentals DEF Western Christians Latin rite 
 TERM Occiduous DEF Western occidental 
 TERM Occipital DEF pertaining occiput back part head occipital bone 
 TERM Occipital DEF occipital bone 
@@ -440,31 +440,31 @@ TERM ocher mutation DEF mutation base sequence codons messenger RNA converted UA
 TERM Ochreous DEF 
 TERM Ocherous DEF pertaining ocher containing resembling ocher matter 
 TERM Ochery DEF Ocherous 
-TERM Ochimy DEF See 
+TERM Ochimy DEF 
 TERM Ochlesis DEF general morbid condition induced crowding together many persons esp sick persons roof 
 TERM Ochlocracy DEF form government multitude mobocracy 
 TERM Ochlocratical DEF 
 TERM Ochlocratic DEF pertaining ochlocracy form character ochlocracy mobocratic 
 TERM Ochotonidae DEF natural family mammals including pikas extinct forms 
 TERM Ochraceous DEF Ocherous 
-TERM Ochre DEF See 
+TERM Ochre DEF 
 TERM Ochrea DEF greave legging kind sheath formed stipules united round stem 
 TERM Ochreated DEF 
 TERM Ochreate DEF Wearing furnished ochrea legging wearing boots booted Provided ochrea sheathformed stipules rhubarb yellow dock knotgrass 
-TERM Ochreous DEF See 
-TERM Ochrey DEF See 
+TERM Ochreous DEF 
+TERM Ochrey DEF 
 TERM Ochroleucous DEF Yellowish white faint tint dingy yellow 
-TERM Ochry DEF See 
-TERM Ochymy DEF See 
+TERM Ochry DEF 
+TERM Ochymy DEF 
 TERM -ock DEF suffix used form 
-TERM Ocra DEF See 
-TERM Ocrea DEF See 
+TERM Ocra DEF 
+TERM Ocrea DEF 
 TERM Ocreated DEF 
 TERM Ocreate DEF 
-TERM Octa- DEF prefix meaning See 
+TERM Octa- DEF prefix meaning 
 TERM Octachord DEF instrument strings system tones 
 TERM Octad DEF atom radical valence octavalent group things 
-TERM Octaedral DEF See 
+TERM Octaedral DEF 
 TERM Octaemeron DEF fast days great festival 
 TERM Octagon DEF plane figure sides angles structure (as fortification) place sides angles 
 TERM octagonal DEF sides angles 
@@ -482,11 +482,11 @@ TERM octandrian DEF pertaining distinct stamens
 TERM octane DEF group metametric hydrocarbons methane (paraffin) series important colorless volatile inflammable liquid found petroleum constituent gasoline ligroin 
 TERM Octangular DEF angles eight-angled 
 TERM Octant DEF eighth part circle arc 45 degrees position aspect heavenly body moon planet half way conjunction opposition quadrature distant another body 45 degrees instrument measuring angles (generally called arc measures eighth part circle Cf parts space divided coordinate planes 
-TERM octanucleotide DEF molecule composed nucleotide units bound phosphodiester bonds linear array partial digest DNA RNA may include See 
-TERM octapeptide DEF molecule composed amino acid units bound peptide bonds usually linear array See 
+TERM octanucleotide DEF molecule composed nucleotide units bound phosphodiester bonds linear array partial digest DNA RNA may include 
+TERM octapeptide DEF molecule composed amino acid units bound peptide bonds usually linear array 
 TERM Octapla DEF portion Old Testament prepared 3d century containing Hebrew text Greek versions it arranged parallel columns 
-TERM Octaroon DEF See 
-TERM Octastyle DEF See 
+TERM Octaroon DEF 
+TERM Octastyle DEF 
 TERM Octateuch DEF collection books especially first books Old Testament 
 TERM Octavalent DEF valence capable combined with exchanged for compared with atoms hydrogen said certain atoms radicals 
 TERM Octave DEF eighth day church festival festival day included also week following church festival eighth tone scale interval scale interval equal length interval tones semitones first stanzas sonnet consisting verses each stanza lines small cask wine eighth part pipe 
@@ -498,25 +498,25 @@ TERM Octennial DEF Happening every eighth year also lasting period years
 TERM octet DEF composition parts usually solo instruments voices group singers musicians 
 TERM Octic DEF eighth degree order 
 TERM Octile DEF 2 
-TERM Octillion DEF According French method numeration (which method followed also United States) number expressed unit twenty-seven ciphers annexed According English method number expressed unit forty-eight ciphers annexed See 
+TERM Octillion DEF According French method numeration (which method followed also United States) number expressed unit twenty-seven ciphers annexed According English method number expressed unit forty-eight ciphers annexed 
 TERM Octa- DEF 
 TERM Octo- DEF combining form meaning 
 TERM Octoate DEF salt octoic acid caprylate 
 TERM October DEF tenth month year containing thirty-one days Ale cider made month 
 TERM Octocera DEF Octocerata 
 TERM Octocerata DEF suborder including allied genera arms around head called also 
-TERM Octochord DEF See 
+TERM Octochord DEF 
 TERM Octodecimo DEF eighteen leaves sheet form book leaf size 
 TERM Octodecimo DEF book composed sheets folded eighteen leaves hence indicating less definitely size book sheets folded usually written 18mo called 
 TERM Octodentate DEF teeth 
 TERM Octodont DEF pertaining family rodents includes coypu many South American species 
-TERM Octoedrical DEF See 
+TERM Octoedrical DEF 
 TERM Octofid DEF Cleft separated segments calyx 
 TERM Octogamy DEF marrying times 
 TERM Octogenarian DEF person eighty years more age 
 TERM Octogenary DEF eighty years age 
 TERM Octogild DEF pecuniary compensation injury times value thing 
-TERM Octogonal DEF See 
+TERM Octogonal DEF 
 TERM Octogynia DEF Linnaean order plants pistils 
 TERM Octogynous DEF 
 TERM Octogynian DEF pistils octagynous 
@@ -530,12 +530,12 @@ TERM Octopetalous DEF petals flower leaves
 TERM Octopod DEF Octocerata 
 TERM Octopoda DEF 
 TERM Octopodia DEF 
-TERM Octopus DEF genus eight-armed cephalopods including numerous species large size See member genus Something resembling octopus numerous controlling arms branches reach widely influence many activities used mostly organizations diversified corporations 
+TERM Octopus DEF genus eight-armed cephalopods including numerous species large size member genus Something resembling octopus numerous controlling arms branches reach widely influence many activities used mostly organizations diversified corporations 
 TERM Octoradiated DEF rays 
 TERM Octoroon DEF offspring quadroon white person mestee 
 TERM Octospermous DEF Containing seeds 
 TERM Octostichous DEF vertical ranks leaves stem 
-TERM Octostyle DEF columns front said temple portico Parthenon large Greek temples See 
+TERM Octostyle DEF columns front said temple portico Parthenon large Greek temples 
 TERM Octosyllabical DEF 
 TERM Octosyllabic DEF Consisting containing syllables 
 TERM Octosyllable DEF Octosyllabic 
@@ -544,7 +544,7 @@ TERM octothorpe DEF
 TERM octothorp DEF typographic symbol (#) vertical lines intersected horizontal lines also called U S commonly called especially designate symbol used digital telephone dials confusing Europeans think pound sign symbol British pound commonly used symbol word #36 (meaning number 
 TERM Octoyl DEF hypothetical radical regarded essential residue octoic acid 
 TERM Octroi DEF privilege granted sovereign authority exclusive right trade granted guild society concession tax levied money kind gate French city articles brought within walls 
-TERM Octuor DEF See 
+TERM Octuor DEF 
 TERM Octuple DEF Eightfold 
 TERM Octyl DEF hypothetical hydrocarbon radical regarded essential residue octane entering derivatives 
 TERM Octylene DEF series metameric hydrocarbons ethylene series general combustible colorless liquids 
@@ -583,18 +583,18 @@ TERM odd-pinnate DEF Pinnate single leaflet apex leaf shape
 TERM Odds DEF Difference favor another excess things numbers other inequality advantage superiority hence excess chances probability odds often expressed ratio win i e win times Quarrel dispute debate strife chiefly phrase 
 TERM Ode DEF short poetical composition proper set music sung lyric poem esp now poem characterized sustained noble sentiment appropriate dignity style 
 TERM Odelet DEF little short ode 
-TERM Odelsthing DEF lower house Norwegian Storthing See 
+TERM Odelsthing DEF lower house Norwegian Storthing 
 TERM Odeon DEF kind theater ancient Greece smaller dramatic theater roofed over poets musicians submitted works approval public contended prizes hence modern usage name hall musical dramatic performances 
-TERM Odeum DEF See 
+TERM Odeum DEF 
 TERM Odible DEF Fitted excite hatred hateful odious 
-TERM Odic DEF pertaining od See 
+TERM Odic DEF pertaining od 
 TERM Odin DEF supreme deity Scandinavians German tribes 
 TERM Odinic DEF pertaining Odin 
 TERM Odinism DEF Worship Odin broadly Teutonic heathenism 
 TERM Odious DEF Hateful deserving receiving hatred name system Causing provoking hatred repugnance disgust offensive disagreeable repulsive sight 
 TERM Odist DEF writer ode odes 
 TERM Odium DEF Intense hatred dislike loathing abhorrence quality provokes hatred offensiveness state intensely hated result despicable action opprobrium disrepute discredit reproach mingled contempt conduct brought or brought upon 
-TERM Odize DEF charge od See 
+TERM Odize DEF charge od 
 TERM Odmyl DEF volatile liquid obtained boiling sulphur linseed oil unpleasant garlic odor 
 TERM Odocoileus DEF genus North American deer 
 TERM odograph DEF machine registering distance traversed vehicle pedestrain device recording length rapidity stride number steps taken walker 
@@ -615,17 +615,17 @@ TERM Odontograph DEF instrument marking laying outlines teeth gear wheels
 TERM Odontographic DEF pertaining odontography 
 TERM Odontography DEF description teeth 
 TERM Odontoid DEF form tooth toothlike 
-TERM Odontolcae DEF extinct order ostrichlike aquatic birds teeth set groove jaw includes allied genera See 
+TERM Odontolcae DEF extinct order ostrichlike aquatic birds teeth set groove jaw includes allied genera 
 TERM Odontolite DEF fossil tooth colored bright blue phosphate iron used imitation turquoise hence called 
 TERM Odontology DEF science treats teeth structure development 
 TERM Odontophora DEF 
-TERM Odontophore DEF special structure found mouth mollusks except bivalves consists several muscles cartilage supports chitinous radula lingual ribbon armed teeth Also applied radula alone See 
+TERM Odontophore DEF special structure found mouth mollusks except bivalves consists several muscles cartilage supports chitinous radula lingual ribbon armed teeth Also applied radula alone 
 TERM Odontophorous DEF odontophore 
 TERM Odontoplast DEF odontoblast 
 TERM Odontopteryx DEF extinct Eocene bird jaws strongly serrated dentated destitute true teeth found near London 
 TERM Odontornithes DEF group Mesozoic birds jaws armed teeth vertebrates divided orders Odontolcae Odontotormae Saururae 
 TERM Odontostomatous DEF toothlike mandibles applied certain insects 
-TERM Odontotormae DEF order extinct toothed birds teeth sockets genus See 
+TERM Odontotormae DEF order extinct toothed birds teeth sockets genus 
 TERM Odor DEF smell whether fragrant offensive scent perfume 
 TERM Odorament DEF perfume strong scent 
 TERM Odorant DEF Yielding odors fragrant 
@@ -638,16 +638,16 @@ TERM Odorless DEF Free odor
 TERM Odorous DEF emitting odor scent esp sweet odor fragrant sweet-smelling 
 TERM Ods DEF corruption formerly used oaths ejaculatory phrases 
 TERM Odyle DEF 
-TERM Odyl DEF See 
+TERM Odyl DEF 
 TERM Odylic DEF pertaining odyle odic 
 TERM Odyssey DEF epic poem attributed describes return siege 
 TERM OE DEF diphthong employed Latin language thence English language representative Greek diphthong many words common use alone stands instead Classicists prefer write diphthong separate Latin words 
 TERM oecoid DEF colorless porous framework stroma red blood corpuscles zooid hemoglobin substances corpuscles may dissolved out 
 TERM oecology DEF various relations animals plants another outer world commonly spelled 
-TERM oeconomical DEF See 
-TERM oeconomics DEF See 
-TERM oeconomy DEF See 
-TERM oecumenical DEF See 
+TERM oeconomical DEF 
+TERM oeconomics DEF 
+TERM oeconomy DEF 
+TERM oecumenical DEF 
 TERM oedema DEF swelling effusion watery fluid cellular tissue beneath skin mucous membrance dropsy subcutaneous cellular tissue 
 TERM oedematous DEF Pertaining to nature of edema affected edema 
 TERM oeil-de-boeuf DEF circular oval window generally used architecture 17th 18th centuries famous room palace Versailles bears name oval window opening it 
@@ -669,7 +669,7 @@ TERM oenocyan DEF coloring matter red wines
 TERM oenology DEF Knowledge wine scientific practical 
 TERM oenomania DEF Delirium tremens 
 TERM oenomel DEF Wine mixed honey mead 
-TERM oenometer DEF See 
+TERM oenometer DEF 
 TERM oenophilist DEF lover wine 
 TERM oenothionic DEF Pertaining acid called sulphuric 
 TERM O'er DEF contr 
@@ -697,7 +697,7 @@ TERM off-color DEF humorously vulgar mildly obscene risque
 TERM Offcut DEF cut off portion printed sheet certain sizes books cut folding 
 TERM off-day DEF day things go poorly guess 
 TERM off-duty DEF performing available duties given moment Oposite 
-TERM Offence DEF See 
+TERM Offence DEF 
 TERM offenceless DEF incapable offending attacking harmless 
 TERM Offend DEF strike against attack assail displease make angry affront offensive to harm pain annoy strong light eye transgress violate sin against oppose obstruct duty cause stumble cause sin fall 
 TERM Offend DEF transgress moral divine law commit crime stumble sin cause dislike anger vexation displease 
@@ -735,7 +735,7 @@ TERM Official DEF holds office esp subordinate executive officer attendant eccle
 TERM officialdom DEF body people elected appointed administer government taken collectively 
 TERM officialese DEF formal often obscure style writing characteristic government officials bureaucratese characterized euphemisms circumlocutions vague abstractions circumlocutions 
 TERM Officialism DEF state official system official government also adherence office routine red-tapism 
-TERM Officiality DEF See 
+TERM Officiality DEF 
 TERM officialize DEF render official 
 TERM Officially DEF proper officer virtue proper authority pursuance special powers vested officer office accounts reports verified rendered letters communicated persons 
 TERM Officialty DEF charge office court jurisdiction official 
@@ -762,7 +762,7 @@ TERM off-roader DEF bicycle sturdy frame fat tires originally designed riding mo
 TERM Offscouring DEF scoured off hence refuse rejected matter vile despised 
 TERM Offscum DEF Removed scum refuse dross 
 TERM off-season DEF relating season less maximum demand hotel rates 
-TERM Offset DEF general set off from before against something short prostrate shoot takes root produces tuft leaves etc See sum account value set another sum account equivalent hence anything given exchange retaliation set-off spur range hills mountains horizontal ledge face wall formed diminution thickness weathering upper surface part built it called also short distance measured right angles line actually run point irregular boundary object abrupt bend object rod part turned aside line nearly parallel rest part thus bent aside less distinct transfer printed page picture opposite page pages pressed together ink dry poor unitended transfer image page another called also See 
+TERM Offset DEF general set off from before against something short prostrate shoot takes root produces tuft leaves etc sum account value set another sum account equivalent hence anything given exchange retaliation set-off spur range hills mountains horizontal ledge face wall formed diminution thickness weathering upper surface part built it called also short distance measured right angles line actually run point irregular boundary object abrupt bend object rod part turned aside line nearly parallel rest part thus bent aside less distinct transfer printed page picture opposite page pages pressed together ink dry poor unitended transfer image page another called also 
 TERM Offset DEF set off place against balance account charge form offset in wall rod pipe etc 
 TERM Offset DEF make offset 
 TERM offset printing DEF printing technique lithographic image inked metal stone plate transferred first rubber sheet (usually cylinder) transfer paper Called also 
@@ -781,7 +781,7 @@ TERM off the hook DEF longer considered responsible Jack admitted breaking vase 
 TERM off-the-rack DEF Intended worn without alterations ready-to-wear clothing Contrasted 
 TERM off-the-shelf DEF Made large quantities intended used without modifications similar restricted clothing Opposite 
 TERM Offuscation DEF 
-TERM Offuscate DEF See 
+TERM Offuscate DEF 
 TERM off-white DEF tending toward white pure white 
 TERM off-white DEF grayish white 
 TERM Oft DEF Often frequently rarely many times 
@@ -797,7 +797,7 @@ TERM Ofttimes DEF Frequently often
 TERM Ogam DEF 
 TERM ogdoad DEF thing made parts 
 TERM Ogdoastich DEF poem lines 
-TERM Ogee DEF molding section form letter S convex part above cyma reversa See Hence similar figure used purpose 
+TERM Ogee DEF molding section form letter S convex part above cyma reversa Hence similar figure used purpose 
 TERM Ogeechee lime DEF acid olive-shaped drupaceous fruit species tupelo grows swamps Georgia Florida 
 TERM Ogganition DEF Snarling grumbling 
 TERM Ogham DEF particular kind writing practiced ancient Irish found inscriptions stones metals etc 
@@ -805,14 +805,14 @@ TERM Ogive DEF arch rib crosses Gothic vault diagonally
 TERM Ogle DEF view look side glances fondness design attract notice stare conspicuously impertinently 
 TERM Ogle DEF amorous side glance look 
 TERM Ogler DEF ogles 
-TERM Oglio DEF See 
+TERM Oglio DEF 
 TERM Ogre DEF imaginary monster hideous giant fairy tales lived human beings hence frightful giant cruel monster 
 TERM Ogreish DEF Resembling ogre character appearance ogre suitable ogre 
 TERM Ogrism DEF 
 TERM Ogreism DEF character manners ogre 
 TERM Ogress DEF female ogre 
 TERM Ogygian DEF pertaining mythical king ancient Attica great deluge Attica days hence primeval obscure antiquity 
-TERM Oh DEF exclamation expressing various emotions according tone manner especially surprise pain sorrow anxiety wish See Note 
+TERM Oh DEF exclamation expressing various emotions according tone manner especially surprise pain sorrow anxiety wish Note 
 TERM Ohioan DEF resident Ohio 
 TERM Ohm DEF standard unit measure electrical resistance resistance circuit potential difference volt produces current defined International Electrical Congress 1893 United States Statute resistance substantially equal units resistance C G S system electro-magnetic units represented resistance offered unvarying electric current column mercury temperature melting ice 144521 grams mass constant cross-sectional area length 1063 centimeters thus defined called 
 TERM Ohmmeter DEF instrument indicating directly electrical resistance circuit ohms 
@@ -822,7 +822,7 @@ TERM Oidium DEF genus minute fungi form floccose mass filaments decaying fruit e
 TERM Oil DEF great variety unctuous combustible substances viscous miscible water olive whale rock animal vegetable mineral origin varied composition variously used food solvents anointing lubrication illumination etc extension substance oily consistency 
 TERM Oil DEF smear rub oil lubricate oil anoint oil 
 TERM oil-bearing DEF containing oils geological formations 
-TERM oilbird DEF See 
+TERM oilbird DEF 
 TERM oilcan DEF small long spout used apply oil machinery purposes lubrication 
 TERM oilcloth DEF Cloth rendered waterproof treatment oil paint used marking garments covering tables shelves floors etc 
 TERM oiled DEF Covered treated oil dressed with soaked in oil Drunk inebriated 
@@ -835,11 +835,11 @@ TERM oil heater DEF heating cooking device burns oil (such kerosine) fuel
 TERM Oiliness DEF quality oily 
 TERM Oillet DEF small opening loophole sometimes circular used mediaeval fortifications 
 TERM Oilman DEF deals oils formerly dealt oils pickles person working petroleum industry esp oil company executive 
-TERM Oilnut DEF buffalo nut See 
+TERM Oilnut DEF buffalo nut 
 TERM oil patch DEF geographical region petroleum extracted petroleum producing industry low oil prices cause hard times 
 TERM oilrig DEF 
 TERM oil rig DEF structure associated machinery used drilling oil gas usually form tower Called also 
-TERM Oilseed DEF Seed oil expressed castor bean also plant yielding seed See 
+TERM Oilseed DEF Seed oil expressed castor bean also plant yielding seed 
 TERM oil-silk DEF Silk treated oil make water-tight used make raincoats 
 TERM Oilskin DEF Cloth made waterproof oil 
 TERM oil slick DEF layer oil floating water usually petroleum fuel oil leaked ship 
@@ -850,7 +850,7 @@ TERM oil tanker DEF ship large compartments designed transport crude oil ocean
 TERM oil well DEF well{3} petroleum extracted well{3} drilled deeply oil-bearing geological formation specifically purpose obtaining petroleum 
 TERM Oily DEF Consisting oil containing oil nature qualities oil unctuous oleaginous matter Covered oil greasy hence resembling oil Smoothly subservient supple compliant plausible insinuating 
 TERM Oinement DEF Ointment 
-TERM Oinomania DEF See 
+TERM Oinomania DEF 
 TERM Oint DEF anoint 
 TERM Ointment DEF serves anoint soft unctuous substance used smearing anointing unguent 
 TERM Ojibways DEF 
@@ -864,7 +864,7 @@ TERM Oke DEF Turkish Egyptian weight equal pounds Hungarian Wallachian measure e
 TERM okey DEF 
 TERM okeh DEF Variant spellings 
 TERM Okenite DEF massive fibrous mineral whitish color chiefly hydrous silicate lime 
-TERM Oker DEF See 
+TERM Oker DEF 
 TERM Okinawa DEF largest island central campaign closing days World War II Pacific (April-June 1945) savage close-quarter fighting US marines regular army troops took island Japanese considered greatest victory Pacific campaign Americans 
 TERM Okra DEF annual plant syn green pods abounding nutritious mucilage much used soups stews pickles gumbo pods plant okra used vegetable also dish prepared them gumbo 
 TERM -ol DEF suffix denoting substance name appears belongs series compounds contain hydroxy radical 
@@ -880,7 +880,7 @@ TERM old fashioned DEF cocktail consisting whiskey bitters sugar garnished fruit
 TERM Old-gentlemanly DEF Pertaining old gentleman like 
 TERM old-hat DEF 2 
 TERM Oldish DEF Somewhat old 
-TERM Old lang syne DEF See lang 
+TERM Old lang syne DEF lang 
 TERM Old Line State DEF Maryland nickname alluding fact northern boundary Mason Dixon's line 
 TERM old-maidish DEF Like old maid prim precise particular overly fastidious 
 TERM Old-maidism DEF condition characteristics old maid 
@@ -910,7 +910,7 @@ TERM Olecranal DEF pertaining olecranon
 TERM Olecranon DEF large process proximal end projects behind articulation humerus forms bony prominence elbow 
 TERM Olefiant DEF Forming producing oil specifically designating colorless gaseous hydrocarbon called (olefiant gas) 
 TERM olefine DEF 
-TERM olefin DEF Olefiant gas ethylene See series unsaturated hydrocarbons ethylene type member alkene series hydrocarbons alkene 
+TERM olefin DEF Olefiant gas ethylene series unsaturated hydrocarbons ethylene type member alkene series hydrocarbons alkene 
 TERM Oleic DEF Pertaining to derived from contained in oil acid acid acrylic acid series found combined glyceryl form olein certain animal vegetable fats oils sperm oil olive oil low temperatures acid crystalline melts oily liquid C 
 TERM Oleiferous DEF Producing oil 
 TERM Olein DEF fat liquid ordinary temperatures solidifying temperatures C found abundantly animal vegetable kingdoms (see dissolves solid fats especially C Chemically olein glyceride oleic acid and molecules acid united molecule glycerol form fat technically known also called 
@@ -921,7 +921,7 @@ TERM Oleomargarine DEF liquid oil made animal fats (esp beef fat) separating gre
 TERM Oleometer DEF instrument ascertaining weight purity oil elaiometer 
 TERM Oleone DEF oily liquid obtained distillation calcium oleate probably consisting ketone oleic acid 
 TERM Oleo oil DEF oil expressed certain animal fats (esp beef suet) greater portion solid fat stearin left behind mixture olein palmitin little stearin 
-TERM Oleoptene DEF See 
+TERM Oleoptene DEF 
 TERM Oleoresin DEF natural mixture terebinthinate oil resin liquid semiliquid preparation extracted (as capsicum cubebs ginger) means ether consisting fixed volatile oil holding resin solution 
 TERM Oleous DEF 
 TERM Oleose DEF Oily 
@@ -929,12 +929,12 @@ TERM Oleosity DEF state quality oily fat fatness
 TERM Oleraceous DEF Pertaining pot herbs nature qualities herbs cookery esculent 
 TERM Olf DEF European bullfinch 
 TERM Olfaction DEF sense impressions made olfactory organs odorous particles atmosphere perceived 
-TERM Olfactive DEF See 
+TERM Olfactive DEF 
 TERM Olfactor DEF smelling organ nose 
 TERM Olfactory DEF Of pertaining to connected with sense smell nerves 
 TERM Olfactory DEF olfactory organ also sense smell usually plural 
 TERM Olfersia DEF genus consisting species classification systems included genus 
-TERM Oliban DEF See 
+TERM Oliban DEF 
 TERM Olibanum DEF fragrant gum resin various species Oriental frankincense 
 TERM Olibene DEF colorless mobile liquid pleasant aromatic odor obtained distillation olibanum frankincense regarded terpene called also 
 TERM Olidous DEF 
@@ -958,7 +958,7 @@ TERM Oligochaeta DEF order Annelida includes earthworms related species includin
 TERM oligochaete DEF order hermaphroditic terrestrial aquatic annelids (including earthworms) bristles borne singly along length body member 
 TERM oligochaetous DEF pertaining 
 TERM oligochete DEF pertaining 
-TERM Oligoclase DEF triclinic soda-lime feldspar See 
+TERM Oligoclase DEF triclinic soda-lime feldspar 
 TERM oligomer DEF molecule composed small number linked monomer units short polymer compounds called less hundred monomer units usually less thirty Oligomers increasing length called etc colloquial laboratory jargon may also referred etc especially oligomers greater units 
 TERM Oligomerous DEF members set organs 
 TERM Oligomyoid DEF imperfect syringeal muscles said passerine birds 
@@ -973,7 +973,7 @@ TERM Oliva DEF genus polished marine gastropod shells chiefly tropical often bea
 TERM Olivaceous DEF Resembling olive color olive olive-green 
 TERM Olivary DEF Like olive 
 TERM Olivaster DEF color olive tawny 
-TERM Olive DEF tree small oblong elliptical leaves axillary clusters flowers oval one-seeded drupes tree cultivated fruit thousands years branches emblems peace wood yellowish brown beautifully variegated shell genus allied genera called form See color olive peculiar dark brownish yellowish tawny green olivary body See small slice meat seasoned rolled up cooked beef 
+TERM Olive DEF tree small oblong elliptical leaves axillary clusters flowers oval one-seeded drupes tree cultivated fruit thousands years branches emblems peace wood yellowish brown beautifully variegated shell genus allied genera called form color olive peculiar dark brownish yellowish tawny green olivary body small slice meat seasoned rolled up cooked beef 
 TERM Olive DEF Approaching color olive peculiar dark brownish yellowish tawny green 
 TERM Olived DEF Decorated furnished olive trees 
 TERM Olivenite DEF olive-green mineral hydrous arseniate copper olive ore 
@@ -984,14 +984,14 @@ TERM Olivewood DEF wood olive
 TERM Olivil DEF white crystalline substance obtained exudation olive bitter-sweet taste acid proporties 
 TERM Olivin DEF complex bitter gum found leaves olive tree called also 
 TERM Olivine DEF common name yellowish green mineral chrysolite esp variety found eruptive rocks silicate magnesium iron 
-TERM Olivite DEF See 
+TERM Olivite DEF 
 TERM Olla DEF pot jar wide mouth cinerary urn especially baked clay dish stewed meat olio olla-podrida 
 TERM Olla-podrida DEF favorite Spanish dish consisting mixture several kinds meat chopped fine stewed vegetables incongruous mixture miscellaneous collection olio 
 TERM olm DEF European cave-dwelling aquatic salamander permanent external gills 
 TERM Ology DEF colloquial humorous name science branch knowledge 
 TERM Olpe DEF Originally leather flask vessel oils liquids afterward earthenware vase pitcher without spout 
 TERM Olusatrum DEF umbelliferous plant common Alexanders Western Europe 
-TERM Olympiad DEF period years ancient Greeks reckoned time interval celebration Olympic games another beginning victory foot race took place year 776 era quadrennial celebration modern Olympic games first See 
+TERM Olympiad DEF period years ancient Greeks reckoned time interval celebration Olympic games another beginning victory foot race took place year 776 era quadrennial celebration modern Olympic games first 
 TERM Olympic DEF 
 TERM Olympian DEF pertaining Olympus mountain Thessaly fabled seat gods Olympia small plain Elis 
 TERM Olympian DEF god dwells Olympus inhabitant Olympia athlete competes Olympics 
@@ -1010,13 +1010,13 @@ TERM Omahas DEF tribe Indians inhabited south side Missouri River partly civiliz
 TERM Omander wood DEF wood kind ebony found Ceylon 
 TERM Omani DEF relating Oman people oil producers 
 TERM Omani DEF native inhabitant Oman 
-TERM Omasum DEF third division stomach ruminants See 
+TERM Omasum DEF third division stomach ruminants 
 TERM Ombre DEF 
 TERM Omber DEF game cards borrowed Spaniards usually played persons 
 TERM Ombre DEF large Mediterranean food fish called also 
 TERM Ombrometer DEF instrument measuring rain falls rain gauge 
 TERM Omdurman DEF battle (1898) Anglo-Egyptian army defeated Sudanese 
-TERM omega DEF last letter Greek alphabet See last end hence death 
+TERM omega DEF last letter Greek alphabet last end hence death 
 TERM Omegoid DEF form Greek capital letter Omega 
 TERM omelette DEF 
 TERM omelet DEF dish consisting eggs beaten little flour etc cooked frying pan set semisolid consistency may folded around eg ham cheese jelly plain additional ingredients mixed in names ingredients may mentioned name omelet ham cheese bacon cheese 
@@ -1025,7 +1025,7 @@ TERM Omen DEF divine foreshow signs portents omens premonitions regarding predic
 TERM Omened DEF Attended by containing omen omens day 
 TERM Omental DEF pertaining omentum omenta 
 TERM Omentum DEF free fold peritoneum serving connect viscera support blood vessels etc epiploon 
-TERM Omer DEF Hebrew measure tenth ephah See 
+TERM Omer DEF Hebrew measure tenth ephah 
 TERM Omicron DEF Lit little short O o fifteenth letter Greek alphabet 
 TERM Omiletical DEF Homiletical 
 TERM Ominate DEF presage foreshow foretoken 
@@ -1100,7 +1100,7 @@ TERM Omphalopter DEF optical glass convex sides
 TERM Omphalos DEF navel 
 TERM Omphalotomy DEF operation dividing navel-string 
 TERM Omy DEF Mellow land 
-TERM On DEF general signification situation motion condition respect contact support beneath At contact with surface upper part thing supported it placed lying contact surface book lies table stands floor house surface of used indicate motion thing coming falling surface another rain falls Denoting performance action contact surface upper part outside anything hence means of with play violin figuratively work one's feelings make impression near adjacent to indicating situation place position hand hand fleet American addition to besides indicating multiplication succession series heaps heaps mischief mischief loss loss thought Indicating dependence reliance confidence in depend person assistance rely hence indicating ground support anything promise certain conditions bet horse based certain time of during Sunday abstain See (synonym) time of often conveying notion cause motive public occasions officers appear full dress uniform shop closed Toward for indicating object passion pity compassion peril of safety of virtue of pledge of denoting pledge engagement put thing pledged affirmed promised word account of denoting imprecation invocation coming to falling resting upon us blame curse reference relation to part expect punctuality satire Of Occupied with performance of officers duty journey job assignment case service of connected with member of newspaper reference to about concerning think it meditate 
+TERM On DEF general signification situation motion condition respect contact support beneath At contact with surface upper part thing supported it placed lying contact surface book lies table stands floor house surface of used indicate motion thing coming falling surface another rain falls Denoting performance action contact surface upper part outside anything hence means of with play violin figuratively work one's feelings make impression near adjacent to indicating situation place position hand hand fleet American addition to besides indicating multiplication succession series heaps heaps mischief mischief loss loss thought Indicating dependence reliance confidence in depend person assistance rely hence indicating ground support anything promise certain conditions bet horse based certain time of during Sunday abstain (synonym) time of often conveying notion cause motive public occasions officers appear full dress uniform shop closed Toward for indicating object passion pity compassion peril of safety of virtue of pledge of denoting pledge engagement put thing pledged affirmed promised word account of denoting imprecation invocation coming to falling resting upon us blame curse reference relation to part expect punctuality satire Of Occupied with performance of officers duty journey job assignment case service of connected with member of newspaper reference to about concerning think it meditate 
 TERM On DEF Forward progression onward usually verb motion move go beat goes Forward succession father son son grandson continuance without interruption ceasing sleep take ease say sing Adhering off phrase neither is steady irresolute Attached body clothing ornament use progress proceeding ongoing game 
 TERM Onager DEF military engine acting like sling threw stones bag wooden bucket operated machinery wild ass central Asia especially syn syn formely 
 TERM Onagga DEF dauw 
@@ -1137,7 +1137,7 @@ TERM One DEF single unit entire thing more multifold single individual Denoting 
 TERM One DEF single unit base symbol representing unit 1 i single person thing 
 TERM One DEF person indefinitely person body would well done 
 TERM One DEF cause become gather single whole unite assimilite 
-TERM Oneberry DEF herb Paris See 
+TERM Oneberry DEF herb Paris 
 TERM one-dimensional DEF dimension line object Seeming dimension lacking depth 
 TERM one-eared DEF Relating hearing ear monaural Opposite 
 TERM one-edged DEF sharp edge single-edged cutting instruments mostly swords razor blades Opposed 
@@ -1146,7 +1146,7 @@ TERM one-fifth DEF fifth part
 TERM one-fourth DEF quarter fourth part 
 TERM one-half DEF equal parts divisible whole half century half 
 TERM one-handed DEF 
-TERM one-hand DEF Employing hand See 
+TERM one-hand DEF Employing hand 
 TERM one-hitter DEF game pitcher allows opposing team hit 
 TERM one-horse DEF Drawn horse single horse Second-rate inferior small 
 TERM Oneidas DEF tribe Indians formerly inhabiting region near Oneida Lake State New York forming part Nations Remnants tribe live New York Canada Wisconsin 
@@ -1160,7 +1160,7 @@ TERM Oneiromancy DEF Divination means dreams
 TERM Oneiroscopist DEF interprets dreams 
 TERM Oneiroscopy DEF interpretation dreams 
 TERM Oneliness DEF state single 
-TERM Onely DEF See 
+TERM Onely DEF 
 TERM Onement DEF state reconciled 
 TERM Oneness DEF state singleness number individuality unity 
 TERM Onerary DEF Fitted for carrying burden 
@@ -1175,7 +1175,7 @@ TERM One-sided DEF side only side prominent Limited side favoring person side an
 TERM one-sixth DEF sixth part 
 TERM one-step DEF early ballroom dance precursor foxtrot 
 TERM one-tenth DEF tenth part 
-TERM Onethe DEF Scarcely See 
+TERM Onethe DEF Scarcely 
 TERM one-third DEF equal parts divisible whole 
 TERM one-up DEF Ahead friend competitor competitive activity 
 TERM one-upmanship DEF attitude practice trying keep step ahead friend competitor vigorous competitiveness 
@@ -1189,7 +1189,7 @@ TERM On-hanger DEF hanger-on
 TERM Onion DEF liliaceous plant genus strong-flavored bulb long hollow leaves also bulbous root much used article food name often extended species genus flavor onion{1} 
 TERM onion dome DEF dome pointed top width often extending beyond width tower covers style architecture characteristic Russian Orthodox churches 
 TERM onionskin DEF kind thin strong translucent paper glossy finish 
-TERM Onirocritic DEF See 
+TERM Onirocritic DEF 
 TERM Oniscus DEF type genus consisting woodlice cannot roll ball 
 TERM on-key DEF tune striking singing proper notes Opposite 
 TERM on-license DEF license sell liquor consumption premises 
@@ -1218,7 +1218,7 @@ TERM Onomatopoeia DEF formation words imitation sounds figure speech sound word 
 TERM Onomatopoeic DEF Onomatopoetic 
 TERM Onomatopoetic DEF pertaining onomatopoeia characterized onomatopoeia imitative writer 
 TERM Onomatopy DEF Onomatopoeia 
-TERM Onomomancy DEF See 
+TERM Onomomancy DEF 
 TERM Onondagas DEF tribe Indians formerly inhabiting part State New York central head tribe Nations 
 TERM Onrush DEF rushing onward 
 TERM Onset DEF rushing setting upon attack assault storming especially assault army setting about beginning used especially diseases pathological symptoms Anything set on added ornament useful appendage 
@@ -1234,7 +1234,7 @@ TERM on the fritz DEF Malfunctioning inoperable machinery devices
 TERM on the rag DEF Menstruating women 
 TERM on-the-spot DEF 
 TERM on-the-scene DEF occurring place time question 
-TERM Onto DEF top of upon on See 
+TERM Onto DEF top of upon on 
 TERM Ontogeny DEF 
 TERM Ontogenesis DEF history individual development organism sequence events involved development organism history evolution germ development individual organism distinction evolution tribe Called also 
 TERM Ontogenetic DEF pertaining ontogenesis 
@@ -1254,18 +1254,18 @@ TERM Onycha DEF ingredient Mosaic incense probably operculum kind strombus preci
 TERM Onychia DEF whitlow 
 TERM Onychomancy DEF Divination nails 
 TERM Onychophora DEF Malacopoda 
-TERM onychophoran DEF numerous velvety-skinned wormlike carnivorous animals common tropical forests characteristics arthropods annelid worms member also called See 
+TERM onychophoran DEF numerous velvety-skinned wormlike carnivorous animals common tropical forests characteristics arthropods annelid worms member also called 
 TERM onymous DEF bearing name articles magazines usually Opposite 
 TERM Onyx DEF Chalcedony parallel layers different shades color used making cameos figure cut layer next ground deep jet-black color 
 TERM onyx DEF Deep jet-black 
 TERM Oo DEF 
 TERM oo DEF several beautiful birds genus including extinct native Hawaiian Islands yields brilliant yellow feathers formerly used making royal robes Called also 
-TERM Ooecium DEF special zooids cells Bryozoa destined receive develop ova ovicell See 
+TERM Ooecium DEF special zooids cells Bryozoa destined receive develop ova ovicell 
 TERM Oogenesis DEF development mode origin ova 
 TERM Oogonium DEF special cell certain cryptogamous plants containing oospheres rockweeds orders 
 TERM Ooidal DEF Shaped like egg 
 TERM Ook DEF Oak 
-TERM Oolite DEF variety limestone consisting small round grains resembling roe fish sometimes constitutes extensive beds European Jurassic See 
+TERM Oolite DEF variety limestone consisting small round grains resembling roe fish sometimes constitutes extensive beds European Jurassic 
 TERM Oolitic DEF pertaining oolite composed of resembling oolite 
 TERM Oological DEF pertaining oology 
 TERM Oologist DEF versed oology 
@@ -1308,7 +1308,7 @@ TERM Opacity DEF state opaque quality body renders impervious rays light want tr
 TERM Opacous DEF Opaque 
 TERM Opacular DEF Opaque 
 TERM Opah DEF large oceanic fish inhabiting Atlantic Ocean remarkable brilliant colors red green blue tints purple gold covered round silvery spots Called also 
-TERM Opake DEF See 
+TERM Opake DEF 
 TERM Opal DEF mineral consisting like quartz silica inferior quartz hardness specific gravity 
 TERM Opalesce DEF give forth play colors like opal 
 TERM Opalescence DEF reflection milky pearly light interior mineral moonstone state quality opalescent 
@@ -1329,7 +1329,7 @@ TERM Open DEF Open unobstructed space clear land without trees obstructions open
 TERM Open DEF make set open render free access unclose unbar unlock remove fastening covering from door box room spread expand disclose reveal interpret explain make known discover also render available accessible settlements trade etc enter upon begin discussion fire upon enemy trade correspondence investigation case court loosen make less compact matted cotton separating 
 TERM Open DEF unclose form hole breach gap unclosed parted expand spread out disclosed harbor begin commence stock par battery upon bark scent view game 
 TERM Open-air DEF Taking place open air outdoor game 
-TERM Openbill DEF bird genus allied stork called parts bill touch base tip species inhabits India another Africa Called also See 
+TERM Openbill DEF bird genus allied stork called parts bill touch base tip species inhabits India another Africa Called also 
 TERM opencast DEF 
 TERM open-chain DEF cyclic rings atoms within molecular structure open chain structure Opposite 
 TERM open-collared DEF buttoned neck shirt dressed casually shorts 
@@ -1342,13 +1342,13 @@ TERM Open-eyed DEF eyes widely open alert possible danger watchful vigilant
 TERM Open-handed DEF Generous liberal munificent 
 TERM Open-headed DEF Bareheaded 
 TERM Open-hearted DEF Candid frank generous 
-TERM Open-hearth steel DEF See 
+TERM Open-hearth steel DEF 
 TERM Opening DEF act process opening beginning commencement first appearance place open breach aperture gap cleft hole opportunity vacant place job current occupant interviewing candidates thinly wooded space without undergrowth midst forest clearing oak 
 TERM Openly DEF open manner publicly private without secrecy Without reserve disguise plainly evidently 
 TERM open-minded DEF Ready entertain new ideas Contrasted 
 TERM Open-mouthed DEF mouth open gaping hence greedy clamorous 
 TERM Openness DEF quality state open 
-TERM Open sea DEF sea open nations See 
+TERM Open sea DEF sea open nations 
 TERM Open verdict DEF verdict preliminary investigation finding fact crime stating criminal finding fact violent death without disclosing cause 
 TERM Openwork DEF Anything constructed manufactured (in needlework carpentry metal work etc) show openings substance work perforated pierced quarry open cut 
 TERM opepe DEF large African forest tree yielding strong hard yellow golden brown lumber sometimes placed genus called 
@@ -1376,7 +1376,7 @@ TERM Operatively DEF operative manner
 TERM Operator DEF who which operates produces effect performs act upon human body means hand instruments dealer stocks commodity speculative purposes speculator symbol expresses operation performed called also person operates telephone switchboard person schemes maneuvers adroitly deviously achieve his/her purposes 
 TERM Operatory DEF laboratory 
 TERM Opercle DEF bony plates support gill covers fishes opercular bone operculum 
-TERM Opercula DEF See 
+TERM Opercula DEF 
 TERM Opercular DEF Of pertaining to like operculum 
 TERM Opercular DEF principal opercular bone operculum fishes 
 TERM Operculated DEF 
@@ -1384,7 +1384,7 @@ TERM Operculate DEF Closed lid cover capsules mosses operculum apparatus protect
 TERM Operculiferous DEF Bearing operculum 
 TERM Operculiform DEF form lid cover 
 TERM Operculigenous DEF Producing operculum said foot part foot certain mollusks 
-TERM Operculum DEF lid pitcherform leaf lidlike operculiform process part dental lid closing aperture various species shells common whelk See 
+TERM Operculum DEF lid pitcherform leaf lidlike operculiform process part dental lid closing aperture various species shells common whelk 
 TERM Operetta DEF short light musical drama 
 TERM Operose DEF Wrought labor requiring labor hence tedious wearisome 
 TERM Operosity DEF Laboriousness 
@@ -1397,7 +1397,7 @@ TERM Ophidia DEF suborder reptiles includes serpents called also
 TERM Ophidian DEF Ophidia snake serpent 
 TERM Ophidian DEF pertaining belonging serpents 
 TERM Ophidioid DEF pertaining family fishes includes many slender species 
-TERM Ophidion DEF typical genus ophidioid fishes also See 
+TERM Ophidion DEF typical genus ophidioid fishes also 
 TERM Ophidious DEF Ophidian 
 TERM Ophiodontidae DEF natural family fishes closely related greenlings (fish genus 
 TERM Ophioglossaceae DEF natural family succulent ferns cosmopolitan distribution 
@@ -1424,7 +1424,7 @@ TERM Ophiurid DEF
 TERM Ophiurida DEF 
 TERM Ophiurioid DEF pertaining 
 TERM Ophiuroidea DEF 
-TERM Ophiurioidea DEF class star-shaped echinoderms disklike body slender articulated arms grooved beneath often fragile called also See 
+TERM Ophiurioidea DEF class star-shaped echinoderms disklike body slender articulated arms grooved beneath often fragile called also 
 TERM Ophryon DEF supraorbital point 
 TERM Ophthalmia DEF inflammation membranes coats eye eyeball 
 TERM Ophthalmic DEF Of pertaining to region of eye ocular orbitonasal nerve division trigeminal gives branches lachrymal gland eyelids nose 
@@ -1456,13 +1456,13 @@ TERM Opine DEF opinion judge think suppose
 TERM Opiner DEF opines 
 TERM Opiniatre DEF 
 TERM Opiniaster DEF Opinionated 
-TERM Opiniastrous DEF See 
+TERM Opiniastrous DEF 
 TERM Opiniate DEF hold maintain persistently 
 TERM Opiniated DEF Opinionated 
 TERM Opiniative DEF Opinionative 
 TERM Opiniatre DEF 
 TERM Opiniator DEF opinionated 
-TERM Opiniatre DEF See 
+TERM Opiniatre DEF 
 TERM Opiniatrety DEF Obstinacy opinions 
 TERM Opinicus DEF imaginary animal borne charge wings eagle's head short tail sometimes represented without wings 
 TERM Opining DEF Opinion 
@@ -1496,9 +1496,9 @@ TERM Opitulation DEF act helping aiding help
 TERM Opium DEF inspissated juice white poppy 
 TERM Ople tree DEF witch-hazel 
 TERM Opobalsamum DEF 
-TERM Opobalsam DEF old name aromatic resinous juice commonly called See 
+TERM Opobalsam DEF old name aromatic resinous juice commonly called 
 TERM Opodeldoc DEF kind plaster said invented used external injuries saponaceous camphorated liniment solution soap alcohol addition camphor essential oils soap liniment 
-TERM Opolchenie DEF See above 
+TERM Opolchenie DEF above 
 TERM Opopanax DEF inspissated juice umbelliferous plant (the brought Turkey East Indies loose granules sometimes larger masses reddish yellow color specks white strong smell acrid taste formerly used medicine emmenagogue antispasmodic 
 TERM Opoterodonta DEF older division suborder serpents includes snakes mouth dilatable 
 TERM Opossum DEF American marsupial genera called also common species United States 
@@ -1565,7 +1565,7 @@ TERM Optative DEF Something desired optative mood also verb optative mood
 TERM Optatively DEF optative manner expression desire 
 TERM Optic DEF organ sight eye eyeglass 
 TERM Optical DEF 
-TERM Optic DEF Of pertaining to using vision sight pertaining eye ocular nerves (the first pair cranial nerves) distributed retina optic (or axis See Relating science optics devices designed assist vision works 
+TERM Optic DEF Of pertaining to using vision sight pertaining eye ocular nerves (the first pair cranial nerves) distributed retina optic (or axis Relating science optics devices designed assist vision works 
 TERM optical activity DEF ability chemical compound rotate plane plane-polarized light found chemicals molecular structure plane symmetry common biochemical compounds 
 TERM optical cable DEF cable containing multiple optical fibers 
 TERM optical fiber DEF thin fiber pure glass used carry signals transmitted means light much greater information-carrying capacity copper wire 1990's became dominant means transmitting telephone communications long distances 
@@ -1589,16 +1589,16 @@ TERM optimum DEF favorable condition greatest degree largest amount possible giv
 TERM Option DEF power choosing right choice election alternative exercise power choice choice wishing wish right formerly belonging archbishop select dignity benefice gift suffragan bishop consecrated confirmed him bestowal next vacant annulled Parliament 1845 stipulated privilege given party time contract demanding fulfillment day within specified limit also contract giving privelege buy stock given price exercise 
 TERM Optional DEF Involving option depending exercise option left one's discretion choice allowed compulsory studies go 
 TERM Optionally DEF optional manner 
-TERM optionee DEF person holds option buy sell financial instrument See 
+TERM optionee DEF person holds option buy sell financial instrument 
 TERM Optocoelia DEF 
 TERM Optocoele DEF cavity optic lobes brain many animals 
-TERM Optogram DEF image external objects fixed retina photochemical action light visual purple See 
-TERM Optography DEF production optogram retina photochemical action light visual purple fixation image eye object photographed shows white purple red background See 
+TERM Optogram DEF image external objects fixed retina photochemical action light visual purple 
+TERM Optography DEF production optogram retina photochemical action light visual purple fixation image eye object photographed shows white purple red background 
 TERM Optometer DEF instrument measuring distance distinct vision mainly selection eveglasses 
 TERM Optometrist DEF skilled practices optometry especially examines eyes defects vision prescribes proper lenses correct defects discovered 
 TERM Optometry DEF Measurement range vision esp means optometer defined (with minor variations) statutes various States United States 
 TERM Opulence DEF Wealth riches affluence 
-TERM Opulency DEF See 
+TERM Opulency DEF 
 TERM Opulent DEF large estate property wealthy rich affluent city 
 TERM Opuntia DEF genus cactaceous plants prickly pear Indian fig 
 TERM Opuntiales DEF order plants coextensive family comprising cactuses 
@@ -1608,7 +1608,7 @@ TERM Opuscle DEF small petty work
 TERM Opusculum DEF opuscule 
 TERM Opye DEF Opium 
 TERM Oquassa DEF small handsome trout found lakes Maine called also 
-TERM -or DEF noun suffix denoting etc noun suffix denoting hears gives correlative general appended words Latin English origin See 
+TERM -or DEF noun suffix denoting etc noun suffix denoting hears gives correlative general appended words Latin English origin 
 TERM Or DEF particle marks alternative may read may write is may things pleasure corresponds may ride London often connects series words propositions presenting choice either may study law medicine divinity may enter 
 TERM Or DEF Ere before sooner than 
 TERM Or DEF Yellow gold color represented drawing engraving small dots 
@@ -1621,11 +1621,11 @@ TERM Oracle DEF utter oracles
 TERM Oracular DEF pertaining oracle uttering oracles forecasting future Resembling oracle way solemnity wisdom authority obscurity ambiguity dogmatism 
 TERM Oraculous DEF Oracular nature oracle 
 TERM Oragious DEF Stormy 
-TERM Oraison DEF See 
+TERM Oraison DEF 
 TERM Oral DEF Uttered mouth words spoken written verbal traditions testimony pertaining mouth surrounding lining mouth cavity cilia 
 TERM Orally DEF oral manner By with in mouth receive sacrament 
 TERM oral surgery DEF Surgery performed within mouth cavity especially performed around gums teeth expedient purpose preservation replacement teeth 
-TERM Orang DEF See 
+TERM Orang DEF 
 TERM Orange DEF fruit tree genus usually round consists pulpy carpels commonly number inclosed leathery rind easily separable reddish yellow ripe tree bears oranges orange tree color orange reddish yellow 
 TERM orange DEF pertaining orange color orange reddish yellow 
 TERM Orangeade DEF drink made orange juice water corresponding orange sherbet 
@@ -1644,7 +1644,7 @@ TERM Oration DEF deliver oration
 TERM Orator DEF public speaker delivers oration especially distinguished skill power public speaker eloquent equity proceedings prays relief petitioner officer voice university upon public occasions writes reads records letters public nature presents appropriate address persons honorary degrees conferred performs like duties called also 
 TERM Oratorial DEF Oratorical 
 TERM Oratorian DEF Oratorical 
-TERM Oratorian DEF See 
+TERM Oratorian DEF 
 TERM Oratorical DEF pertaining orator oratory characterized oratory rhetorical becoming orator triumph 
 TERM Oratorio DEF less dramatic text poem founded Scripture nerrative great divine event elaborately set music recitative arias grand choruses etc sung orchestral accompaniment without action scenery costume although oratorio grew Mysteries Miracle Passion plays acted Performance rendering composition 
 TERM Oratorious DEF Oratorical 
@@ -1654,7 +1654,7 @@ TERM Oratory DEF art orator art public speaking eloquent effective manner exerci
 TERM Oratress DEF woman makes public addresses 
 TERM Oratrix DEF woman plaintiff complainant equity pleading 
 TERM Orb DEF blank window panel 
-TERM Orb DEF spherical body globe especially celestial spheres sun planet star azure transparent spheres conceived ancients inclosed within another carry heavenly bodies revolutions circle esp circle nearly circular orbit described revolution heavenly body orbit period time marked revolution heavenly body eye luminous spherical revolving circular body wheel sphere action influence ball globe See 1st body soldiers drawn circle defense esp infantry repel cavalry 
+TERM Orb DEF spherical body globe especially celestial spheres sun planet star azure transparent spheres conceived ancients inclosed within another carry heavenly bodies revolutions circle esp circle nearly circular orbit described revolution heavenly body orbit period time marked revolution heavenly body eye luminous spherical revolving circular body wheel sphere action influence ball globe 1st body soldiers drawn circle defense esp infantry repel cavalry 
 TERM Orb DEF form orb circle encircle surround inclose 
 TERM Orb DEF become round like orb 
 TERM Orbate DEF Bereaved fatherless childless 
@@ -1689,33 +1689,33 @@ TERM orc DEF several cetaceans especialy dolphin family mythical monster varying
 TERM Orca DEF 
 TERM Orcadian DEF pertaining Orkney Islands 
 TERM Orcein DEF reddish brown amorphous dyestuff obtained orcin forming essential coloring matter cudbear archil closely related litmus 
-TERM Orchal DEF See 
+TERM Orchal DEF 
 TERM Orchanet DEF 2 
 TERM Orchard DEF garden inclosure containing fruit trees also fruit trees collectively used especially apples peaches pears cherries plums like less frequently nutbearing trees sugar maple trees 
 TERM Orcharding DEF cultivation orchards Orchards general 
 TERM Orchardist DEF cultivates orchard 
 TERM Orchel DEF Archil 
 TERM Orchesography DEF treatise upon dancing 
-TERM Orchester DEF See 
-TERM Orchestian DEF species amphipod crustacean genus family See 
+TERM Orchester DEF 
+TERM Orchestian DEF species amphipod crustacean genus family 
 TERM Orchestra DEF space theater stage audience originally appropriated Greeks chorus evolutions afterward Romans persons distinction moderns band instrumental musicians commonly called distinguish section main floor occupied spectators space main floor theater audience sits also forward spectator section main floor distinction rear section main floor place public hall appropriated band instrumental musicians Loosely band instrumental musicians performing theater concert hall place public amusement instruments employed full band collectively forty stringed instruments proper complement wind 
 TERM Orchestral DEF pertaining orchestra suitable for performed by orchestra 
 TERM orchestrate DEF write orchestra score for musical composition chief coordinator (an activity requiring action person) organize coordinate 
 TERM orchestrated DEF Arranged performance orchestra musical composition Coordinated achieve maximal effect actions group 
 TERM Orchestration DEF arrangement music orchestra orchestral treatment composition called also 
-TERM Orchestre DEF See 
+TERM Orchestre DEF 
 TERM Orchestric DEF Orchestral 
 TERM Orchestrion DEF large music box imitating variety orchestral instruments 
-TERM Orchid DEF plant order See 
+TERM Orchid DEF plant order 
 TERM Orchidaceous DEF Pertaining to resembling natural order endogenous plants genus type mostly perennial herbs stamens pistils united single column normally petals sepals adherent ovary flowers curiously shaped often resembling insects odd lower petal (called unlike others sometimes strange unexpected appearance hundred species occur United States several thousand tropics 
 TERM Orchidales DEF order plants irregular flowers minute seeds including families 
 TERM Orchidean DEF Orchidaceous 
 TERM Orchideous DEF 
 TERM Orchidologist DEF versed orchidology 
 TERM Orchidology DEF branch botany treats orchids 
-TERM Orchil DEF See 
-TERM Orchilla weed DEF lichen archil obtained See 
-TERM Orchis DEF genus endogenous plants growing North Temperate zone consisting eighty species perennial herbs growing tuber (beside usually found last year's tuber also) valued showy flowers See plant family orchis orchid 
+TERM Orchil DEF 
+TERM Orchilla weed DEF lichen archil obtained 
+TERM Orchis DEF genus endogenous plants growing North Temperate zone consisting eighty species perennial herbs growing tuber (beside usually found last year's tuber also) valued showy flowers plant family orchis orchid 
 TERM Orchitis DEF Inflammation testicles 
 TERM Orchotomy DEF operation cutting removing testicle knife castration 
 TERM Orcin DEF colorless crystalline substance obtained certain lichens etc) also extract aloes artificially certain derivatives toluene changes readily orcein 
@@ -1752,7 +1752,7 @@ TERM Ordinant DEF Ordaining decreeing
 TERM Ordinant DEF ordains 
 TERM Ordinarily DEF According established rules settled method rule commonly usually cases winter 
 TERM Ordinary DEF According established order methodical settled regular Common customary usual common rank quality ability distinguished superior excellence beauty hence distinguished way commonplace inferior little merit men judgment 
-TERM Ordinary DEF officer original jurisdiction right deputation mass common run common continued considered settled establishment institution Anything ordinary common use dining room eating house meal prepared comers fixed price meal distinction dish separately charged table hence also meal furnished dining room charge bearing simple form constant use uniformly admitted ordinaries authorities include others See 
+TERM Ordinary DEF officer original jurisdiction right deputation mass common run common continued considered settled establishment institution Anything ordinary common use dining room eating house meal prepared comers fixed price meal distinction dish separately charged table hence also meal furnished dining room charge bearing simple form constant use uniformly admitted ordinaries authorities include others 
 TERM Ordinaryship DEF state ordinary 
 TERM Ordinate DEF Well-ordered orderly regular methodical 
 TERM Ordinate DEF distance point curve straight line measured line called line parallel it another line called corresponding abscissa point measured 
@@ -1771,11 +1771,11 @@ TERM Ordurous DEF pertaining ordure filthy
 TERM Ore DEF Honor grace favor mercy clemency happy augury 
 TERM Ore DEF native form metal whether free uncombined gold copper etc combined iron lead etc Usually ores contain metals combined oxygen sulphur arsenic etc (called native metal compound rock occurs picked throw worthless Metal liquid 
 TERM Oread DEF nymphs mountains grottoes 
-TERM Oreades DEF group butterflies includes satyrs See 2 
+TERM Oreades DEF group butterflies includes satyrs 2 
 TERM Orectic DEF pertaining desires hence impelling gratification appetitive 
 TERM Oregon grape DEF evergreen species barberry Oregon California also roundish blue-black berries 
 TERM Oregonian DEF resident Oregon 
-TERM Oreide DEF See 
+TERM Oreide DEF 
 TERM oreo DEF confection consisting white cream filling sandwiched chocolate cookies 
 TERM Oreodon DEF genus extinct herbivorous mammals abundant Tertiary formation Rocky Mountains less related camel hog deer 
 TERM Oreodont DEF Resembling allied to genus 
@@ -1788,11 +1788,11 @@ TERM Oreosoma DEF genus small oceanic fishes remarkable large conical tubercles 
 TERM Oreweed DEF 
 TERM Orewood DEF 
 TERM Orfe DEF 
-TERM Orf DEF bright-colored domesticated variety id See 
+TERM Orf DEF bright-colored domesticated variety id 
 TERM Orfgild DEF Restitution cattle penalty taking away cattle 
 TERM Orfray DEF osprey 
-TERM Orfrays DEF See 
-TERM Orgal DEF See 
+TERM Orfrays DEF 
+TERM Orgal DEF 
 TERM Organ DEF instrument medium important action performed important end accomplished legislatures courts armies taxgatherers etc natural part structure animal plant capable performing special action (termed essential life well-being whole heart lungs etc animals root stem foliage etc component part performing essential office working complex machine cylinder valves crank etc steam medium communication person body another secretary state communication government foreign power newspaper editor party sect newsletter distributed within organization often called wind instrument containing numerous pipes various dimensions kinds filled wind bellows played upon means keys similar piano sometimes foot keys pedals formerly used plural pipe considered organ 
 TERM Organ DEF supply organ organs fit organs organize 
 TERM Organdy DEF 
@@ -1831,7 +1831,7 @@ TERM Organographist DEF versed organography
 TERM Organography DEF description organs animals plants 
 TERM Organoleptic DEF Making impression upon organ plastic said effect impression produced substance organs touch taste smell also organism whole 
 TERM Organological DEF relating organology 
-TERM Organology DEF science organs anything considered organic structure branch biology treats particular organs animals plants See 
+TERM Organology DEF science organs anything considered organic structure branch biology treats particular organs animals plants 
 TERM organometallic DEF Pertaining to denoting series compounds certain metallic elements bound organic radicals as methylmercury zinc methyl sodium ethyl etc formerly refered 
 TERM Organum DEF 
 TERM Organon DEF organ instrument hence method philosophical scientific investigation may conducted term adopted Aristotelian writers title part treatise philosophical method 
@@ -1840,23 +1840,23 @@ TERM Organophyly DEF tribal history organs branch morphophyly
 TERM Organoplastic DEF property producing tissues organs animals plants 
 TERM Organoscopy DEF Phrenology 
 TERM Organotrophic DEF Relating creation organization nutrition living organs parts 
-TERM Organule DEF essential cells elements organ See 
-TERM Organy DEF See 
+TERM Organule DEF essential cells elements organ 
+TERM Organy DEF 
 TERM organzine DEF kind double thrown silk fine texture is silk twisted like rope different strands increase strength 
 TERM orgasm DEF Eager immoderate excitement action state turgescence organ erethism peak physical pleasurable sexual excitement caused stimulation sexual organs intercourse male usually accompanied ejaculation eruption intense uncontrolled excitement used groups individuals 
 TERM Orgeat DEF sirup which formerly decoction barley entered prepared emulsion almonds used flavor beverages edibles 
-TERM Orgeis DEF See 
+TERM Orgeis DEF 
 TERM Orgiastic DEF Pertaining to nature of orgies 
 TERM Orgy DEF sacrifice accompanied certain ceremonies honor pagan deity especially ceremonies observed Greeks Romans worship Dionysus Bacchus characterized wild dissolute revelry Usually plural form Wild drunken licentious revelry uninhibited carouse series sexual activities involving couples group event characterized unrestrained indulgence passion buying internet 
 TERM Orgillous DEF Proud haughty 
 TERM Orgue DEF number long thick pieces timber pointed shod iron suspended separate rope gateway let case attack 
-TERM Orgulous DEF See 
-TERM Orgy DEF frantic revel drunken revelry See 
+TERM Orgulous DEF 
+TERM Orgy DEF frantic revel drunken revelry 
 TERM Orgyia DEF genus bombycid moths caterpillars (esp often injurious fruit trees shade trees female wingless Called also 
-TERM Oricalche DEF See 
+TERM Oricalche DEF 
 TERM Orichalceous DEF Pertaining to resembling orichalch color luster like brass 
 TERM Orichalch DEF metallic substance resembling gold color inferior value mixed metal ancients resembling brass called also etc 
-TERM Oriel DEF gallery minstrels small apartment next hall certain persons accustomed dine sort recess bay window See 
+TERM Oriel DEF gallery minstrels small apartment next hall certain persons accustomed dine sort recess bay window 
 TERM Oriency DEF Brightness strength color 
 TERM Orient DEF Rising sun Eastern oriental Bright lustrous superior pure perfect pellucid used gems also figuratively perfect jewels found East 
 TERM Orient DEF part horizon sun first appears morning east countries Asia East pearl great luster 
@@ -1898,7 +1898,7 @@ TERM Origination DEF act process bringing coming existence first production Mode
 TERM Originative DEF power tending originate bring existence originating 
 TERM Originator DEF originates 
 TERM Orillon DEF semicircular projection made shoulder bastion purpose covering retired flank found old fortresses 
-TERM Oriol DEF See 
+TERM Oriol DEF 
 TERM Oriole DEF various species Old World singing birds family usually conspicuously colored yellow black European golden oriole musical flutelike note 
 TERM Oriolidae DEF natural family Old World orioles 
 TERM Oriolus DEF type genus 
@@ -1908,10 +1908,10 @@ TERM Orismological DEF pertaining orismology
 TERM Orismology DEF department natural history treats technical terms science defining technical terms 
 TERM Orison DEF prayer supplication 
 TERM Orisont DEF Horizon 
-TERM Ork DEF See 
+TERM Ork DEF 
 TERM Orkneyan DEF pertaining Orkney islands 
 TERM Orle DEF bearing form fillet round shield within distance from border wreath chaplet surmounting encircling helmet knight bearing crest 
-TERM Orleans DEF cloth made worsted cotton used wearing apparel variety plum See 
+TERM Orleans DEF cloth made worsted cotton used wearing apparel variety plum 
 TERM Orlo DEF wind instrument music use among Spaniards 
 TERM Orlop DEF lowest deck vessel esp ship war consisting platform laid beams hold cables coiled 
 TERM Ahura-Mazda DEF 
@@ -1920,7 +1920,7 @@ TERM Ormazd DEF supreme deity embodiment principle good creator world source lig
 TERM Ormer DEF abalone 
 TERM ormolu DEF variety brass made resemble gold use less zinc copper composition ordinary brass contains golden color often heightened means lacquer sort use acids Called also 
 TERM Ormosia DEF genus tropical shrubs trees usually odd-pinnate leaves large leaflets pink reddish wood 
-TERM Ormuzd DEF good principle being ancient Persian religion See also 
+TERM Ormuzd DEF good principle being ancient Persian religion also 
 TERM orn DEF ornament adorn 
 TERM ornament DEF embellishes adorns adds grace beauty embellishment decoration adornment 
 TERM ornament DEF adorn deck embellish beautify room 
@@ -1947,9 +1947,9 @@ TERM Ornithology DEF branch Zoology treats natural history birds classification 
 TERM Ornithomancy DEF Divination means birds flight etc 
 TERM Ornithon DEF aviary poultry house 
 TERM Ornithopappi DEF extinct order birds includes Archaeopteryx 
-TERM Ornithopoda DEF order herbivorous dinosaurs birdlike characteristics skeleton esp pelvis hind legs genera functional toes supported body walking Iguanodon See Appendix 
+TERM Ornithopoda DEF order herbivorous dinosaurs birdlike characteristics skeleton esp pelvis hind legs genera functional toes supported body walking Iguanodon Appendix 
 TERM Ornithorhynchidae DEF natural family monotremes including platypus (duckbill) 
-TERM Ornithorhynchus DEF genus monotremes including platypus See 
+TERM Ornithorhynchus DEF genus monotremes including platypus 
 TERM Ornithosauria DEF order extinct flying reptiles called also 
 TERM Ornithoscelida DEF group extinct Reptilia intermediate structure (especially regard pelvis) reptiles birds 
 TERM Ornithoscopy DEF Observation birds habits 
@@ -1969,7 +1969,7 @@ TERM Orology DEF science description mountains
 TERM Orometer DEF aneroid barometer second scale gives approximate elevation sea level place observation made 
 TERM Orotund DEF Characterized fullness clearness strength smoothness ringing musical said voice manner utterance 
 TERM Orotundity DEF orotund mode intonation 
-TERM Orphaline DEF See 
+TERM Orphaline DEF 
 TERM Orphan DEF child bereaved father mother sometimes also child parent living 
 TERM Orphan DEF Bereaved parents (sometimes) parent 
 TERM Orphan DEF cause become orphan deprive parents 
@@ -1989,13 +1989,13 @@ TERM Orphrey DEF band rich embroidery wholly part gold affixed vestments especia
 TERM Orpiment DEF Arsenic sesquisulphide produced artificially amorphous lemon-yellow powder occurring naturally yellow crystalline mineral formerly called used Indian certain technical processes indigo printing 
 TERM Orpin DEF yellow pigment various degrees intensity approaching also red orpine 
 TERM orpine DEF low plant fleshy leaves clusters purple flowers found dry sandy places old walls England become naturalized America Called also 
-TERM Orrach DEF See 
+TERM Orrach DEF 
 TERM Orrery DEF apparatus illustrates revolution balls moved wheelwork relative size periodic motions positions orbits etc bodies solar system 
 TERM Orris DEF plant genus kind flower-de-luce rootstock odor resembling violets 
 TERM Orris DEF sort gold silver lace peculiar pattern gold lace silver lace worked especially edges ornamented conical figures placed equal distances spots them 
 TERM Orsedue DEF 
-TERM Orsedew DEF Leaf metal bronze Dutch metal See 
-TERM Orseille DEF See 
+TERM Orsedew DEF Leaf metal bronze Dutch metal 
+TERM Orseille DEF 
 TERM Orsellic DEF Pertaining to designating acid found certain lichens called also 
 TERM Orsellinic DEF Pertaining to designating organic acid obtained partial decomposition orsellic acid white crystalline substance related protocatechuic acid 
 TERM Ort DEF morsel left meal fragment refuse commonly used plural 
@@ -2008,10 +2008,10 @@ TERM Orthocarbonic DEF Designating complex ether obtained liquid pleasant ethere
 TERM Orthocenter DEF point perpendiculars let fall angles triangle upon opposite sides sides produced mutually intersect 
 TERM Orthoceras DEF extinct genus Paleozoic Cephalopoda long straight conical shell interior divided numerous chambers transverse septa 
 TERM Orthoceratite DEF orthoceras also fossil shell allied Orthoceras 
-TERM Orthoclase DEF Common potash feldspar crystallizing monoclinic system cleavages right angles other See 
+TERM Orthoclase DEF Common potash feldspar crystallizing monoclinic system cleavages right angles other 
 TERM Orthoclastic DEF Breaking directions right angles other said monoclinic feldspars 
 TERM Orthodiagonal DEF diagonal lateral axis monoclinic crystal right angles vertical axis 
-TERM Orthodome DEF See Note 4 
+TERM Orthodome DEF Note 4 
 TERM orthodontia DEF treatment teeth make teeth align properly within mouth usually involving wearing braces sometimes oral surgery 
 TERM orthodontic DEF pertaining orthodontics orthodontia 
 TERM orthodontics DEF branch dentistry specializing treatment teeth make teeth align properly within mouth usually involves fitting patient braces sometimes oral surgery 
@@ -2035,7 +2035,7 @@ TERM orthoepy DEF art uttering words correctly correct pronunciation words also 
 TERM orthogamy DEF Direct fertilization plants pollen fertilizing ovules comes stamens blossom opposed 
 TERM Orthognathic DEF Orthognathous 
 TERM Orthognathism DEF quality state orthognathous 
-TERM Orthognathous DEF front head skull nearly perpendicular retreating backwards jaws opposed See 
+TERM Orthognathous DEF front head skull nearly perpendicular retreating backwards jaws opposed 
 TERM Orthogon DEF rectangular figure 
 TERM Orthogonal DEF Right-angled rectangular intersection curve 
 TERM Orthogonally DEF Perpendicularly right angles curve cuts set curves 
@@ -2052,7 +2052,7 @@ TERM Orthometric DEF axes right angles another said crystals crystalline forms
 TERM Orthometry DEF art practice constructing verses correctly laws correct versification 
 TERM Orthomorphic DEF right form 
 TERM orthopaedics DEF 
-TERM orthopaedic DEF See 
+TERM orthopaedic DEF 
 TERM Orthopedical DEF 
 TERM Orthopedic DEF Of pertaining to employed in orthopedics relating prevention cure deformities children or general human body age surgery 
 TERM orthopedics DEF art practice correcting disorders deformities spine joints or extension deformities human body 
@@ -2065,10 +2065,10 @@ TERM Orthopnoea DEF Specifically morbid condition respiration performed erect po
 TERM orthopod DEF orthopedist 
 TERM Orthopoda DEF extinct order reptiles stood erect hind legs resembled birds structure feet pelvis parts 
 TERM Orthopraxy DEF treatment deformities human body mechanical appliances 
-TERM Orthoptera DEF order mandibulate insects including grasshoppers locusts cockroaches mantids crickets katydids etc See 
+TERM Orthoptera DEF order mandibulate insects including grasshoppers locusts cockroaches mantids crickets katydids etc 
 TERM Orthopteran DEF 
 TERM Orthopterous DEF pertaining 
-TERM Orthorhombic DEF Noting system crystallization unequal axes right angles other trimetric See 
+TERM Orthorhombic DEF Noting system crystallization unequal axes right angles other trimetric 
 TERM Orthoscope DEF instrument designed show condition superficial portions eye 
 TERM Orthoscopic DEF Giving image correct normal proportions giving flat field view 
 TERM Orthosilicic DEF Designating form silicic acid normal highest number hydroxyl groups 
@@ -2085,13 +2085,13 @@ TERM Orthotropic DEF longer axis vertical said erect stems
 TERM Orthoxylene DEF variety xylene methyl groups position colorless liquid combustible hydrocarbon resembling benzene 
 TERM Ortive DEF relating time act rising eastern amplitude 
 TERM Ortolan DEF European singing bird size lark black wings esteemed delicious food fattened Called also 
-TERM Ortygan DEF several species East Indian birds genera resemble quails lack hind toe See 
+TERM Ortygan DEF several species East Indian birds genera resemble quails lack hind toe 
 TERM Orval DEF kind sage 
 TERM Orvet DEF blindworm 
 TERM Orvietan DEF kind antidote poisons counter poison formerly vogue 
 TERM -ory DEF adjective suffix meaning pertaining serving hearing etc noun suffix denoting pertains serves walking etc 
 TERM Oryall DEF 
-TERM Oryal DEF See 
+TERM Oryal DEF 
 TERM Oryctere DEF aard-vark 
 TERM Orycterope DEF (the aardvark 
 TERM Oryctognosy DEF Mineralogy 
@@ -2106,14 +2106,14 @@ TERM Oryzopsis DEF genus grasses incluiding rice grass
 TERM orzo DEF Pasta shaped like pearls barley frequently prepared lamb Greek cuisine 
 TERM Os DEF bone 
 TERM Os DEF mouth opening entrance 
-TERM Os DEF ridges sand gravel found Sweden etc supposed marine origin probably formed subglacial waters osar similar kames Scotland eschars Ireland See 
+TERM Os DEF ridges sand gravel found Sweden etc supposed marine origin probably formed subglacial waters osar similar kames Scotland eschars Ireland 
 TERM Os DEF chemical symbol element 
 TERM Osage DEF tributary Missouri River 
 TERM Osage DEF member tribe North American Indians formerly living western Missouri language Osages siouxan language 
-TERM Osage orange DEF ornamental tree genus closely allied mulberry also fruit tree first found country Osage Indians bears hard inedible fruit orangelike appearance See 
+TERM Osage orange DEF ornamental tree genus closely allied mulberry also fruit tree first found country Osage Indians bears hard inedible fruit orangelike appearance 
 TERM Osages DEF tribe southern Sioux Indians living Indian Territory 
 TERM Osanne DEF Hosanna 
-TERM Osar DEF See 3d 
+TERM Osar DEF 3d 
 TERM Oscan DEF pertaining Osci primitive people Campania province ancient Italy 
 TERM Oscillancy DEF state oscillating seesaw kind motion 
 TERM Oscillaria DEF genus dark green purplish black filamentous fresh-water algae threads automatic swaying crawling motion Called also 
@@ -2141,8 +2141,8 @@ TERM Oscitantly DEF oscitant manner
 TERM Oscitate DEF gape yawn 
 TERM Oscitation DEF act yawning gaping 
 TERM Osculant DEF Kissing hence meeting clinging Adhering closely embracing applied certain creeping animals caterpillars Intermediate character border genera groups families etc animals plants partaking somewhat characters each thus forming connecting link interosculant genera families approximate called 
-TERM Osculate DEF kiss touch closely common curvature point contact See 2 
-TERM Osculate DEF kiss another kiss touch closely See 2 characters common genera families form connecting link them interosculate See 
+TERM Osculate DEF kiss touch closely common curvature point contact 2 
+TERM Osculate DEF kiss another kiss touch closely 2 characters common genera families form connecting link them interosculate 
 TERM Osculation DEF act kissing kiss contact curve another number consecutive points latter former passes suffices complete determination former curve 
 TERM Osculatory DEF pertaining kissing kissing Pertaining to properties of osculatrix capable osculation circle may curve given 
 TERM Osculatory DEF 2 
@@ -2206,7 +2206,7 @@ TERM Ossivorous DEF Feeding bones eating bones
 TERM Osspringer DEF osprey 
 TERM Ossuarium DEF charnel house ossuary 
 TERM Ossuary DEF place bones dead deposited charnel house 
-TERM Ost DEF See 
+TERM Ost DEF 
 TERM Osteal DEF Osseous 
 TERM Ostein DEF Ossein 
 TERM Osteitis DEF Inflammation bone 
@@ -2274,14 +2274,14 @@ TERM Osteotomy DEF dissection anatomy bones osteology operation dividing bone cu
 TERM Osteozoa DEF 
 TERM Ostiary DEF mouth river estuary keeps door especially door church porter 
 TERM Ostic DEF Pertaining to applied to language Tuscaroras Iroquois Wyandots Winnebagoes part Sioux Indians 
-TERM Ostiole DEF exterior opening stomate See 
-TERM Ostitis DEF See 
+TERM Ostiole DEF exterior opening stomate 
+TERM Ostitis DEF 
 TERM Ostium DEF opening passage 
-TERM Ostler DEF See 
+TERM Ostler DEF 
 TERM Ostleress DEF female ostler 
-TERM Ostlery DEF See 
+TERM Ostlery DEF 
 TERM Ostmen DEF East men Danish settlers Ireland formerly called 
-TERM Ostosis DEF Bone formation ossification See 
+TERM Ostosis DEF Bone formation ossification 
 TERM Ostracea DEF division bivalve mollusks including oysters allied shells 
 TERM Ostracean DEF family bivalves oyster type 
 TERM Ostracion DEF genus plectognath fishes family body covered solid immovable bony plates includes (also called 
@@ -2303,7 +2303,7 @@ TERM Ostreaculture DEF artificial cultivation oysters
 TERM Ostreophagist DEF feeds oysters 
 TERM ostrich DEF large bird genus Africa best known species long strong legs adapted rapid running toes long neck nearly bare feathers short wings incapable flight adult male feet high 
 TERM Ostriferous DEF Producing oysters containing oysters 
-TERM Ostrogoth DEF Eastern Goths See 
+TERM Ostrogoth DEF Eastern Goths 
 TERM Ostrogothic DEF pertaining Ostrogoths 
 TERM Oswego tea DEF American aromatic herb showy bright red labiate flowers 
 TERM otacoustic DEF Assisting sense hearing 
@@ -2322,13 +2322,13 @@ TERM Othergates DEF another manner
 TERM Otherguess DEF 
 TERM Otherguise DEF another kind sort another way 
 TERM Otherness DEF quality state different alterity oppositeness 
-TERM Otherways DEF See 
+TERM Otherways DEF 
 TERM Otherwhere DEF place places elsewhere 
 TERM Otherwhiles DEF 
 TERM Otherwhile DEF another time times sometimes occasionally 
 TERM Otherwise DEF different manner another way ways differently contrarily respects different circumstances conditions engaged would 
 TERM otherworldly DEF existing outside accordance nature worldly preparing concerned primarily afterlife people 
-TERM Othman DEF See 
+TERM Othman DEF 
 TERM othonna DEF South African plant genus smooth often fleshy leaves heads yellow flowers 
 TERM Otic DEF Of pertaining to region of ear auricular auditory 
 TERM Otides DEF suborder terrestrial game birds Old World Australia including bustards 
@@ -2358,14 +2358,14 @@ TERM Otoscopeic DEF pertaining otoscope otoscopy
 TERM Otoscopy DEF examination ear art using otoscope 
 TERM Otosteal DEF auditory ossicle 
 TERM Otozoum DEF extinct genus huge vertebrates probably dinosaurs known four-toed tracks Triassic sandstones 
-TERM Ottar DEF See 
+TERM Ottar DEF 
 TERM Ottava rima DEF stanza lines heroic verse rhymes first lines rhyming alternately last forming couplet used Byron Keats Shelley Witch etc 
 TERM Ottawas DEF tribe Indians who first known lived Ottawa River subsequently migrated southwestern shore Lake Superior 
 TERM Otter DEF carnivorous animal genera related genera family Several species described large flattish heads short ears webbed toes aquatic feed fish sea otter also eats clams crabs starfish abalone marine animals may come surface lying backs using stomach table may seen cracking open shell prey rock common otter Europe American (or American otter) inhabits marshes streams rivers species inhabit South America Asia North American otter adult feet long (including tail) weighs 10 30 pounds sea otter commonly feet long 45 pounds (female) 60 pounds (male) fur soft valuable nineteenth century hunted extensively sea otter hunted near extinction 1900 protected Fewer 3000 sea otters believed live along central California coast larva ghost moth injurious hop vines 
 TERM Otter DEF corruption 
 TERM otter hound DEF 
 TERM otterhound DEF small hardy British hound long pendulous ears thick coarse shaggy coat oily undercoat bred England hunting otters Called also 
-TERM Otto DEF See 
+TERM Otto DEF 
 TERM Otto cycle DEF four-stroke cycle internal-combustion engines consisting following operations First stroke suction cylinder explosive charge gas air second stroke compression ignition explosion charge third stroke (the working stroke) expansion gases fourth stroke expulsion products combustion cylinder cycle invented de 1862 applied 1877 Otto-Crossley gas engine first commercially successful internal-combustion engine made 
 TERM Otto engine DEF engine using Otto cycle 
 TERM Ottoman DEF pertaining Turks power 
@@ -2379,11 +2379,11 @@ TERM Ouarine DEF Brazilian monkey genus
 TERM Oubliette DEF dungeon opening top found old castles strongholds persons condemned perpetual imprisonment perish secretly thrust lured fall 
 TERM Ouch DEF socket bezel holding precious stone hence jewel ornament worn person 
 TERM Oughne DEF Own 
-TERM Ought DEF See 
+TERM Ought DEF 
 TERM Ought DEF obligation pay owed Owned possessed bound duty moral obligation necessary fit becoming expedient behoove sense formerly sometimes used impersonally without subject expressed 
 TERM Oughtness DEF state thing ought be rightness 
-TERM Oughwhere DEF Anywhere somewhere See 
-TERM Ouistiti DEF See 
+TERM Oughwhere DEF Anywhere somewhere 
+TERM Ouistiti DEF 
 TERM Oul DEF awl 
 TERM Oul DEF owl 
 TERM Oulachan DEF 
@@ -2394,32 +2394,32 @@ TERM Ounded DEF Wavy waving curly
 TERM Ounding DEF Waving 
 TERM Ouphe DEF fairy goblin elf 
 TERM Ouphen DEF Elfish 
-TERM Our DEF pertaining us belonging us country rights troops endeavors See 
-TERM -our DEF See 
+TERM Our DEF pertaining us belonging us country rights troops endeavors 
+TERM -our DEF 
 TERM Ourang DEF orang-outang 
-TERM Ourang-outang DEF See 
-TERM Ouranographist DEF See 
-TERM Ouranography DEF See 
+TERM Ourang-outang DEF 
+TERM Ouranographist DEF 
+TERM Ouranography DEF 
 TERM Ourebi DEF small graceful swift African antelope allied klipspringer 
 TERM Ouretic DEF Uric 
-TERM Ourology DEF See 
+TERM Ourology DEF 
 TERM Ouroscopy DEF Ourology 
-TERM Ours DEF See Note 
+TERM Ours DEF Note 
 TERM Ourselves DEF emphasized form pronoun first person plural used subject usually also alone predicate nominative objective case 
 TERM -ous DEF adjective suffix meaning qualities abounding grace full ardor bulbs bulblike etc suffix denoting element indicated name bearing it valence denoted termination etc contrasted 
-TERM Ouse DEF See 
+TERM Ouse DEF 
 TERM Ousel DEF several species European thrushes especially blackbird mountain ring ousel 
-TERM Oust DEF See 
+TERM Oust DEF 
 TERM Oust DEF take away remove eject expel turn out 
 TERM Ouster DEF putting possession dispossession disseizin person Expulsion ejection misbehavior caused person place group 
 TERM ousting DEF act ejecting someone forcing out ouster 
 TERM Out DEF original strict sense means interior something beyond limits boundary somethings position relation exterior something opposed something may expressed etc (see below) or expressed implied or house office business etc came or came ship meeting sect party Away abroad off home certain usual place in particular usual place proprietor team taken Opposite Beyond limits concealment confinement privacy constraint etc actual figurative hence concealment constraint etc in into state freedom openness disclosure publicity etc matter public knowledge sun shines laughed elbows secret leaked disease broke face book Beyond limit existence continuance supply end completely hence in into condition extinction exhaustion completion fuel fire burned style way Beyond possession control occupation hence in into state want loss deprivation used office business property knowledge etc Democrats went Whigs came in put money Beyond bounds true reasonable correct proper common etc error mistake wrong incorrect position opinion state disagreement opposition etc inharmonious relation position score playing game state turn play counting gaining scores fashion unfashionable longer current vogue unpopular 
-TERM Out DEF who which out especially office generally plural place space outside something nook corner angle projecting outward open space chiefly used phrase See word words omitted compositor setting copy omission 
+TERM Out DEF who which out especially office generally plural place space outside something nook corner angle projecting outward open space chiefly used phrase word words omitted compositor setting copy omission 
 TERM Out DEF cause out eject expel come with make known make public secret (a person) used especially publicizing fact person homosexual gay members pleased give out dispose of sell 
 TERM Out DEF come go out get away become public 
 TERM Out DEF Expressing impatience anger desire rid of force command go out begone away off 
 TERM Outact DEF beyond exceed acting 
-TERM Outagamies DEF See 1st 7 
+TERM Outagamies DEF 1st 7 
 TERM Outargue DEF surpass conquer argument 
 TERM out and out DEF 
 TERM out-and-out DEF Without reservation disguise downright plain unqualified absolute villain 
@@ -2448,7 +2448,7 @@ TERM Outbray DEF exceed braying emit great noise
 TERM Outbrazen DEF bear brazen face surpass impudence 
 TERM outbreak DEF bursting forth eruption insurrection mutiny revolt sudden beginning violent event hostilities ethnic sudden occurrence manifestation usually disease emotion person group measles among students shingles nervousness 
 TERM Outbreaking DEF act breaking out bursts forth 
-TERM Outbreast DEF surpass singing See 6 
+TERM Outbreast DEF surpass singing 6 
 TERM Outbreathe DEF breathe forth cause breath exhaust 
 TERM Outbreathe DEF issue breath breathed out exhale 
 TERM Outbribe DEF surpass bribing 
@@ -2498,7 +2498,7 @@ TERM outfangthef DEF thief without abroad taken within lord's fee liberty
 TERM Outfawn DEF exceed fawning 
 TERM Outfeast DEF exceed feasting 
 TERM Outfeat DEF surpass feats 
-TERM Outfield DEF Arable land exhausted See 1 field beyond separated from inclosed land homestead uninclosed unexplored tract Also used figuratively part baseball field beyond diamond infield occupied fielders usually considered divided named viewed home plate part field farthest batsman 
+TERM Outfield DEF Arable land exhausted 1 field beyond separated from inclosed land homestead uninclosed unexplored tract Also used figuratively part baseball field beyond diamond infield occupied fielders usually considered divided named viewed home plate part field farthest batsman 
 TERM outfield DEF surpass performing tasks fielding teams got hits Red Sox 
 TERM outfielder DEF person plays outfield fielder cricket stationed outfield 
 TERM outfight DEF exceed fighting fight competently challengers boxer opponent rounds lost bout ninth defeat battle French forces 
@@ -2595,12 +2595,12 @@ TERM out-of-bounds DEF outside delimited playing field barred designated group B
 TERM out-of-breath DEF breathing laboriously convulsively 
 TERM out-of-date DEF 2 Unacceptable inferior current standards procedures technology outmoded{2} noncurrent longer valid 
 TERM out-of-door DEF located 
-TERM Out-of-door DEF house being done open air suited open air outdoor See 
+TERM Out-of-door DEF house being done open air suited open air outdoor 
 TERM out-of-doors DEF location outside building air unconfined open air 
 TERM out-of-school DEF attending school therefore free work opportunities 
 TERM out-of-sight DEF good sense 1 
 TERM out-of-the-ordinary DEF unusual striking 
-TERM Out-of-the-way DEF See main transportation route inconveniently located 
+TERM Out-of-the-way DEF main transportation route inconveniently located 
 TERM out-of-town DEF happening another town city 
 TERM Outpace DEF outgo move faster than leave behind exceed development performance outdo 
 TERM Outparamour DEF exceed number mistresses 
@@ -2624,7 +2624,7 @@ TERM outpower DEF excel power overpover
 TERM Outpray DEF exceed excel prayer 
 TERM Outpreach DEF surpass preaching 
 TERM Outprize DEF prize beyong value excess exceed value 
-TERM Output DEF amount quantity material product produced mine factory system production commercial goods amount coal ore put mines quantity material produced by turned from furnaces mills given time production materials profits information produced system thrown products metabolic activity body egesta faeces See power voltage current produced device generate regulate electrical power power supply maximum 250 data information produced operation computer program subroutine transfer another program external device program may used another program 
+TERM Output DEF amount quantity material product produced mine factory system production commercial goods amount coal ore put mines quantity material produced by turned from furnaces mills given time production materials profits information produced system thrown products metabolic activity body egesta faeces power voltage current produced device generate regulate electrical power power supply maximum 250 data information produced operation computer program subroutine transfer another program external device program may used another program 
 TERM Outquench DEF quench entirely extinguish 
 TERM Outrage DEF rage excess of 
 TERM Outrage DEF Injurious violence wanton wrong done persons things gross violation right decency excessive abuse wanton mischief gross injury Excess luxury 
@@ -2637,7 +2637,7 @@ TERM outrange DEF greater range than guns missiles
 TERM Outrank DEF exceed rank hence take precedence of 
 TERM Outray DEF outshine 
 TERM Outray DEF spread array 
-TERM Outraye DEF See 
+TERM Outraye DEF 
 TERM Outraze DEF obliterate 
 TERM Outre DEF common course limits extravagant{2} bizarre outlandish{2} 
 TERM Outreach DEF reach beyond 
@@ -2650,7 +2650,7 @@ TERM Outreign DEF go beyond reigning reign whole of longer than
 TERM Outride DEF surpass speed riding ride beyond faster than 
 TERM Outride DEF riding out excursion place riding out 
 TERM Outrider DEF summoner office cite men sheriff rides horseback beyond main group e g scout servant horseback attending carriage 
-TERM outrigged DEF rigged structure projecting side boat various purposes outrigger prevent capsizing support oarlock help secure mast etc See 
+TERM outrigged DEF rigged structure projecting side boat various purposes outrigger prevent capsizing support oarlock help secure mast etc 
 TERM outrigger DEF spar projecting timber run temporary use ship's mast hold rope sail extended building support hoisting teckle projecting support rowlock extended side boat projecting frame used support elevator tail planes etc 
 TERM outright DEF Downright plain unqualified utter straight-out 
 TERM outright DEF Immediately without delay once killed Completely utterly 
@@ -2672,7 +2672,7 @@ TERM Outscold DEF exceed scolding
 TERM Outscorn DEF confront subdue greater scorn 
 TERM Outscouring DEF scoured washed out 
 TERM Outscout DEF overpower disdain outface 
-TERM Outsee DEF see beyond excel certainty seeing surpass foresight 
+TERM Outsee DEF beyond excel certainty seeing surpass foresight 
 TERM Outsell DEF exceed amount sales sell than exceed price selling fetch than exceed value 
 TERM Outsentry DEF sentry guards entrance approach place outguard 
 TERM Outset DEF setting out starting beginning 
@@ -2681,7 +2681,7 @@ TERM Outshine DEF shine forth
 TERM Outshine DEF surpass splendor excellence achievement shine brightly than 
 TERM Outshoot DEF exceed excel shooting shoot beyond 
 TERM Outshut DEF shut out 
-TERM Outside DEF external part thing part end side forms external surface appears manifest superficial exterior part space lies beyond external edge structure beyond boundary inclosure furthest limit number quantity extent etc utmost may last week who which without hence passenger distinguished See 3 part world encompassed control organization institution prisoners allowed pass objects persons may discuss company secretes anyone 
+TERM Outside DEF external part thing part end side forms external surface appears manifest superficial exterior part space lies beyond external edge structure beyond boundary inclosure furthest limit number quantity extent etc utmost may last week who which without hence passenger distinguished 3 part world encompassed control organization institution prisoners allowed pass objects persons may discuss company secretes anyone 
 TERM Outside DEF pertaining outside external exterior superficial Reaching extreme farthest limit extent quantity etc 
 TERM Outside DEF outside (of) without exterior ride coach stayed 
 TERM Outsider DEF belonging concern institution party etc spoken of disconnected interest feeling locksmith's pinchers grasping point key keyhole open door outside key inside horse favorite betting 
@@ -2753,7 +2753,7 @@ TERM outward-bound DEF travelling away port station Opposite
 TERM outward-developing DEF Developing away axis flower cluster oldest flowers center youngest near edge 
 TERM outward-moving DEF moving directed away center especially spinning traveling curve 
 TERM outwardness DEF concern outward things material objects (esp body appearance) opposed mind spirit ideal concepts hearty showmanship all-around quality state outside directed toward relating outside exterior 
-TERM Outwards DEF See 
+TERM Outwards DEF 
 TERM Outwatch DEF exceed watching 
 TERM Outway DEF way out exit 
 TERM Outwear DEF wear out consume destroy wearing last longer than outlast cloth 
@@ -2778,13 +2778,13 @@ TERM Outwrest DEF extort draw forth violence
 TERM Outwrite DEF exceed excel writing 
 TERM Outzany DEF exceed buffoonery 
 TERM Ouvarovite DEF Chrome garnet 
-TERM Ouze DEF See 
+TERM Ouze DEF 
 TERM Ouzel DEF 
-TERM Ova DEF See 
+TERM Ova DEF 
 TERM Oval DEF pertaining eggs done egg inception figure egg oblong curvilinear end broader other ends breadth popular usage elliptical Broadly elliptical 
 TERM Oval DEF body figure shape egg popularly ellipse 
 TERM Ovalbumen DEF 
-TERM Ovalbumin DEF albumin white eggs egg albumin distinction See 
+TERM Ovalbumin DEF albumin white eggs egg albumin distinction 
 TERM Ovaliform DEF form egg figure section direction shorter diameter circular direction longer diameter oval 
 TERM Ovally DEF oval form 
 TERM Ovant DEF Exultant 
@@ -2795,8 +2795,8 @@ TERM Ovariotomist DEF performs skilled in ovariotomy
 TERM Ovariotomy DEF operation removing ovaries oophorectomy 
 TERM Ovarious DEF Consisting eggs 
 TERM Ovaritis DEF Inflammation ovaries 
-TERM Ovarium DEF ovary See 
-TERM Ovary DEF part pistil contains seed flowering plants develops fruit See essential female reproductive organ ova produced See 
+TERM Ovarium DEF ovary 
+TERM Ovary DEF part pistil contains seed flowering plants develops fruit essential female reproductive organ ova produced 
 TERM Ovate DEF Shaped like egg lower extremity broadest shape egg longitudinal section egg broader end basal 
 TERM Ovate-acuminate DEF ovate form narrowed end slender point 
 TERM Ovate-cylindraceous DEF form intermediate ovate cylindraceous 
@@ -2835,7 +2835,7 @@ TERM Overanxious DEF Anxious excessive needless degree
 TERM overappraisal DEF appraisal high 
 TERM Overarch DEF make place arch over hang like arch 
 TERM overarching DEF Forming arch (over something) Dominating overshadowing considerations 
-TERM Over-arm DEF Done (as bowling pitching) arm raised shoulder See 
+TERM Over-arm DEF Done (as bowling pitching) arm raised shoulder 
 TERM Overawe DEF awe exceedingly intimidate subjugate restrain awe great fear 
 TERM Overawful DEF Awful reverential excessive degree 
 TERM Overbalance DEF exceed equality with outweigh cause lose balance equilibrium 
@@ -3016,8 +3016,8 @@ TERM Overgrow DEF grow over cover growth herbage esp rank dandelions grow beyond
 TERM Overgrow DEF grow beyond fit natural size grow large huge 
 TERM overgrown DEF covered growing plants abounded usually unwanted vegetation 
 TERM overgrowth DEF Excessive growth growth covered somethin over 
-TERM overhail DEF See 
-TERM Overhale DEF See 
+TERM overhail DEF 
+TERM Overhale DEF 
 TERM Overhand DEF upper hand advantage superiority mastery throwing pitching style overhanded also overhand{2} pitch 
 TERM Overhand DEF over applied style sewing seam edges usually selvedges sewed together passing stitch both Done (as pitching bowling) hand higher elbow arm above higher than shoulder pitch 
 TERM Overhand DEF overhand manner style 
@@ -3105,7 +3105,7 @@ TERM Overlogical DEF Excessively logical adhering closely forms rules logic
 TERM Overlong DEF long 
 TERM Overlook DEF look upon place above look view higher position situated above command view of valley hill hotel room Hence supervise watch over sometimes observe secretly gang laborers writing inspect examine look carefully repeatedly look upon evil eye bewitch looking upon fascinate look beyond (anything) without seeing it miss omit looking fail notice fail observe mistake addition missing refrain bestowing notice attention upon disregard deliberately ignore pass without censure punishment excuse pardon (a fault error misdeed) 
 TERM Overlooker DEF overlooks 
-TERM Overloop DEF See 
+TERM Overloop DEF 
 TERM Overlord DEF lord another others superior lord master 
 TERM Overlordship DEF Lordship supremacy person people others 
 TERM Overloud DEF loud noisy 
@@ -3238,8 +3238,8 @@ TERM Overseas DEF
 TERM Oversea DEF sea abroad 
 TERM Oversearch DEF search over 
 TERM Overseason DEF season highly 
-TERM Oversee DEF superintend watch over direct look see after overlook{2} omit neglect seeing overlook{5} see unintentionally unexpectedly visual analogy 
-TERM Oversee DEF see much hence deceived 
+TERM Oversee DEF superintend watch over direct look after overlook{2} omit neglect seeing overlook{5} unintentionally unexpectedly visual analogy 
+TERM Oversee DEF much hence deceived 
 TERM Overseer DEF oversees superintendent supervisor specifically certain public officers poor 
 TERM Overseership DEF office overseer 
 TERM Oversell DEF sell higher price than exceed selling price sell beyond means delivery 
@@ -3307,7 +3307,7 @@ TERM Overstrew DEF strew scatter over
 TERM Overstrict DEF Excessively strict 
 TERM Overstride DEF stride beyond 
 TERM Overstrike DEF strike beyond 
-TERM Overstrow DEF See 
+TERM Overstrow DEF 
 TERM Overstudious DEF studious 
 TERM Oversubtle DEF 
 TERM Oversubtile DEF Excessively subtle 
@@ -3344,7 +3344,7 @@ TERM Overtitle DEF give high title to
 TERM Overtly DEF Publicly openly 
 TERM Overtoil DEF overwork 
 TERM Overtoil DEF weary excessively exhaust 
-TERM Overtone DEF harmonics faintly heard higher frequency fundamental tone dies away produced aliquot portion vibrating sting column air yields fundamental tone natural harmonic scale tones octave twelfth fifteenth etc aliquot tone harmonic See 
+TERM Overtone DEF harmonics faintly heard higher frequency fundamental tone dies away produced aliquot portion vibrating sting column air yields fundamental tone natural harmonic scale tones octave twelfth fifteenth etc aliquot tone harmonic 
 TERM Overtop DEF rise top of exceed height tower above go beyond transcend transgress make less importance throw background superior excellence dwarf obscure 
 TERM Overtower DEF tower above 
 TERM Overtower DEF soar high 
@@ -3368,7 +3368,7 @@ TERM overutilise DEF
 TERM overutilisation DEF 
 TERM overutilization DEF exploitation point diminishing returns 
 TERM overutilize DEF exploit point diminishing returns use excessively 
-TERM Overvail DEF See 
+TERM Overvail DEF 
 TERM overvaliant DEF showing undue valor boldness stepped 
 TERM Overvaluation DEF Excessive valuation overestimate 
 TERM Overvalue DEF value excessively rate high price exceed value 
@@ -3416,7 +3416,7 @@ TERM Overwrought DEF Wrought upon excessively overworked Extremely agitated exci
 TERM Overzeal DEF Excess zeal 
 TERM Overzealous DEF zealous 
 TERM Ovicapsule DEF outer layer Graafian follicle 
-TERM Ovicell DEF dilatations body wall Bryozoa ova sometimes undergo first stages development See 
+TERM Ovicell DEF dilatations body wall Bryozoa ova sometimes undergo first stages development 
 TERM Ovicular DEF pertaining egg 
 TERM Ovicyst DEF pouch incubation takes place 
 TERM Ovidian DEF pertaining Latin poet resembling style 
@@ -3425,10 +3425,10 @@ TERM Oviduct DEF tube duct passage ova ovary exterior animal part development ta
 TERM Oviferous DEF Egg-bearing applied particularly certain receptacles Crustacea retain eggs excluded formative organs hatched 
 TERM Oviform DEF form figure egg egg-shaped 
 TERM Ovigerous DEF Bearing eggs oviferous 
-TERM Ovile DEF See 
+TERM Ovile DEF 
 TERM Ovine DEF pertaining sheep consisting sheep 
 TERM Ovipara DEF artificial division vertebrates including lay eggs opposed 
-TERM Oviparity DEF Generation means ova See 
+TERM Oviparity DEF Generation means ova 
 TERM Oviparous DEF Producing young eggs animal egg generally separated animal hatched opposed 
 TERM Oviposit DEF lay deposit eggs said esp insects 
 TERM Oviposit DEF deposit lay (an egg) 
@@ -3443,7 +3443,7 @@ TERM ovoflavin DEF uncommon name also called
 TERM Ovoidal DEF 
 TERM Ovoid DEF Resembling egg shape egg-shaped ovate 
 TERM Ovoid DEF solid resembling egg shape 
-TERM Ovolo DEF round convex molding See 
+TERM Ovolo DEF round convex molding 
 TERM Ovology DEF branch natural history treats origin functions eggs 
 TERM Ovoplasma DEF Yolk egg yolk 
 TERM Ovotesttis DEF organ produces ova spermatozoids hermaphrodite gland 
@@ -3458,8 +3458,8 @@ TERM Ovuliferous DEF Producing ovules
 TERM Ovulist DEF believer theory (called current last century egg real animal germ time fecundation spermatozoa simply gave impetus caused unfolding egg generations inclosed within other Also called 
 TERM Ovulite DEF fossil egg 
 TERM Ovulum DEF ovule 
-TERM Ovum DEF less spherical transparent cell process multiplication growth develops mass cells constituting new individual like parent egg spore germ germ cell See series egg-shaped ornaments ovolo often carved 
-TERM Owch DEF See 
+TERM Ovum DEF less spherical transparent cell process multiplication growth develops mass cells constituting new individual like parent egg spore germ germ cell series egg-shaped ornaments ovolo often carved 
+TERM Owch DEF 
 TERM Owe DEF possess have rightful owner own possess something derived bestowed obliged ascribe (something source) indebted obliged for wealth father victory obigation restore pay render (something) return compensation something received indebted sum of subject allegiance fortunate assistance obligation (some one) account something done received indebted to grocer supplies laborer 
 TERM Owel DEF Equal 
 TERM Owelty DEF Equality sometimes written 
@@ -3469,7 +3469,7 @@ TERM Owher DEF Anywhere
 TERM Owing DEF held obligation paying due experienced consequence result issue etc ascribable misfortunes often vices failure 
 TERM Owl DEF species raptorial birds family large eyes ears conspicuous circle feathers around eye mostly nocturnal habits variety domestic pigeon 
 TERM Owl DEF pry about prowl carry wool sheep England Hence carry contraband trade 
-TERM Owler DEF owls esp conveys contraband goods See 
+TERM Owler DEF owls esp conveys contraband goods 
 TERM Owlery DEF abode haunt owls 
 TERM Owlet DEF small owl especially European species California flammulated owlet 
 TERM Owl-eyed DEF eyes like owl's 
@@ -3489,9 +3489,9 @@ TERM owner-occupier DEF occupant home he/she lives in
 TERM Ownership DEF state owner right own exclusive right possession legal claim title proprietorship 
 TERM Owre DEF aurochs 
 TERM Owser DEF 
-TERM Owse DEF Tanner's ooze See 3 
+TERM Owse DEF Tanner's ooze 3 
 TERM Ox DEF male bovine quadrupeds especially domestic animal castrated grown full size nearly so word also applied general name species bovine animals male female 
-TERM Oxacid DEF See 
+TERM Oxacid DEF 
 TERM oxalacetate DEF salt ester oxalacetic acid 
 TERM oxalacetic acid DEF dicarboxylic acid 
 TERM Oxalan DEF complex nitrogenous substance obtained alloxan (or urea fused ethyl oxamate) stable white crystalline powder called also 
@@ -3500,7 +3500,7 @@ TERM Oxalate DEF salt oxalic acid
 TERM Oxaldehyde DEF 
 TERM Oxalethyline DEF poisonous nitrogenous base obtained indirectly oxamide thick transparent oil strong narcotic odor physiological action resembling atropine probably related pyridine 
 TERM Oxalic DEF Pertaining to derived from contained in sorrel oxalis specifically designating acid found in characteristic of oxalis also certain plant Buckwheat family 
-TERM Oxaline DEF See 
+TERM Oxaline DEF 
 TERM Oxalis DEF genus plants mostly herbs acid-tasting trifoliolate multifoliolate leaves called also 
 TERM Oxalite DEF yellow mineral consisting oxalate iron 
 TERM Oxaluramide DEF 
@@ -3521,17 +3521,17 @@ TERM Oxbane DEF poisonous bulbous plant Cape Good Hope
 TERM Oxbird DEF dunlin 
 TERM Oxbiter DEF cow blackbird 
 TERM Oxbow DEF frame wood bent shape letter embracing ox's neck kind collar upper ends passing bar yoke also anything shaped bend river 
-TERM Oxeye DEF oxeye daisy See titmouse especially great titmouse blue titmouse 
+TERM Oxeye DEF oxeye daisy titmouse especially great titmouse blue titmouse 
 TERM Oxeyed DEF large full eyes like ox 
 TERM Oxfly DEF gadfly cattle 
 TERM Oxford DEF pertaining city university Oxford England 
-TERM Oxgang DEF See 
+TERM Oxgang DEF 
 TERM Oxgoad DEF goad driving oxen 
 TERM Oxhead DEF Literally head ox (emblem cuckoldom) hence dolt blockhead 
 TERM Oxheal DEF 
 TERM Oxheart DEF large heart-shaped cherry either black red white 
-TERM Oxhide DEF skin ox leather made it measure land See 3d 
-TERM Oxid DEF See 
+TERM Oxhide DEF skin ox leather made it measure land 3d 
+TERM Oxid DEF 
 TERM Oxidability DEF Capability converted oxide 
 TERM Oxidable DEF Capable converted oxide 
 TERM Oxidate DEF oxidize 
@@ -3566,14 +3566,14 @@ TERM Oxy- DEF prefix also used adjectively
 TERM oxyacetic DEF Hydroxyacetic designating acid called also 
 TERM oxyacetylene DEF pertaining mixture oxygen actylene oxyacetylene 
 TERM oxyacetylene torch DEF torch designed mix oxygen actylene tip create hot flame welding cutting steel metal working 
-TERM Oxyacid DEF acid containing oxygen chloric acid sulphuric acid contrasted contain oxygen hydrochloric acid See 
+TERM Oxyacid DEF acid containing oxygen chloric acid sulphuric acid contrasted contain oxygen hydrochloric acid 
 TERM Oxyammonia DEF 
 TERM Oxybenzene DEF Hydroxy benzene 
 TERM Oxybenzoic DEF Hydroxybenzoic pertaining to designating several hydroxyl derivatives benzonic acid commonest salicylic acid 
 TERM Oxybromic DEF Pertaining to designating certain compounds oxygen bromine 
 TERM Oxybutyric DEF Hydroxybutyric designating group metameric acids 
-TERM Oxycalcium DEF pertaining oxygen calcium See 
-TERM Oxycaproic DEF See 
+TERM Oxycalcium DEF pertaining oxygen calcium 
+TERM Oxycaproic DEF 
 TERM Oxychloric DEF Of pertaining to designating general certain compounds containing oxygen chlorine 
 TERM Oxychloride DEF ternary compound oxygen chlorine plumbic 
 TERM Oxycrate DEF Mixture water vinegar 
@@ -3592,9 +3592,9 @@ TERM Oxygon DEF triangle acute angles
 TERM Oxygonial DEF 
 TERM Oxygonal DEF acute angles 
 TERM Oxyhaemocyanin DEF 
-TERM Oxyhaemacyanin DEF See 
+TERM Oxyhaemacyanin DEF 
 TERM Oxyhemoglobin DEF 
-TERM Oxyhaemoglobin DEF See 
+TERM Oxyhaemoglobin DEF 
 TERM Oxyhydrogen DEF Of pertaining to consisting of mixture oxygen hydrogen F 
 TERM Oxyhydrogen light DEF light produced incandescence substances esp lime oxyhydrogen flame Coal gas (producing vapor ether methylated spirit may substituted hydrogen 
 TERM Oxymel DEF mixture honey water vinegar spice boiled sirup 
@@ -3602,11 +3602,11 @@ TERM Oxymethylene DEF Formic aldehyde regarded methylene derivative
 TERM Oxymoron DEF figure epithet contrary signification added word e g 
 TERM Oxymuriate DEF salt supposed oxymuriatic acid chloride 
 TERM Oxymuriatic DEF Pertaining to consisting of oxygen muriatic acid is hydrochloric acid 
-TERM Oxyneurine DEF See 
+TERM Oxyneurine DEF 
 TERM Oxyntic DEF Acid producing acid applied especially certain glands cells stomach 
 TERM Oxyopy DEF 
 TERM Oxyopia DEF Excessive acuteness sight 
-TERM Oxyphenic DEF Pertaining to designating phenol formerly called See 
+TERM Oxyphenic DEF Pertaining to designating phenol formerly called 
 TERM Oxyphenol DEF phenol produced distillation catechin called also 
 TERM Oxyphony DEF Acuteness shrillness voice 
 TERM Oxyquinoline DEF Hydroxy quinoline phenol derivative quinoline called also 
@@ -3616,13 +3616,13 @@ TERM Oxysalt DEF salt oxyacid sulphate
 TERM Oxysulphide DEF ternary compound oxygen sulphur 
 TERM Oxysulphuret DEF oxysulphide 
 TERM Oxytocic DEF Promoting uterine contractions parturition 
-TERM Oxytoluene DEF hydroxy derivatives toluene called See 
+TERM Oxytoluene DEF hydroxy derivatives toluene called 
 TERM Oxytone DEF acute sound acute accent last syllable 
 TERM Oxytone DEF acute sound word acute accent last syllable 
 TERM Oxytonical DEF Oxytone 
 TERM Oyer DEF hearing inspection deed bond etc defendant court prays 
 TERM Oyez DEF Hear attend term used criers courts secure silence making proclamation repeated times 
-TERM Oylet DEF See 
+TERM Oylet DEF 
 TERM Oynoun DEF Onion 
 TERM Oyster DEF marine bivalve mollusk genus Ostrea usually found adhering rocks fixed objects shallow water along seacoasts brackish water mouth rivers common European oyster American oyster important species name popularly given delicate morsel contained small cavity bone side lower part back fowl 
 TERM oyster catcher DEF 

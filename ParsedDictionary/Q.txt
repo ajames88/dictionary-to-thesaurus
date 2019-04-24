@@ -1,5 +1,5 @@
 
-TERM Q DEF seventeenth letter English alphabet sound (that always followed letters together sounded like except words silent See 249 Q found Anglo-Saxon used instead quick queen name French Latin name letter form Latin derived it Greek alphabet ultimate origin Egyptian 
+TERM Q DEF seventeenth letter English alphabet sound (that always followed letters together sounded like except words silent 249 Q found Anglo-Saxon used instead quick queen name French Latin name letter form Latin derived it Greek alphabet ultimate origin Egyptian 
 TERM Q.C. DEF Quality control 
 TERM QCD DEF Quantum chromodynamics 
 TERM QED. DEF Quantum electrodynamics 
@@ -7,14 +7,14 @@ TERM QED DEF
 TERM Q.E.D DEF demonstrated phrase used conclusion line reasoning especially mathematical logical proofs 
 TERM Qua DEF far as capacity character of as 
 TERM Quab DEF unfledged bird hence something immature unfinished 
-TERM Quab DEF See 
-TERM Qua-bird DEF American night heron See 
+TERM Quab DEF 
+TERM Qua-bird DEF American night heron 
 TERM Quacha DEF quagga 
 TERM Quack DEF utter sound like cry duck make vain loud pretensions boast act part quack pretender 
 TERM Quack DEF cry duck sound imitation it hoarse quacking noise boastful pretender medical skill empiric ignorant practitioner Hence boastfully pretends skill knowledge kind possessed charlatan 
 TERM Quack DEF Pertaining characterized by boasting pretension used quacks pretending cure diseases medicine 
 TERM Quackery DEF acts arts boastful pretensions quack false pretensions art empiricism 
-TERM Quack grass DEF See 
+TERM Quack grass DEF 
 TERM Quackish DEF Like quack boasting characterized quackery 
 TERM Quackism DEF Quackery 
 TERM Quackle DEF suffocate choke 
@@ -32,13 +32,13 @@ TERM Quadragesimal DEF Belonging Lent used Lent Lenten
 TERM Quadragesimals DEF Offerings formerly made mother church diocese Mid-Lent Sunday 
 TERM Quadrangle DEF plane figure angles consequently sides figure angles square quadrangular space inclosure space court surrounded buildings esp court college public school England 
 TERM Quadrangular DEF angles consequently sides tetragonal 
-TERM Quadrans DEF fourth part coin called as See 3d As 2 fourth penny farthing See 
+TERM Quadrans DEF fourth part coin called as 3d As 2 fourth penny farthing 
 TERM Quadrant DEF fourth part quarter quarter circle circumference circle arc subtending right angle center parts plane divided coordinate axes upper right-hand part upper left-hand part lower left-hand part lower right-hand part instrument measuring altitudes variously constructed mounted different specific uses astronomy surveying gunnery etc consisting commonly graduated arc index vernier either plain telescopic sights usually plumb line spirit level fixing vertical horizontal direction 
 TERM Quadrantal DEF pertaining quadrant also included fourth part circle 
 TERM Quadrantal DEF cubical vessel containing Roman cubic foot side Roman square foot used measure cube 
 TERM Quadrat DEF block type metal lower letters used spacing blank lines old instrument used taking altitudes called also 
 TERM Quadrate DEF equal sides opposite sides parallel right angles square Produced multiplying number itself square Square even balanced equal exact Squared suited correspondent 
-TERM Quadrate DEF plane surface equal sides right angles square hence figuratively anything outline square aspect heavenly bodies distant quarter circle quartile See 6 quadrate bone 
+TERM Quadrate DEF plane surface equal sides right angles square hence figuratively anything outline square aspect heavenly bodies distant quarter circle quartile 6 quadrate bone 
 TERM Quadrate DEF square agree suit correspond followed 
 TERM Quadrate DEF adjust (a gun) carriage also train (a gun) horizontal firing 
 TERM Quadratic DEF pertaining square squares resembling quadrate square square Tetragonal Pertaining terms second degree equation highest power unknown quantity 
@@ -54,7 +54,7 @@ TERM Quadri- DEF combining form meaning
 TERM Quadribasic DEF 
 TERM Quadrible DEF Quadrable 
 TERM Quadric DEF pertaining second degree 
-TERM Quadric DEF quantic second degree See 
+TERM Quadric DEF quantic second degree 
 TERM Quadricapsular DEF capsules 
 TERM Quadriceps DEF great extensor muscle knee divided parts unite single tendon knee 
 TERM Quadricipital DEF pertaining quadriceps 
@@ -81,7 +81,7 @@ TERM Quadriliteral DEF Consisting letters
 TERM Quadrille DEF Marked squares generally thin lines crossing right angles equal intervals paper plotting 
 TERM Quadrille DEF dance figures common time couples dancers set appropriate music quadrille 
 TERM Quadrille DEF game played persons forty cards remainder ordinary pack tens nines eights discarded 
-TERM Quadrillion DEF According French notation followed also upon Continent United States unit fifteen ciphers annexed according English notation number produced involving million fourth power number represented unit twenty-four ciphers annexed See Note 
+TERM Quadrillion DEF According French notation followed also upon Continent United States unit fifteen ciphers annexed according English notation number produced involving million fourth power number represented unit twenty-four ciphers annexed Note 
 TERM Quadrilobed DEF 
 TERM Quadrilobate DEF lobes 
 TERM Quadrilocular DEF cells cavities 
@@ -108,7 +108,7 @@ TERM Quadrivalve DEF door shutter like folds
 TERM Quadrivalvular DEF valves quadrivalve 
 TERM Quadrivial DEF ways meeting point 
 TERM Quadrivial DEF making quadrivium 
-TERM Quadrivium DEF arithmetic music geometry astronomy called schoolmen See 
+TERM Quadrivium DEF arithmetic music geometry astronomy called schoolmen 
 TERM Quadroon DEF offspring mulatto white person person quarter-blooded 
 TERM Quadroxide DEF tetroxide 
 TERM Quadrumana DEF division Primates comprising apes monkeys called hind foot usually prehensile great toe opposable somewhat like thumb Formerly considered order distinct Bimana last included man alone 
@@ -144,7 +144,7 @@ TERM Quaigh DEF small shallow cup drinking vessel
 TERM Quail DEF die perish hence wither fade become quelled become cast down sink trial apprehension danger lose spirit power resistance lose heart give way shrink cower 
 TERM Quail DEF cause fail spirit power quell crush subdue 
 TERM Quail DEF curdle coagulate milk 
-TERM Quail DEF gallinaceous bird belonging several allied genera Old World especially common European quail rain quail India stubble quail Australian swamp quail several American partridges belonging allied genera especially bobwhite (called California quail numerous species Turnix allied genera native Old World Australian painted quail See prostitute called quail thought amorous bird 
+TERM Quail DEF gallinaceous bird belonging several allied genera Old World especially common European quail rain quail India stubble quail Australian swamp quail several American partridges belonging allied genera especially bobwhite (called California quail numerous species Turnix allied genera native Old World Australian painted quail prostitute called quail thought amorous bird 
 TERM Quaily DEF upland plover 
 TERM Quaint DEF Prudent wise hence crafty artful wily Characterized ingenuity art finely fashioned skillfully wrought elegant graceful nice neat Curious fanciful affected odd whimsical antique archaic singular unusual architecture 
 TERM Quaintise DEF Craft subtlety cunning Elegance beauty 
@@ -154,7 +154,7 @@ TERM Quair DEF quire book
 TERM Quake DEF agitated quick short motions continually repeated shake fear cold etc shudder tremble shake vibrate quiver either solid soft wet land violent convulsion kind earth mountains 
 TERM Quake DEF cause quake 
 TERM Quake DEF tremulous agitation quick vibratory movement shudder quivering earthquake 
-TERM Quaker DEF quakes religious sect founded George Leicestershire England 1650 members call called Quakers originally derision See 4 nankeen bird 
+TERM Quaker DEF quakes religious sect founded George Leicestershire England 1650 members call called Quakers originally derision 4 nankeen bird 
 TERM Quakeress DEF woman member Society Friends 
 TERM Quakerish DEF Like pertaining Quaker Quakerlike 
 TERM Quakerism DEF peculiar character manners tenets etc Quakers 
@@ -181,7 +181,7 @@ TERM Qualitied DEF Furnished qualities endowed
 TERM Quality DEF condition sort distinguished others nature character relatively considered goods character sort rank Special temporary character profession occupation assumed asserted rank part position makes helps make anything is anything belonging subject predicable it distinguishing property characteristic attribute peculiar power capacity virtue distinctive trait tones flute differ violin great acquired trait accomplishment acquisition Superior birth station high rank elevated character 
 TERM Qualm DEF Sickness disease pestilence death sudden attack illness faintness pain agony Especially sudden sensation nausea prick scruple conscience uneasiness conscience compunction 
 TERM Qualmish DEF Sick stomach affected nausea sickly languor inclined vomit 
-TERM Quamash DEF See 
+TERM Quamash DEF 
 TERM Quamoclit DEF Formerly genus plants including cypress vine called genus merged 
 TERM Quandary DEF state difficulty perplexity doubt uncertainty 
 TERM Quandary DEF bring state uncertainty perplexity difficulty 
@@ -210,7 +210,7 @@ TERM Quarrel DEF breach concord amity obligation falling out difference disagree
 TERM Quarrel DEF violate concord agreement difference fall out become antagonistic dispute angrily violently wrangle scold altercate contend fight find fault cavil one's 
 TERM Quarrel DEF quarrel with compel quarrel man estate 
 TERM Quarrel DEF quarrels wrangles quarrelsome 
-TERM Quarrelet DEF little quarrel See 1st 2 
+TERM Quarrelet DEF little quarrel 1st 2 
 TERM Quarreling DEF Engaged quarrel apt disposed quarrel factions 
 TERM Quarrellous DEF Quarrelsome 
 TERM Quarrelsome DEF Apt disposed quarrel given brawls contention easily irritated provoked contest irascible choleric 
@@ -220,7 +220,7 @@ TERM Quarry DEF 1st
 TERM Quarry DEF Quadrate square 
 TERM Quarry DEF part entrails beast taken given hounds object chase animal hunted for game especially game hunted hawks 
 TERM Quarry DEF secure prey prey vulture harpy 
-TERM Quarry DEF place cavern pit stone taken rock ledge dug earth building purposes stone pit See 5th 
+TERM Quarry DEF place cavern pit stone taken rock ledge dug earth building purposes stone pit 5th 
 TERM Quarry DEF dig take quarry 
 TERM Quarry-faced DEF face left comes quarry smoothed chisel point said stones 
 TERM Quarry-man DEF man engaged quarrying stones quarrier 
@@ -247,7 +247,7 @@ TERM Quartered DEF Divided equal parts quarters separated parts regions Furnishe
 TERM Quarterfoil DEF ornamental foliation lobes foils 
 TERM Quarterhung DEF trunnions axes lie bore said cannon 
 TERM Quartering DEF Coming point well abaft beam directly astern said waves moving object right angles cranks locomotive planes forming right angle other 
-TERM Quartering DEF station Assignment quarters soldiers quarters division shield containing different coats arms compartments series quarters small upright posts See 1 
+TERM Quartering DEF station Assignment quarters soldiers quarters division shield containing different coats arms compartments series quarters small upright posts 1 
 TERM Quarterly DEF Containing consisting of fourth part Recurring during end of quarter payments rent 
 TERM Quarterly DEF periodical work published quarter times year 
 TERM Quarterly DEF quarters quarter year returns made quarters quarterings bear arms parts said shield thus divided lines drawn right angles 
@@ -256,14 +256,14 @@ TERM Quartern DEF quarter Specifically fourth part pint gill fourth part peck st
 TERM Quarteron DEF quarter esp quarter pound quarter hundred 
 TERM Quarteroon DEF 
 TERM Quarteron DEF quadroon 
-TERM Quarterpace DEF platform staircase stair turns right angle only See 
+TERM Quarterpace DEF platform staircase stair turns right angle only 
 TERM Quarter round DEF ovolo 
 TERM Quarter-saw DEF saw (a log) quarters specif saw quarters boards cutting alternately face quarter secure lumber warp relatively little show grain advantageously 
 TERM Quarterstaff DEF long stout staff formerly used weapon defense offense called holding hand placed middle middle end 
 TERM Quartette DEF 
 TERM Quartet DEF composition parts performed single voice instrument stanza lines 
 TERM Quartic DEF fourth degree 
-TERM Quartic DEF quantic fourth degree See 
+TERM Quartic DEF quantic fourth degree 
 TERM Quartile DEF 
 TERM Quartine DEF supposed fourth integument ovule counting outside 
 TERM Quarto DEF leaves sheet form size quarto 
@@ -278,7 +278,7 @@ TERM quartzous DEF Quarzose
 TERM Quartzy DEF Quartzose 
 TERM Quas DEF kind beer 
 TERM Quasje DEF 
-TERM Quaschi DEF brown coati See 
+TERM Quaschi DEF brown coati 
 TERM Quash DEF 
 TERM Quash DEF abate annul overthrow make void 
 TERM Quash DEF beat down beat pieces dash forcibly crush crush subdue suppress extinguish summarily completely 
@@ -298,12 +298,12 @@ TERM Quata DEF coaita
 TERM Quatch DEF Squat flat 
 TERM Quater-cousin DEF cousin within first degrees kindred 
 TERM Quaternary DEF Consisting fours sets Later than subsequent to Tertiary Post-tertiary age Age 
-TERM Quaternary DEF number Quaternary age era formation See 
+TERM Quaternary DEF number Quaternary age era formation 
 TERM Quaternate DEF Composed of arranged in sets quaternary 
 TERM Quaternion DEF number set parts things person things taken collectively group words phrases circumstances facts like word syllables quadrisyllable quotient vectors directed right lines space considered depending geometrical elements expressible algebraic symbol quadrinomial form 
 TERM Quaternion DEF divide quaternions files companies 
 TERM Quaternity DEF number union persons analogous theological term 
-TERM Quateron DEF See 2d 
+TERM Quateron DEF 2d 
 TERM Quatorzain DEF poem fourteen lines sonnet 
 TERM Quatorze DEF aces kings queens knaves tens game piquet called counts fourteen points 
 TERM Quatrain DEF stanza lines rhyming alternately 
@@ -312,27 +312,27 @@ TERM Quatrefoil DEF
 TERM Quatrefeuille DEF 
 TERM Quattrocento DEF fifteenth century applied Italian art literature sculpture 
 TERM Quatuor DEF quartet applied chiefly instrumental compositions 
-TERM Quave DEF See 
+TERM Quave DEF 
 TERM Quave DEF quaver 
-TERM Quavemire DEF See 
+TERM Quavemire DEF 
 TERM Quaver DEF tremble vibrate shake Especially shake voice utter form sound rapid tremulous vibrations singing also trill musical instrument 
 TERM Quaver DEF utter quavers 
-TERM Quaver DEF shake rapid tremulous vibration voice instrument music eighth note See 
+TERM Quaver DEF shake rapid tremulous vibration voice instrument music eighth note 
 TERM Quaverer DEF quavers warbler 
 TERM Quay DEF mole bank wharf formed toward sea side harbor river navigable water convenience loading unloading vessels 
 TERM Quay DEF furnish quays 
 TERM Quayage DEF Wharfage 
 TERM Quayd DEF 
-TERM qubit DEF measure information information stored object take quantum state 0 1 differs classical information theory quantum states may assume many intermediate states superpositions individual discrete states quantum states multiple quantum systems may also correlated phenomenon called increasing complexity information storage retrieval process See 4th 
+TERM qubit DEF measure information information stored object take quantum state 0 1 differs classical information theory quantum states may assume many intermediate states superpositions individual discrete states quantum states multiple quantum systems may also correlated phenomenon called increasing complexity information storage retrieval process 4th 
 TERM Que DEF half farthing 
 TERM Queach DEF thick bushy plot thicket 
-TERM Queach DEF stir move See 
+TERM Queach DEF stir move 
 TERM Queachy DEF Yielding trembling feet moist boggy ground shaking moving Like queach thick bushy 
 TERM Quean DEF woman young unmarried woman girl low woman wench slut 
 TERM Queasily DEF queasy manner 
 TERM Queasiness DEF state queasy nausea qualmishness squeamishness 
 TERM Queasy DEF Sick stomach affected nausea inclined vomit qualmish Fastidious squeamish delicate easily disturbed unsettled ticklish 
-TERM Quebec group DEF middle groups rocks Canadian period divided American Lower Silurian system See 
+TERM Quebec group DEF middle groups rocks Canadian period divided American Lower Silurian system 
 TERM Quebracho DEF Chilian apocynaceous tree also bark used febrifuge lung bronchial diseases called also distinguish Mexican anacardiaceous tree bark said similar properties 
 TERM Quebrith DEF Sulphur 
 TERM Queck DEF 
@@ -348,7 +348,7 @@ TERM Queening DEF several kinds apples apple called cultivated England hundred y
 TERM Queenliness DEF quality queenly the characteristic queen stateliness eminence among women attractions power 
 TERM Queenly DEF Like becoming suitable to queen 
 TERM Queen olive DEF Properly kind superior olive grown region Seville Spain large size oblong shape small long pit cured green keeps well delicate flavor Loosely olive similar character 
-TERM Queen-post DEF suspending posts roof truss framed truss similar form See 
+TERM Queen-post DEF suspending posts roof truss framed truss similar form 
 TERM Queenship DEF state rank dignity queen 
 TERM Queensland nut DEF nut Australian tree inch diameter contains single round edible seed sometimes hemispherical seeds called Australia 
 TERM Queen truss DEF truss framed queen-posts queen-post truss 
@@ -359,10 +359,10 @@ TERM Queerish DEF Rather queer somewhat singular
 TERM Queerly DEF queer odd manner 
 TERM Queerness DEF quality state queer 
 TERM Queest DEF European ringdove cushat 
-TERM Quegh DEF drinking vessel See 
-TERM Queint DEF See 
+TERM Quegh DEF drinking vessel 
+TERM Queint DEF 
 TERM Queint DEF & p 
-TERM Queintise DEF See 
+TERM Queintise DEF 
 TERM Quell DEF die subdued abated yield abate 
 TERM Quell DEF take life of kill overpower subdue put down quiet allay pacify cause yield cease grief tumult 
 TERM Quell DEF Murder 
@@ -382,9 +382,9 @@ TERM Quercitannic DEF Pertaining to designating tannic acid found oak bark extra
 TERM Quercite DEF white crystalline substance found acorns fruit oak sweet taste regarded pentacid alcohol 
 TERM Quercitin DEF yellow crystalline substance occurring quite widely distributed vegetable kingdom apple-tree bark horse-chestnut leaves etc originally obtained decomposition quercitrin Called also 
 TERM Quercitrin DEF glucoside extracted bark oak bitter citron-yellow crystalline substance used pigment called 
-TERM Quercitron DEF yellow inner bark American black oak yellow oak dyer's oak quercitron oak large forest tree growing Maine eastern Texas Quercitrin used pigment See 
-TERM Quercus DEF genus trees constituted oak See 
-TERM Querele DEF complaint court See 
+TERM Quercitron DEF yellow inner bark American black oak yellow oak dyer's oak quercitron oak large forest tree growing Maine eastern Texas Quercitrin used pigment 
+TERM Quercus DEF genus trees constituted oak 
+TERM Querele DEF complaint court 
 TERM Querent DEF complainant plaintiff 
 TERM Querent DEF inquirer 
 TERM Querimonious DEF Complaining querulous apt complain 
@@ -394,14 +394,14 @@ TERM Querken DEF stifle choke
 TERM Querl DEF twirl turn wind round coil cord thread 
 TERM Querl DEF coil twirl hair fore leg blooded 
 TERM Quern DEF mill grinding grain upper stone turned hand used invention windmills watermills 
-TERM Querpo DEF inner body garments taken together See 
+TERM Querpo DEF inner body garments taken together 
 TERM Querquedule DEF teal 
 TERM Querry DEF groom equerry 
 TERM Querulential DEF Querulous 
 TERM Querulous DEF Given quarreling quarrelsome Apt find fault habitually complaining disposed murmur man Expressing complaint fretful whining tone 
 TERM Query DEF question inquiry answered solved question mind doubt interrogation point [?] sign question doubt 
 TERM Query DEF ask questions make inquiry doubt 
-TERM Query DEF put questions about elicit questioning inquire into items amount motive address questions to examine questions doubt of regard incredulity write (qu qy ?) against doubtful spelling sense proof See 
+TERM Query DEF put questions about elicit questioning inquire into items amount motive address questions to examine questions doubt of regard incredulity write (qu qy ?) against doubtful spelling sense proof 
 TERM Quesal DEF long-tailed resplendent trogon formerly native Southern Mexico Central America Called also 
 TERM Quest DEF act seeking looking anything attempt find obtain search pursuit rove game lost child property Request desire solicitation make search inquiry taken collectively Inquest jury inquest 
 TERM Quest DEF search for examine 
@@ -439,23 +439,23 @@ TERM Quibble DEF evade point question artifice play upon words caviling raising 
 TERM Quibbler DEF quibbles caviler also punster 
 TERM Quibblingly DEF Triflingly evasively 
 TERM Quica DEF small South American opossum native Guiana Brazil feeds upon insects small birds fruit 
-TERM Quice DEF See 
+TERM Quice DEF 
 TERM Quich DEF stir 
 TERM Quichuan DEF Designating pertaining to linguistic stock South American Indians including majority civilized tribes ancient Peruvian Empire wild tribes never subjugated Incas Indians short heavy strong brachycephalic remarkably low cranial capacity Nevertheless represent highest native American civilizations characterized agricultural military administrative skill rather science literature although adept potters weavers goldsmiths preserved aid mnemonic quipu body legendary lore part written since introduction writing 
 TERM Quick DEF Alive living animate opposed Characterized life liveliness animated sprightly agile brisk ready Speedy hasty swift slow Impatient passionate hasty eager eager sharp unceremonious Fresh bracing sharp keen Sensitive perceptive high degree ready Pregnant child 
 TERM Quick DEF quick manner quickly promptly rapidly haste speedily without delay run get back 
 TERM Quick DEF quick alive living animal plant especially hawthorn plants used making living hedge life mortal point vital part part susceptible serious injury keen feeling sensitive living flesh part finger toe nail attached tender emotions cut finger nail thrust sword taunt used Quitch grass 
 TERM Quick DEF revive quicken become alive 
-TERM Quickbeam DEF See 
+TERM Quickbeam DEF 
 TERM Quicken DEF make alive vivify revive resuscitate death inanimate state hence excite to stimulate incite make lively active sprightly impart additional energy to stimulate make quick rapid hasten accelerate one's steps thoughts one's departure shorten radius (a curve) make (a curve) sharper sheer is make curve 
 TERM Quicken DEF come life become alive become vivified enlivened hence exhibit signs life move fetus womb move rapidity activity become accelerated pulse 
 TERM Quickener DEF who which quickens 
 TERM Quickening DEF act process making becoming quick first motion fetus womb felt mother occurring usually middle term pregnancy popularly supposed due fetus becoming possessed independent life 
 TERM Quickens DEF Quitch grass 
-TERM Quicken tree DEF European rowan tree called also See 
+TERM Quicken tree DEF European rowan tree called also 
 TERM quick-freeze DEF freeze rapidly preserve natural juices flavors usually used food biologicql matter 
 TERM Quickhatch DEF wolverine 
-TERM Quicklime DEF Calcium oxide unslacked lime called wet develops great heat See 4th 2 
+TERM Quicklime DEF Calcium oxide unslacked lime called wet develops great heat 4th 2 
 TERM Quickly DEF Speedily haste celerity soon without delay quick 
 TERM Quickness DEF condition quality quick living life Activity briskness especially rapidity motion speed celerity Acuteness perception keen sensibility Sharpness pungency taste 
 TERM Quicksand DEF Sand easily moved readily yielding pressure especially deep mass loose moving sand mixed water sometimes found mouth river along coasts dangerous difficulty extricating person begins sinking it 
@@ -463,7 +463,7 @@ TERM Quick-scented DEF Acute smell
 TERM Quickset DEF living plant set grow esp set hedge specifically hawthorn 
 TERM Quickset DEF Made quickset 
 TERM Quickset DEF plant living shrubs trees hedge 
-TERM Quick-sighted DEF quick sight acute discernment quick see discern 
+TERM Quick-sighted DEF quick sight acute discernment quick discern 
 TERM Quicksilver DEF metal mercury called resemblance liquid silver 
 TERM Quicksilvered DEF Overlaid quicksilver amalgam quicksilver tinfoil 
 TERM Quicksilvering DEF mercury foil back looking-glass 
@@ -497,7 +497,7 @@ TERM Quiet DEF become still silent calm often soon
 TERM Quietage DEF Quietness 
 TERM Quieter DEF who which quiets 
 TERM Quietism DEF Peace tranquillity mind calmness indifference apathy dispassion indisturbance inaction system Quietists maintained religion consists withdrawal mind worldly interests anxieties constant employment passive contemplation God attributes 
-TERM Quietist DEF sect mystics originated seventeenth century Molinos Spanish priest living Rome See 
+TERM Quietist DEF sect mystics originated seventeenth century Molinos Spanish priest living Rome 
 TERM Quietistic DEF pertaining Quietists Quietism 
 TERM Quietly DEF quiet state manner without motion state rest lie sit Without tumult alarm dispute disturbance peaceably live sleep Calmly without agitation violent emotion patiently submit unavoidable Noiselessly silently without remark violent movement manner attract little observation left 
 TERM Quietness DEF quality state quiet freedom noise agitation disturbance excitement stillness tranquillity calmness 
@@ -515,7 +515,7 @@ TERM Quillwort DEF plant species genus cryptogamous plants cluster elongated fou
 TERM Quilt DEF Anything quilted esp quilted bed cover skirt worn women cover garment made putting wool cotton etc cloths stitching together also outer bed cover 
 TERM Quilt DEF stitch sew together frequent intervals order confine place several layers cloth wadding garment comforter etc may made wad garment warm soft material stitch sew lines patterns 
 TERM Quilter DEF who which quilts 
-TERM Quilting DEF act stitching running patterns making quilt quilting bee See 2 material used making quilts coating strands rope water vessel 
+TERM Quilting DEF act stitching running patterns making quilt quilting bee 2 material used making quilts coating strands rope water vessel 
 TERM Quin DEF European scallop used food 
 TERM Quinaldine DEF colorless liquid slightly pungent odor first obtained condensation product aldehyde aniline regarded derivative quinoline called also 
 TERM Quinary DEF Consisting arranged fives 
@@ -527,7 +527,7 @@ TERM Quincewort DEF squinancy Called also
 TERM Quinch DEF stir wince 
 TERM Quincuncial DEF form quincunx leaves pentamerous calyx corolla imbricated exterior interior edge exterior interior 
 TERM Quincuncially DEF manner order quincunx 
-TERM Quincunx DEF arrangement things fives square rectangle placed corner middle especially arrangement trees repeated indefinitely form regular group rows running various directions position planets distant signs quincuncial arrangement parts flower See 2 
+TERM Quincunx DEF arrangement things fives square rectangle placed corner middle especially arrangement trees repeated indefinitely form regular group rows running various directions position planets distant signs quincuncial arrangement parts flower 2 
 TERM Quindecagon DEF plane figure fifteen angles consequently fifteen sides 
 TERM Quindecemvir DEF sacerdotal college fifteen men chief duty take care Sibylline books 
 TERM Quindecemvirate DEF body office quindecemviri 
@@ -544,7 +544,7 @@ TERM Quinidine DEF alkaloid isomeric with resembling quinine found certain speci
 TERM Quinine DEF alkaloid extracted bark several species cinchona (esp bitter white crystalline substance Hence extension salts alkaloid acetate chloride sulphate etc employed febrifuge antiperiodic Called also etc 
 TERM Quininic DEF Pertaining to designating nitrogenous acid obtained yellow crystalline substance oxidation quinine 
 TERM Quinism DEF 
-TERM Quininism DEF See 
+TERM Quininism DEF 
 TERM Quinizarin DEF yellow crystalline substance produced artificially isomeric alizarin 
 TERM Quinizine DEF series nitrogenous bases certain used antipyretics 
 TERM Quinnat DEF California salmon called also great commercial importance 
@@ -594,16 +594,16 @@ TERM Quint DEF set sequence piquet interval fifth set
 TERM Quintain DEF object tilted at called also 
 TERM Quintal DEF hundredweight either 112 100 pounds according scale used Cf metric measure weight 100000 grams 100 kilograms equal 22046 pounds avoirdupois 
 TERM Quintan DEF Occurring fifth also occurring every fifth day reckoning inclusively 
-TERM Quintel DEF See 
-TERM Quintessence DEF fifth last highest essence power natural body See Hence extract anything containing rarest virtue subtle essential constituent small quantity pure concentrated essence characteristic form perfect example type object 
+TERM Quintel DEF 
+TERM Quintessence DEF fifth last highest essence power natural body Hence extract anything containing rarest virtue subtle essential constituent small quantity pure concentrated essence characteristic form perfect example type object 
 TERM Quintessence DEF distil extract quintessence reduce quintessence 
 TERM Quintessential DEF nature quintessence purest characteristic 
 TERM Quintette DEF 
 TERM Quintet DEF composition voices instruments also set persons sing play five-part music 
 TERM Quintic DEF fifth degree order 
 TERM Quintile DEF aspect planets separated fifth part zodiac 
-TERM Quintilllion DEF According French notation used Continent America cube million unit eighteen ciphers annexed according English notation number produced involving million fifth power unit thirty ciphers annexed See Note 
-TERM Quintin DEF See 
+TERM Quintilllion DEF According French notation used Continent America cube million unit eighteen ciphers annexed according English notation number produced involving million fifth power unit thirty ciphers annexed Note 
+TERM Quintin DEF 
 TERM Quintine DEF embryonic sac ovule sometimes regarded innermost fifth integument Cf 
 TERM Quintole DEF group notes played sung time species 
 TERM Quintroon DEF off-spring octoroon white person 
@@ -622,11 +622,11 @@ TERM Quipo DEF
 TERM quipster DEF person frequently makes quips 
 TERM Quipu DEF contrivance employed ancient Peruvians Mexicans etc substitute writing figures consisting main cord hung certain distances smaller cords various colors special meaning silver gold corn soldiers etc Single double triple knots tied smaller cords representing definite numbers chiefly used arithmetical purposes register important facts events 
 TERM Quirboilly DEF Leather softened boiling take required shape Upon drying becomes exceedingly hard hence formerly used armor 
-TERM Quire DEF See 
+TERM Quire DEF 
 TERM Quire DEF sing concert 
 TERM Quire DEF collection twenty-four sheets paper size quality unfolded single fold twentieth ream 
 TERM Quirinal DEF Of pertaining to designating hill (one hills Rome) modern royal place situated upon it Also used substantively 
-TERM Quirister DEF chorister See 
+TERM Quirister DEF chorister 
 TERM Quiritation DEF crying help 
 TERM Quirite DEF Quirites 
 TERM Quirites DEF Roman citizens 
@@ -634,23 +634,23 @@ TERM Quirk DEF sudden turn starting point line hence artful evasion subterfuge s
 TERM Quirked DEF Having formed with quirk quirks 
 TERM Quirkish DEF Consisting quirks resembling quirk 
 TERM Quirky DEF Full quirks tricky 
-TERM Quirl DEF See 
+TERM Quirl DEF 
 TERM Quirpele DEF Indian ferret 
 TERM Quirt DEF rawhide whip plaited thongs buffalo hide 
-TERM Quish DEF See 
-TERM Quit DEF numerous species small passerine birds native tropical America See 
+TERM Quish DEF 
+TERM Quit DEF numerous species small passerine birds native tropical America 
 TERM Quit DEF Released obligation charge penalty etc free clear absolved acquitted 
 TERM Quit DEF set rest free anything harmful oppressive relieve clear liberate release obligation accusation penalty like absolve acquit discharge obligation duty meet satisfy claim debt make payment of requite repay meet claims upon expectations entertained of conduct acquit used reflexively carry through go end done with cease from stop hence depart from leave forsake work place 
 TERM Quit DEF go away depart stop thing cease 
 TERM Quitch DEF Figuratively vice taint evil 
-TERM Quitch grass DEF perennial grass long running rootstalks spreads rapidly pertinaciously becomes troublesome weed Also called See Appendix 
+TERM Quitch grass DEF perennial grass long running rootstalks spreads rapidly pertinaciously becomes troublesome weed Also called Appendix 
 TERM Quitclaim DEF release relinquishment claim deed release instrument right title interest claim person has supposed have estate held another released relinquished grantor generally covenanting persons claim himself 
 TERM Quitclaim DEF release relinquish claim to release claim deed without covenants warranty adverse paramount titles 
-TERM Quite DEF See 
+TERM Quite DEF 
 TERM Quite DEF Completely wholly entirely totally perfectly work done object accomplished great extent degree very much considerably 
 TERM Quitly DEF Quite 
 TERM Quitrent DEF rent reserved grants land payment tenant quit service 
-TERM Quits DEF See Note 
+TERM Quits DEF Note 
 TERM Quittable DEF Capable quitted 
 TERM Quittal DEF Return requital quittance 
 TERM Quittance DEF Discharge debt obligation acquittance Recompense return repayment 
@@ -665,29 +665,29 @@ TERM Quiver DEF case sheath arrows carried person
 TERM Quivered DEF Furnished with carrying quiver Sheathed quiver 
 TERM Quiveringly DEF quivering motion 
 TERM Qui vive DEF challenge French sentinel patrol used like English challenge comes 
-TERM Quixotic DEF Like romantic extravagance prone pursue unrealizable goals absurdly chivalric apt deluded See also Like deeds ridiculously impractical unachievable extravagantly romantic doomed failure 
+TERM Quixotic DEF Like romantic extravagance prone pursue unrealizable goals absurdly chivalric apt deluded also Like deeds ridiculously impractical unachievable extravagantly romantic doomed failure 
 TERM Quixotically DEF quixotic way 
-TERM Quixotism DEF form delusion leads extravagant absurd undertakings sacrifices obedience morbidly romantic ideal duty honor illustrated exploits knight-errantry See 
+TERM Quixotism DEF form delusion leads extravagant absurd undertakings sacrifices obedience morbidly romantic ideal duty honor illustrated exploits knight-errantry 
 TERM Quixotry DEF Quixotism visionary schemes 
 TERM Quiz DEF riddle obscure question enigma ridiculous hoax quizzes others great odd absurd fellow exercise course exercises conducted coaching examination 
-TERM Quiz DEF puzzle banter chaff mock pretended seriousness discourse make sport of obscure questions peer at eye suspiciously mockingly instruct quiz See 4 
-TERM Quiz DEF conduct quiz See 4 
+TERM Quiz DEF puzzle banter chaff mock pretended seriousness discourse make sport of obscure questions peer at eye suspiciously mockingly instruct quiz 4 
+TERM Quiz DEF conduct quiz 4 
 TERM Quizzer DEF quizzes quiz 
 TERM Quizzical DEF Relating quizzing given quizzing nature quiz farcical sportive 
 TERM Quizzism DEF act habit quizzing 
 TERM Quob DEF throb quiver 
 TERM Quod DEF quadrangle court prison hence prison 
-TERM Quod DEF Quoth said See 
+TERM Quod DEF Quoth said 
 TERM Quod DEF put quod prison lock up jug 
 TERM Quoddies DEF Herring taken cured smoked near Quoddy Head Maine near entrance Passamaquoddy Bay 
 TERM Quodlibet DEF nice point subtilty debatable point medley improvised several performers 
 TERM Quodlibetarian DEF discusses subject pleasure 
 TERM Quodlibetical DEF restricted particular subject discussed curiosity entertainment 
-TERM Quoif DEF See 
-TERM Quoiffure DEF See 
-TERM Quoil DEF See 
+TERM Quoif DEF 
+TERM Quoiffure DEF 
+TERM Quoil DEF 
 TERM Quoin DEF Originally solid exterior angle building now commonly selected pieces material corner marked wedgelike piece stone wood metal material used various purposes 
-TERM Quoit DEF flattened ring-shaped piece iron pitched fixed object play hence heavy flat missile used purpose stone piece iron etc discus ancients See cromlech 
+TERM Quoit DEF flattened ring-shaped piece iron pitched fixed object play hence heavy flat missile used purpose stone piece iron etc discus ancients cromlech 
 TERM Quoit DEF throw quoits play quoits 
 TERM Quoit DEF throw pitch 
 TERM Quoke DEF 
@@ -695,7 +695,7 @@ TERM Quoll DEF marsupial size cat
 TERM Quondam DEF formerly former sometime 
 TERM Quondam DEF person dismissed ejected position 
 TERM Quook DEF 
-TERM Quop DEF See 
+TERM Quop DEF 
 TERM Quorum DEF number officers members body competent law constitution transact business House Representatives constitutional 
 TERM Quota DEF proportional part share share proportion assigned division share effort required performed share resources required contributed common purpose 
 TERM Quotable DEF Capable worthy quoted writer 
@@ -708,8 +708,8 @@ TERM Quoth DEF Said spoke uttered used first third persons past tenses always fo
 TERM Quotha DEF Indeed forsooth 
 TERM Quotidian DEF Occurring returning daily 
 TERM Quotidian DEF Anything returning daily especially intermittent fever ague returns every day 
-TERM Quotient DEF number resulting division number another showing often less number contained greater twelve divided result process inverse multiplication See Note 
+TERM Quotient DEF number resulting division number another showing often less number contained greater twelve divided result process inverse multiplication Note 
 TERM Quotiety DEF relation object number 
 TERM Quotum DEF Part proportion quota 
 TERM Quo warranto DEF writ brought proper tribunal inquire warrant person corporation acts exercises certain powers 
-TERM Quran DEF See 
+TERM Quran DEF 

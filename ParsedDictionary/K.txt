@@ -5,23 +5,23 @@ TERM Ka DEF unknown god epithet Prajapati Brahma
 TERM ka DEF spiritual aspect individual living within body life surviving body death believed spirits inhabiting body deserts teh body death 
 TERM Kaaba DEF small nearly cubical stone building court Great Mosque Mecca toward Muslims must pray contains sacred black stone believed Muslims precious stones paradise brought Abraham contructing Kaaba Angel Gabriel Kaaba predates Mohammed pantheon contained Arab idols destroyed Mohammed 
 TERM Kaama DEF hartbeest 
-TERM Kabala DEF See 
-TERM Kabassou DEF See 
-TERM Kabob DEF See & v 
+TERM Kabala DEF 
+TERM Kabassou DEF 
+TERM Kabob DEF & v 
 TERM Kabook DEF clay ironstone found Ceylon 
-TERM Kabyle DEF Berber Algiers Tunis See 
+TERM Kabyle DEF Berber Algiers Tunis 
 TERM Kadder DEF jackdaw 
 TERM Kadiaster DEF 
-TERM Kadi DEF Turkish judge See 
+TERM Kadi DEF Turkish judge 
 TERM Kafal DEF Arabian name trees genus yield gum resin red aromatic wood 
 TERM Kafir DEF 
 TERM Kaffir DEF race which Hottentots Bushmen inhabit South Africa inhabit country north Cape Colony name specifically applied tribes living Cape Colony Natal including Ponda Xosa Tembu Zulus Natal true Kaffirs Black African disparaging offensive term used white South Africans 
-TERM Kaffle DEF See 
-TERM Kafilah DEF See 
+TERM Kaffle DEF 
+TERM Kafilah DEF 
 TERM kafir DEF 
 TERM Kafka DEF writer b 1883 d 1924 
 TERM Kafkaesque DEF Frightening threating bewildering vague unexplicable way situations regulations Often used describe illogical bureaucratic entanglements reasonable solution 
-TERM Kaftan DEF See 
+TERM Kaftan DEF 
 TERM Kage DEF chantry chapel inclosed lattice screen work 
 TERM Kagu DEF singular crested grallatorial bird native New Caledonia gray above paler beneath feathers wings tail handsomely barred brown black gray allied sun bittern 
 TERM Kaguan DEF colugo 
@@ -32,8 +32,8 @@ TERM Kaimacam DEF
 TERM Kain DEF Poultry etc required lease paid kind tenant landlord 
 TERM Kainit DEF Salts potassium used manufacture fertilizers 
 TERM Kainite DEF compound salt consisting chiefly potassium chloride magnesium sulphate occurring Stassfurt salt mines Prussian Saxony 
-TERM Kainozoic DEF See 
-TERM Kaique DEF See 
+TERM Kainozoic DEF 
+TERM Kaique DEF 
 TERM Kairine DEF pale buff white crystalline alkaloid derived quinoline used antipyretic medicine 
 TERM Kairoline DEF organic base obtained quinoline used febrifuge resembles kairine 
 TERM Kaiser DEF ancient title emperors Germany assumed William crowned sovereign new German empire 1871 
@@ -41,35 +41,35 @@ TERM Kaka DEF New Zealand parrot genus especially
 TERM Kakapo DEF singular nocturnal parrot native New Zealand lives holes day active night resembles owl colors general appearance large wings fly short distance Called also 
 TERM Kakaralli DEF kind wood common Demerara durable salt water subject depredations sea worm barnacle 
 TERM Kakistocracy DEF Government worst men 
-TERM Kakoxene DEF See 
+TERM Kakoxene DEF 
 TERM Kalahari DEF desert Southwestern Africa located country 
 TERM Kalan DEF sea otter 
 TERM kalantas DEF Philippine timber tree hard red fragrant wood 
 TERM Kalasie DEF long-tailed monkey Borneo tuft long hair head 
-TERM Kale DEF variety cabbage leaves form head nearly original wild form species See 2 
+TERM Kale DEF variety cabbage leaves form head nearly original wild form species 2 
 TERM Kaleege DEF several species large crested Asiatic pheasants belonging genus allied firebacks 
 TERM Kaleidophone DEF 
 TERM Kaleidophon DEF instrument invented consisting reflecting knob end vibrating rod thin plate making visible motion point light reflected knob paths curves corresponding musical notes produced vibrations 
 TERM Kaleidoscope DEF instrument invented David contains loose fragments colored glass etc reflecting surfaces arranged changes position exhibit contents endless variety beautiful colors symmetrical forms much employed arts design 
 TERM Kaleidoscopical DEF 
 TERM Kaleidoscopic DEF Of pertaining to formed by kaleidoscope variegated 
-TERM Kalendar DEF See 
-TERM Kalendarial DEF See 
-TERM Kalender DEF See 3d 
+TERM Kalendar DEF 
+TERM Kalendarial DEF 
+TERM Kalender DEF 3d 
 TERM Kalends DEF 
 TERM Kali DEF last worst ages world considered begun 3102 last 432000 years 
 TERM Kali DEF black destroying goddess called also 
 TERM Kali DEF glasswort 
-TERM kalian DEF pipe long flexible tube connected container smoke cooled passing water See also 
-TERM Kalif DEF See 
+TERM kalian DEF pipe long flexible tube connected container smoke cooled passing water also 
+TERM Kalif DEF 
 TERM Kaliform DEF Formed like kali glasswort 
 TERM Kaligenous DEF Forming alkalies oxygen metals 
 TERM Kalium DEF Potassium called German chemists 
 TERM Kalki DEF name Vishnu tenth last avatar 
 TERM Kalmia DEF genus North American shrubs poisonous evergreen foliage corymbs showy flowers Called also etc 
-TERM Kalmuck DEF See kind shaggy cloth resembling bearskin coarse dyed cotton cloth made Prussia 
+TERM Kalmuck DEF kind shaggy cloth resembling bearskin coarse dyed cotton cloth made Prussia 
 TERM Kalong DEF fruit bat esp Indian edible fruit bat 
-TERM Kaloyer DEF See 
+TERM Kaloyer DEF 
 TERM Kalpa DEF Brahmanic eons period 4320000000 years end Kalpa world annihilated 
 TERM Kalsomine DEF 
 TERM Kam DEF Crooked awry 
@@ -78,14 +78,14 @@ TERM Kamala DEF red dusty hairs capsules East Indian tree used dyeing silk viole
 TERM Kame DEF low ridge 
 TERM Kamet DEF mountain India Tibet 25447 feet high 
 TERM Kami DEF title given celestial gods first mythical dynasty Japan extended demigods second dynasty long line spiritual princes still represented mikado 
-TERM Kamichi DEF curious South American bird often domesticated natives kept poultry defends birds prey long slender hornlike ornament head sharp spurs wing Although beak feet legs resemble gallinaceous birds related anatomical characters ducks geese Called also name sometimes applied also See 
+TERM Kamichi DEF curious South American bird often domesticated natives kept poultry defends birds prey long slender hornlike ornament head sharp spurs wing Although beak feet legs resemble gallinaceous birds related anatomical characters ducks geese Called also name sometimes applied also 
 TERM Kamptulicon DEF kind elastic floor cloth made India rubber gutta-percha linseed oil powdered cork 
 TERM Kampylite DEF variety mimetite arseniate lead hexagonal prisms fine orange yellow 
 TERM Khamsin DEF 
 TERM Kamsin DEF hot southwesterly wind Egypt coming Sahara 
 TERM Kamtschadales DEF aboriginal tribe inhabiting southern part Kamchatka peninsula called also 
 TERM Kan DEF know ken 
-TERM Kan DEF See 
+TERM Kan DEF 
 TERM Kanaka DEF 
 TERM Kanacka DEF native Sandwich Islands 
 TERM Kanawha DEF Kanawha River tributary Ohio River 
@@ -93,7 +93,7 @@ TERM kanchil DEF small chevrotain genus esp inhabiting Java Sumatra adjacent isl
 TERM Kanchanjanga DEF 
 TERM Kanchenjunga DEF mountain 28146 feet high 
 TERM kand DEF Fluor spar called Cornish miners 
-TERM kangaroo DEF numerous species jumping marsupials family inhabit New Guinea adjacent islands long strong hind legs large tail fore legs comparatively short feeble giant kangaroo largest species sometimes becoming twelve fourteen feet total length tree kangaroos belonging genus live trees rock kangaroos genus inhabit rocky situations brush kangaroos genus inhabit wooded districts See 
+TERM kangaroo DEF numerous species jumping marsupials family inhabit New Guinea adjacent islands long strong hind legs large tail fore legs comparatively short feeble giant kangaroo largest species sometimes becoming twelve fourteen feet total length tree kangaroos belonging genus live trees rock kangaroos genus inhabit rocky situations brush kangaroos genus inhabit wooded districts 
 TERM kangaroo rat DEF jumping rodent genus family lives arid regions Mexico western U S Australian mammal genus small ratlike Australian kangaroo genus also called 
 TERM kangaroo's-foot DEF sedgelike spring-flowering herb Australia clustered flowers covered woolly hairs 
 TERM Kansan DEF pertaining Kansas 
@@ -112,14 +112,14 @@ TERM Kaolin DEF pure white clay ordinarily form impalpable powder used form past
 TERM Kaolinization DEF process feldspar changed kaolin 
 TERM Kaolinize DEF convert kaolin 
 TERM Kapelle DEF chapel hence choir orchestra prince's chapel now musical establishment usually orchestral 
-TERM Kapellmeister DEF See 
+TERM Kapellmeister DEF 
 TERM Kapia DEF fossil resin kauri tree New Zealand 
-TERM Kapnomar DEF See 
+TERM Kapnomar DEF 
 TERM Kapok DEF silky wool derived seeds (syn bombaceous tree East West Indies 
 TERM Karagane DEF species gray fox found Russia 
 TERM Karaism DEF Doctrines Karaites 
 TERM Karaite DEF sect Jews adhere closely letter Scriptures rejecting oral law allowing Talmud binding authority opposed 
-TERM Karakul DEF type Astrakhan esp fine grades obtained Karakul sheep See sense 2 cf hardy coarse-haired sheep central Asia bearing soft curly fleece black young lambs grows brown gray adult lambs valued soft curly black fur large lake Pamirs Central Asia lying 13200 feet sea level 
+TERM Karakul DEF type Astrakhan esp fine grades obtained Karakul sheep sense 2 cf hardy coarse-haired sheep central Asia bearing soft curly fleece black young lambs grows brown gray adult lambs valued soft curly black fur large lake Pamirs Central Asia lying 13200 feet sea level 
 TERM Karat DEF unit measurement proportion gold alloy 18-karat gold 75 2122e-314old 24-karat gold pure gold 
 TERM Karatas DEF West Indian plant Pineapple family 
 TERM karate DEF traditional Japanese system unarmed combat sharp blows kicks given pressure-sensitive points body opponent 
@@ -127,14 +127,14 @@ TERM Karenic DEF
 TERM Karen DEF language spoken Thai-Burmese borderlands 
 TERM Karma DEF One's acts considered fixing one's lot future existence doctrine fate inflexible result cause effect especially principle person rewarded punished subsequent incarnation deeds previous incarnation theory inevitable consequence One's destiny fate supposed non-physical emanations person gives off may affect people vibrations 
 TERM Karmathian DEF Islamic sect founded ninth century Karmat 
-TERM Karn DEF pile rocks sometimes solid rock See 
+TERM Karn DEF pile rocks sometimes solid rock 
 TERM Karob DEF twenty-fourth part grain weight used goldsmiths 
 TERM Kaross DEF native garment rug skin sewed together form square 
 TERM Karpholite DEF fibrous mineral occurring tufts straw-yellow color hydrous silicate alumina manganese 
 TERM Karroo DEF dry table-lands South Africa often rise terracelike considerable elevations 
 TERM Karstenite DEF 
-TERM Karvel DEF See 
-TERM Karyokinesis DEF indirect division cells which prior division cell protoplasm complicated changes take place nucleus attended movement nuclear fibrils opposed nucleus becomes enlarged convoluted finally threads separated groups ultimately become disconnected constitute Called also See changes occur nucleus cell especially movements chromosomes process cell division 
+TERM Karvel DEF 
+TERM Karyokinesis DEF indirect division cells which prior division cell protoplasm complicated changes take place nucleus attended movement nuclear fibrils opposed nucleus becomes enlarged convoluted finally threads separated groups ultimately become disconnected constitute Called also changes occur nucleus cell especially movements chromosomes process cell division 
 TERM Karyokinetic DEF pertaining karyokinesis changes cell 
 TERM Karyomiton DEF reticular network fine fibers cell part composed opposition network cell 
 TERM karyoplasma DEF 
@@ -144,8 +144,8 @@ TERM Karyostenotic DEF Pertaining to connected with karyostenosis mode nuclear
 TERM Kasack DEF 
 TERM Kat DEF Arabian shrub leaves used tea Arabs 
 TERM katabolic DEF pertaining catabolism 
-TERM Katabolism DEF Destructive downward metabolism regressive metamorphism (now common spelling) opposed See 
-TERM Katastate DEF substance formed catabolic process opposed See 
+TERM Katabolism DEF Destructive downward metabolism regressive metamorphism (now common spelling) opposed 
+TERM Katastate DEF substance formed catabolic process opposed 
 TERM Kate DEF brambling finch 
 TERM katharsis DEF purging emotional tensions usually spelled 
 TERM Kathetal DEF Making right angle perpendicular lines sides triangle include right angle 
@@ -162,7 +162,7 @@ TERM Kauri resin DEF resinous product found form yellow brown lumps ground trees
 TERM kaury DEF 
 TERM Kava DEF species long pepper root intoxicating beverage made Polynesians process mastication also beverage itself 
 TERM Kavass DEF armed constable also government servant courier 
-TERM Kaw DEF See 
+TERM Kaw DEF 
 TERM Kawaka DEF New Zealand tree Cypress cedar valuable fine-grained reddish wood 
 TERM Kawn DEF inn 
 TERM Kayak DEF light canoe made skins stretched frame usually capable carrying person sits amidships uses double-bladed paddle peculiar Eskimos Arctic tribes 
@@ -173,25 +173,25 @@ TERM Kaynard DEF lazy cowardly person rascal
 TERM kazoo DEF kind toy rude musical instrument tube inside stretched string membrane made vibrate singing humming tube 
 TERM Kea DEF large New Zealand parrot notorious acquired habit killing sheep called also 
 TERM kebob DEF 
-TERM kebab DEF See 
+TERM kebab DEF 
 TERM Keck DEF heave retch effort vomit 
 TERM Keck DEF effort vomit queasiness 
-TERM Keckle DEF See i & 
+TERM Keckle DEF i & 
 TERM Keckle DEF wind old rope around cable preserve surface fretted wind iron chains around defend friction rocky bottom ice 
-TERM Keckling DEF Old rope iron chains wound around cable See 
+TERM Keckling DEF Old rope iron chains wound around cable 
 TERM Kecklish DEF Inclined vomit squeamish 
 TERM Kecksy DEF hollow stalk umbelliferous plant cow parsnip hemlock 
 TERM Kecky DEF Resembling kecksy 
 TERM Keddah DEF inclosure constructed entrap wild elephants elephant trap 
 TERM Kedge DEF move (a vessel) carrying kedge boat dropping overboard hauling vessel it 
-TERM Kedge DEF small anchor used whenever large dispensed with See 
+TERM Kedge DEF small anchor used whenever large dispensed with 
 TERM Kedger DEF small anchor kedge 
-TERM Kedlock DEF See 
-TERM Kee DEF See 
+TERM Kedlock DEF 
+TERM Kee DEF 
 TERM Keech DEF mass lump fat rolled butcher 
 TERM Keel DEF cool skim stir 
 TERM Keel DEF brewer's cooling vat keelfat 
-TERM Keel DEF longitudinal timber series timbers scarfed together extending stem stern along bottom vessel principal timber vessel and means ribs attached side supports vessel's frame iron vessel combination plates supplies place keel wooden ship See Fig whole ship barge lighter used Tyne carrying coal Newcastle also barge load coal twenty-one tons cwt lowest petals corolla papilionaceous flower united inclosing stamens pistil carina See projecting ridge along middle flat curved surface dirigible construction similar form use ship's keel fin fixed surface employed increase stability hold machine course 
+TERM Keel DEF longitudinal timber series timbers scarfed together extending stem stern along bottom vessel principal timber vessel and means ribs attached side supports vessel's frame iron vessel combination plates supplies place keel wooden ship Fig whole ship barge lighter used Tyne carrying coal Newcastle also barge load coal twenty-one tons cwt lowest petals corolla papilionaceous flower united inclosing stamens pistil carina projecting ridge along middle flat curved surface dirigible construction similar form use ship's keel fin fixed surface employed increase stability hold machine course 
 TERM Keel DEF traverse keel navigate turn keel show bottom 
 TERM Keelage DEF right demanding duty toll ship entering port also duty toll 
 TERM Keeled DEF Keel-shaped longitudinal prominence back median ridge carinate 
@@ -200,12 +200,12 @@ TERM Keelfat DEF cooler vat cooling wort etc
 TERM Keelhaul DEF haul keel ship ropes attached yardarms side formerly practiced punishment Dutch English navies 
 TERM Keeling DEF cod 
 TERM Keelivine DEF pencil black red lead called also 
-TERM Keelman DEF See 1 
+TERM Keelman DEF 1 
 TERM keel over DEF drop faint dead die 
 TERM Keelrake DEF 
-TERM Keels DEF Ninepins See 
+TERM Keels DEF Ninepins 
 TERM Keelson DEF piece timber ship laid middle floor timbers keel binding floor timbers keel iron vessels structure plates situated like keelson timber ship 
-TERM Keelvat DEF See 
+TERM Keelvat DEF 
 TERM Keen DEF Sharp fine edge point razor razor Acute mind sharp penetrating expressing mental acuteness man understanding look Bitter piercing acrimonious cutting stinging severe satire Piercing penetrating cutting sharp applied cold wind etc wind cold Eager vehement fierce Wonderful delightful marvelous would 
 TERM Keen DEF sharpen make cold 
 TERM Keen DEF prolonged wail deceased person Cf 
@@ -215,37 +215,37 @@ TERM Keenly DEF keen manner
 TERM Keenness DEF quality state keen 
 TERM Keep DEF care desire hold restrain departure removal let go of retain one's power possession lose retain detain cause remain given situation condition maintain unchanged hold preserve state tenor custody place preservation take charge of preserve danger harm loss guard preserve discovery publicity communicate reveal betray secret attend upon care of tend record transactions accounts events in books journal also enter (as accounts records etc ) book maintain establishment institution like conduct manage supply necessaries life entertain one's service maintain assistant servant mistress horse etc habitually stock sale continue in course mode action intermit fall from hold to maintain silence one's word observe adhere to fulfill swerve violate practice perform duty neglect faithful to confine one's self to quit remain in one's house room bed hence haunt frequent observe duly festival etc celebrate solemnize 
 TERM Keep DEF remain position state continue abide stay distance aloft near house behind favor company last endure remain unimpaired reside time lodge dwell take care solicitous watch session school 
-TERM Keep DEF act office keeping custody guard care heed charge state kept hence resulting condition case good means provisions kept maintenance support keeps protects stronghold fortress castle specifically strongest securest part castle often used place residence lord castle especially siege dungeon See kept charge charge cap retaining anything journal box place 
+TERM Keep DEF act office keeping custody guard care heed charge state kept hence resulting condition case good means provisions kept maintenance support keeps protects stronghold fortress castle specifically strongest securest part castle often used place residence lord castle especially siege dungeon kept charge charge cap retaining anything journal box place 
 TERM Keeper DEF who which keeps who which holds possession anything retains custody care prison charge prisoners care custody superintendence anything park pound sheep gate etc attached remains keeps place position ring strap clamp device holding object place fruit keeps well Roxbury Russet good iron bar placed poles horseshoe magnet held place magnetic force preserve strength magnet use 
 TERM Keepership DEF office position keeper 
 TERM Keeping DEF holding restraint custody guard charge care preservation Maintenance support provision feed cattle good Conformity congruity harmony consistency subjects other levity seriousness Harmony correspondence different parts work art foreground painting 
 TERM Keepsake DEF Anything kept given kept sake giver token friendship 
-TERM Keesh DEF See 
+TERM Keesh DEF 
 TERM Keeve DEF vat tub mash made mash tub bleaching vat kier large vat used dressing ores 
 TERM Keeve DEF set keeve tub fermentation heave tilt cart 
-TERM Keever DEF See 
-TERM Keffe-kil DEF See 
+TERM Keever DEF 
+TERM Keffe-kil DEF 
 TERM Kefir DEF effervescent liquor like kumiss made fermented milk used food medicine northern Caucasus sour fermented milk drink used various regions Asia made addition cultures cow's goat's milk considered form yoghurt 
 TERM Kefir grains DEF Small hard yellowish aggregations found Caucasus region containing various yeasts bacteria used ferment preparing kefir 
 TERM Keg DEF small cask barrel 
 TERM Keilhauite DEF mineral brownish black color related titanite form consists chiefly silica titanium dioxide lime yttria 
-TERM Keir DEF See 
+TERM Keir DEF 
 TERM Keitloa DEF black two-horned African rhinoceros posterior horn long anterior even longer 
 TERM Keld DEF kell covering webbed 
 TERM Kele DEF cool 
 TERM Kell DEF kiln 
-TERM Kell DEF sort pottage kale See 2 
+TERM Kell DEF sort pottage kale 2 
 TERM Kell DEF caul covers envelops caul net fold film cocoon chrysalis insect 
 TERM Keloid DEF Applied variety tumor forming hard flat irregular excrescences upon skin keloid scar tissue 
 TERM Keloid DEF keloid tumor abnormally large scar tissue growing site cut surgical incision 
-TERM Kelotomy DEF See 
+TERM Kelotomy DEF 
 TERM Kelp DEF calcined ashes seaweed formerly much used manufacture glass used manufacture iodine large blackish seaweed 
 TERM Kelpfish DEF small California food fish living among kelp name also applied species genus 
 TERM Kelpy DEF 
 TERM Kelpie DEF imaginary spirit waters horselike form vulgarly believed warn preternatural noises lights drowned 
 TERM Kelpware DEF 2 
-TERM Kelson DEF See 
-TERM Kelt DEF See 
+TERM Kelson DEF 
+TERM Kelt DEF 
 TERM Kelt DEF Cloth nap generally native black wool 
 TERM Kelt DEF salmon spawning 
 TERM Kelt DEF Celtic race 
@@ -271,7 +271,7 @@ TERM Kennel DEF water course street little canal channel gutter also puddle
 TERM Kennel DEF house dog dogs pack hounds pack hounds collection dogs hole fox beast haunt 
 TERM Kennel DEF lie lodge dwell dog fox 
 TERM Kennel DEF put keep kennel 
-TERM Kennel coal DEF See 
+TERM Kennel coal DEF 
 TERM Kenning DEF Range sight limit vision sea distance twenty miles 
 TERM Keno DEF gambling game variety game lotto played balls knobs numbered cards also numbered 
 TERM Kenogenesis DEF Modified evolution nonprimitive characters make appearance consequence secondary adaptation embryo peculiar conditions environment distinguished 
@@ -288,17 +288,17 @@ TERM Kenyapithecus DEF genus extinct primates powerful chewing muscles along lar
 TERM kephalin DEF group phospholipids (nitrogenous phosphorized fatty substances) present living cells particularly noticeable nervous tissue see 
 TERM kepi DEF military cap close-fitting band round flat top sloping toward front visor originally worn French Algeria 1830 tall stiff straight visor lower curved visor frequently soft 
 TERM kept DEF & p 
-TERM Kepviselohaz DEF See 
+TERM Kepviselohaz DEF 
 TERM keramic DEF 
 TERM Keramics DEF 
 TERM Keramographic DEF Suitable written upon capable written upon slate said especially certain kind globe 
 TERM Kerana DEF kind long trumpet used among Persians 
-TERM Kerargyrite DEF See 
+TERM Kerargyrite DEF 
 TERM Kerasin DEF nitrogenous substance free phosphorus supposed present brain body closely related cerebrin 
 TERM Kerasine DEF Resembling horn horny corneous 
 TERM keratin DEF sulfur-containing fibrous protein constituting main structural protein hard epidermal tissues horn hair feathers nails claws hoofs like insoluble substance and unlike elastin dissolved even gastric pancreatic juice decomposition sulphuric acid yields leucine tyrosine plus various acid-stable amino acids amino acid composition varies usually high percentage cystine stabilizes insolubilizes protein forming intrachain linkages softer form keratin present epidermis whalebone Called also 
 TERM Keratitis DEF Inflammation cornea 
-TERM Keratode DEF See 
+TERM Keratode DEF 
 TERM Keratogenous DEF Producing horn membrane within horny hoof 
 TERM Keratoidea DEF 
 TERM Keratome DEF instrument dividing cornea operations cataract 
@@ -308,8 +308,8 @@ TERM Keratosa DEF order sponges skeleton composed hornlike fibers includes comme
 TERM Keratose DEF tough horny animal substance entering composition skeleton sponges invertebrates called also 
 TERM Keratose DEF Containing hornlike fibers fibers keratose belonging Keratosa 
 TERM Keraunograph DEF figure picture impressed lightning upon human body elsewhere 
-TERM Kerb DEF See 
-TERM Kerbstone DEF See 
+TERM Kerb DEF 
+TERM Kerbstone DEF 
 TERM Kercher DEF kerchief 
 TERM Kerchered DEF Covered bound round kercher 
 TERM Kerchief DEF square fine linen worn women covering head hence anything similar form material worn ornament parts person mostly used compounds later lady wears kerchief 
@@ -317,19 +317,19 @@ TERM Kerchieft DEF
 TERM Kerchiefed DEF Dressed hooded covered wearing kerchief 
 TERM Kerf DEF notch channel slit made material cutting sawing 
 TERM Kerite DEF compound tar asphaltum combined animal vegetable oils vulcanized sulphur product closely resembling rubber used principally insulating material telegraphy 
-TERM Kerl DEF See 
+TERM Kerl DEF 
 TERM Kermes DEF dried bodies females scale insect formerly allied cochineal insect found several species oak near Mediterranean also dye obtained them round size pea contain coloring matter analogous carmine used dyeing anciently thought vegetable nature used medicine small European evergreen oak kermes insect formerly feeds genus scale insects including many species feed oaks adult female resembles small gall 
-TERM Kermesse DEF See 
+TERM Kermesse DEF 
 TERM Kern DEF light-armed foot soldier ancient militia Ireland Scotland distinguished often used term contempt kind boor low-lived person idler vagabond 
 TERM Kern DEF part face type projects beyond body shank certain italic letters 
-TERM Kern DEF form kern See 2d 
+TERM Kern DEF form kern 2d 
 TERM Kern DEF churn 
-TERM Kern DEF hand mill See 
+TERM Kern DEF hand mill 
 TERM Kern DEF harden corn ripening take form kernels granulate 
 TERM Kern DEF Kernel corn grain last handful sheaf reaped harvest harvest-home 
 TERM Kern baby DEF doll image decorated corn (grain) flowers etc carried festivals kern harvest-home Called also 
 TERM Kerned DEF part face projecting beyond body shank said type 
-TERM Kernel DEF essential part seed within seed walls edible substance contained shell nut hence anything included shell husk integument See single seed grain small mass around matter concreted nucleus concretion hard lump flesh central substantial essential part anything gist core 
+TERM Kernel DEF essential part seed within seed walls edible substance contained shell nut hence anything included shell husk integument single seed grain small mass around matter concreted nucleus concretion hard lump flesh central substantial essential part anything gist core 
 TERM Kernel DEF harden ripen kernels produce kernels 
 TERM Kernelled DEF 
 TERM Kerneled DEF kernel 
@@ -340,12 +340,12 @@ TERM Kerosene DEF oil used illuminating purposes formerly obtained distillation 
 TERM Kerse DEF 
 TERM Kers DEF cress 
 TERM Kersey DEF kind coarse woolen cloth usually ribbed woven wool long staple 
-TERM Kerseymere DEF See 
-TERM Kerseynette DEF See 
+TERM Kerseymere DEF 
+TERM Kerseynette DEF 
 TERM Kerseys DEF Varieties kersey also trousers made kersey 
 TERM Kerve DEF carve 
 TERM Kerver DEF carver 
-TERM Kesar DEF See 
+TERM Kesar DEF 
 TERM Keslop DEF stomach calf prepared rennet 
 TERM Kess DEF kiss 
 TERM Kest DEF 
@@ -353,7 +353,7 @@ TERM Kestrel DEF small slender European hawk allied sparrow hawk color reddish f
 TERM Ket DEF Carrion filth 
 TERM Keta DEF small salmon inferior value autumn runs larger rivers San Francisco Kamchatka 
 TERM Ketch DEF almost obsolete form sailing vessel mainmast mizzenmast usually hundred hundred fifty tons burden modern usage sailing vessel masts main mast taller aftermost mizzen mast 
-TERM Ketch DEF hangman See 
+TERM Ketch DEF hangman 
 TERM Ketch DEF catch 
 TERM ketchup DEF pureed table sauce made predominantly tomatoes flavored onions sugar salt spices called also term also applied pureed sauces containing mushrooms walnuts etc called cases etc 
 TERM Ketine DEF series organic bases obtained reduction certain isonitroso compounds ketones general unstable oily substances pungent aromatic odor 
@@ -364,14 +364,14 @@ TERM Ketonic DEF Pertaining to derived from ketone
 TERM Kettle DEF metallic vessel wide mouth often without cover used heating boiling water liguids 
 TERM Kettledrum DEF drum made thin copper form hemispherical kettle parchment stretched mouth it informal social party light collation offered held afternoon early evening Cf 4 5 
 TERM Kettledrummer DEF plays kettledrum 
-TERM Keuper DEF upper division European Triassic See 
+TERM Keuper DEF upper division European Triassic 
 TERM Kevel DEF strong cleat large ropes belayed stone mason's hammer 
 TERM Kevin DEF 
 TERM Kevel DEF gazelle 
 TERM Kever DEF cover 
 TERM Keverchief DEF kerchief 
 TERM Kex DEF weed kecksy dry husk covering 
-TERM Key DEF instrument means bolt lock shot drawn usually removable metal instrument fitted mechanism particular lock operated turning place small device inserted mechanism turned like key fasten adjust wind it watch bed winding clock set small movable parts instrument machine which depressed serves means operating it complete set keys usually called piano organ accordion computer keyboard keys may operate parts instrument mechanical action piano closing electrical circuit computer keyboard See also senses 12 13 position condition affords entrance control pr possession etc line defense country political part mechanism serves lock up make fast adjust position piece wood used wedge keystone wedge unite pieces adjust relative position cotter forelock indehiscent one-seeded fruit furnished wing fruit ash maple samara called also family tones regular members called diatonic tones named key tone (or tonic) (or eight) mediant dominant subdominant submediant supertonic subtonic Chromatic tones temporary members key names sharp etc Scales tunes every variety made tones key Fig general pitch tone sentence utterance metallic lever circuit sending transmitting part station equipment may easily rapidly opened closed telegraph device closing opening electric circuit especially part used computer terminal teletype terminal simplified version analysis accompanies something clue explanation book table containing solutions problems ciphers allegories like word combination symbols serves index identifying pointing particular record file location retrieved displayed computer program database using multi-word word also called 
+TERM Key DEF instrument means bolt lock shot drawn usually removable metal instrument fitted mechanism particular lock operated turning place small device inserted mechanism turned like key fasten adjust wind it watch bed winding clock set small movable parts instrument machine which depressed serves means operating it complete set keys usually called piano organ accordion computer keyboard keys may operate parts instrument mechanical action piano closing electrical circuit computer keyboard also senses 12 13 position condition affords entrance control pr possession etc line defense country political part mechanism serves lock up make fast adjust position piece wood used wedge keystone wedge unite pieces adjust relative position cotter forelock indehiscent one-seeded fruit furnished wing fruit ash maple samara called also family tones regular members called diatonic tones named key tone (or tonic) (or eight) mediant dominant subdominant submediant supertonic subtonic Chromatic tones temporary members key names sharp etc Scales tunes every variety made tones key Fig general pitch tone sentence utterance metallic lever circuit sending transmitting part station equipment may easily rapidly opened closed telegraph device closing opening electric circuit especially part used computer terminal teletype terminal simplified version analysis accompanies something clue explanation book table containing solutions problems ciphers allegories like word combination symbols serves index identifying pointing particular record file location retrieved displayed computer program database using multi-word word also called 
 TERM Key DEF fasten secure firmly fasten tighten keys wedges enter (text data) using keys especially keyboard keyboard data adjust maximally effective particular situation actions plans speech one's campaign speech local furnish key keys 
 TERM key DEF Essential important fact inquiry president player inthe 
 TERM Keyage DEF Wharfage quayage 
@@ -381,19 +381,19 @@ TERM Keyed DEF Furnished keys also set key tune
 TERM Key fruit DEF samara 
 TERM Keyhole DEF hole apertupe door lock receiving key hole excavation beams intended joined together receive key fastens them 
 TERM keyless DEF lacking requiring key lock operated series Opposite 
-TERM Keynes DEF Maynard british economist (1883-1946) book General Theory Employment Interest (Macmillan 1936) strong influence views government's role economy 1970's See 
+TERM Keynes DEF Maynard british economist (1883-1946) book General Theory Employment Interest (Macmillan 1936) strong influence views government's role economy 1970's 
 TERM Keynesian DEF pertaining Maynard conforming theories Keynesianism especially term used refer macroeconomic theories politico-economic policies proposed followers especially regards advocacy governmental action maintain low unemployment government spending Keynes's book General Theory Employment Interest (Macmillan 1936) strong influence views government's role economy 1970's believer theories Keynesianism 
-TERM Keynesianism DEF macroeconomic theories politico-economic policies British economist Maynard (1883-1946) followers used especially reference advocacy governmental action maintain low unemployment government spending See 
+TERM Keynesianism DEF macroeconomic theories politico-economic policies British economist Maynard (1883-1946) followers used especially reference advocacy governmental action maintain low unemployment government spending 
 TERM Keynote DEF tonic first tone scale piece passage written fundamental tone chord modulations piece referred called also fundamental fact idea gives key policy 
-TERM Keyseat DEF form key seat cutting See 
-TERM Keystone DEF central topmost stone arch styles made different size voussoirs projects decorated carving See 
+TERM Keyseat DEF form key seat cutting 
+TERM Keystone DEF central topmost stone arch styles made different size voussoirs projects decorated carving 
 TERM Keystone State DEF Pennsylvania nickname alluding central 13 original United States time formation Constitution 
-TERM Key tone DEF See 
-TERM Keyway DEF See 
+TERM Key tone DEF 
+TERM Keyway DEF 
 TERM keyword DEF word used entry point index serves identify files records texts data containing keyword related word synonym type boolean combination effective information retrieval single 
 TERM Khaki DEF dull brownish yellow drab color applied cloth originally stout brownish cotton cloth used making uniforms Anglo-Indian army 
 TERM Khaki DEF kind khaki cloth hence uniform khaki or rarely soldier clad khaki United States British armies khaki cloth similar color almost exclusively used service field 
-TERM Khaliff DEF See 
+TERM Khaliff DEF 
 TERM Khalkha DEF 
 TERM Khalka DEF dialect Mongolian official language Mongolian People's Republic 
 TERM Khamsin DEF 
@@ -403,14 +403,14 @@ TERM Khanate DEF Dominion jurisdiction khan
 TERM Kharkov DEF city Ukraine former capital 
 TERM Khaya DEF lofty West African tree related mahogany resembles quality wood bark used febrifuge 
 TERM Khedive DEF governor viceroy title granted 1867 sultan Turkey ruler Egypt 
-TERM Khenna DEF See 
+TERM Khenna DEF 
 TERM Kholah DEF Indian jackal 
 TERM Kholsun DEF dhole 
 TERM Khond DEF Dravidian group tribes Orissa India section formerly noted cruel human sacrifices earth goddess murder female infants marriage capture 
 TERM Khutbah DEF address public prayer read steps pulpit Muslim mosques offering glory God praising Mohammed descendants ruling princes 
 TERM Ki DEF Sumerian goddess personifying earth counterpart Akkadian 
 TERM kiaat DEF deciduous South African tree large odd-pinnate leaves profuse fragrant orange-yellow flowers yields red juice heavy strong durable wood 
-TERM Kiabooca wood DEF See 
+TERM Kiabooca wood DEF 
 TERM Kiang DEF 
 TERM Kibble DEF bruise grind coarsely 
 TERM Kibble DEF large iron bucket used Cornwall Wales raising ore mines 
@@ -420,13 +420,13 @@ TERM kibbutznik DEF member kibbutz
 TERM Kibe DEF chap crack flesh occasioned cold ulcerated chilblain 
 TERM Kibed DEF Chapped cracked cold affected chilblains 
 TERM Kibitka DEF tent used Kirghiz Tartars rude kind Russian vehicle wheels runners sometimes covered cloth leather often used movable habitation 
-TERM Kiblah DEF See 
+TERM Kiblah DEF 
 TERM Kibosh DEF Nonsense stuff also fashion style Portland cement thrown blown recesses carved stonework intensify shadows 
 TERM Kiby DEF Affected kibes 
-TERM Kichil DEF See 
+TERM Kichil DEF 
 TERM Kick DEF strike thrust hit violently foot horse groom man evict remove place position usually staff restaurant landlord apartment making much score (goals points) kicking field goals discontinue usually used habitual activities habit drug 
 TERM Kick DEF thrust foot feet violence strike foot feet defense bad temper esp strike backward horse does habit so recoil said musket cannon etc also called make kick offensive play complain strenuously object vigorously resist 
-TERM Kick DEF blow foot feet striking thrust foot projection tang blade pocket knife prevents edge blade striking spring See projection mold form depression surface brick recoil musket firearm discharged surge pleasure thrill usually used phrase kick always get watching ice skater quadruple 
+TERM Kick DEF blow foot feet striking thrust foot projection tang blade pocket knife prevents edge blade striking spring projection mold form depression surface brick recoil musket firearm discharged surge pleasure thrill usually used phrase kick always get watching ice skater quadruple 
 TERM Kickable DEF Capable deserving kicked 
 TERM Kickapoos DEF tribe Indians formerly occupied region Northern Illinois allied language Sacs Foxes 
 TERM kickback DEF recoil gun machine older automobile engines started turning crank secret usually illegal payment recipient money paid goods services facilitator transaction portion money 
@@ -437,7 +437,7 @@ TERM kicking DEF act delivering blow foot
 TERM kickoff DEF kick center field start football game resume score time event activity begins 
 TERM kick off DEF kick football center field start football game resume score 
 TERM kick off DEF begin commence rally playing national 
-TERM Kickshaw DEF See correct singular 
+TERM Kickshaw DEF correct singular 
 TERM Kickshaws DEF Something fantastical trifling trumpery thing toy fancy dish tidbit delicacy 
 TERM Kickshoe DEF kickshaws 
 TERM Kicky-wisky DEF 
@@ -451,7 +451,7 @@ TERM Kid DEF talk joking jesting manner Often used around jokingly tell false st
 TERM Kid DEF tell false story jest 
 TERM Kid DEF fagot bundle heath furze 
 TERM Kid DEF 
-TERM Kid DEF See 
+TERM Kid DEF 
 TERM Kidde DEF 
 TERM Kidderminster DEF kind ingrain carpeting named English town formerly manufactured 
 TERM Kiddier DEF huckster cadger 
@@ -476,7 +476,7 @@ TERM Kiefekil DEF species clay meerschaum
 TERM Kier DEF large tub vat goods subjected action hot lye bleaching liquor also called 
 TERM Kieselguhr DEF Siliceous earth diatomaceous earth specifically porous infusorial earth used absorbent nitroglycerin manufacture dynamite 
 TERM Kieserite DEF Hydrous sulphate magnesia found salt mines Stassfurt Prussian Saxony 
-TERM Kieve DEF See 
+TERM Kieve DEF 
 TERM Kiggelaria DEF small genus South African shrubs small trees 
 TERM Kike DEF gaze stare 
 TERM Kike DEF kick 
@@ -488,17 +488,17 @@ TERM kiley DEF Australian boomerang side flat convex
 TERM Kilkenny cats DEF cats fabled Irish story fought till nothing left tails probably parable local contest Kilkenny Irishtown impoverished towns 
 TERM Kill DEF kiln 
 TERM Kill DEF channel arm sea river stream channel Staten Island Bergen Neck van Kull used also composition 
-TERM Kill DEF deprive life animal vegetable manner means render inanimate put death slay destroy ruin one's chances sale cause cease quell calm still seamen's language shower rain wind new sound insultation loud noises destroy effect of counteract neutralize alkali waste spend unprofitably usually used time hour waiting doctor see cancel forbid publication (a report article etc) written article getting threats 
+TERM Kill DEF deprive life animal vegetable manner means render inanimate put death slay destroy ruin one's chances sale cause cease quell calm still seamen's language shower rain wind new sound insultation loud noises destroy effect of counteract neutralize alkali waste spend unprofitably usually used time hour waiting doctor cancel forbid publication (a report article etc) written article getting threats 
 TERM Kill DEF act killing animal killed hunt beast prey 
 TERM killable DEF fit kill especially food 
 TERM Killdeer DEF 
 TERM Killdee DEF small American plover formerly inland waters fields distinctive cry adult black bands around neck upper breast young chick breast band ranges Canada Mexico West Indies 
 TERM Killer DEF deprives life who which kills voracious toothed whale genus several species known called also 
-TERM Killer whale DEF see 
+TERM Killer whale DEF 
 TERM Killesse DEF gutter groove channel 
-TERM Killifish DEF several small American cyprinodont fishes genus allied genera live equally well fresh brackish water even sea usually striped barred black Called also See 
-TERM Killigrew DEF Cornish chough See 
-TERM Killikinick DEF See 
+TERM Killifish DEF several small American cyprinodont fishes genus allied genera live equally well fresh brackish water even sea usually striped barred black Called also 
+TERM Killigrew DEF Cornish chough 
+TERM Killikinick DEF 
 TERM Killing DEF Literally kills power kill fatal colloquial sense conquering captivating irresistible 
 TERM killing DEF act process causing living organism die unusually large gain financial business transaction enterprise made trading cattle 
 TERM Kill-joy DEF causes gloom grief dispiriting person spoilsport 
@@ -510,7 +510,7 @@ TERM Kilnhole DEF mouth opening oven kiln
 TERM Kilo DEF abbreviation 
 TERM Kilo- DEF combining form used signify forming names units measurement 
 TERM Kilogramme DEF 
-TERM Kilogram DEF measure mass weight thousand grams equal 22046226 pounds avoirdupois (1543234 grains) nearly equal mass cubic decimeter distilled water temperature maximum density Fahrenheit See 3rd 
+TERM Kilogram DEF measure mass weight thousand grams equal 22046226 pounds avoirdupois (1543234 grains) nearly equal mass cubic decimeter distilled water temperature maximum density Fahrenheit 3rd 
 TERM Kilogrammetre DEF 
 TERM Kilogrammeter DEF measure energy work done amount expended raising kilogram height meter latitude Paris 
 TERM Kilolitre DEF 
@@ -528,10 +528,10 @@ TERM Kilted DEF kilt Plaited manner kilting Tucked fastened up said petticoats e
 TERM kilter DEF Regular order proper condition common spelling U S Used chiefly phrase meaning order irregular manner 
 TERM Kilting DEF perpendicular arrangement flat single plaits plait folded cover half breadth preceding 
 TERM Kimbo DEF Crooked arched bent 
-TERM Kimmerian DEF See 
-TERM Kimnel DEF tub See 
+TERM Kimmerian DEF 
+TERM Kimnel DEF tub 
 TERM kimono DEF kind loose robe gown tied sash worn traditional outer garment Japanese women men Women may wear broad sash called large bow back present (1998) Japanese wear home ceremonial occasions western-style clothing common workplace similar gown worn dressing gown women Western nations 
-TERM Kimry DEF See 
+TERM Kimry DEF 
 TERM -kin DEF diminutive suffix 
 TERM Kin DEF primitive Chinese instrument cittern kind twenty-five silken strings 
 TERM Kin DEF Relationship consanguinity affinity connection birth marriage kindred near connection alliance common descent Relatives persons family race 
@@ -544,7 +544,7 @@ TERM kinaesthesia DEF perception attendant upon movements muscles sensation acco
 TERM Kinesthetic DEF 
 TERM Kinaesthetic DEF Of pertaining to involving kinaesthesia 
 TERM kinase DEF class enzymes catalyze transfer phosphate group ATP another molecule type 
-TERM Kinate DEF See 
+TERM Kinate DEF 
 TERM Kinchinjunga DEF 
 TERM Kincob DEF India silk brocaded flowers silver gold 
 TERM Kind DEF Characteristic species belonging one's nature natural native feelings befitting common nature congenial sympathetic man Showing tenderness goodness disposed good confer happiness averse hurting paining benevolent benignant gracious Proceeding from characterized by goodness gentleness benevolence Gentle tractable easily governed horse 
@@ -570,17 +570,17 @@ TERM Kine DEF Cows
 TERM Kinematical DEF 
 TERM Kinematic DEF pertaining kinematics 
 TERM Kinematics DEF science treats motions considered themselves apart causes comparison relation motions 
-TERM Kinepox DEF See See 
+TERM Kinepox DEF 
 TERM Kinesiatrics DEF mode treating disease appropriate muscular movements also termed 
-TERM Kinesipathy DEF See 
-TERM Kinesitherapy DEF See 
+TERM Kinesipathy DEF 
+TERM Kinesitherapy DEF 
 TERM Kinesodic DEF Conveying motion applied esp spinal cord capable conveying doth voluntary reflex motor impulses without affected motor impulses applied directly 
 TERM kinetic DEF Moving causing motion motory active opposed latent 
 TERM kinesthetic DEF 
 TERM kinesthesis DEF 
-TERM kinesthesia DEF See 
+TERM kinesthesia DEF 
 TERM kinesthetics DEF ability feel movements limbs body 
-TERM kinetics DEF See 
+TERM kinetics DEF 
 TERM kinetogenesis DEF doctrine hypothesis animal structures produced directly indirectly animal movements 
 TERM kinetoscope DEF instrument producing curves combination circular movements called also 
 TERM kinetograph DEF camera making chronophotographs 
@@ -591,7 +591,7 @@ TERM King DEF Chinese musical instrument consisting resonant stones metal plates
 TERM King DEF chief ruler sovereign invested supreme authority nation country tribe usually hereditary succession monarch prince who which holds supreme position rank chief among competitors railroad money lobby playing card picture chief piece game chess crowned man game draughts title historical books Old Testament 
 TERM King DEF supply king make king of raise royalty 
 TERM  King, Martin Luther, jr. DEF 
-TERM Kingbird DEF small American bird noted courage attacking larger birds even hawks eagles especially approach nest breeding season typical tyrant flycatcher taking various insects upon wing dark ash above blackish bead tail quills wing coverts whitish edges white beneath white terminal band tail feathers head adults show bright orange basal spot erected Called also Several Southern Western species also called king birds king tody See 
+TERM Kingbird DEF small American bird noted courage attacking larger birds even hawks eagles especially approach nest breeding season typical tyrant flycatcher taking various insects upon wing dark ash above blackish bead tail quills wing coverts whitish edges white beneath white terminal band tail feathers head adults show bright orange basal spot erected Called also Several Southern Western species also called king birds king tody 
 TERM Kingbolt DEF vertical iron bolt forward axle wheels vehicle trucks railroad car connected parts 
 TERM King Charles spaniel DEF variety small pet dogs having drooping ears high dome-shaped forehead pug nose large prominent eyes long wavy hair color usually black tan 
 TERM Kingcraft DEF craft kings art governing sovereign royal policy 
@@ -614,11 +614,11 @@ TERM Kingship DEF state office dignity king royalty
 TERM king-sized DEF 
 TERM king-size DEF extra large pertaining king-size bed suitable king-size bed king-size 
 TERM Kingstone DEF 
-TERM Kingston DEF black angel fish See 
+TERM Kingston DEF black angel fish 
 TERM Kingston metal DEF alloy tin copper mercury sometimes used bearings packings machinery 
 TERM Kingston valve DEF conical valve opening outward close mouth pipe passes side vessel water line 
 TERM Kingtruss DEF truss framed king-post used roofs bridges etc 
-TERM Kinic DEF See 
+TERM Kinic DEF 
 TERM Kink DEF twist loop rope thread caused spontaneous doubling winding upon itself close loop curl doubling cord unreasonable notion crotchet whim caprice 
 TERM Kink DEF wind kink knot twist spontaneously upon itself rope thread 
 TERM Kink DEF fit coughing also convulsive fit laughter 
@@ -630,8 +630,8 @@ TERM Kinnikinic DEF Prepared leaves bark certain plants used Indians Northwest s
 TERM Kinit DEF unit force equal force which acting second give pound velocity foot per second proposed D English physicist 
 TERM Kino DEF dark red dried juice certain plants used variously tanning dyeing astringent medicine 
 TERM Kinology DEF branch physics treats laws motion moving bodies 
-TERM Kinone DEF See 
-TERM Kinoyl DEF See 
+TERM Kinone DEF 
+TERM Kinoyl DEF 
 TERM Kinrede DEF Kindred 
 TERM Kinsfolk DEF Relatives kindred kin kinfolk persons family closely related families 
 TERM Kinshasa DEF capital city Zaire formerly named 
@@ -639,7 +639,7 @@ TERM Kinship DEF Family relationship
 TERM Kinsman DEF man race family related blood 
 TERM Kinsmanship DEF Kinship 
 TERM Kinswoman DEF female relative 
-TERM Kintlidge DEF See 
+TERM Kintlidge DEF 
 TERM Kiosk DEF Turkish open summer house pavilion supported pillars light ornamental structure used news stand band stand etc small roofed structure typically located sidewalk sometimes parking lot open sides used vend merchandise newspapers beverages services key duplication film developing 
 TERM Kioways DEF tribe Indians distantly related Shoshones formerly inhabited region head waters North Platte 
 TERM Kip DEF hide young small beef creature leather made it kipskin 
@@ -697,17 +697,17 @@ TERM Kitchen middens DEF Relics neolithic man found coast Denmark consisting she
 TERM Kitchenry DEF body servants employed kitchen staff kitchen 
 TERM kitchenware DEF Implements use kitchen cooking pots pans ladles measuring cups etc 
 TERM Kite DEF raptorial bird subfamily many species known long wings adapted soaring usually forked tail Fig rapacious light frame wood material covered paper cloth flying air end string lofty sail carried wind light quadrilateral diagonals axis symmetry Fictitious commercial paper used raising money sustain credit check represents deposit bank bill exchange sanctioned sale goods accommodation check bill brill form drag towed water depth forty fathoms striking bottom upset rises surface called also 
-TERM Kite DEF raise money transactions See 
+TERM Kite DEF raise money transactions 
 TERM Kite DEF belly 
 TERM Kiteflier DEF 
 TERM Kiteflying DEF mode raising money sustaining one's credit use paper merely nominal called also 
 TERM Kith DEF Acquaintance kindred 
-TERM Kithara DEF See 
-TERM Kithe DEF See 
+TERM Kithara DEF 
+TERM Kithe DEF 
 TERM Kitish DEF Like relating kite 
 TERM Kitling DEF young kitten whelp 
 TERM Kitte DEF cut 
-TERM Kittel DEF See 
+TERM Kittel DEF 
 TERM Kitten DEF young cat 
 TERM Kitten DEF bring forth young cat bring forth kittens 
 TERM kittenish DEF Resembling kitten playful 
@@ -720,11 +720,11 @@ TERM Kittlish DEF Ticklish kittle
 TERM Kitty DEF kitten also pet name calling name cat percentage taken pool pay refreshments expenses table 
 TERM Kittysol DEF Chinese paper parasol 
 TERM Kiva DEF large chamber built under in houses Pueblo village used assembly room religious rites men's dormitory commonly lighted entered opening roof 
-TERM Kive DEF mash vat See 
+TERM Kive DEF mash vat 
 TERM Kiver DEF cover 
 TERM Kiwikiwi DEF 
-TERM Kivikivi DEF species esp called imitation notes commonly called See 
-TERM Kjoekken moeddings DEF See 
+TERM Kivikivi DEF species esp called imitation notes commonly called 
+TERM Kjoekken moeddings DEF 
 TERM Klamaths DEF collective name Indians several tribes formerly living along Klamath river California Oregon restricted reservation Klamath Lake called also 
 TERM Klansman DEF member Klux 
 TERM klatsch DEF 
@@ -737,29 +737,29 @@ TERM Kleeneboc DEF antelope found South Africa small size foot high shoulder rem
 TERM Kleenex DEF piece soft absorbent tissue paper (usually thin layers) used disposable handkerchief still current trademark often used generically 
 TERM Kleptomania DEF propensity steal claimed irresistible constitute legal irresponsibility 
 TERM Kleptomaniac DEF person affected kleptomania 
-TERM Klick DEF See 
+TERM Klick DEF 
 TERM Klicket DEF small postern gate palisade passage sallying parties 
-TERM Klinkstone DEF See 
-TERM Klinometer DEF See 
+TERM Klinkstone DEF 
+TERM Klinometer DEF 
 TERM Klipdachs DEF 
 TERM Klipdas DEF small mammal found South Africa size rabbit closely resembles daman Called also 
 TERM Klipfish DEF Dried cod exported Norway 
 TERM Klipspringer DEF small graceful South African antelope which like chamois springs crag another great agility called also 
 TERM Kloof DEF glen ravine closed upper end 
-TERM Klopemania DEF See 
-TERM Knab DEF seize teeth gnaw nab See 
+TERM Klopemania DEF 
+TERM Knab DEF seize teeth gnaw nab 
 TERM Knabble DEF bite nibble 
 TERM Knack DEF crack make sharp abrupt noise chink speak affectedly 
 TERM Knack DEF petty contrivance toy plaything knickknack readiness performance aptness specific task skill aptitude facility dexterity often used playing Something performed done requiring aptness dexterity trick device 
 TERM Knacker DEF makes knickknacks toys etc pieces bone wood held loosely fingers struck together moving hand called also 
 TERM Knacker DEF harness maker slaughters worn-out horses sells flesh dog's meat 
 TERM Knackish DEF Trickish artful 
-TERM Knack-kneed DEF See 
+TERM Knack-kneed DEF 
 TERM Knacky DEF knack cunning crafty trickish 
 TERM Knag DEF knot wood protuberance wooden peg hanging things on prong antler rugged top hill 
 TERM Knagged DEF Full knots knaggy 
 TERM Knaggy DEF Knotty rough figuratively rough temper 
-TERM Knap DEF protuberance swelling knob button hence rising ground summit See 
+TERM Knap DEF protuberance swelling knob button hence rising ground summit 
 TERM Knap DEF bite bite off break short strike smartly rap snap 
 TERM Knap DEF make sound snapping 
 TERM Knap DEF sharp blow slap 
@@ -769,9 +769,9 @@ TERM Knapple DEF break abrupt sharp noise bite nibble
 TERM Knappy DEF knaps full protuberances humps knobby 
 TERM Knapsack DEF case canvas leather nylon sturdy fabric fitted straps carrying back food clothing supplies soldier traveler hike mountain lunch 
 TERM Knapweed DEF black centaury called knoblike heads flowers Called also 
-TERM Knar DEF See 
-TERM Knarl DEF knot wood See 
-TERM Knarled DEF Knotted See 
+TERM Knar DEF 
+TERM Knarl DEF knot wood 
+TERM Knarled DEF Knotted 
 TERM Knarred DEF Knotty gnarled 
 TERM Knarry DEF Knotty gnarled 
 TERM Knave DEF boy especially boy servant male servant menial tricky deceitful fellow dishonest person rogue villain playing card marked figure servant soldier jack 
@@ -781,7 +781,7 @@ TERM Knavess DEF knavish woman
 TERM Knavish DEF Like characteristic knave{3} given knavery trickish fraudulent dishonest villainous fellow Mischievous roguish waggish rascally 
 TERM Knavishly DEF knavish manner dishonestly fraudulently Mischievously waggishly roguishly 
 TERM knavishness DEF quality state knavish knavery dishonesty 
-TERM Knaw DEF See 
+TERM Knaw DEF 
 TERM Knawel DEF low spreading weed common sandy soil 
 TERM Knead DEF work press mass usually hands esp work repeated pressure knuckles well mixed mass materials bread cake etc Fig treat form kneading beat press repeatedly hands knuckles sometimes twisting squeezing motion performed example body person form massage 
 TERM knead DEF perform movements like kneading paws said cats may knead{3} master's body stroked presumably sign contentment cat purring master's 
@@ -804,7 +804,7 @@ TERM Knee jerk DEF emotional predictable certain people reactions events
 TERM Knee jerk liberal DEF person strong liberal convictions reacts predictably emotionally certain events 
 TERM Knee jerk reaction DEF immediate unthinking emotional reaction produced event statement reacting person highly sensitive persons strong feelings topic may predictable 
 TERM Kneejoint DEF joint knee toggle joint called consisting pieces jointed end end making angle like knee bent 
-TERM Kneejointed DEF Geniculate kneed See 2 
+TERM Kneejointed DEF Geniculate kneed 2 
 TERM Kneel DEF bend knee fall rest knees sometimes 
 TERM Kneeler DEF kneels worships kneeling cushion stool kneel on attached pew church name given certain catechumens penitents permitted join parts church worship 
 TERM Kneelingly DEF kneeling position 
@@ -834,13 +834,13 @@ TERM Knife switch DEF switch consisting knifelike pieces hinged end making conta
 TERM Knight DEF young servant follower military attendant feudal times man-at-arms serving horseback admitted certain military rank special ceremonies including oath protect distressed maintain right live stainless life piece used game chess usually bearing horse's head playing card bearing figure knight knave jack 
 TERM Knight DEF dub create (one) knight done England sovereign only taps kneeling candidate sword saying Rise Sir --- 
 TERM Knightage DEF body knights taken collectively 
-TERM Knight bachelor DEF knight ancient lowest order English knights member order chivalry See 4 
+TERM Knight bachelor DEF knight ancient lowest order English knights member order chivalry 4 
 TERM Knight banneret DEF knight carried banner possessed fiefs greater amount knight bachelor obliged serve war greater number attendants dignity sometimes conferred sovereign person field battle 
-TERM Knight baronet DEF See 
+TERM Knight baronet DEF 
 TERM Knight-errant DEF wandering knight knight traveled search adventures purpose exhibiting military skill prowess generosity 
 TERM Knight-errantry DEF character actions wandering knights practice wandering quest adventures chivalry quixotic romantic adventure scheme 
 TERM Knight-er-ratic DEF Pertaining knight-errant knight-errantry 
-TERM Knighthead DEF bollard timber See 
+TERM Knighthead DEF bollard timber 
 TERM Knighthood DEF character dignity condition knight knights class hence chivalry whole body knights 
 TERM Knightless DEF Unbecoming knight 
 TERM Knightliness DEF character bearing suitable knight chivalry 
@@ -848,9 +848,9 @@ TERM Knightly DEF pertaining knight becoming knight chivalrous combat
 TERM Knightly DEF manner becoming knight 
 TERM Knight marshal DEF officer household British sovereign cognizance transgressions within royal household verge contracts made there member household parties 
 TERM Knight's service DEF 
-TERM Knight service DEF military service rendering knight held lands tenure lands held knights condition performing military service See 4 Service knight render hence good valuable service 
+TERM Knight service DEF military service rendering knight held lands tenure lands held knights condition performing military service 4 Service knight render hence good valuable service 
 TERM Knight's fee DEF fee knight specif amount land holding imposed obligation knight service sometimes less sometimes hides 
-TERM Knight Templar DEF See 3 also 1 3 
+TERM Knight Templar DEF 3 also 1 3 
 TERM knish DEF fried sometimes baked turnover made round square sheet dough containing filling usually meat potatoes 
 TERM Knit DEF form knot knots tie together cord fasten tying form textile fabric interlacing yarn thread series connected loops means needles either hand machinery join cause grow together unite closely connect engage hearts together draw together contract wrinkles 
 TERM Knit DEF form fabric interlacing yarn thread weave making knots loops united closely grow together broken bones time become 
@@ -862,17 +862,17 @@ TERM Knits DEF Small particles ore
 TERM Knitster DEF woman knits 
 TERM Knitter DEF who which knits joins unites knitting machine 
 TERM Knitting DEF work knitter network formed knitting knitwork Union formed knitting bones 
-TERM Knittle DEF string draws together purse bag See 
+TERM Knittle DEF string draws together purse bag 
 TERM knitwear DEF knitted clothing 
 TERM knitwork DEF network yarn created interlacing threads yarn series connected loops using straight eyeless needles machine knitting 
-TERM Knives DEF See 
-TERM Knob DEF hard protuberance hard swelling rising bunch lump flesh knoblike ornament handle lock door rounded hill mountain Pilot See 
+TERM Knives DEF 
+TERM Knob DEF hard protuberance hard swelling rising bunch lump flesh knoblike ornament handle lock door rounded hill mountain Pilot 
 TERM Knob DEF grow knobs bunches become knobbed 
-TERM Knobbed DEF Containing knobs full knobs ending nob See 
-TERM Knobber DEF See 
+TERM Knobbed DEF Containing knobs full knobs ending nob 
+TERM Knobber DEF 
 TERM Knobbing DEF Rough dressing knocking knobs projections 
 TERM Knobbler DEF hart second year young deer 
-TERM Knobbling fire DEF bloomery fire See 
+TERM Knobbling fire DEF bloomery fire 
 TERM Knobby DEF Full of covered with knobs hard protuberances Irregular stubborn particulars Abounding rounded hills mountains hilly 
 TERM knobkerry DEF 
 TERM knobkerrie DEF short wooden club knobbed end used missile weapon Kafir native tribes South Africa 
@@ -914,9 +914,9 @@ TERM Knop DEF knob bud bunch button boldly projecting sculptured ornament esp or
 TERM Knopped DEF knops knobs fastened buttons 
 TERM Knoppern DEF kind gall produced gallfly cup acorn used tanning dyeing 
 TERM Knopweed DEF 
-TERM Knor DEF See 
+TERM Knor DEF 
 TERM Knosp DEF 2 
-TERM Knot DEF fastening together parts ends threads cords ropes etc various ways tying entangling bond union connection tie Something easily solved intricacy difficulty perplexity problem figure lines interlaced intricately interwoven embroidery gardening etc cluster persons things collection group hand clique portion branch tree forms mass woody fiber running angle grain main stock making hard place timber loose knot generally remains dead branch tree covered later woody growth knob lump swelling protuberance protuberant joint plant point action story depends gist matter See division log line serving measure rate vessel's motion knot line bears proportion mile thirty seconds hour number knots run reel half minute therefore shows number miles vessel sails hour kind epaulet See sandpiper found northern parts continents summer grayish ashy above rump upper tail coverts white barred dusky lower parts pale brown flanks tail coverts white fat prized epicures Called also 
+TERM Knot DEF fastening together parts ends threads cords ropes etc various ways tying entangling bond union connection tie Something easily solved intricacy difficulty perplexity problem figure lines interlaced intricately interwoven embroidery gardening etc cluster persons things collection group hand clique portion branch tree forms mass woody fiber running angle grain main stock making hard place timber loose knot generally remains dead branch tree covered later woody growth knob lump swelling protuberance protuberant joint plant point action story depends gist matter division log line serving measure rate vessel's motion knot line bears proportion mile thirty seconds hour number knots run reel half minute therefore shows number miles vessel sails hour kind epaulet sandpiper found northern parts continents summer grayish ashy above rump upper tail coverts white barred dusky lower parts pale brown flanks tail coverts white fat prized epicures Called also 
 TERM Knot DEF tie with form into knot knots form knot on rope entangle unite closely knit together entangle perplex puzzle 
 TERM Knot DEF form knots joints cord plant etc become entangled knit knots fringe trimming copulate said toads 
 TERM Knotberry DEF cloudberry called knotted stems 
@@ -925,7 +925,7 @@ TERM Knotless DEF Free knots without knots
 TERM Knotted DEF Full knots knots knurled cord Interwoven matted entangled intersecting lines figures Characterized small detached points chiefly composed mica less decomposable mass rock forming knots relief weathered surface Entangled puzzling knotty 
 TERM Knottiness DEF quality state knotty full knots Difficulty solution intricacy complication 
 TERM Knotty DEF Full knots knotted many knots timber Hard rugged Difficult intricate perplexed 
-TERM Knotweed DEF See 
+TERM Knotweed DEF 
 TERM Knotwort DEF small herbaceous trailing plant genus 
 TERM Knout DEF kind whip flogging criminals formerly much used Russia lash tapering bundle leather thongs twisted wire hardened mangles flesh 
 TERM Knout DEF punish knout 
@@ -943,7 +943,7 @@ TERM Knowing DEF Knowledge hence experience
 TERM Knowingly DEF knowledge knowing manner intelligently consciously deliberately would experience 
 TERM Knowingness DEF state quality knowing intelligent shrewdness skillfulness 
 TERM Know-it-all DEF knows everything 
-TERM Knowleche DEF See 
+TERM Knowleche DEF 
 TERM Knowleching DEF Knowledge 
 TERM Knowledge DEF act state knowing clear perception fact truth duty certain apprehension familiar cognizance cognition may known object act knowing cognition chiefly used plural gained preserved knowing instruction acquaintance enlightenment learning scholarship erudition familiarity gained actual experience practical skill Scope information cognizance notice come Sexual intercourse usually preceded 
 TERM Knowledge DEF acknowledge 
@@ -977,7 +977,7 @@ TERM Koaita DEF
 TERM Koala DEF tailless furry marsupial found Australia female carries young back neck Called also lives almost life trees moves sluggishly like sloth eats eucalyptus leaves almost exclusively 
 TERM Koba DEF 
 TERM Kob DEF several species African antelopes genus esp species 
-TERM Kobalt DEF See 
+TERM Kobalt DEF 
 TERM Kobellite DEF blackish gray mineral sulphide antimony bismuth lead 
 TERM Kobold DEF kind domestic spirit German mythology corresponding Scottish brownie English 
 TERM KO'd DEF rendered unconscious usually blow 
@@ -1011,17 +1011,17 @@ TERM Kolkwitzia DEF Chinese genus species beauty bush
 TERM Komenic DEF pertaining to designating acid derived meconic acid 
 TERM komondor DEF Hungarian breed large powerful shaggy-coated white dog used also guard dog 
 TERM Komtok DEF African freshwater fish belonging Dipnoi breathe air means lungs waters dry up encases nest hard mud remains till rainy season used food 
-TERM Kon DEF know See 
+TERM Kon DEF know 
 TERM konini DEF erect deciduous shrub tree native New Zealand growing 10 feet maroon-flushed flowers 
-TERM Konite DEF See 
+TERM Konite DEF 
 TERM Konseal DEF form capsule inclosing dose medicine offensive caustic like 
 TERM Konze DEF large African antelope allied hartbeest shorter flatter horns lacking black patch face 
 TERM Koodoo DEF large South African antelope males graceful spiral horns sometimes feet long general color reddish grayish brown white bands side pale dorsal stripe old males become dark bluish gray due skin showing hair females hornless Called also 
 TERM Kookoom DEF oryx gemsbok 
 TERM Koolokamba DEF west African anthropoid ape allied chimpanzee gorilla and respects intermediate them 
-TERM Koolslaa DEF See 
-TERM Koord DEF See 
-TERM Koordish DEF See 
+TERM Koolslaa DEF 
+TERM Koord DEF 
+TERM Koordish DEF 
 TERM Koorilian DEF 
 TERM Kop DEF Hill mountain 
 TERM kopeck DEF small Russian coin continued unit currency within Soviet Union hundred kopecks make ruble ruble worth sixty cents (U S) 1910 1991 two-kopeck coin could used local telephone call pay telephone breakup Soviet Union 1993 exchange value ruble declined rapidly end 1994 ruble worth hundredths cent 1997 hundredths cent 1993 kopek become small value obsolete longer minted 
@@ -1038,7 +1038,7 @@ TERM kos DEF Indian unit length different values different localities
 TERM Kosher DEF Ceremonially clean according Jewish law applied food esp meat animals slaughtered according requirements Jewish law Opposed food officially must certified fit eat Rabbi according Jewish ritual law Proper seemly appropriate legitimate it's Genuine 
 TERM Kosher DEF Kosher food also kosher shop practise adherence Jewish ritual law used mostly phrase 
 TERM Kosher DEF prepare conformity requirements Jewish law meat 
-TERM Kosmos DEF See 
+TERM Kosmos DEF 
 TERM Kosteletzya DEF small genus herbs Southeastern U S tropical America Africa 
 TERM Kotow DEF common spellings 
 TERM Kotow DEF perform kotow usually spelled defer another servile humiliating manner act obsequiously 
@@ -1053,54 +1053,54 @@ TERM Kra DEF long-tailed ape India Sumatra reddish olive spotted black black tai
 TERM Kraal DEF collection huts within stockade village sometimes single hut inclosure driven wild elephants tamed educated 
 TERM Krait DEF venomous snake India allied cobra upper parts bluish brownish black often narrow white streaks belly whitish 
 TERM Kraken DEF fabulous Scandinavian sea monster often represented resembling island sometimes resembling immense octopus 
-TERM Krakowiak DEF lively Polish dance See 
+TERM Krakowiak DEF lively Polish dance 
 TERM Krameria DEF genus spreading shrubs many stems species found rhatany root used medicine obtained 
 TERM Krameric DEF Pertaining to derived from (rhatany) acid usually called 
 TERM Krang DEF carcass whale blubber removed 
 TERM Kranging hook DEF hook holding blubber cutting away 
-TERM Kreatic DEF See 
-TERM Kreatin DEF See 
-TERM Kreatinin DEF See 
-TERM Kreel DEF See 
+TERM Kreatic DEF 
+TERM Kreatin DEF 
+TERM Kreatinin DEF 
+TERM Kreel DEF 
 TERM Kremlin DEF citadel town city especially citadel Moscow large inclosure contains imperial palaces cathedrals churches arsenal etc government Russia (or 1920-1992 Soviet Union) 
-TERM Krems DEF variety white lead See 
-TERM Kreng DEF See 
-TERM Kreosote DEF See Creosote 
+TERM Krems DEF variety white lead 
+TERM Kreng DEF 
+TERM Kreosote DEF Creosote 
 TERM Kreutzer DEF small copper coin formerly used South Germany also small Austrian copper coin 
 TERM Kriegsspiel DEF game war played practice maps 
-TERM Kris DEF Malay dagger See 
+TERM Kris DEF Malay dagger 
 TERM Krishna DEF popular Hindu divinities usually held eighth incarnation god Vishnu 
 TERM Kritarchy DEF rule judges Israel 
-TERM Krokidolite DEF See 
-TERM Krone DEF coin Denmark Norway Sweden value twenty-eight cents (in 1913) See 9 
+TERM Krokidolite DEF 
+TERM Krone DEF coin Denmark Norway Sweden value twenty-eight cents (in 1913) 9 
 TERM Krooman DEF negro tribe Liberia adjacent coast members much employed shipboard 
-TERM Kruller DEF See 
+TERM Kruller DEF 
 TERM Krumhorn DEF 
 TERM Krummhorn DEF reed instrument music cornet kind obsolete (see 1 
 TERM Krupp gun DEF breech-loading steel cannon manufactured works Friedrich Essen Prussia Guns eight-inch bore made several concentric cylinders smaller size forged solid 
 TERM Kruppize DEF treat by subject to Krupp process 
 TERM Krupp process DEF process practiced Essen Germany washing pig iron differing Bell process using manganese well iron oxide performed Pernot furnace Called also 
-TERM Kryolite DEF See 
+TERM Kryolite DEF 
 TERM Krypton DEF inert gaseous element argon group atomic number 36 occurring air extent volume million discovered 1898 Boiling point C melting point C symbol atomic weight 838 
-TERM Ksar DEF See 
+TERM Ksar DEF 
 TERM Kshatruya DEF 
-TERM Kshatriya DEF military caste second great Hindu castes also member caste See 
-TERM Kuda DEF East Indian tapir See 
+TERM Kshatriya DEF military caste second great Hindu castes also member caste 
+TERM Kuda DEF East Indian tapir 
 TERM Kudos DEF Glory fame renown praise 
 TERM Kudos DEF praise extol glorify 
-TERM Kudu DEF See 
-TERM Kufic DEF See 
-TERM Kukang DEF slow lemur See 
+TERM Kudu DEF 
+TERM Kufic DEF 
+TERM Kukang DEF slow lemur 
 TERM Ku Klux Klan DEF 
 TERM Ku Klux DEF 
 TERM Kuklux DEF name adopted southern part United States secret political organization active several years close Civil War aim repression political power freed negroes called also exerienced revival 1920's north well south persists weak organization 1990's goals primarily anti-negro anti-Catholic tactics included terrorist attacks negroes purpose intimidation goal continuing segregation signature activity Klan burning cross either rallies Klansmen property African-Americans hoped intimidate 
-TERM Kulan DEF See 
+TERM Kulan DEF 
 TERM Kulturkampf DEF Lit culture war name originating (1821 - 1902) given struggle Roman Catholic Church German government chiefly latter's efforts control educational ecclesiastical appointments interest political policy centralization struggle began passage Prussian Diet May 1873 so-called aiming regulation clergy Opposition eventually compelled government change policy 1880 1887 laws virtually nullifying May laws enacted 
 TERM Kumiss DEF 
-TERM Kumish DEF See 
+TERM Kumish DEF 
 TERM Kummel DEF Russian German liqueur consisting sweetened spirit flavored caraway seeds 
 TERM kumquat DEF several trees shrubs genus (formerly rue family (especially growing bearing small orange-colored edible fruits thick sweet-flavored skin sour pulp also small acid orange-colored citrus fruits plants used mostly preserves 
-TERM Kupfernickel DEF Copper-nickel niccolite See 
+TERM Kupfernickel DEF Copper-nickel niccolite 
 TERM kurakkan DEF East Indian cereal grass seed yield somewhat bitter flour staple Orient 
 TERM kurchatovium DEF transuranic element atomic number 104 symbol also called symbol produced small quantities nuclear reactions November 1993 nomenclature committe American Chemical Society approved name element 104 Russsian investigators claim first discovered element 104 isotope 260 (half-life 03 seconds) 1964 Dubna proposed name However investigators Berkely 1969 produced several isotopes element 104 unable produce isotope 260 reported finding isotope 257 half-life 4-5 seconds isotope 259 half-life 3-4 seconds isotope 258 shorter half-life 
 TERM kurchi DEF 
@@ -1109,14 +1109,14 @@ TERM Kurd DEF member people inhabit mountainous region Western Asia sometimes re
 TERM Kurdish DEF pertaining Kurds Kurdish language Kurdistan 
 TERM Kurdish DEF language Kurds related Farsi modern Iranian language 
 TERM Kurilian DEF pertaining Kurile Islands chain islands Pacific ocean extending southern extremity Kamchatka Yesso 
-TERM Kuro-Siwo DEF See above 
+TERM Kuro-Siwo DEF above 
 TERM Kursaal DEF public hall room use visitors watering places health resorts Germany 
 TERM Kusimanse DEF carnivorous animal tropical Africa allied civets Called also 
-TERM Kuskus DEF See 
+TERM Kuskus DEF 
 TERM Kussier DEF Turkish instrument music hollow body covered skin strings stretched 
 TERM Kutauss DEF India civet 
 TERM Kutch DEF packet vellum leaves gold first beaten thin sheets 
-TERM Kutch DEF See 
+TERM Kutch DEF 
 TERM kvass DEF thin sour beer made pouring warm water rye barley meal letting ferment much used Russians 
 TERM Kwajalein DEF battle World War II (January 1944) American forces landed captured Japanese airbase 
 TERM Kwan-yin DEF 
@@ -1127,11 +1127,11 @@ TERM kwela DEF kind danceable music popular among black South Africans includes 
 TERM Ky DEF Kine 
 TERM Kyaboca wood DEF Amboyna wood 
 TERM Kyack DEF pack sack swung either side packsaddle 
-TERM Kyanite DEF See 
+TERM Kyanite DEF 
 TERM Kyanize DEF render (wood) proof decay saturating solution corrosive sublimate open tanks pressure 
 TERM Kyanol DEF Aniline 
 TERM Kyanophyll DEF 
-TERM Kyar DEF Cocoanut fiber cordage made it See 
+TERM Kyar DEF Cocoanut fiber cordage made it 
 TERM Kyaw DEF daw 
 TERM Kyd DEF 
 TERM Kydde DEF show 
@@ -1139,21 +1139,21 @@ TERM Kyke DEF look steadfastly gaze
 TERM kylie DEF 
 TERM Kyley DEF Australian boomerang side flat convex 
 TERM Kyloes DEF cattle Hebrides Highlands 
-TERM Kymnel DEF See 
+TERM Kymnel DEF 
 TERM Kymograph DEF instrument measuring recording graphically pressure blood blood vessels living animal called also 
 TERM Kymographic DEF pertaining kymograph 
-TERM Kymric DEF See & 
-TERM Kymry DEF See 
+TERM Kymric DEF & 
+TERM Kymry DEF 
 TERM Kynrede DEF Kindred 
 TERM Kynurenic DEF Pertaining to designating acid obtained urine dogs decomposition acid yields nitrogenous base (called carbonic acid 
-TERM Kyrie DEF See 
+TERM Kyrie DEF 
 TERM Kyrie eleison DEF Greek words meaning mercy upon used Mass breviary offices litany saints etc name given response Commandments service Church England Protestant Episcopal Church 
 TERM Kyrielle DEF litany beginning words 
 TERM Kyriology DEF 
 TERM Kyriolexy DEF use literal simple expressions distinguished use figurative obscure ones 
-TERM Kyriological DEF Serving denote objects conventional signs alphabetical characters original Greek alphabet sixteen letters called represented pure elementary See 
+TERM Kyriological DEF Serving denote objects conventional signs alphabetical characters original Greek alphabet sixteen letters called represented pure elementary 
 TERM Kithe DEF 
 TERM Kythe DEF make known manifest show declare 
 TERM Kythe DEF come view appear 
-TERM Kytomiton DEF See 
-TERM Kytoplasma DEF See 
+TERM Kytomiton DEF 
+TERM Kytoplasma DEF 

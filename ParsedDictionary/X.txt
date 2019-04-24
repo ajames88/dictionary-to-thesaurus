@@ -1,8 +1,8 @@
 
-TERM X DEF X twenty-fourth letter English alphabet sounds compound nonvocal sound (that compound vocal sound (that and beginning word simple vocal sound (that See 217 270 271 
+TERM X DEF X twenty-fourth letter English alphabet sounds compound nonvocal sound (that compound vocal sound (that and beginning word simple vocal sound (that 217 270 271 
 TERM Xanthamide DEF amido derivative xanthic acid obtained white crystalline substance called also 
 TERM Xanthate DEF salt xanthic xanthogenate 
-TERM Xanthelasma DEF See 
+TERM Xanthelasma DEF 
 TERM Xanthian DEF pertaining ancient town Asia Minor applied especially certain marbles found near place British Museum 
 TERM Xanthic DEF Tending toward yellow color colors green excepted yellow constituent scarlet orange etc Possessing imparting producing yellow color 
 TERM Xanthide DEF compound derivative xanthogen 
@@ -21,11 +21,11 @@ TERM Xanthochroism DEF Abnormal coloration feathers yellow replaces normal color
 TERM Xanthodontous DEF yellow teeth 
 TERM Xanthogen DEF hypothetical radical supposed characteristic xanthic acid 
 TERM Xanthogenate DEF salt xanthic acid 
-TERM Xanthogenic DEF Producing yellow color compound xanthic See 
+TERM Xanthogenic DEF Producing yellow color compound xanthic 
 TERM Xanthoma DEF skin disease marked development irregular yellowish patches upon skin especially upon eyelids called also 
 TERM Xanthomatous DEF pertaining xanthoma 
 TERM Xanthomelanous DEF pertaining lighter division Melanochroi races olive yellow complexion black hair 
-TERM Xanthophane DEF yellow pigment present inner segments retina animals See 
+TERM Xanthophane DEF yellow pigment present inner segments retina animals 
 TERM Xanthophyll DEF yellow coloring matter found yellow autumn leaves also produced artificially chlorophyll formerly called also 
 TERM Xanthopous DEF yellow stipe stem 
 TERM Xanthoproteic DEF Pertaining to derived from xanthoprotein showing characters xanthoprotein acid reaction 
@@ -33,7 +33,7 @@ TERM Xanthoprotein DEF yellow acid substance formed action hot nitric acid album
 TERM Xanthopuccine DEF alkaloids found root yellow puccoon yellow crystalline substance resembles berberine 
 TERM Xanthorhamnin DEF glucoside extracted Persian berries yellow crystalline powder used dyestuff 
 TERM Xanthorhiza DEF genus shrubby ranunculaceous plants North America including species roots deep yellow color yellowroot bark intensely bitter sometimes used tonic 
-TERM Xanthorhoea DEF genus endogenous plants native Australia thick sometimes arborescent stem long grasslike leaves See 
+TERM Xanthorhoea DEF genus endogenous plants native Australia thick sometimes arborescent stem long grasslike leaves 
 TERM Xanthose DEF orange-yellow substance found pigment spots certain crabs 
 TERM Xanthosis DEF yellow discoloration often observed cancerous tumors 
 TERM Xanthospermous DEF yellow seeds 
@@ -62,7 +62,7 @@ TERM Xenurine DEF cabassou
 TERM Xenyl DEF radical characteristic xenylic compounds 
 TERM Xenylic DEF Pertaining to derived from designating certain amido compounds obtained reducing certain nitro derivatives diphenyl 
 TERM Xeraphim DEF old money account Bombay equal fifths rupee 
-TERM Xeres DEF Sherry See 
+TERM Xeres DEF Sherry 
 TERM Xerif DEF shereef 
 TERM Xeriff DEF gold coin formerly current Egypt Turkey value 9s 6d $230 (ca 1900) also Morocco ducat 
 TERM Xeroderma DEF Ichthyosis 
@@ -91,11 +91,11 @@ TERM Xiphodon DEF extinct genus artiodactylous mammals found European Tertiary f
 TERM Xiphoid DEF Like sword ensiform 
 TERM Xiphoidian DEF Xiphoid 
 TERM Xiphophyllous DEF sword-shaped leaves 
-TERM Xiphosura DEF See 
+TERM Xiphosura DEF 
 TERM Xiphura DEF Called also 
 TERM xl DEF Roman number symbolizing value 
 TERM Xmas DEF Christmas abbreviation Christian holiday celebrating birth Christ quarter day England Wales Ireland 
-TERM XP DEF first letters Greek word Christ abbreviation used letters separate or oftener monogram often inclosed circle symbol emblem Christ use emblem introduced Constantine Great whence known See 
+TERM XP DEF first letters Greek word Christ abbreviation used letters separate or oftener monogram often inclosed circle symbol emblem Christ use emblem introduced Constantine Great whence known 
 TERM x-rated DEF rating X suitable children broadly obscene sexually explicit 
 TERM X-ray DEF 
 TERM X ray DEF Originally rays produced cathode rays strike upon surface solid (as copper target wall vacuum tube) defined electromagnetic radiation wavelength 01 10 nanometers X-rays noted penetration many opaque substances wood flesh action photographic plates fluorescent effects called discoverer K also referred time term become common designation also ionize gases cannot reflected polarized deflected magnetic field used examining objects opaque visible light imaging bones structures inside human body detecting flaws metal objects welds 
@@ -139,7 +139,7 @@ TERM Xylitone DEF yellow oil geraniumlike odor produced side product making phor
 TERM Xylo- DEF combining form Gr wood 
 TERM Xylobalsamum DEF dried twigs Syrian tree 
 TERM Xylocarpous DEF Bearing fruit becomes hard woody 
-TERM Xylocopa DEF genus hymenopterous insects including carpenter See 
+TERM Xylocopa DEF genus hymenopterous insects including carpenter 
 TERM Xylogen DEF Nascent wood wood cells forming state 
 TERM Xylograph DEF engraving wood impression engraving print xylography 
 TERM Xylographer DEF practices xylography 
@@ -150,7 +150,7 @@ TERM Xyloid DEF Resembling wood nature wood
 TERM Xyloidin DEF substance resembling pyroxylin obtained action nitric acid starch called also 
 TERM Xylol DEF 
 TERM Xylology DEF branch dendrology treating gross minute structure wood 
-TERM Xylonite DEF See 
+TERM Xylonite DEF 
 TERM Xylophaga DEF genus marine bivalves bore holes wood allied Pholas 
 TERM Xylophagan DEF tribe beetles larvae bore live wood 
 TERM Xylophagides DEF tribe family dipterous flies larvae live decayed wood tropical species large 
@@ -159,7 +159,7 @@ TERM Xylophilan DEF tribe beetles larvae live decayed wood
 TERM Xylophilous DEF pertaining xylophilans 
 TERM Xylophone DEF Originally instrument common among Russians Poles Tartars consisting series strips wood glass graduated length musical scale resting belts straw struck small hammers similar musical instrument composed series bars graduated length Called Germany instrument determine vibrative properties different kinds wood 
 TERM Xyloplastic DEF Formed wood pulp molds relating casts made wood pulp molds 
-TERM Xylopyrography DEF art practice burning pictures wood hot iron called also See 
+TERM Xylopyrography DEF art practice burning pictures wood hot iron called also 
 TERM Xyloquinone DEF group quinone compounds obtained respectively oxidation certain xylidine compounds general yellow crystalline substances 
 TERM Xylorcin DEF derivative xylene obtained white crystalline substance exposure air becomes red called also 
 TERM Xylose DEF unfermentable sugar pentose class formed hydrolysis xylan wood sugar 

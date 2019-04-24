@@ -6,7 +6,7 @@ This project is coded in version python2.7.10.
 
 The following command can be entered into the terminal to run this program:
 
-  "./run <letter of the alphabet whose thesaurus to be compared>"
+  "./run <uppercase letter of the alphabet whose thesaurus to be compared>"
 
   Example: "./run A"
 
@@ -14,7 +14,7 @@ The following command can be entered into the terminal to run this program:
   took my machine over 12 hours to complete
 
 The purpose of this project is to create a thesaurus using the GNU dictionary
-through pairing words with similar significant words in their definitions.
+using the cosine similarities of vectors of td-idf values to find synonyms.
 This thesaurus will then be checked for accuracy against the thesaurus parsed
 from the Moby Thesaurus.
 

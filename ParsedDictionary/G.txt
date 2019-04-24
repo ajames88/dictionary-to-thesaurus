@@ -1,5 +1,5 @@
 
-TERM G DEF G seventh letter English alphabet vocal consonant sounds simple compound (like See 231-6 155 176 178 179 196 211 246 G name fifth tone natural model scale called also Italians French also originally used treble clef gradually changed character represented margin See (G sharp) tone intermediate G A 
+TERM G DEF G seventh letter English alphabet vocal consonant sounds simple compound (like 231-6 155 176 178 179 196 211 246 G name fifth tone natural model scale called also Italians French also originally used treble clef gradually changed character represented margin (G sharp) tone intermediate G A 
 TERM Gab DEF hook end eccentric rod opposite strap See 
 TERM Gab DEF mouth hence idle prate chatter unmeaning talk loquaciousness 
 TERM Gab DEF deceive lie talk idly prate chatter 
@@ -15,14 +15,14 @@ TERM Gabel DEF rent service tribute custom tax impost duty excise
 TERM Gabeler DEF collector gabels taxes 
 TERM Gabelle DEF tax especially salt 
 TERM Gabelleman DEF gabeler 
-TERM Gaberdine DEF See 
+TERM Gaberdine DEF 
 TERM Gaber-lunzie DEF beggar wallet licensed beggar 
 TERM Gabert DEF lighter vessel inland navigation 
 TERM Gabion DEF hollow cylinder wickerwork like basket without bottom Gabions made various sizes filled earth building fieldworks shelter men enemy's fire openwork frame poles filled stones sunk assist forming bar dyke etc harbor improvement 
 TERM Gabionade DEF traverse made gabions guns flanks protecting enfilading fire structure gabions sunk lines core sand bar harbor improvements 
 TERM Gabionage DEF part fortification built gabions 
 TERM Gabioned DEF Furnished gabions 
-TERM Gabionnade DEF See 
+TERM Gabionnade DEF 
 TERM Gable DEF cable 
 TERM Gable DEF vertical triangular portion end building level cornice eaves ridge roof Also similar end triangular shape gambrel roof like 
 TERM gabled DEF furnished constructed gable house roof Opposite 
@@ -46,7 +46,7 @@ TERM Gadfly DEF dipterous insect genus allied genera botflies
 TERM Gadhelic DEF Of belonging to designating division Celtic languages includes Irish Gaelic Manx 
 TERM Gadic DEF Pertaining to derived from cod applied acid obtained cod-liver oil viz acid 
 TERM Gaditanian DEF relating Cadiz Spain 
-TERM Gadling DEF See 4 
+TERM Gadling DEF 4 
 TERM Gadling DEF Gadding about 
 TERM Gadling DEF roving vagabond 
 TERM Gadman DEF gadsman 
@@ -70,16 +70,16 @@ TERM Gaffer DEF old fellow aged rustic foreman overseer gang laborers
 TERM Gaffle DEF artificial spur gaff gamecocks lever bend crossbows 
 TERM Gaff-topsail DEF small triangular sail foot extended upon gaff luff upon topmast 
 TERM Gag DEF stop mouth of thrusting sometimes in hinder speaking hence silence authority violence allow freedom speech to pry hold open means gag cause heave nausea 
-TERM Gag DEF heave nausea retch introduce gags interpolations See 3 
+TERM Gag DEF heave nausea retch introduce gags interpolations 3 
 TERM Gag DEF Something thrust mouth throat hinder speaking mouthful makes retch choking bit mutton speech phrase interpolated offhand actor stage part written usually consisting seasonable local allusion 
 TERM gaga DEF mentally physically infirm age marked foolish unreasoning fondness 
 TERM Gagate DEF Agate 
 TERM Gage DEF pledge pawn something laid given security performance act person depositing it forfeited nonperformance security glove cap like cast ground challenge combat taken accepter challenge challenge defiance 
-TERM Gage DEF variety plum also blue frost golden etc less likeness greengage See 
+TERM Gage DEF variety plum also blue frost golden etc less likeness greengage 
 TERM Gage DEF give deposit pledge security act wage wager pawn pledge bind pledge security engage 
-TERM Gage DEF measure standard See 
-TERM Gage DEF measure See 
-TERM Gager DEF measurer See 
+TERM Gage DEF measure standard 
+TERM Gage DEF measure 
+TERM Gager DEF measurer 
 TERM Gagger DEF gags piece iron imbedded sand mold keep sand place 
 TERM Gaggle DEF make noise like goose cackle 
 TERM Gaggle DEF flock wild geese especially ground gathering people especially noisy clustered group related objects 
@@ -93,7 +93,7 @@ TERM gaiety DEF
 TERM Gailer DEF jailer 
 TERM Gaillard DEF Gay brisk merry galliard 
 TERM Gailliarde DEF lively French Italian dance 
-TERM Gaily DEF Merrily showily See 
+TERM Gaily DEF Merrily showily 
 TERM Gain DEF square beveled notch cut girder binding joist timber supports floor beam receive end floor beam 
 TERM Gain DEF Convenient suitable direct near handy dexterous easy profitable cheap respectable 
 TERM Gain DEF gained obtained acquired increase profit advantage benefit opposed obtaining amassing profit valuable possessions acquisition accumulation 
@@ -114,7 +114,7 @@ TERM Gainsome DEF Gainful Prepossessing well-favored
 TERM 'gainst DEF contraction 
 TERM Gainstand DEF withstand resist 
 TERM Gainstrive DEF strive struggle against withstand 
-TERM Gairfowl DEF See 
+TERM Gairfowl DEF 
 TERM Gairish/ness DEF 
 TERM Gairishly DEF 
 TERM Gairish DEF 
@@ -135,7 +135,7 @@ TERM Galactophagous DEF Feeding milk
 TERM Galactophorous DEF Milk-carrying lactiferous applied ducts mammary glands 
 TERM Galactopoietic DEF Increasing flow milk milk-producing 
 TERM Galactose DEF white crystalline sugar isomeric dextrose obtained decomposition milk sugar also certain gums oxidized forms mucic acid Called also (though lactose proper) 
-TERM Galage DEF See 
+TERM Galage DEF 
 TERM Galago DEF genus African lemurs including numerous species 
 TERM Galangal DEF 
 TERM Galanga DEF pungent aromatic rhizome tuber certain East Indian Chinese species Ginger family 
@@ -155,7 +155,7 @@ TERM Gale DEF sing
 TERM Gale DEF plant genus growing wet places strongly resembling bayberry sweet gale found Europe America 
 TERM Gale DEF payment rent annuity 
 TERM Galea DEF upper lip helmet-shaped part labiate flower kind bandage head Headache extending head genus fossil echini vaulted helmet-shaped shell anterior outer process second joint maxillae certain insects 
-TERM Galeas DEF See 
+TERM Galeas DEF 
 TERM Galeated DEF 
 TERM Galeate DEF Wearing helmet protected helmet covered helmet Helmeted helmetlike part crest flower etc helmet-shaped 
 TERM Galei DEF division elasmobranch fishes includes sharks 
@@ -167,22 +167,22 @@ TERM Galenic DEF Relating principles method treating diseases
 TERM Galenism DEF doctrines Galen 
 TERM Galenist DEF follower Galen 
 TERM Galenite DEF Galena lead ore 
-TERM Galeopithecus DEF genus flying Insectivora formerly called See 
+TERM Galeopithecus DEF genus flying Insectivora formerly called 
 TERM galere DEF 
 TERM galere DEF group people common characteristic especially coterie undesirable people 
 TERM Galericulate DEF Covered hat cap 
 TERM Galerite DEF cretaceous fossil sea urchin genus 
 TERM Galician DEF pertaining Galicia Spain Galicia kingdom Austrian Poland 
-TERM Galilean DEF pertaining Galileo See 
+TERM Galilean DEF pertaining Galileo 
 TERM Galilean DEF relating Galilee 
 TERM Galilean DEF native inhabitant Galilee northern province Palestine Romans party among Jews opposed payment tribute Romans called also Christian general used term reproach Muslims Pagans 
-TERM Galilee DEF porch waiting room usually west end abbey church monks collected returning processions bodies laid previous interment women allowed see monks related hear divine service Also frequently applied porch church Ely Durham cathedrals 
+TERM Galilee DEF porch waiting room usually west end abbey church monks collected returning processions bodies laid previous interment women allowed monks related hear divine service Also frequently applied porch church Ely Durham cathedrals 
 TERM Galimatias DEF Nonsense gibberish confused unmeaning talk confused mixture 
 TERM Galingale DEF plant Sedge family aromatic roots also plant genus 
 TERM Galiot DEF small galley formerly used Mediterranean built mainly speed moved sails oars mast sixteen twenty seats rowers 
 TERM Galipot DEF impure resin turpentine hardened outside pine trees spontaneous evaporation essential oil purified called 
 TERM Gall DEF bitter alkaline viscid fluid found gall bladder beneath liver consists secretion liver bile mixed mucous membrane gall bladder gall bladder Anything extremely bitter bitterness rancor Impudence brazen assurance 
-TERM Gall DEF excrescence form produced part plant insects larvae commonly caused small Hymenoptera Diptera puncture bark lay eggs wounds larvae live within galls galls due aphids mites etc See 
+TERM Gall DEF excrescence form produced part plant insects larvae commonly caused small Hymenoptera Diptera puncture bark lay eggs wounds larvae live within galls galls due aphids mites etc 
 TERM Gall DEF impregnate decoction gallnuts 
 TERM Gall DEF fret wear away friction hurt break skin rubbing chafe injure surface attrition saddle back horse mast fret vex injure harass annoy troops shot 
 TERM Gall DEF scoff jeer 
@@ -197,18 +197,18 @@ TERM Gallantness DEF quality gallant
 TERM Gallantry DEF Splendor appearance ostentatious finery Bravery intrepidity troops behaved great Civility polite attention ladies bad sense attention courtesy designed win criminal favors female freedom principle practice respect female virtue intrigue Gallant persons collectively 
 TERM Gallate DEF salt gallic acid 
 TERM Gallature DEF tread treadle chalasa egg 
-TERM Galleass DEF large galley features galleon broadside guns esp vessel used southern nations Europe 16th 17th centuries See 
+TERM Galleass DEF large galley features galleon broadside guns esp vessel used southern nations Europe 16th 17th centuries 
 TERM Gallego DEF 
 TERM Gallegan DEF native inhabitant Galicia Spain Galician 
 TERM Gallein DEF red crystalline dyestuff obtained heating together pyrogallic phthalic acids 
 TERM Galleon DEF sailing vessel 15th following centuries often decks used war commerce term often rather indiscriminately applied large sailing vessel 
-TERM Galleot DEF See 
+TERM Galleot DEF 
 TERM Gallery DEF long narrow corridor place walking connecting passageway room another also long hole passage excavated boring burrowing animal room exhibition works art picture hence also large important collection paintings sculptures etc long narrow platform attached sides public hall interior church supported brackets columns sometimes intended occupied musicians spectators sometimes designed merely increase capacity hall frame like balcony projecting stern quarter ship hence called seldom found vessels built since 1850 communication covered overhead well sides prepared defense working drift level 
 TERM Galletyle DEF little tile glazed earthenware 
 TERM Galley DEF vessel propelled oars whether masts sails cookroom kitchen cooking apparatus vessel sometimes merchant vessels called oblong oven muffle battery retorts gallery furnace oblong tray wood brass upright sides holding type set made up etc 
 TERM Galley-bird DEF European green woodpecker called also also spotted woodpecker 
-TERM Galley-worm DEF chilognath myriapod genus allied genera numerous short legs along sides milliped See 
-TERM Gallfly DEF insect deposits eggs plants occasions galls esp small hymenopteran genus allied genera See 
+TERM Galley-worm DEF chilognath myriapod genus allied genera numerous short legs along sides milliped 
+TERM Gallfly DEF insect deposits eggs plants occasions galls esp small hymenopteran genus allied genera 
 TERM Galliambic DEF Consisting iambic dimeters catalectic last lacks final syllable said kind verse 
 TERM Gallian DEF Gallic French 
 TERM Galliard DEF Gay brisk active 
@@ -228,7 +228,7 @@ TERM Gallicize DEF conform French mode idiom
 TERM Gallied DEF Worried flurried frightened 
 TERM Galliform DEF Like Gallinae (or structure 
 TERM Galligaskins DEF Loose hose breeches leather leg quards word used loosely often jocose sense 
-TERM Gallimatia DEF Senseless talk See 
+TERM Gallimatia DEF Senseless talk 
 TERM Gallimaufry DEF hash various kinds meats ragout absurd medley hotchpotch 
 TERM Gallin DEF substance obtained reduction gallein 
 TERM Gallinaceae DEF 
@@ -239,7 +239,7 @@ TERM Gallinago DEF genus birds consisting certain snipes
 TERM Galling DEF Fitted gall chafe vexing harassing irritating 
 TERM Gallinipper DEF large mosquito 
 TERM Gallinule DEF several wading birds long webless toes frontal shield belonging family remarkable running rapidly marshes floating plants purple gallinule America Old World common European gallinule also called erroneously Closely related Florida gallinule 
-TERM Galliot DEF See 
+TERM Galliot DEF 
 TERM Gallipoli oil DEF inferior kind olive oil brought Gallipoli Italy 
 TERM Gallipot DEF glazed earthen pot vessel used druggists apothecaries containing medicines etc 
 TERM Gallium DEF rare metallic element found combined certain zinc ores white hard malleable resembling aluminium remarkable low melting point F C) Symbol at wt 699 Gallium chiefly trivalent resembling aluminium indium predicted properties name Russian chemist Mendelyeev basis periodic law prediction verified discovery (in 1875) French chemist Lecoq de Boisbaudran characteristic spectrum (two violet lines) examination zinc blende Pyrenees 
@@ -247,7 +247,7 @@ TERM Gallivant DEF play beau wait upon ladies also roam pleasure without definit
 TERM Gallivat DEF small armed vessel sails oars used Malabar coast 
 TERM Galliwasp DEF West Indian lizard foot long imagined natives venomous 
 TERM Gallize DEF wine making add water sugar (unfermented grape juice) increase quantity wine produced 
-TERM Gallnut DEF round gall produced leaves shoots various species oak tree See 
+TERM Gallnut DEF round gall produced leaves shoots various species oak tree 
 TERM gall-of-the-earth DEF common perennial herb widely distributed southern eastern U S drooping clusters pinkish flowers thick basal leaves suggesting lion's foot shape sometimes placed genus 
 TERM Gallomania DEF excessive admiration French 
 TERM Gallon DEF measure capacity containing quarts used part liquid measure sometimes dry measure 
@@ -262,16 +262,16 @@ TERM Galloper DEF who which gallops carriage small guns formerly mounted gun res
 TERM Gallopin DEF servant kitchen scullion cook's errand boy 
 TERM Galloping DEF Going gallop progressing rapidly 
 TERM Gallotannic DEF Pertaining tannin nutgalls 
-TERM Gallow DEF fright terrify See 
+TERM Gallow DEF fright terrify 
 TERM Galloway DEF small horse breed raised Scotland called also 
 TERM Gallowglass DEF heavy-armed foot soldier Ireland Western Isles time Edward 
 TERM Gallows DEF frame suspended rope criminals executed hanging usually consisting upright posts crossbeam top also like frame suspending anything wretch deserves gallows rest tympan raised pair suspenders braces 
 TERM gallowstree DEF 
-TERM Gallstone DEF concretion calculus formed gall bladder biliary passages See 1 
+TERM Gallstone DEF concretion calculus formed gall bladder biliary passages 1 
 TERM Gally DEF frighten worry 
 TERM Gally DEF Like gall bitter gall 
-TERM Gally DEF See 4 
-TERM Gallygaskins DEF See 
+TERM Gally DEF 4 
+TERM Gallygaskins DEF 
 TERM Galoshe DEF 
 TERM Galoche DEF clog patten overshoe worn wet weather especially waterproof rubber overshoe extending ankle worn one's regular shoes usually written used mostly plural it's raining put gaiter legging covering upper part shoe part leg 
 TERM Galoot DEF noisy swaggering worthless fellow rowdy 
@@ -286,7 +286,7 @@ TERM Galvanic DEF pertaining to exhibiting phenomena of galvanism employing prod
 TERM Galvanism DEF Electricity excited mutual action certain liquids metals dynamical electricity 
 TERM Galvanist DEF versed galvanism 
 TERM Galvanization DEF act process galvanizing 
-TERM Galvanize DEF affect galvanism subject action electrical currents plate gold silver etc means electricity restore consciousness galvanic action (as state suspended animation) hence stimulate excite factitious animation activity coat iron zinc See 
+TERM Galvanize DEF affect galvanism subject action electrical currents plate gold silver etc means electricity restore consciousness galvanic action (as state suspended animation) hence stimulate excite factitious animation activity coat iron zinc 
 TERM Galvanizer DEF who which galvanize 
 TERM Galvanocaustic DEF Relating use galvanic heat caustic especially medicine 
 TERM Galvanocautery DEF Cautery effected knife needle heated passage galvanic current 
@@ -318,10 +318,10 @@ TERM Gamba DEF viola da gamba
 TERM Gambadoes DEF 
 TERM Gambeer DEF gaff mackerel 
 TERM Gambeson DEF 
-TERM Gambet DEF bird genuis See 
+TERM Gambet DEF bird genuis 
 TERM Gambier DEF inspissated juice plant growing Malacca powerful astringent and name used chewing Areca nut exported tanning dyeing 
 TERM Gambison DEF defensive garment formerly use body made cloth stuffed quilted 
-TERM Gambist DEF performer upon di See 
+TERM Gambist DEF performer upon di 
 TERM Gambit DEF mode opening game pawn sacrificed gain attacking position 
 TERM Gamble DEF play game money stake 
 TERM Gamble DEF lose squander gaming usually 
@@ -370,7 +370,7 @@ TERM Gamin DEF neglected untrained city boy young street Arab
 TERM gaminess DEF behavior language bordering indelicacy 
 TERM gaming DEF act practice playing games stakes wagers gambling 
 TERM gamma DEF third letter = Eng Greek alphabet 
-TERM Gammadion DEF cross formed capital gammas formerly used mysterious ornament ecclesiastical vestments etc See 
+TERM Gammadion DEF cross formed capital gammas formerly used mysterious ornament ecclesiastical vestments etc 
 TERM Gamma ray DEF penetrating electromagnetic ray appreciably deflected magnetic electric field emitted radioactive substances photons electromagnetic radiation wavelength shorter X-rays (i e shorter 01 nanometer) correspondingly penetrating X-rays addition given certain types radioactive decay may found cosmic radiation though largely absorbed earth's atmosphere Gamma-ray detectors orbited atmosphere found bursts gamma radiation cases associated visually observed supernova explosions cases unidentified sources 
 TERM Gammer DEF old wife old woman correlative old man 
 TERM Gammon DEF buttock thigh hog salted smoked dried lower end flitch 
@@ -408,7 +408,7 @@ TERM Gange DEF protect (the part line next fishhook hook itself) winding wire at
 TERM Ganger DEF oversees gang workmen 
 TERM Gangetic DEF Pertaining to inhabiting Ganges River 
 TERM Gang-flower DEF common English milkwort called blossoming week 
-TERM Gangion DEF short line attached trawl See 
+TERM Gangion DEF short line attached trawl 
 TERM Ganglial DEF 
 TERM Gangliac DEF Relating ganglion ganglionic 
 TERM Gangliated DEF 
@@ -440,10 +440,10 @@ TERM Ganoidian DEF Ganoid
 TERM Ganoine DEF peculiar bony tissue beneath enamel ganoid scale 
 TERM Gansa DEF 
 TERM Gantlet DEF military punishment formerly use wherein offender made run files men facing another struck passed 
-TERM Gantlet DEF glove See 
+TERM Gantlet DEF glove 
 TERM Gantline DEF line rigged mast used hoisting rigging girtline 
-TERM Gantlope DEF See 
-TERM Gantry DEF See 
+TERM Gantlope DEF 
+TERM Gantry DEF 
 TERM Ganza DEF kind wild goose flock virtuoso fabled carried lunar world 
 TERM Ganz system DEF haulage system canal boats electric locomotive running monorail adhesion materially increased pull tow rope series inclined gripping wheels 
 TERM Gaol DEF place confinement especially minor offenses provisional imprisonment jail 
@@ -454,14 +454,14 @@ TERM Gap DEF opening anything made breaking parting opening passage entrance ope
 TERM Gap DEF notch sword knife make opening in breach 
 TERM Gape DEF open mouth wide Showing unselfconsciousness surprise astonishment expectation etc Manifesting desire injure devour overcome open part widely exhibit gap fissure hiatus long wait eagerly cry aloud something 
 TERM Gape DEF act gaping yawn width mouth opened birds fishes etc 
-TERM Gaper DEF gapes European fish See 4th 
-TERM gapes DEF See 
+TERM Gaper DEF gapes European fish 4th 
+TERM gapes DEF 
 TERM Gapeseed DEF strange sight person looks stares gapingly 
 TERM Gapesing DEF Act gazing about sightseeing 
-TERM Gapeworm DEF parasitic worm causes birds See Appendix 
+TERM Gapeworm DEF parasitic worm causes birds Appendix 
 TERM Gapingstock DEF object open-mouthed wonder 
 TERM Gap-toothed DEF conspicuous interstices teeth 
-TERM Gar DEF slender marine fish genera See 
+TERM Gar DEF slender marine fish genera 
 TERM Gar DEF cause make 
 TERM Garage DEF enclosed structure housing parking motor vehicles especially automobiles shed housing airship flying machine hangar side way space canal enable vessels pass other siding commercial establishment repairs services automobiles 
 TERM Garage DEF keep garage 
@@ -484,9 +484,9 @@ TERM Garboil DEF Tumult disturbance disorder
 TERM Garcinia DEF genus plants including mangosteen tree found islands Indian Archipelago called honor Dr 
 TERM Garcon DEF boy young unmarried man serving boy man waiter used direct address please bring glass Eng chiefly applied French waiters 
 TERM Gard DEF Garden 
-TERM Gard DEF See 
+TERM Gard DEF 
 TERM Gardant DEF Turning head towards spectator body said lion beast 
-TERM Garde civique DEF See above 
+TERM Garde civique DEF above 
 TERM Garden DEF piece ground appropriated cultivation herbs fruits flowers vegetables rich well-cultivated spot tract country 
 TERM Garden DEF lay cultivate garden labor garden practice horticulture 
 TERM Garden DEF cultivate garden 
@@ -499,22 +499,22 @@ TERM Gardenship DEF Horticulture
 TERM Gardon DEF European cyprinoid fish id 
 TERM Gardyloo DEF old cry throwing water slops etc windows Edingburgh 
 TERM Gare DEF Coarse wool legs sheep 
-TERM Garefowl DEF great auk also razorbill See 
+TERM Garefowl DEF great auk also razorbill 
 TERM Garfish DEF European marine fish called also 
 TERM Gargalize DEF gargle rinse 
 TERM Garganey DEF small European duck called also 
 TERM Gargantuan DEF Characteristic Gargantua gigantic wonderful personage enormous prodigious inordinate 
 TERM Gargarism DEF gargle 
 TERM Gargarize DEF gargle rinse wash mouth throat 
-TERM Garget DEF throat diseased condition udders cows etc arising inflammation mammary glands distemper hogs indicated staggering loss appetite See 
+TERM Garget DEF throat diseased condition udders cows etc arising inflammation mammary glands distemper hogs indicated staggering loss appetite 
 TERM Gargil DEF distemper geese affecting head 
-TERM Gargle DEF See 
+TERM Gargle DEF 
 TERM Gargle DEF wash rinse mouth throat particular latter agitating liquid (water medicinal preparation) expulsion air lungs warble sing gargling 
 TERM Gargle DEF liquid water medicated preparation used cleanse mouth throat especially medical effect 
 TERM Gargol DEF distemper swine garget 
 TERM Gargoulette DEF water cooler jug handle spout gurglet 
 TERM Gargoyle DEF spout projecting roof gutter building often carved grotesquely 
-TERM Gargyle DEF See 
+TERM Gargyle DEF 
 TERM Garibaldi DEF jacket worn women called resemblance shape red shirt worn Italians patriot California market fish deep scarlet color 
 TERM Garish DEF Showy dazzling ostentatious attracting exciting attention Gay extravagance flighty 
 TERM garishness DEF tasteless showiness strident color excessive ornamentation 
@@ -532,18 +532,18 @@ TERM Garnet DEF mineral many varieties differing color constituents crystallizat
 TERM Garnet DEF tackle hoisting cargo out 
 TERM Garnetiferous DEF Containing garnets 
 TERM Garnierite DEF amorphous mineral apple-green color hydrous silicate nickel magnesia important ore nickel 
-TERM Garnish DEF decorate ornamental appendages set off adorn embellish ornament dish something laid it dish furnish supply fit fetters warn garnishment give notice to garnishee See 
-TERM Garnish DEF Something added embellishment decoration ornament also dress garments especially showy decorated Something set round upon dish embellishment See 2 Fetters fee specifically English jails formerly unauthorized fee demanded old prisoners newcomer 
+TERM Garnish DEF decorate ornamental appendages set off adorn embellish ornament dish something laid it dish furnish supply fit fetters warn garnishment give notice to garnishee 
+TERM Garnish DEF Something added embellishment decoration ornament also dress garments especially showy decorated Something set round upon dish embellishment 2 Fetters fee specifically English jails formerly unauthorized fee demanded old prisoners newcomer 
 TERM Garnishee DEF garnished person upon garnishment served suit creditor debtor person holding property belonging debtor owing money 
 TERM Garnishee DEF make (a person) garnishee warn garnishment garnish 
 TERM Garnisher DEF who which garnishes 
-TERM Garnishment DEF Ornament embellishment decoration Warning legal notice appear give information court matter fee See 4 
+TERM Garnishment DEF Ornament embellishment decoration Warning legal notice appear give information court matter fee 4 
 TERM Garniture DEF garnishes ornamental appendage embellishment furniture dress 
 TERM Garookuh DEF small fishing vessel met Persian Gulf 
 TERM Garous DEF Pertaining to resembling garum 
 TERM Garpike DEF 
-TERM Gar pike DEF See 
-TERM Garran DEF See 
+TERM Gar pike DEF 
+TERM Garran DEF 
 TERM Garret DEF turret watchtower part house upper floor immediately within roof attic 
 TERM Garreted DEF Protected turrets 
 TERM Garreteer DEF lives garret poor author literary hack 
@@ -560,7 +560,7 @@ TERM Garrulinae DEF subfamily crow family including jays
 TERM garrulity DEF Talkativeness loquacity 
 TERM Garrulous DEF Talking much especially commonplace trivial things talkative loquacious loud harsh note noisy said birds 
 TERM Garrulus DEF type genus Garrulinae conmprising Old World jays 
-TERM Garrupa DEF several species California market fishes genus called also See 
+TERM Garrupa DEF several species California market fishes genus called also 
 TERM Garter DEF band used prevent stocking slipping leg distinguishing badge highest order knighthood Great Britain called instituted Edward III also Order itself 
 TERM Garter DEF bind garter invest Order Garter 
 TERM Garter stitch DEF simplest stitch knitting 
@@ -575,7 +575,7 @@ TERM Gasalier DEF chandelier arranged burn gas
 TERM gasbag DEF person talks great deal uninteresting topics bag containing gas balloon 
 TERM Gas-burner DEF jet piece gas fixture gas burned escapes minute orifices 
 TERM Gascogne DEF region southwestern France Gascony 
-TERM Gascoines DEF See 1 
+TERM Gascoines DEF 1 
 TERM Gascon DEF pertaining Gascony France Gascons also braggart swaggering 
 TERM Gasconade DEF boast boasting vaunt bravado bragging braggodocio 
 TERM Gasconade DEF boast brag bluster 
@@ -598,10 +598,10 @@ TERM Gaskins DEF Loose hose breeches galligaskins Packing hemp horse's thighs
 TERM gasmask DEF mask filter protects face lungs poisonous gases used warfare also police allow effectively use tear gas disabling gas disperse crowd force fugitives leave building 
 TERM Gaslight DEF light yielded combustion illuminating gas gas jet burner 
 TERM Gasogen DEF apparatus generation gases impregnating liquid gas gas volatile liquid volatile hydrocarbon used illuminant charging illuminating gas 
-TERM Gasolene DEF See 
+TERM Gasolene DEF 
 TERM Gasolier DEF 
 TERM Gasolene DEF 
-TERM Gasoline DEF highly volatile mixture fluid hydrocarbons obtained mostly petroleum also distillation bituminous coal used fuel automobiles many vehicles internal combustion engines commerce typically blended additives improve performance internal combustion engines also used early 1900's making air gas giving illuminating power water gas See 
+TERM Gasoline DEF highly volatile mixture fluid hydrocarbons obtained mostly petroleum also distillation bituminous coal used fuel automobiles many vehicles internal combustion engines commerce typically blended additives improve performance internal combustion engines also used early 1900's making air gas giving illuminating power water gas 
 TERM Gasolene engine DEF 
 TERM Gasoline engine DEF kind internal-combustion engine British countries called usually 
 TERM Gasometer DEF apparatus holding measuring gas gas works huge iron cylinder closed end end immersed water made rise fall according volume gas contains pressure required 
@@ -616,7 +616,7 @@ TERM Gaspereau DEF alewife
 TERM Gasserian DEF Relating Casserio (L discover Gasserian ganglion 
 TERM Gassing DEF process passing cotton goods rollers exposing numerous minute jets gas burn small fibers similar process singeing Boasting insincere empty talk 
 TERM Gassy DEF Full gas like gas passing intestinal gas excessively flatulent 
-TERM Gast DEF make aghast frighten terrify See 
+TERM Gast DEF make aghast frighten terrify 
 TERM Gaster DEF gast 
 TERM Gasteromycetes DEF order fungi spores borne inside sac called peridium puffballs 
 TERM Gasterophilus DEF type genus comprising horse botflies 
@@ -624,11 +624,11 @@ TERM Gasteropod DEF
 TERM Gasteropoda DEF 
 TERM Gasteropodous DEF 
 TERM Gastly DEF 
-TERM Gastful DEF See 
+TERM Gastful DEF 
 TERM Gastight DEF tightly fitted preclude escape gas impervious gas 
-TERM Gastness DEF See 
+TERM Gastness DEF 
 TERM Gastornis DEF genus large eocene birds Paris basin 
-TERM Gastraea DEF primeval larval form double-walled sac which according hypothesis Haeckel man animals first stages individual evolution pass two-layered structural stage gastrula form must descended idea constitutes Haeckel See 
+TERM Gastraea DEF primeval larval form double-walled sac which according hypothesis Haeckel man animals first stages individual evolution pass two-layered structural stage gastrula form must descended idea constitutes Haeckel 
 TERM Gastralgia DEF Pain stomach epigastrium gastric disorders 
 TERM Gastric DEF Of pertaining to situated near stomach 
 TERM Gastriloquist DEF appears speak stomach ventriloquist 
@@ -646,9 +646,9 @@ TERM Gastroenteric DEF Gastrointestinal
 TERM Gastroenteritis DEF Inflammation lining membrane stomach intestines 
 TERM Gastroepiploic DEF pertaining stomach omentum 
 TERM Gastrohepatic DEF Pertaining stomach liver hepatogastric lesser 
-TERM Gastrohysterotomy DEF section See 
+TERM Gastrohysterotomy DEF section 
 TERM Gastrointestinal DEF pertaining stomach intestines gastroenteric 
-TERM Gastrolith DEF See 
+TERM Gastrolith DEF 
 TERM Gastrology DEF science treats structure functions stomach treatise stomach 
 TERM Gastromalacia DEF softening coats stomach usually post-morten change 
 TERM Gastromancy DEF kind divination means words seemingly uttered stomach 
@@ -663,7 +663,7 @@ TERM Gastronomy DEF art science good eating epicurism art good cheer
 TERM Gastrophrenic DEF Pertaining stomach diaphragm 
 TERM Gastropneumatic DEF Pertaining alimentary canal air passages cavities connected them mucuos 
 TERM Gastropod DEF Gastropoda 
-TERM Gastropoda DEF classes Mollusca great extent includes marine spiral shells land fresh-water snails generally creep means flat muscular disk foot ventral side body head usually bears pairs tentacles See 
+TERM Gastropoda DEF classes Mollusca great extent includes marine spiral shells land fresh-water snails generally creep means flat muscular disk foot ventral side body head usually bears pairs tentacles 
 TERM Gastropodous DEF pertaining Gastropoda 
 TERM Gastroraphy DEF operation sewing wounds abdomen 
 TERM Gastroscope DEF instrument viewing examining interior stomach 
@@ -676,9 +676,9 @@ TERM Gastrotomy DEF cutting into opening of abdomen stomach
 TERM Gastrotricha DEF group small wormlike animals cilia ventral side group regarded ancestral synthetic related rotifers annelids 
 TERM Gastrotrocha DEF form annelid larva cilia ventral side 
 TERM Gastrovascular DEF structure performing functions digestive circulatory organs cavity 
-TERM Gastrula DEF embryonic form origin invagination pushing wall planula blastula (the side thus giving rise double-walled sac opening mouth (the leads cavity (the lined inner wall (the See general sense ideal stage embryonic development See 
+TERM Gastrula DEF embryonic form origin invagination pushing wall planula blastula (the side thus giving rise double-walled sac opening mouth (the leads cavity (the lined inner wall (the general sense ideal stage embryonic development 
 TERM Gastrulation DEF process invagination embryonic development gastrula formed 
-TERM Gastrura DEF See 
+TERM Gastrura DEF 
 TERM Gastrurous DEF Pertaining Gastrura 
 TERM Gat DEF 
 TERM Gatch DEF Plaster used Persian architecture decorative art 
@@ -698,7 +698,7 @@ TERM Gateway DEF passage fence wall gate also frame arch etc gate hung structure
 TERM Gatewise DEF manner gate 
 TERM Gather DEF bring together collect number separate things place aggregate body assemble muster congregate pick bring together among less value collect harvest harvest cull pick off pluck accumulate collecting saving little little amass gain heap up bring closely together parts particles of contract compress bring together folds plaits garment also draw together piece cloth thread pucker plait derive deduce inference collect conclusion circumstances suggest arguments prove infer conclude gain win bring together nearer together masonry width fireplace rapidly diminished width flue like haul in take up slack 
 TERM Gather DEF come together collect unite become assembled congregate grow larger accretion increase concentrate come head sore generate pus boil collect bring things together 
-TERM Gather DEF plait fold cloth made drawing thread it pucker inclination forward axle journals keep wheels working outward soffit surface masonry required See 7 
+TERM Gather DEF plait fold cloth made drawing thread it pucker inclination forward axle journals keep wheels working outward soffit surface masonry required 7 
 TERM Gatherable DEF Capable gathered collected deducible premises 
 TERM Gatherer DEF gathers collects attachment making gathers cloth 
 TERM Gathering DEF act collecting bringing together gathered collected brought together 
@@ -716,7 +716,7 @@ TERM Gaud DEF sport keep festival
 TERM Gaud DEF bedeck gaudily decorate gauds showy trinkets colors paint 
 TERM Gaudeamus DEF 
 TERM Gaudeamus Igitur DEF name Latin song originating thirteenth century celebrating joy youth students university suggesting take advantage youth succomb inevitable old age death still sung students often verses altered include themes pertinent particular schools 
-TERM Gaud-day DEF See feast 
+TERM Gaud-day DEF feast 
 TERM Gaudery DEF Finery ornaments ostentatious display 
 TERM Gaudful DEF Joyful showy 
 TERM Gaudily DEF gaudy manner 
@@ -727,7 +727,7 @@ TERM Gaudy DEF Ostentatiously fine showy gay tawdry meretricious Gay merry festa
 TERM Gaudy DEF large beads rosary paternoster recited 
 TERM Gaudy DEF feast festival called also 
 TERM Gaudygreen DEF Light green 
-TERM Gauffer DEF plait crimp flute goffer lace See 
+TERM Gauffer DEF plait crimp flute goffer lace 
 TERM Gauffering DEF mode plaiting fluting 
 TERM Gauffre DEF gopher esp pocket gopher 
 TERM Gauge DEF measure determine gauge measure ascertain contents capacity of pipe barrel keg measure dimensions of test accuracy form of part gunlock draw equidistant gathers running thread it cloth garment measure capacity character ability of estimate judge of 
@@ -736,14 +736,14 @@ TERM Gaugeable DEF Capable gauged
 TERM Gauged DEF Tested measured by conformed to gauge 
 TERM Gauger DEF gauges officer business ascertain contents casks 
 TERM Gauger-ship DEF office gauger 
-TERM Gauging rod DEF See 
+TERM Gauging rod DEF 
 TERM Gaul DEF Anglicized form time Romans included France Upper Italy (Transalpine Cisalpine Gaul) native inhabitant Gaul 
 TERM Gaulish DEF Pertaining ancient France Gaul Gallic 
 TERM Gault DEF series beds clay marl South England upper lower greensand Cretaceous period 
 TERM Gaultheria DEF genus ericaceous shrubs evergreen foliage and often edible berries includes American winter-green larger-fruited Northwestern America 
 TERM gaumless DEF stupid Oposite 
 TERM Gaunt DEF Attenuated fasting suffering lean meager pinched grim 
-TERM Gauntlet DEF See 
+TERM Gauntlet DEF 
 TERM Gauntlet DEF glove material defends hand wounds long glove covering wrist rope hammocks clothes hung drying 
 TERM Gauntletted DEF Wearing gauntlet 
 TERM Gauntly DEF gaunt manner meagerly 
@@ -755,7 +755,7 @@ TERM Gauss DEF CGS unit density magnetic field equal field line force per square
 TERM Gaussage DEF intensity magnetic field expressed CGS units gausses 
 TERM Gaussian DEF pertaining Gauss{2} 
 TERM gaussmeter DEF instrument compare strengths magnetic fields 
-TERM Gautama DEF family name founder Buddhism born ca 563 bc died ca 483 bc worshipped Buddhists god See 
+TERM Gautama DEF family name founder Buddhism born ca 563 bc died ca 483 bc worshipped Buddhists god 
 TERM Gauze DEF thin slight transparent stuff generally silk also fabric resembling silk gauze wire cotton 
 TERM Gauze DEF qualities gauze thin light merino 
 TERM Gauziness DEF quality gauzy flimsiness 
@@ -765,7 +765,7 @@ TERM Gave DEF
 TERM Gavel DEF gable 
 TERM Gavel DEF small heap grain tied bundle 
 TERM Gavel DEF mallet presiding officer legislative body public assembly court masonic body etc mason's setting maul 
-TERM Gavel DEF Tribute toll custom See 
+TERM Gavel DEF Tribute toll custom 
 TERM Gavelet DEF ancient special kind used Kent London recovery rent 
 TERM Gavelkind DEF tenure land descended father sons equal portions land brother dying without issue descended equally brothers still prevails county Kent 
 TERM Gaveloche DEF 
@@ -782,7 +782,7 @@ TERM Gawk DEF cuckoo simpleton booby gawky
 TERM Gawk DEF act like gawky stare empty-minded fascination stare stupidly gape usually used 
 TERM Gawky DEF Foolish awkward clumsy clownish fellow awkward overgrown stupidity gawk 
 TERM Gawn DEF small tub lading vessel 
-TERM Gawntree DEF See 
+TERM Gawntree DEF 
 TERM Gay DEF Excited merriment manifesting sportiveness delight inspiring delight livery merry Brilliant colors splendid fine richly dressed Loose dissipated lewd 
 TERM Gay DEF ornament 
 TERM Gayal DEF Southern Asiatic species wild cattle 
@@ -804,7 +804,7 @@ TERM Gazeebo DEF summerhouse situated command extensive prospect
 TERM Gazeful DEF Gazing 
 TERM Gazehound DEF hound pursues sight rather scent 
 TERM Gazel DEF black currant also wild plum 
-TERM Gazel DEF See 
+TERM Gazel DEF 
 TERM Gazelle DEF several small swift elegantly formed species antelope genus esp called also gazelles celebrated luster soft expression eyes 
 TERM Gazement DEF View 
 TERM Gazer DEF gazes 
@@ -815,13 +815,13 @@ TERM Gazetteer DEF writer news officer appointed publish news authority newspape
 TERM Gazingstock DEF person thing gazed scorn abhorrence object curiosity contempt 
 TERM Gazogene DEF portable apparatus making soda water liquids small scale 
 TERM Gazon DEF pieces sod used line cover parapets faces earthworks 
-TERM Ge DEF chemical symbol germanium metalloid element atomic number 32 See 
-TERM Ge DEF goddess earth mother Cronus Titans ancient mythology See 
-TERM Ge- DEF Anglo-Saxon prefix See 
+TERM Ge DEF chemical symbol germanium metalloid element atomic number 32 
+TERM Ge DEF goddess earth mother Cronus Titans ancient mythology 
+TERM Ge- DEF Anglo-Saxon prefix 
 TERM Geal DEF congeal 
 TERM Gean DEF species cherry tree common Europe also fruit usually small dark color 
 TERM Geanticlinal DEF upward bend flexure considerable portion earth's crust resulting formation class mountain elevations called opposed 
-TERM Gear DEF Clothing garments ornaments Goods property household stuff Whatever prepared use wear manufactured stuff material harness horses cattle trapping Warlike accouterments Manner custom behavior Business matters affairs concern toothed wheel cogwheel spur bevel also toothed wheels collectively See 1st Anything worthless stuff nonsense rubbish 
+TERM Gear DEF Clothing garments ornaments Goods property household stuff Whatever prepared use wear manufactured stuff material harness horses cattle trapping Warlike accouterments Manner custom behavior Business matters affairs concern toothed wheel cogwheel spur bevel also toothed wheels collectively 1st Anything worthless stuff nonsense rubbish 
 TERM Gear DEF dress put gear on harness provide gearing adapt toward specific purpose advertising maximum effect among 
 TERM Gear DEF in come into gear 
 TERM gearbox DEF metal casing train gears sealed 
@@ -836,7 +836,7 @@ TERM Gecarcinian DEF land crab genus allied genera
 TERM Geck DEF Scorn derision contempt object scorn dupe gull 
 TERM Geck DEF deride scorn mock cheat trick gull 
 TERM Geck DEF jeer show contempt 
-TERM Gecko DEF lizard family geckoes small carnivorous mostly nocturnal animals large eyes vertical elliptical pupils toes generally expanded furnished adhesive disks run walls ceilings numerous warm countries species found Europe United States See 
+TERM Gecko DEF lizard family geckoes small carnivorous mostly nocturnal animals large eyes vertical elliptical pupils toes generally expanded furnished adhesive disks run walls ceilings numerous warm countries species found Europe United States 
 TERM Geckotian DEF gecko 
 TERM Gedd DEF 
 TERM Ged DEF European pike 
@@ -844,16 +844,16 @@ TERM Gee DEF agree harmonize turn side driver United States right side) said cat
 TERM geek DEF performer carnival often presented wild man performs grotesquely disgusting acts biting head live chicken snake eccentric strange person oddball eccentric student socially inept misfit class especially intellectual nerd dork intellectually inclined person especially interested scientific technical subjects group wearing pocket originally deprecatory contemptuous term 1990's increase popularity computers frequency accumulation great wealth computer entrepreneurs come used noticeable frequency technically competent people refer themselves ironically sometimes proudly 
 TERM Gee DEF cause (a team) turn side driver 
 TERM Geering DEF 
-TERM Geer DEF See 
+TERM Geer DEF 
 TERM Geese DEF 
 TERM Geest DEF Alluvial matter surface land recent origin 
 TERM Geet DEF Jet 
-TERM Geez DEF original native name ancient Ethiopic language people See 
+TERM Geez DEF original native name ancient Ethiopic language people 
 TERM geezer DEF queer old fellow old chap sometimes old woman 
 TERM gegenschein DEF faint patch light night sky appears opposite sun reflection sunlight micrometeoric material space 
 TERM Gehenna DEF valley Hinnom near Jerusalem Israelites sacrificed children Moloch which account afterward regarded place abomination made receptacle refuse city perpetual fires kept order prevent pestilential effluvia New Testament name transferred easy metaphor 
 TERM geic DEF Pertaining to derived from earthy vegetable mold 
-TERM gein DEF See 
+TERM gein DEF 
 TERM geisha DEF Japanese singing dancing girl trained provide entertainment company man group men 
 TERM Geissler tube DEF glass tube provided platinum electrodes containing gas low tension becomes luminous electrical discharge passed it called name noted maker germany called also German physicist devised it 
 TERM Geitonogamy DEF Fertilization flowers pollen flowers plant 
@@ -923,7 +923,7 @@ TERM Gemmary DEF pertaining gems
 TERM Gemmary DEF receptacle jewels gems jewel house jewels gems collectively 
 TERM Gemmate DEF buds reproducing buds 
 TERM Gemmated DEF buds adorned gems jewels 
-TERM Gemmation DEF formation new individual either animal vegetable process budding asexual method reproduction gemmulation gemmiparity See arrangement buds stalk also leaves bud 
+TERM Gemmation DEF formation new individual either animal vegetable process budding asexual method reproduction gemmulation gemmiparity arrangement buds stalk also leaves bud 
 TERM Gemmeous DEF Pertaining gems nature gems resembling gems 
 TERM Gemmiferous DEF Producing gems buds 
 TERM Gemmification DEF production bud gem 
@@ -931,10 +931,10 @@ TERM Gemmiflorate DEF flowers like buds
 TERM Gemminess DEF state quality gemmy spruceness smartness 
 TERM Gemmipares DEF 
 TERM Gemmipara DEF Animals increase budding hydroids 
-TERM Gemmiparity DEF Reproduction budding gemmation See 
-TERM Gemmiparous DEF Producing buds reproducing buds See 1 
+TERM Gemmiparity DEF Reproduction budding gemmation 
+TERM Gemmiparous DEF Producing buds reproducing buds 1 
 TERM Gemmosity DEF quality characteristics gem jewel 
-TERM Gemmulation DEF See 
+TERM Gemmulation DEF 
 TERM Gemmule DEF little leaf bud plumule cotyledons bud produced generation gemmation 
 TERM Gemmuliferous DEF Bearing producing gemmules buds 
 TERM Gemmy DEF Full gems bright glittering like gem Spruce smart 
@@ -953,14 +953,14 @@ TERM Gender DEF Kind sort Sex male female classification nouns primarily accordi
 TERM Gender DEF beget engender 
 TERM Gender DEF copulate breed 
 TERM Genderless DEF gender 
-TERM Geneagenesis DEF Alternate generation See 
+TERM Geneagenesis DEF Alternate generation 
 TERM Genealogic DEF Genealogical 
 TERM Genealogical DEF pertaining genealogy table 
 TERM Genealogist DEF traces genealogies descent persons families 
 TERM Genealogize DEF investigate relate history of descents 
 TERM Genealogy DEF account history descent person family ancestor enumeration ancestors children natural order succession pedigree Regular descent person family progenitor pedigree lineage 
 TERM Genearch DEF chief family tribe 
-TERM Genera DEF See 
+TERM Genera DEF 
 TERM Generability DEF Capability generated 
 TERM Generable DEF Capable generated produced 
 TERM General DEF Relating genus kind pertaining whole class order law animal vegetable Comprehending many species individuals special particular including particulars inference restrained limited precise import specific vague indefinite lax signification loose Common many greatest number widely spread prevalent extensive though universal opinion relation all common whole Adam whole gross part Usual common occasions habit 
@@ -1046,7 +1046,7 @@ TERM Genitive DEF pertaining case (as second case Latin Greek nouns) expresses s
 TERM Genitive DEF genitive case 
 TERM Genitocrural DEF Pertaining genital organs thigh applied especially lumbar nerves 
 TERM Genitor DEF begets generator originator genitals 
-TERM Genitourinary DEF See 
+TERM Genitourinary DEF 
 TERM Geniture DEF Generation procreation birth 
 TERM Genius DEF good evil spirit demon supposed ancients preside man's destiny life tutelary deity supernatural being spirit good bad Cf peculiar structure mind individual endowed nature disposition aptitude mind peculiar man qualifies certain kinds action special success pursuit special taste inclination disposition history poetry Peculiar character animating spirit nation religion language Distinguished mental superiority uncommon intellectual power especially superior power invention origination kind forming new combinations man man endowed uncommon vigor mind man superior intellectual faculties creativity Shakespeare rare 
 TERM Genoa cake DEF rich glazed cake almonds pistachios filberts nuts also rich currant cake almonds top 
@@ -1068,7 +1068,7 @@ TERM Genteelly DEF genteel manner
 TERM Genteelness DEF quality genteel 
 TERM Gentrie DEF 
 TERM Genterie DEF Nobility birth character gentility 
-TERM Gentian DEF genus herbaceous plants opposite leaves tubular four- five-lobed corolla usually blue sometimes white yellow red See 
+TERM Gentian DEF genus herbaceous plants opposite leaves tubular four- five-lobed corolla usually blue sometimes white yellow red 
 TERM Gentiana DEF type genus genus herbs nearly cosmopolitan cool temperate regions classifications includes genera 
 TERM Gentianaceae DEF natural family chiefly herbaceous plants showy flowers cultivated ornamentals 
 TERM Gentianales DEF order plants including 
@@ -1080,7 +1080,7 @@ TERM Gentianose DEF crystallizable sugarlike substance slightly sweetish taste o
 TERM Gentil DEF Gentle 
 TERM Gentile DEF neither Jew Christian worshiper false gods heathen person Jewish used sense Jews 
 TERM Gentile DEF Belonging nations large distinguished ethnic pagan heathen people Denoting race country noun 
-TERM Gentile-falcon DEF See 
+TERM Gentile-falcon DEF 
 TERM Gentilesse DEF Gentleness courtesy kindness nobility 
 TERM Gentilish DEF Heathenish pagan 
 TERM Gentilism DEF Hethenism paganism worship false gods Tribal feeling devotion one's 
@@ -1093,7 +1093,7 @@ TERM Gentilly DEF gentle hoble manner frankly
 TERM Gentiopikrin DEF bitter yellow crystalline substance regarded glucoside obtained gentian 
 TERM Gentisin DEF tasteless yellow crystalline substance obtained gentian called also 
 TERM Gentle DEF Well-born good family respectable birth though noble Quiet refined manners rough harsh stern mild meek bland amiable tender nature temper disposition manner address compellative respect consideration conciliation wild turbulent refractory quiet docile tame peaceable Soft violent rough strong loud disturbing easy soothing pacific touch 
-TERM Gentle DEF well born gentleman trained falcon See dipterous larva used fish bait 
+TERM Gentle DEF well born gentleman trained falcon dipterous larva used fish bait 
 TERM Gentle DEF make genteel raise vulgar ennoble make smooth cozy agreeable make kind docile horse 
 TERM Gentlefolks DEF 
 TERM Gentlefolk DEF Persons gentle good family breeding 
@@ -1120,7 +1120,7 @@ TERM genuflexion DEF
 TERM genuflection DEF act bending knee particularly worship reverence 
 TERM genuine DEF Belonging to proceeding from original stock native 
 TERM Genus DEF class objects divided several subordinate species class extensive species precisely defined exactly divided class predicable conceptions sorts terms assemblage species many fundamental points structure common judgment competent scientists may receive common substantive name genus necessarily lowest definable group species may often divided several subgenera proportion definition exact genus definition made clear less genus 
-TERM Genys DEF See 
+TERM Genys DEF 
 TERM Geocentrical DEF 
 TERM Geocentric DEF Having considering based on earth center theory relation seen earth usually opposed seen sun longitude latitude 
 TERM Geocentrically DEF geocentric manner 
@@ -1165,7 +1165,7 @@ TERM Geologic DEF pertaining geology science earth
 TERM Geologically DEF geological manner 
 TERM Geologist DEF versed science geology 
 TERM Geologize DEF study geology make geological investigations field discourse geologist 
-TERM Geology DEF science treats structure mineral constitution globe history regards rocks minerals rivers valleys mountains climates life etc causes methods structure features changes conditions produced See Chart Geological treatise science 
+TERM Geology DEF science treats structure mineral constitution globe history regards rocks minerals rivers valleys mountains climates life etc causes methods structure features changes conditions produced Chart Geological treatise science 
 TERM Geomalism DEF tendency organism respond growth force gravitation 
 TERM Geomancer DEF practices versed in geomancy 
 TERM Geomancy DEF kind divination means figures lines formed little dots points originally earth latterly paper 
@@ -1182,7 +1182,7 @@ TERM Geometrid DEF numerous genera species moths family called (called creep loo
 TERM Geometridae DEF natural family moths larvae called 
 TERM Geometrize DEF investigate apprehend geometrical quantities laws make geometrical constructions proceed accordance principles geometry 
 TERM Geometry DEF branch mathematics investigates relations properties measurement solids surfaces lines angles science treats properties relations magnitudes science relations space treatise science 
-TERM Geophagism DEF act habit eating earth See 
+TERM Geophagism DEF act habit eating earth 
 TERM Geophagist DEF eats earth dirt clay chalk etc 
 TERM Geophagous DEF Earth-eating 
 TERM Geophila DEF division Mollusca includes land snails slugs 
@@ -1200,8 +1200,8 @@ TERM Geoponic DEF Pertaining tillage earth agriculture
 TERM Geoponics DEF art science cultivating earth agriculture 
 TERM Georama DEF hollow globe inner surface map world depicted examined standing inside 
 TERM Geordie DEF name given miners Stephenson's safety lamp 
-TERM George DEF figure St George (the patron saint England) horseback appended collar Order Garter See kind brown loaf coin image Saint George 
-TERM George noble DEF gold noble time See 
+TERM George DEF figure St George (the patron saint England) horseback appended collar Order Garter kind brown loaf coin image Saint George 
+TERM George noble DEF gold noble time 
 TERM Georgian DEF pertaining Georgia former Soviet republic independent country Causcuses Asia Georgia United States relating reigns Georges kings Great Britan 
 TERM Georgian DEF native of dweller in Georgia 
 TERM Georgian architecture DEF British British colonial architecture period Georges especially period 1800 
@@ -1220,7 +1220,7 @@ TERM Geotropism DEF disposition turn incline towards earth influence gravity det
 TERM Gephyrea DEF order marine Annelida body imperfectly all annulated externally mostly without 
 TERM Gephyrean DEF Belonging Gephyrea Gerphyrea 
 TERM Gephyreoid DEF Gephyrean 
-TERM Gepound DEF See 
+TERM Gepound DEF 
 TERM Gerah DEF small coin weight 1-20th shekel 
 TERM Geraniaceous DEF pertaining natural order pants includes genera Geranium Pelargonium many others 
 TERM Geranine DEF 
@@ -1240,14 +1240,14 @@ TERM Gere DEF Gear
 TERM Gerea DEF small genus hairy herbs yellow flowers 
 TERM Gerent DEF Bearing carrying 
 TERM gerenuk DEF slender East African antelope long slim neck backward-curving horns called also German feeds foliage bushes trees often stands erect hind legs leaning bush browse higher branches habit distinctive easy recognize 
-TERM Gerfalcon DEF See 
+TERM Gerfalcon DEF 
 TERM Gerful DEF Changeable capricious 
 TERM Gerlond DEF 
 TERM Gerland DEF garland 
 TERM Gerlind DEF salmon returning sea second time 
 TERM Germ DEF develop new individual fetus plant flower earliest form organism appears anything springs origin first principle civil germ cells collectively distinguished cells often used place form phrases area disc membrane nucleus sac microorganism especially disease-causing bacterium virus used informally don't eat food falls floor may 
 TERM Germ DEF germinate 
-TERM Germain DEF See 
+TERM Germain DEF 
 TERM German DEF Nearly related closely akin 
 TERM German DEF native people Germany German language round dance often waltz movement abounding capriciosly involved figures 
 TERM German DEF pertaining Germany 
@@ -1263,11 +1263,11 @@ TERM Germanize DEF reason write manner Germans
 TERM German-speaking DEF able communicate German language 
 TERM Germarium DEF organ ova developed certain Turbellaria 
 TERM Germ cell DEF cell either sex directly concerned production new organism 
-TERM Germen DEF See 
+TERM Germen DEF 
 TERM germicidal DEF Destructive germs applied agent killing action upon living microorganisms particularly bacteria viruses cause many infectious diseases 
 TERM germicide DEF germicidal agent 
 TERM Germinal DEF Pertaining belonging germ pertaining germ germ cells distinguished somatic cells 
-TERM Germinal DEF seventh month French republican calendar [1792 1806] began March 21 ended April 19 See 
+TERM Germinal DEF seventh month French republican calendar [1792 1806] began March 21 ended April 19 
 TERM Germinant DEF Sprouting sending forth germs buds 
 TERM Germinate DEF sprout bud shoot begin vegetate plant seed begin develop germ 
 TERM Germinate DEF cause sprout 
@@ -1276,12 +1276,12 @@ TERM Germinative DEF Pertaining germination power bud develop
 TERM Germiparity DEF Reproduction means germs 
 TERM Germless DEF Without germs 
 TERM Germogen DEF polynuclear mass protoplasm divided separate cells certain ova developed 
-TERM Germ plasm DEF See 
+TERM Germ plasm DEF 
 TERM Germ theory DEF theory living organisms produced development living germs Cf theory attributes contagious infectious diseases suppurative lesions etc agency germs ie pathogenic microorganisms science bacteriology developed theory established 
 TERM Germule DEF small germ 
 TERM Gern DEF grin yawn 
 TERM Gerner DEF garner 
-TERM Gerocomia DEF See 
+TERM Gerocomia DEF 
 TERM Gerocomical DEF Pertaining gerocomy 
 TERM Gerocomy DEF part medicine treats regimen old people 
 TERM Gerontes DEF Magistrates Sparta ephori kings constituted supreme civil authority 
@@ -1335,8 +1335,8 @@ TERM Gettable DEF may obtained
 TERM Getter DEF gets gains obtains acquires begets procreates 
 TERM Getterup DEF contrives makes arranges for anything book machine etc 
 TERM Getting DEF act obtaining acquiring acquisition got obtained gain profit 
-TERM Gettysburg DEF name battle American Civil War fought around town Pennsylavania 1863 battle defeat Robert E invading Confederate army major victory Union considered many turning point war victory Confederacy longer thought possible many thousands died See also 
-TERM Gettysburg Address DEF popular name speech given 19 battlefield near Gettysburg Pennsylvania USA part ceremony dedicate portion battlefield cemetary soldiers died fighting there See note below 
+TERM Gettysburg DEF name battle American Civil War fought around town Pennsylavania 1863 battle defeat Robert E invading Confederate army major victory Union considered many turning point war victory Confederacy longer thought possible many thousands died also 
+TERM Gettysburg Address DEF popular name speech given 19 battlefield near Gettysburg Pennsylvania USA part ceremony dedicate portion battlefield cemetary soldiers died fighting there note below 
 TERM get-up DEF 
 TERM getup DEF General composition structure manner parts thing combined arrangement format make-up style dress etc set clothing (with accessories) often used implied disapproval scorn 
 TERM get-up-and-go DEF character trait manifested readiness ability initiate action enterprising energetic spirit go-getting attitude 
@@ -1367,13 +1367,13 @@ TERM Ghazi DEF Among Muslims warrior champion veteran esp destruction infidels
 TERM Ghebre DEF 
 TERM Gheber DEF worshiper fire Zoroastrian Parsee 
 TERM Ghee DEF Butter clarified boiling thus converted kind oil 
-TERM Gherkin DEF kind small prickly cucumber much used pickles See 
-TERM Ghess DEF See 
+TERM Gherkin DEF kind small prickly cucumber much used pickles 
+TERM Ghess DEF 
 TERM Ghetto DEF quarter city Jews live greatest numbers section town inhabited predominantly members specific ethnic national racial group segregation usually arising social economic pressure term commonly applied areas cities high concentration low-income African-Americans isolated group people group isolated external pressures implication inferiority 
 TERM ghetto blaster DEF portable casette compact disk player usually integrated radio receiver typically (stereophonic) speakers adjusted play high sound intensity name comes 
 TERM Ghettoize DEF form ghetto isolate (people) though ghetto 
 TERM Ghibelline DEF faction Italy 12th 13th centuries favored German emperors opposed Guelfs adherents poses 
-TERM Ghole DEF See 
+TERM Ghole DEF 
 TERM Ghost DEF spirit soul man disembodied soul soul spirit deceased person spirit appearing death apparition specter faint shadowy semblance unsubstantial image phantom glimmering chance false image formed telescope reflection surfaces lenses 
 TERM Ghost DEF die expire 
 TERM Ghost DEF appear haunt form apparition 
@@ -1391,7 +1391,7 @@ TERM ghost-writer DEF
 TERM ghostwriter DEF ghost-writes (a book article etc) someone else 
 TERM Ghoul DEF imaginary evil among Eastern nations supposed feed upon human bodies 
 TERM Ghoulish DEF Characteristic ghoul vampirelike hyenalike 
-TERM Ghyll DEF ravine See woody glen 
+TERM Ghyll DEF ravine woody glen 
 TERM Giallolino DEF term variously employed early writers art though commonly designating yellow oxide lead massicot 
 TERM Giambeux DEF Greaves armor legs 
 TERM Giant DEF man extraordinari bulk stature person extraordinary strength powers bodily intellectual animal plant thing extraordinary size power 
@@ -1406,12 +1406,12 @@ TERM Gib DEF male cat tomcat
 TERM Gib DEF act like cat 
 TERM Gib DEF piece slip metal wood notched otherwise machine structure hold parts place bind together afford bearing surface usually held adjusted means wedge key screw 
 TERM Gib DEF secure fasten gib gibs provide gib gibs 
-TERM Gib DEF balk See 
+TERM Gib DEF balk 
 TERM Gibaro DEF offspring Spaniard Indian Spanish-Indian mestizo 
 TERM Gibbartas DEF several finback whales North Atlantic called also 
 TERM Gibber DEF balky horse 
 TERM gibber DEF speak rapidly inarticulately 
-TERM gibberellic acid DEF plant growth hormone series also called first isolated fungus used promote growth seedlings See also 
+TERM gibberellic acid DEF plant growth hormone series also called first isolated fungus used promote growth seedlings also 
 TERM gibberellin DEF number plant growth hormones first isolated 1938 fungus 60 related gibberelins known important also called used agriculture promoting plant growth 
 TERM gibberish DEF Rapid inarticulate talk unintelligible language unmeaning words Incomprehensible obscure pretentious technical talk writing excessively obscure jargon 
 TERM Gibberish DEF Unmeaning 
@@ -1419,12 +1419,12 @@ TERM Gibbet DEF kind gallows upright post arm projecting top which formerly male
 TERM Gibbet DEF hang expose gibbet expose infamy blacken 
 TERM Gibbier DEF Wild fowl game 
 TERM Gibbon DEF arboreal ape genus many species varieties inhabit East Indies Southern Asia tailless without cheek pouches long arms adapted climbing 
-TERM Gib boom DEF See 
+TERM Gib boom DEF 
 TERM Gibbose DEF Humped protuberant said surface presents large elevations 
 TERM Gibbostity DEF state gibbous gibbose gibbousness 
 TERM Gibbous DEF Swelling regular curve surface protuberant convex moon half-moon full Hunched hump-backed 
 TERM Gibbsite DEF hydrate alumina 
-TERM Gib-cat DEF male cat esp old See 1st 
+TERM Gib-cat DEF male cat esp old 1st 
 TERM Gibe DEF cast reproaches sneering expressions rail utter taunting sarcastic words flout fleer scoff 
 TERM Gibe DEF reproach contemptuous words deride scoff at mock 
 TERM Gibe DEF expression sarcastic scorn sarcastic jest scoff taunt sneer 
@@ -1436,7 +1436,7 @@ TERM Giblet DEF Made giblets
 TERM Giblets DEF inmeats edible viscera (heart gizzard liver etc) poultry 
 TERM Gibraltar DEF strongly fortified town south coast Spain held British since 1704 hence impregnable stronghold kind candy sweetmeat piece it called full 
 TERM Gibstaff DEF staff guage water push boat staff formerly used fighting beasts stage 
-TERM Gid DEF disease sheep characterized vertigo staggers caused presence larval tapeworm brain See 
+TERM Gid DEF disease sheep characterized vertigo staggers caused presence larval tapeworm brain 
 TERM Giddily DEF giddy manner 
 TERM Giddiness DEF quality state giddy 
 TERM Giddy DEF head sensation whirling reeling about lost power preserving balance body therefore wavering inclined fall lightheaded dizzy Promoting inducing giddiness height Bewildering account rapid turning running round celerity gyratory whirling Characterized inconstancy unstable changeable fickle wild thoughtless heedless 
@@ -1445,23 +1445,23 @@ TERM Giddy DEF make dizzy unsteady
 TERM Giddy-head DEF person without thought fulness prudence judgment 
 TERM Giddy-headed DEF Thoughtless unsteady 
 TERM Giddy-paced DEF Moving irregularly flighty fickle 
-TERM Gie DEF guide See 
+TERM Gie DEF guide 
 TERM Gie DEF give 
 TERM Gier-eagle DEF bird referred Bible xi xiv unclean probably Egyptian vulture 
 TERM Gier-falcon DEF gyrfalcon 
 TERM Gieseckite DEF mineral occurring greenish gray six-sided prisms greasy luster probably pseudomorph 
 TERM Gif DEF If 
 TERM GIF DEF Graphics Interchange Format popular standardized formats storing graphic data binary computer files standard revised several times includes provisions interlacing animating images disadvantage store 256 colors Compare image stored GIF{1} format file image stored sent GIF's lovely pictures 
-TERM Giffard injector DEF See 
+TERM Giffard injector DEF 
 TERM Giffgaff DEF Mutual accommodation mutual giving 
-TERM Giffy DEF See 
+TERM Giffy DEF 
 TERM Gift DEF Anything given anything voluntarily transferred person another without compensation present offering act right power giving bestowing office bribe anything given corrupt exceptional inborn quality characteristic striking special talent aptitude power faculty wit voluntary transfer real personal property without consideration perfected deed case personal property actual delivery possession 
-TERM Gift DEF endow power faculty See 
+TERM Gift DEF endow power faculty 
 TERM gifted DEF unusual talent field exceptionally high intelligence said children especially discourse education program 
 TERM Giftedness DEF state gifted 
 TERM Gig DEF fiddle 
 TERM Gig DEF engender 
-TERM Gig DEF kind spear harpoon See 
+TERM Gig DEF kind spear harpoon 
 TERM Gig DEF fish gig 
 TERM Gig DEF playful wanton girl giglot 
 TERM Gig DEF top whirligig little thing whirled round play light carriage pair wheels drawn horse kind chaise long light rowboat generally clinkerbuilt designed fast boat appropriated use commanding officer captain's rotatory cylinder covered wire teeth teasels teaseling woolen cloth 
@@ -1482,7 +1482,7 @@ TERM Giggle DEF laugh short catches breath voice laugh light affected silly mann
 TERM Giggle DEF kind laugh short catches voice breath light silly laugh 
 TERM Giggler DEF giggles titters 
 TERM Giggly DEF Prone giggling 
-TERM Giggot DEF See 
+TERM Giggot DEF 
 TERM Giggyng DEF act fastending gige leather strap shield 
 TERM Giglet DEF 
 TERM Giglot DEF wanton lascivious light giddy girl 
@@ -1493,13 +1493,13 @@ TERM Gigot DEF leg mutton small piece flesh slice
 TERM Gigue DEF piece lively dance music strains repeated also dance 
 TERM Gila monster DEF large tuberculated lizard native dry plains Arizona New Mexico etc lizard known venomous teeth 
 TERM Gilbert DEF Schwenk English dramatist born London Nov 18 1836 famous collaborations Arthur number humorous light operas known Sullivan first play (1866) also wrote Palace (1870) (1871) (1874) (1877) (1891) collaboration Sir A Sullivan (who wrote music) wrote (1877) M S (1878) Pirates (1879) (1881) (1883) (1885) (1887) Yeomen (1888) (1889) (1893) light operas proved popular continue performed hundred years later also published works 
-TERM Gilbert and Sullivan DEF Schwenk Arthur collaborated number light operas See 
+TERM Gilbert and Sullivan DEF Schwenk Arthur collaborated number light operas 
 TERM Gilbertian DEF Of pertaining to characteristic style S Wildly comic improbable Gilbert Sullivan operas 
 TERM Gild DEF overlay thin covering gold cover golden color cause look like gold make attractive adorn brighten give fair deceptive outward appearance to embellish make red drinking 
 TERM Gildale DEF drinking bout every pays equal share 
 TERM Gilden DEF Gilded 
 TERM Gilder DEF gilds occupation overlay gold 
-TERM Gilder DEF Dutch coin See 
+TERM Gilder DEF Dutch coin 
 TERM Gilding DEF art practice overlaying covering gold leaf also thin coating wash gold resembles gold Gold leaf powder liquid application surface superficial coating appearance opposed solid genuine 
 TERM Gile DEF Guile 
 TERM Gilgamish DEF 
@@ -1518,7 +1518,7 @@ TERM Gilly DEF
 TERM Gillie DEF boy young man manservant young male attendant Scottish Highlands lowcut shoe without tongue decorative lacing 
 TERM Gillyflower DEF name given old writers clove pink common stock cruciferous plant showy fragrant blossoms usually purplish often pink white kind apple roundish conical shape purplish red color large core 
 TERM Gilour DEF guiler deceiver 
-TERM Gilse DEF See 
+TERM Gilse DEF 
 TERM Gilt DEF female pig young 
 TERM Gilt DEF & p 
 TERM Gilt DEF Gilded covered gold color gold golden yellow 
@@ -1531,7 +1531,7 @@ TERM Gilttail DEF yellow-tailed worm larva
 TERM Gim DEF Neat spruce 
 TERM Gimbals DEF 
 TERM Gimbal DEF contrivance permitting body incline freely directions suspending anything barometer ship's compass chronometer etc remain plumb level support tipped rolling ship consists ring body turn axis diameter ring ring pivoted support turn diameter right angles first 
-TERM Gimblet DEF See 
+TERM Gimblet DEF 
 TERM gimcrack DEF trivial mechanism device toy pretty thing ornamental object great value 
 TERM gimcracks DEF 
 TERM gimcrackery DEF Ornamental objects great value 
@@ -1547,13 +1547,13 @@ TERM Gimp DEF narrow ornamental fabric silk woolen cotton often metallic wire so
 TERM Gimp DEF notch indent jag 
 TERM Gin DEF Against near by towards 
 TERM Gin DEF If 
-TERM Gin DEF begin often followed infinitive without See 
+TERM Gin DEF begin often followed infinitive without 
 TERM Gin DEF strong alcoholic liquor distilled rye barley flavored juniper berries also called originally still extensively manufactured Holland Common gin usually flavored turpentine 
 TERM Gin DEF Contrivance artifice trap snare machine raising moving heavy weights consisting tripod formed poles united top windlass pulleys ropes etc machine separating seeds cotton cotton gin 
 TERM Gin DEF catch trap clear seeds machine 
 TERM ginep DEF tropical American tree bearing small edible fruit green leathery skin sweet juicy translucent pulp 
 TERM Ging DEF 2 
-TERM Gingal DEF See 
+TERM Gingal DEF 
 TERM Ginger DEF plant genus East West Indies species known hot spicy rootstock much used cookery medicine 
 TERM Gingerbread DEF kind plain sweet cake seasoned ginger sometimes made fanciful shapes 
 TERM Gingerly DEF Cautiously timidly fastidiously daintily 
@@ -1564,9 +1564,9 @@ TERM gingery DEF tasting ginger spicy used tastes
 TERM Gingham DEF kind cotton linen cloth usually stripes checks yarn dyed woven distinguished printed cotton prints 
 TERM Ginging DEF lining mine shaft stones bricks prevent caving 
 TERM Gingival DEF pertaining gums 
-TERM Gingle DEF See 
+TERM Gingle DEF 
 TERM Ginglyform DEF Ginglymoid 
-TERM Ginglymodi DEF order ganoid fishes including modern gar pikes many allied fossil forms rhombic ganoid scales heterocercal tail paired fins without axis fulcra fins bony skeleton convex front concave behind forming ball socket joint See 
+TERM Ginglymodi DEF order ganoid fishes including modern gar pikes many allied fossil forms rhombic ganoid scales heterocercal tail paired fins without axis fulcra fins bony skeleton convex front concave behind forming ball socket joint 
 TERM Ginglymoidal DEF 
 TERM Ginglymoid DEF Pertaining to resembling ginglymus hinge joint ginglyform 
 TERM Ginglymus DEF hinge joint articulation admitting flexion extension motion directions only elbow ankle 
@@ -1577,19 +1577,19 @@ TERM Ginkgophytina DEF
 TERM Ginkgophyta DEF division trees comprising ginkgos systems classified class subdivision (Ginkgophytina used classifications subdivisions Gymnospermophyta 
 TERM gin mill DEF 
 TERM ginmill DEF commercial establishment alcoholic drinks served counter barroom disparaging term suggesting cheap disreputable bar 
-TERM Ginnee DEF See 
-TERM Ginnet DEF See horse 
+TERM Ginnee DEF 
+TERM Ginnet DEF horse 
 TERM Ginning DEF Beginning 
 TERM Ginny-carriage DEF small strong carriage conveying materials railroad 
 TERM Ginseng DEF plant genus root highly valued medicine among Chinese Chinese plant become rare American largely taken place root article export America China root dry yellowish white color sweetness taste somewhat resembling licorice combined slight aromatic bitterness 
 TERM Ginshop DEF shop barroom gin sold beverage 
 TERM Gip DEF take entrails (herrings) 
-TERM Gip DEF servant See 
+TERM Gip DEF servant 
 TERM Gipoun DEF short cassock 
 TERM Gipsire DEF 
 TERM Gipser DEF kind pouch formerly worn girdle 
-TERM Gipsy DEF See 
-TERM Gipsyism DEF See 
+TERM Gipsy DEF 
+TERM Gipsyism DEF 
 TERM gipsywort DEF hairy Eurasian herb two-lipped white flowers 
 TERM Giraffa DEF type genus Giraffidae 
 TERM giraffe DEF African ruminant formerly related deers antelopes placed family itself camelopard tallest quadriped animals sometimes twenty feet hoofs top head neck long fore legs much longer hind legs types different patterns spots pelt different territories Intermediate crosses also observed 
@@ -1597,21 +1597,21 @@ TERM Giraffidae DEF natural family mammals including giraffes
 TERM girandole DEF 
 TERM girandola DEF ornate ornamental branched candlestick often mirror back flower stand fountain like branching form kind revolving firework series chambers defensive mines 
 TERM Girasol DEF 
-TERM Girasole DEF See variety opal usually milk white bluish white sky blue bright light reflects reddish color 
+TERM Girasole DEF variety opal usually milk white bluish white sky blue bright light reflects reddish color 
 TERM Gird DEF stroke rod switch severe spasm twinge pang cut sarcastic remark gibe sneer 
 TERM Gird DEF strike smite sneer at mock gibe 
 TERM Gird DEF gibe sneer break scornful jest utter severe sarcasms 
 TERM Gird DEF encircle bind flexible band make fast clothing binding cord girdle bandage etc surround encircle encompass clothe swathe invest prepare make ready equip one's self 
 TERM Girder DEF girds satirist 
-TERM Girder DEF who which girds main beam stright horizontal beam span opening carry weight ends floor beams etc hence framed built-up member discharging office technically called See 
+TERM Girder DEF who which girds main beam stright horizontal beam span opening carry weight ends floor beams etc hence framed built-up member discharging office technically called 
 TERM Girding DEF girded girdle 
 TERM Girdle DEF griddle 
-TERM Girdle DEF girds encircles incloses circumference belt esp belt sash article dress encircling body usually waist cestus zodiac also equator line ofgreatest circumference brilliant-cut diamond grasped setting See thin bed stratum stone clitellus earthworm 
+TERM Girdle DEF girds encircles incloses circumference belt esp belt sash article dress encircling body usually waist cestus zodiac also equator line ofgreatest circumference brilliant-cut diamond grasped setting thin bed stratum stone clitellus earthworm 
 TERM Girdle DEF bind belt sash gird inclose environ shut in make cut gnaw groove around (a tree etc) bark alburnum thus killing it 
 TERM Girdler DEF girdles maker girdles American longicorn beetle lays eggs twigs hickory girdles branch gnawing groove around it thus killing provide suitable food 
 TERM Girdlestead DEF part body girdle worn lap 
-TERM Gire DEF See 
-TERM Girkin DEF See 
+TERM Gire DEF 
+TERM Girkin DEF 
 TERM Girl DEF young person either sex child female child birth age puberty young maiden female servant maidservant roebuck years old 
 TERM girlfriend DEF female friend Mary organized girl young woman man romantically involved kicked 
 TERM Girlhood DEF State time girl 
@@ -1636,7 +1636,7 @@ TERM Gisle DEF pledge
 TERM Gismondite DEF 
 TERM Gismondine DEF native hydrated silicate alumina lime potash first noticed near Rome 
 TERM Gist DEF resting place main point question point action rests pith matter 
-TERM Git DEF See 
+TERM Git DEF 
 TERM Gitano DEF 
 TERM Gitana DEF Spanish gypsy 
 TERM Gite DEF gown 
@@ -1657,7 +1657,7 @@ TERM Giving DEF act bestowing gift conferring imparting gift benefaction act sof
 TERM Gizzard DEF second true muscular stomach birds food crushed ground softened glandular stomach (crop) lower part esophagus gigerium thick muscular stomach found many invertebrate animals 
 TERM G-Jo DEF Chinese Japanese medical treatment symptoms applying pressure fingers specific pressure points body 
 TERM Glabella DEF space eyebrows also including corresponding part frontal bone mesophryon 
-TERM Glabellum DEF median convex lobe head trilobite See 
+TERM Glabellum DEF median convex lobe head trilobite 
 TERM Glabrate DEF Becoming smooth glabrous age 
 TERM Glabriate DEF 
 TERM Glabreate DEF make smooth plain bare 
@@ -1700,10 +1700,10 @@ TERM Gladship DEF state gladness
 TERM Gladsome DEF Pleased joyful cheerful Causing joy pleasure cheerfulness appearance gayety pleasing 
 TERM gladsomeness DEF state experiencing joy pleasure 
 TERM Gladstone DEF four-wheeled pleasure carriage inside seats calash top seats driver footman 
-TERM Gladwyn DEF See 
+TERM Gladwyn DEF 
 TERM Glair DEF white egg used size glaze bookbinding pastry etc viscous transparent substance resembling white egg broadsword fixed pike kind halberd 
 TERM Glair DEF smear white egg 
-TERM Glaire DEF See 
+TERM Glaire DEF 
 TERM Glaireous DEF Glairy covered glair 
 TERM Glairin DEF glairy viscous substance forms surface certain mineral waters covers sides inclosures called also 
 TERM Glairy DEF Like glair partaking qualities covered glair viscous transparent slimy 
@@ -1719,7 +1719,7 @@ TERM Glance DEF shoot emit flash light shine flash strike fly oblique direction 
 TERM Glance DEF shoot dart suddenly obliquely cast moment hint at touch lightly briefly 
 TERM Glancing DEF Shooting light Flying (after striking) oblique direction 
 TERM Glancingly DEF glancing manner transiently incidentally indirectly 
-TERM Gland DEF organ secreting something used in eliminated from body sebaceous skin salivary special organ plants usually minute globular often secretes kind resinous gummy aromatic product movable part stuffing box packing compressed sometimes called See crosspiece bayonet clutch 
+TERM Gland DEF organ secreting something used in eliminated from body sebaceous skin salivary special organ plants usually minute globular often secretes kind resinous gummy aromatic product movable part stuffing box packing compressed sometimes called crosspiece bayonet clutch 
 TERM Glandage DEF feeding nuts mast 
 TERM Glandered DEF Affected glanders 
 TERM Glanderous DEF pertaining glanders nature glanders 
@@ -1736,7 +1736,7 @@ TERM Glandulous DEF Containing glands consisting glands pertaining glands resemb
 TERM Glans DEF vascular body forms apex penis extremity clitoris acorn mast oak similar fruits Goiter 
 TERM Glare DEF shine bright dazzling light look fierce piercing eyes stare earnestly angrily fiercely bright intense certain colors ostentatiously splendid gay 
 TERM Glare DEF shoot out emit dazzling light 
-TERM Glare DEF bright dazzling light splendor dazzles eyes confusing bewildering light fierce piercing look stare viscous transparent substance See smooth bright glassy surface 
+TERM Glare DEF bright dazzling light splendor dazzles eyes confusing bewildering light fierce piercing look stare viscous transparent substance smooth bright glassy surface 
 TERM Glare DEF Smooth bright translucent used almost exclusively ice skating 
 TERM Glareolidae DEF natural family Old World shorebirds pratincoles coursers 
 TERM Glareous DEF Glairy 
@@ -1751,12 +1751,12 @@ TERM glass blower DEF
 TERM glassblower DEF someone skilled creating objects bottles vases decorative practical items molten glass especially occupation make objects blowing shaping hot glass viscous semiliquid state 
 TERM glass blowing DEF 
 TERM glassblowing DEF art process creating glass objects shaping glass reduced heat viscid state using various manipulations hands especially inflating blowing tube process used manufacture wide variety useful ornamental objects manufacture simple glass objects automated complex glass objects still made traditional hand processes 
-TERM Glass-crab DEF larval state genus allied genera remarkable strange outlines thinness transparency See 
+TERM Glass-crab DEF larval state genus allied genera remarkable strange outlines thinness transparency 
 TERM glasscutter DEF cuts grinds designs glass cuts flat glass size 
 TERM glazed DEF 
 TERM glassed DEF fitted covered glass Opposite 
 TERM Glassen DEF Glassy glazed 
-TERM glasses DEF See 
+TERM glasses DEF 
 TERM Glasseye DEF fish great lakes wall-eyed pike species blindness horses eye bright pupil dilated sort amaurosis 
 TERM Glass-faced DEF Mirror-faced reflecting sentiments another 
 TERM Glassful DEF contents glass much anything glass hold 
@@ -1771,7 +1771,7 @@ TERM Glass maker DEF makes manufactures glass
 TERM Glass-rope DEF remarkable vitreous sponge genus first brought Japan long stem consisting bundle long large glassy siliceous fibers twisted together 
 TERM Glass-snail DEF small transparent land snail genus 
 TERM Glass-snake DEF long footless lizard Southern United States called fragility tail easily breaking small pieces grows length feet name applied also similar species found Old World 
-TERM Glass-sponge DEF siliceous sponge genus allied genera called glassy fibers spicules called also See 
+TERM Glass-sponge DEF siliceous sponge genus allied genera called glassy fibers spicules called also 
 TERM Glassware DEF Ware articles collectively made glass 
 TERM Glasswork DEF Manufacture glass articles ornamentation made glass 
 TERM glassworker DEF cuts flat glass size 
@@ -1790,27 +1790,27 @@ TERM Glaucine DEF alkaloid obtained plant bitter white crystalline substance
 TERM Glaucodot DEF metallic mineral grayish tin-white color containing cobalt iron sulphur arsenic 
 TERM Glaucoma DEF Dimness abolition sight diminution transparency bluish greenish tinge refracting media eye hard inelastic condition eyeball marked increase tension within eyeball 
 TERM Glaucomatous DEF nature glaucoma 
-TERM Glaucometer DEF See 
-TERM Glauconite DEF green mineral characteristic greensand chalk formations hydrous silicate iron potash See 
+TERM Glaucometer DEF 
+TERM Glauconite DEF green mineral characteristic greensand chalk formations hydrous silicate iron potash 
 TERM Glaucophane DEF mineral dark bluish color related amphibole characteristic certain crystalline rocks 
 TERM Glaucosis DEF 
 TERM Glaucous DEF sea-green color dull green passing grayish blue Covered fine bloom fine white powder easily rubbed off blue plum cabbage leaf 
 TERM Glaucus DEF genus nudibranchiate mollusks found warmer latitudes swimming open sea mollusks beautifully colored blue silvery white 
 TERM Glaum DEF grope hands dark 
-TERM Glave DEF See 
+TERM Glave DEF 
 TERM Glaver DEF prate jabber babble flatter wheedle 
 TERM Glaverer DEF flatterer 
 TERM Glaymore DEF claymore 
 TERM Glaze DEF furnish (a window house sash case etc) glass incrust cover overlay thin surface consisting of resembling glass hence render smooth glasslike glossy paper gunpowder apply thinly transparent semitransparent color (another color) modify effect cover (a donut cupcake meat etc) thin layer edible syrup substance may solidify glossy coating material used glazing usually sweet highly flavored 
 TERM Glaze DEF become glazed glassy 
-TERM Glaze DEF vitreous coating pottery porcelain anything used coating color glazing See 3 Broth reduced boiling gelatinous paste spread thinly braised dishes glazing oven See 
+TERM Glaze DEF vitreous coating pottery porcelain anything used coating color glazing 3 Broth reduced boiling gelatinous paste spread thinly braised dishes glazing oven 
 TERM glazed DEF shiny surface coating fabrics Lacking liveliness used eyes 
 TERM Glazen DEF Resembling glass glasslike glazed 
 TERM Glazer DEF applies glazing pottery manufacture etc gives glasslike glossy surface anything calenderer smoother cloth paper like tool machine used glazing polishing smoothing etc amoung cutlers lapidaries wooden wheel covered emery band lead tin alloy polishing cutlery etc 
 TERM Glazier DEF business set glass 
 TERM Glazing DEF act art setting glass art covering vitreous glasslike substance polishing rendering glossy glass set set sash frame etc glass glasslike glossy substance surface incrusted overlaid pottery porcelain Transparent semitransparent colors passed thinly colors modify effect 
 TERM Glazy DEF glazed appearance said fractured surface kinds pin iron 
-TERM Glead DEF live coal See 
+TERM Glead DEF live coal 
 TERM Gleam DEF disgorge filth hawk 
 TERM Gleam DEF shoot light small stream light beam ray glimpse Brightness splendor 
 TERM Gleam DEF shoot dart rays light dawn light shine cast light glitter 
@@ -1845,7 +1845,7 @@ TERM Gleet DEF flow thin limpid humor ooze gleet flow slowly water
 TERM Gleety DEF Ichorous thin limpid 
 TERM Gleg DEF Quick perception alert sharp 
 TERM Gleyre DEF 
-TERM Gleire DEF See 
+TERM Gleire DEF 
 TERM Glen DEF secluded narrow valley dale depression hills 
 TERM Glengarry bonnet DEF 
 TERM Glengarry DEF kind Highland Scotch cap men straight sides hollow top sloping back parted held together ribbons strings 
@@ -1853,9 +1853,9 @@ TERM Glenlivet DEF
 TERM Glenlivat DEF kind Scotch whisky named district first made 
 TERM Glenoid DEF form smooth shallow depression socketlike applied several articular surfaces bone cavity fossa scapula head humerus 
 TERM Glenoidal DEF Glenoid 
-TERM Glent DEF See 
+TERM Glent DEF 
 TERM Gleucometer DEF instrument measuring specific gravity ascertaining quantity sugar contained must 
-TERM Glew DEF See 
+TERM Glew DEF 
 TERM Gley DEF squint look obliquely overlook things 
 TERM Gley DEF Asquint askance obliquely 
 TERM Gliadin DEF Vegetable glue gelatin glutin constituents wheat gluten tough amorphous substance resembles animal glue gelatin 
@@ -1884,12 +1884,12 @@ TERM Gliff DEF transient glance unexpected view something startles sudden fear m
 TERM Glike DEF sneer flout 
 TERM Glim DEF Brightness splendor light candle 
 TERM Glimmer DEF give feeble scattered rays light shine faintly show faint unsteady light dawn 
-TERM Glimmer DEF faint unsteady light feeble scattered rays light also gleam Mica See 
+TERM Glimmer DEF faint unsteady light feeble scattered rays light also gleam Mica 
 TERM Glimmering DEF Faint unsteady light glimmer faint view idea glimpse inkling 
 TERM glimmery DEF shining softly intermittently 
 TERM Glimpse DEF sudden flash transient luster short hurried view transitory fragmentary perception quick sight faint idea inkling 
 TERM Glimpse DEF appear glimpses catch glimpses 
-TERM Glimpse DEF catch glimpse of see glimpses short hurried view of 
+TERM Glimpse DEF catch glimpse of glimpses short hurried view of 
 TERM Glint DEF glimpse glance gleam 
 TERM Glint DEF glance peep forth flower bud glitter 
 TERM Glint DEF glance turn 
@@ -1926,14 +1926,14 @@ TERM Globated DEF
 TERM Globate DEF form globe spherical 
 TERM Globe DEF round spherical body solid hollow body surface every part equidistant center ball sphere Anything nearly spherical globular shape eye earth terraqueous ball usually preceded definite article round model world spherical representation earth heavens terrestrial celestial called also body troops men animals drawn circle military formation used Romans answering modern infantry square 
 TERM Globe DEF gather form globe 
-TERM Globefish DEF plectognath fish genera allied genera globefishes suck water air distend body less globular form Called also See 
+TERM Globefish DEF plectognath fish genera allied genera globefishes suck water air distend body less globular form Called also 
 TERM Globeflower DEF plant genus found mountainous parts Europe producing handsome globe-shaped flowers 
 TERM Globe-shaped DEF Shaped like globe 
 TERM globetrot DEF 
 TERM globe-trot DEF travel world pleasure sightseeing 
 TERM Globicephala DEF genus comprising pilot whales 
 TERM Globiferous DEF round globular tip 
-TERM Globigerina DEF genus small Foraminifera live abundantly near surface sea dead shells falling bottom make large part soft mud generally found depths 3000 feet called See 
+TERM Globigerina DEF genus small Foraminifera live abundantly near surface sea dead shells falling bottom make large part soft mud generally found depths 3000 feet called 
 TERM globin DEF colorless protein obtained removing heme hemoglobin protein part hemoglobin 
 TERM Globose DEF rounded form resembling globe globular nearly so spherical 
 TERM Globosely DEF globular manner globularly 
@@ -1992,14 +1992,14 @@ TERM Glorioso DEF boaster
 TERM Glorious DEF Exhibiting attributes qualities acts worthy receive glory noble praiseworthy excellent splendid illustrious inspiring admiration Eager glory distinction haughty boastful ostentatious vainglorious Ecstatic hilarious elated drink 
 TERM Glory DEF Praise honor admiration distinction accorded common consent person thing high reputation honorable fame renown quality person thing secures general praise honor brings gives renown object pride boast occasion praise excellency brilliancy splendor Pride boastfulness arrogance presence Divine Being manifestations divine nature favor blessed heaven celestial honor heaven emanation light supposed proceed peculiar sanctity represented art rays gold like proceeding head body disk mere line 
 TERM Glory DEF exult joy rejoice boast proud 
-TERM Glose DEF See 
-TERM Gloser DEF See 
+TERM Glose DEF 
+TERM Gloser DEF 
 TERM Gloss DEF Brightness luster body proceeding smooth surface polish silk cloth calendered give specious appearance superficial quality show 
 TERM Gloss DEF give superficial luster gloss to make smooth shining 
 TERM Gloss DEF foreign archaic technical uncommon word requiring explanation interpretation consisting words interlinear marginal explanatory note comment running commentary false specious explanation 
 TERM Gloss DEF render clear evident comments illustrate explain annotate give specious appearance to render specious plausible palliate specious explanation 
 TERM Gloss DEF make comments comment explain make sly remarks insinuations 
-TERM Glossa DEF tongue lingua insect See 
+TERM Glossa DEF tongue lingua insect 
 TERM Glossal DEF pertaining tongue lingual 
 TERM Glossanthrax DEF disease horses cattle accompanied carbuncles mouth tongue 
 TERM Glossarial DEF pertaining glosses glossary containing glossary 
@@ -2035,7 +2035,7 @@ TERM Glost oven DEF oven glazed pottery fired also called
 TERM Glottal DEF pertaining to produced by glottis glottic 
 TERM Glottidean DEF 
 TERM Glottic DEF pertaining glottis glottal 
-TERM Glottis DEF opening pharynx larynx trachea See 
+TERM Glottis DEF opening pharynx larynx trachea 
 TERM Glottological DEF pertaining glottology 
 TERM Glottologist DEF linguist philologist 
 TERM Glottology DEF science tongues languages comparative philology glossology 
@@ -2054,7 +2054,7 @@ TERM Glower DEF look intently stare angrily scowl
 TERM glowering DEF cheerless aspect disposition 
 TERM glowing DEF softly bright radiant highly enthusiastic brilliantly colored apparently giving light afire 
 TERM Glowingly DEF glowing manner ardent heat passion 
-TERM Glowlamp DEF aphlogistic lamp See incandescent lamp See 
+TERM Glowlamp DEF aphlogistic lamp incandescent lamp 
 TERM Glowworm DEF coleopterous insect genus esp wingless females European species emit light abdominal segments 
 TERM Gloxinia DEF American genus herbaceous plants handsome bell-shaped blossoms named B P German botanist 
 TERM Gloze DEF flatter wheedle fawn talk smoothly give specious false meaning ministerpret 
@@ -2065,10 +2065,10 @@ TERM Glucic DEF Pertaining to obtained from sugar
 TERM Glucina DEF white gray tasteless powder oxide element glucinum formerly called 
 TERM Glucinic DEF Pertaining to derived from containing glucinum 
 TERM Glucinum DEF rare metallic element silver white color low specific gravity (21) resembling magnesium never occurs naturally free state always combined usually silica alumina both minerals phenacite chrysoberyl beryl emerald euclase danalite named oxide glucina known long element isolated Symbol Gl Atomic weight 91 Called also 
-TERM Glucogen DEF See 
+TERM Glucogen DEF 
 TERM Glucogenesis DEF Glycogenesis 
 TERM Gluconic DEF Pertaining to derived from glucose 
-TERM Glucose DEF variety sugar occurring nature abundantly ripe grapes honey produced great quantities starch etc action heat acids half sweet cane sugar Called also See large class sugars isometric glucose proper including levulose galactose etc trade name sirup obtained uncrystallizable reside manufacture glucose proper containing addition dextrose glucose also maltose dextrin etc used cheap adulterant sirups beers etc 
+TERM Glucose DEF variety sugar occurring nature abundantly ripe grapes honey produced great quantities starch etc action heat acids half sweet cane sugar Called also large class sugars isometric glucose proper including levulose galactose etc trade name sirup obtained uncrystallizable reside manufacture glucose proper containing addition dextrose glucose also maltose dextrin etc used cheap adulterant sirups beers etc 
 TERM Glucoside DEF large series amorphous crystalline substances occurring widely distributed plants rarely animals regarded influental agents formation disposition sugars frequently bitter taste but action ferments dilute acids alkalies always break characteristic substance (acid aldehyde alcohol phenole alkaloid) (or sugar) hence name nature complex compound ethers ethereal salts sugar carbohydrates 
 TERM Glucosuria DEF condition glucose discharged urine diabetes mellitus 
 TERM Glue DEF hard brittle brownish gelatin obtained boiling jelly skins hoofs etc animals gently heated water becomes viscid tenaceous used cement uniting substances name also given adhesive viscous substances 
@@ -2125,7 +2125,7 @@ TERM Glycerate DEF salt glyceric acid
 TERM Glyceric DEF Pertaining to derived from glycerin 
 TERM Glyceride DEF compound ether (formed glycerides exist ready formed natural fats produced artificially 
 TERM Glycerine DEF 
-TERM Glycerin DEF oily viscous liquid colorless odorless hot sweetish taste existing natural fats oils base combined various acids oleic margaric stearic palmitic may obtained saponification fats oils triatomic alcohol hence also called See Note 
+TERM Glycerin DEF oily viscous liquid colorless odorless hot sweetish taste existing natural fats oils base combined various acids oleic margaric stearic palmitic may obtained saponification fats oils triatomic alcohol hence also called Note 
 TERM Glycerite DEF medicinal preparation made mixing dissolving substance glycerin 
 TERM Glycerol DEF 
 TERM Clycerole DEF 
@@ -2158,12 +2158,12 @@ TERM Glycyrrhiza DEF genus papilionaceous herbaceous plants species licorice pla
 TERM Glycyrrhizimic DEF From pertaining to glycyrrhizin 
 TERM Glycyrrhizin DEF glucoside found licorice root monesia bark root walnut etc extracted yellow amorphous powder bittersweet taste 
 TERM Glynne DEF 
-TERM Glyn DEF glen See singly occurring often locative names Ireland 
+TERM Glyn DEF glen singly occurring often locative names Ireland 
 TERM Glyoxal DEF white amorphous deliquescent powder obtained partial oxidation glycol double aldehyde glycol oxalic acid 
 TERM Glyoxalic DEF Pertaining to designating aldehyde acid intermediate glycol oxalic acid 
 TERM Glyoxaline DEF white crystalline organic base produced action ammonia glyoxal forming origin large class derivatives hence series glyoxaline type called also 
-TERM Glyoxime DEF white crystalline nitrogenous substance produced action hydroxylamine glyoxal belonging class also group substances resembling glyoxime proper type See 
-TERM Glyph DEF sunken channel groove usually vertical See carved figure character incised relief carved pictograph hence pictograph representing form originally adopted sculpture whether carved painted 
+TERM Glyoxime DEF white crystalline nitrogenous substance produced action hydroxylamine glyoxal belonging class also group substances resembling glyoxime proper type 
+TERM Glyph DEF sunken channel groove usually vertical carved figure character incised relief carved pictograph hence pictograph representing form originally adopted sculpture whether carved painted 
 TERM Glyphic DEF pertaining sculpture carving sort esp glyphs 
 TERM Glyphograph DEF plate made glyphography impression taken plate 
 TERM Glyphographic DEF pertaining glyphography 
@@ -2188,13 +2188,13 @@ TERM Gnarly DEF Full knots knotty twisted crossgrained
 TERM Gnash DEF strike together anger pain 
 TERM Gnash DEF grind strike teeth together 
 TERM Gnashingly DEF gnashing 
-TERM Gnat DEF blood-sucking dipterous fly genus undergoing metamorphosis water females proboscis armed needlelike organs penetrating skin animals wanting males America generally called See fly resembling Culex form habits esp America small biting fly genus allies buffalo gnat black fly etc 
+TERM Gnat DEF blood-sucking dipterous fly genus undergoing metamorphosis water females proboscis armed needlelike organs penetrating skin animals wanting males America generally called fly resembling Culex form habits esp America small biting fly genus allies buffalo gnat black fly etc 
 TERM Gnathic DEF pertaining jaw 
 TERM Gnathidium DEF ramus lower jaw bird far naked commonly used plural 
 TERM Gnathite DEF mouth appendages Arthropoda known mandibles maxillipeds 
 TERM Gnathonical DEF 
 TERM Gnathonic DEF Flattering deceitful 
-TERM Gnathopod DEF gnathopodite maxilliped See 
+TERM Gnathopod DEF gnathopodite maxilliped 
 TERM Gnathopodite DEF leglike appendage crustacean modified wholly part serve jaw esp maxillipeds 
 TERM Gnathostegite DEF pair broad plates developed outer maxillipeds crabs forming cover mouth organs 
 TERM Gnathostoma DEF comprehensive division vertebrates including distinct jaws contrast leptocardians marsipobranchs lack them 
@@ -2265,7 +2265,7 @@ TERM Goat's beard DEF weedy European annual yellow flowers genus named long silk
 TERM goatsfoot DEF short-stemmed South African plant bluish flowers 
 TERM Goatskin DEF skin goat leather made it 
 TERM Goatsucker DEF several species insectivorous birds belonging allied genera esp European species called mistaken notion sucks goats European species also 
-TERM Goaves DEF Old workings See 
+TERM Goaves DEF Old workings 
 TERM Gob DEF 
 TERM Gob DEF little mass collection small quantity mouthful mouth 
 TERM Gob DEF 
@@ -2282,7 +2282,7 @@ TERM gobbledegook DEF incomprehensible pompous jargon specialists psychoanalytic
 TERM Gobbler DEF turkey cock bubbling Jock 
 TERM Gobelin DEF Pertaining tapestry produced so-called works maintained French Government since 1667 
 TERM Gobemouche DEF Literally fly swallower hence keeps mouth open boor silly credulous person 
-TERM Gobet DEF See 
+TERM Gobet DEF 
 TERM Go-between DEF negotiator acts link parties intermediate agent broker procurer sometimes disparaging sense 
 TERM Gobiidae DEF natural family fish comprising gobies 
 TERM Gobio DEF genus fish comprising true gudgeons 
@@ -2299,7 +2299,7 @@ TERM gocart DEF framework moving casters designed support children learning walk
 TERM God DEF Good 
 TERM God DEF conceived possessing supernatural power propitiated sacrifice worship etc divinity deity object worship idol Supreme Being eternal infinite Spirit Creator Sovereign universe Jehovah person thing deified honored chief good object supreme regard Figuratively applied wields great despotic power 
 TERM God DEF treat god idolize 
-TERM Godchild DEF person becomes sponsor baptism promises see educated Christian godson goddaughter See 
+TERM Godchild DEF person becomes sponsor baptism promises educated Christian godson goddaughter 
 TERM goddamned DEF 
 TERM goddamn DEF 
 TERM goddam DEF intense vulgar form often taken profane offensive 
@@ -2324,13 +2324,13 @@ TERM Godling DEF diminutive god
 TERM Godly DEF Pious reverencing God character laws obedient commands God love for reverence of character conformed God's law devout righteous 
 TERM Godly DEF Piously devoutly righteously 
 TERM Godlyhead DEF Goodness 
-TERM Godmother DEF woman becomes sponsor child baptism See 
+TERM Godmother DEF woman becomes sponsor child baptism 
 TERM Godown DEF warehouse 
 TERM Godroon DEF ornament produced notching carving rounded molding 
 TERM Godsend DEF Something sent God unexpected acquisiton piece good fortune 
 TERM Godship DEF rank character god deity divinity god goddess 
 TERM Godsib DEF gossip 
-TERM Godson DEF male stood sponsor baptism See 
+TERM Godson DEF male stood sponsor baptism 
 TERM Godspeed DEF Success prosperous journeying contraction phrase 
 TERM Godward DEF Toward God 
 TERM Godwit DEF several species long-billed wading birds genus family European black-tailed godwit American marbled godwit Hudsonian godwit others valued game birds Called also 
@@ -2343,8 +2343,8 @@ TERM Goethean DEF pertaining
 TERM goethite DEF oxide iron 
 TERM Goety DEF Invocation evil spirits witchcraft 
 TERM Goff DEF silly clown 
-TERM Goff DEF game See 
-TERM Goffer DEF plait flute crimp See 
+TERM Goff DEF game 
+TERM Goffer DEF plait flute crimp 
 TERM Gog DEF Haste ardent desire go 
 TERM go-getter DEF person disposed initiate action rather take instructions enterprising person person strong drive accomplish useful goals especially career progresses rapidly 
 TERM Goggle DEF roll eyes stare 
@@ -2354,7 +2354,7 @@ TERM Goggled DEF Prominent staring eye
 TERM Goggle-eye DEF species American fresh-water fishes family esp Lake Michigan adjacent waters Great Lakes Mississippi Valley called prominent eyes 
 TERM Goggle-eyed DEF prominent distorted rolling eyes 
 TERM Goggler DEF carangoid oceanic fish large prominent eyes called also 
-TERM Goglet DEF See 
+TERM Goglet DEF 
 TERM Going DEF act moving manner traveling Departure Pregnancy gestation childbearing Course life behavior doings ways 
 TERM Going DEF goes existence available present use enjoyment current obtainable also moving working operation departing brightest men prices 
 TERM Goitre DEF 
@@ -2374,7 +2374,7 @@ TERM Gold-beating DEF art process reducing gold extremely thin leaves beating ha
 TERM Gold-bound DEF Encompassed gold 
 TERM goldbrick DEF idle worthless person 
 TERM goldbricking DEF evasion work duty 
-TERM Goldcrest DEF European golden-crested kinglet called also name also sometimes applied American golden-crested kinglet See 
+TERM Goldcrest DEF European golden-crested kinglet called also name also sometimes applied American golden-crested kinglet 
 TERM Goldcup DEF cuckoobud 
 TERM Golden DEF Made gold consisting gold color gold precious highly valuable excellent eminently auspicious 
 TERM goldenbush DEF plant genus various much-branched yellow-flowered shrubs genus growing Western North America 
@@ -2389,22 +2389,22 @@ TERM goldfield DEF district gold mined
 TERM goldfields DEF small slender woolly annual narrow opposite leaves branches bearing solitary golden-yellow flower heads grows Southwestern Oregon Baja California Arizona often cultivated 
 TERM Goldfinch DEF beautiful bright-colored European finch name refers large patch yellow wings front head throat bright red nape part wings tail black called also 
 TERM Goldfinny DEF species European labroid fishes called also 
-TERM Goldfish DEF small domesticated cyprinoid fish named color native China said introduced Europe 1691 often kept ornament small ponds glass globes Many varieties known Called also See 
+TERM Goldfish DEF small domesticated cyprinoid fish named color native China said introduced Europe 1691 often kept ornament small ponds glass globes Many varieties known Called also 
 TERM Gold-hammer DEF yellow-hammer 
 TERM Goldie DEF European goldfinch 
 TERM Goldilocks DEF 
 TERM Golding DEF 
 TERM Goldin DEF conspicuous yellow flower commonly corn marigold 
 TERM Goldless DEF Destitute gold 
-TERM Goldney DEF See 
+TERM Goldney DEF 
 TERM gold-of-pleasure DEF annual European false flax small white flowers cultivated since Neolithic times source fiber oil-rich seeds widely naturalized North America 
 TERM Goldseed DEF Dog's-tail grass 
-TERM Goldsinny DEF See 
+TERM Goldsinny DEF 
 TERM Goldsmith DEF artisan manufactures vessels ornaments etc gold banker 
-TERM Goldtit DEF See 
+TERM Goldtit DEF 
 TERM Goldylocks DEF plant several species genus called tufts yellow flowers terminate stems also kind buttercup 
 TERM Golet DEF gullet 
-TERM Golet DEF California trout See 
+TERM Golet DEF California trout 
 TERM Golf DEF game played small ball bat club crooked lower end drives ball series small holes ground brings last hole fewest strokes winner 
 TERM Golf DEF play golf 
 TERM golf cart DEF 
@@ -2413,25 +2413,25 @@ TERM golf club DEF
 TERM golfclub DEF implement used golfer hit golf ball 
 TERM Golfer DEF plays golf 
 TERM golfing DEF act playing golf 
-TERM Golgotha DEF Calvary See Note 
+TERM Golgotha DEF Calvary Note 
 TERM Goliard DEF buffoon Middle Ages attended rich men's tables make sport guests ribald stories songs 
 TERM Goliardery DEF satirical ribald poetry Goliards 
 TERM Goliath beetle DEF species genus large handsome African beetles 
 TERM Goll DEF hand paw claw 
 TERM Goloe-shoe DEF galoche 
-TERM Golore DEF See 
-TERM Goloshe DEF See 
+TERM Golore DEF 
+TERM Goloshe DEF 
 TERM Goltschut DEF small ingot gold silver ingot used Japan money 
-TERM Golyardeys DEF buffoon See 
+TERM Golyardeys DEF buffoon 
 TERM Goman DEF husband master family 
 TERM Gomarite DEF 
 TERM Gomarist DEF followers Dutch disciple Calvin 17th century strongly opposed Arminians 
-TERM Gombo DEF See 
+TERM Gombo DEF 
 TERM Gome DEF man 
-TERM Gome DEF black grease axle cart wagon wheel called also See 
-TERM Gomer DEF Hebrew measure See 
+TERM Gome DEF black grease axle cart wagon wheel called also 
+TERM Gomer DEF Hebrew measure 
 TERM Gomer DEF conical chamber breech bore heavy ordnance especially mortars named inventor 
-TERM Gommelin DEF See 
+TERM Gommelin DEF 
 TERM Gomphiasis DEF disease teeth causes loosen fall sockets 
 TERM Gomphosis DEF form union immovable articulation hard part received cavity bone teeth jaws 
 TERM Gomuti DEF black fibrous substance resembling horsehair obtained leafstalks kinds palms Indian islands used making cordage Called also 
@@ -2439,11 +2439,11 @@ TERM Gon DEF & p
 TERM Gonad DEF masses generative tissue primitively alike sexes giving rise either ovary testis generative gland germ gland 
 TERM gonadotropin DEF hormone secreted pituitary gland placenta stimulates gonads controls reproductive activity 
 TERM Gonakie DEF African timber tree 
-TERM Gonangium DEF See 
+TERM Gonangium DEF 
 TERM Gondola DEF long narrow boat high prow stern used canals Venice gondola usually propelled oarsmen stand facing prow poling gondola passengers small open cabin amidships protection sun rain sumptuary law Venice required gondolas painted black customarily painted now flat-bottomed boat freight long platform car either sides low sides used railroads elongated car dirigible 
 TERM Gondolet DEF small gondola 
 TERM Gondolier DEF man rows gondola 
-TERM Gondwanaland DEF hypothetical continent (according plate tectonic theory) broke later India Australia Africa South America Antarctica See 
+TERM Gondwanaland DEF hypothetical continent (according plate tectonic theory) broke later India Australia Africa South America Antarctica 
 TERM Gone DEF 
 TERM Goneness DEF state exhaustion faintness especially resulting hunger 
 TERM Gonfanon DEF 
@@ -2471,14 +2471,14 @@ TERM Gonocalyx DEF bell sessile gonozooid
 TERM Gonochorism DEF Separation sexes different individuals opposed 
 TERM Gonococcus DEF microorganism (Neisseria gonnorrhoeae) genus (formerly found secretion gonorrhea constituting cause disease 
 TERM Gonoph DEF pickpocket thief 
-TERM Gonophore DEF sexual zooid produced medusoid bud upon hydroid sometimes becoming free hydromedusa sometimes remaining attached See lengthened receptacle bearing stamens carpels conspicuous manner 
+TERM Gonophore DEF sexual zooid produced medusoid bud upon hydroid sometimes becoming free hydromedusa sometimes remaining attached lengthened receptacle bearing stamens carpels conspicuous manner 
 TERM gonorrhoea DEF 
 TERM gonorrhea DEF contagious inflammatory disease genitourinary tract affecting especially urethra vagina characterized mucopurulent discharge pain urination chordee clap caused infection bacterium commonly transmitted sexual intercourse 
 TERM Gonorrhoeal DEF 
 TERM Gonorrheal DEF pertaining gonorrhea 
 TERM Gonosome DEF reproductive zooids hydroid colony collectively 
-TERM Gonotheca DEF capsule developed certain hydroids inclosing blastostyle upon medusoid buds gonophores developed called also See 
-TERM Gonozooid DEF sexual zooid medusoid bud hydroid gonophore See 
+TERM Gonotheca DEF capsule developed certain hydroids inclosing blastostyle upon medusoid buds gonophores developed called also 
+TERM Gonozooid DEF sexual zooid medusoid bud hydroid gonophore 
 TERM Gonydial DEF Pertaining gonys bird's beak 
 TERM Gonys DEF keel lower outline bird's bill far mandibular rami united 
 TERM Goober DEF peanut 
@@ -2487,12 +2487,12 @@ TERM Good DEF possesses desirable qualities promotes success welfare happiness s
 TERM Good DEF Well especially phrase following expressed implied equally well much advantage little harm possible 
 TERM Good DEF make good turn good manure improve 
 TERM Good-bye DEF 
-TERM Good-by DEF Farewell form address used parting See last Note 
+TERM Good-by DEF Farewell form address used parting last Note 
 TERM Good-den DEF form salutation 
 TERM Good-fellowship DEF Agreeable companionship companionableness 
 TERM Goodgeon DEF 5 
 TERM good-hearted DEF benevolent 
-TERM Good-humored DEF cheerful spirit demeanor cheerful good-tempered See Disposed please 
+TERM Good-humored DEF cheerful spirit demeanor cheerful good-tempered Disposed please 
 TERM Good-humoredly DEF cheerful spirit cheerful good-tempered manner 
 TERM good-humoured DEF 
 TERM Goodish DEF Rather good contrary actually bad tolerable 
@@ -2510,9 +2510,9 @@ TERM Good-natured DEF Naturally mild temper easily provoked amiable cheerful tak
 TERM Good-naturedly DEF mildness temper 
 TERM Goodness DEF quality good various senses excellence virtue kindness benevolence timber soil food character disposition conduct 
 TERM Good now DEF exclamation wonder surprise entreaty 
-TERM Goods DEF See 3 
+TERM Goods DEF 3 
 TERM Goodship DEF Favor grace 
-TERM Good-tempered DEF good temper easily vexed irritated See 
+TERM Good-tempered DEF good temper easily vexed irritated 
 TERM good-time DEF occupied fond pleasures good company real 
 TERM Goodwife DEF mistress house 
 TERM Goody DEF bonbon cake like usually American fish lafayette spot 
@@ -2534,12 +2534,12 @@ TERM googly DEF cricket ball bowled break way actually breaks opposite way
 TERM goo-goo DEF 
 TERM Guru DEF 
 TERM Gooroo DEF spiritual teacher guide confessor among Hindus guru expert knowledge technical area serves advisor others expert teacher Usually written intellectual spiritual guide advisor mentor Usually written 
-TERM Goosander DEF species merganser Northern Europe America called also See 
-TERM Goose DEF large web-footen bird subfamily belonging several allied genera See large bird related families resembling common goose tailor's smoothing iron called handle resembles neck goose silly creature simpleton game played counters board divided compartments goose depicted 
+TERM Goosander DEF species merganser Northern Europe America called also 
+TERM Goose DEF large web-footen bird subfamily belonging several allied genera large bird related families resembling common goose tailor's smoothing iron called handle resembles neck goose silly creature simpleton game played counters board divided compartments goose depicted 
 TERM Gooseberry DEF thorny shrub genus also edible berries shrub several species commonly cultivated silly person goose cap 
 TERM goose bumps DEF 
 TERM Goose egg DEF games zero score record naught named allusion egglike outline zero sign 0 Called also bump skin caused blow especially head 
-TERM Goosefish DEF See 
+TERM Goosefish DEF 
 TERM gooseflesh DEF peculiar roughness skin produced cold fear hair follicles become erect form bumps skin called also 
 TERM Goosefoot DEF genus herbs mostly annual weeds pigweed 
 TERM goose-grass DEF low-growing perennial leaves silvery beneath foundin Northern U S Europe Asia 
@@ -2555,7 +2555,7 @@ TERM Goost DEF Ghost spirit
 TERM Goot DEF goat 
 TERM Go-out DEF sluice embankments sea letting land waters tide out 
 TERM GOP DEF Republican Party younger major political parties U S 
-TERM Gopher DEF several North American burrowing rodents genera family called also See several western American species genus family as gray gopher striped gopher called also prairie See large land tortoise Southern United States makes extensive burrows large burrowing snake Southern United States 
+TERM Gopher DEF several North American burrowing rodents genera family called also several western American species genus family as gray gopher striped gopher called also prairie large land tortoise Southern United States makes extensive burrows large burrowing snake Southern United States 
 TERM Gopher State DEF Minnesota nickname alluding abundance gophers 
 TERM Gopherus DEF genus comprising gopher tortoises North AMerican burrowing toroises 
 TERM Gopher wood DEF species wood used construction Noah's ark 
@@ -2566,10 +2566,10 @@ TERM Goramy DEF
 TERM Gor-bellied DEF Bog-bellied 
 TERM Gor-belly DEF prominent belly big-bellied person 
 TERM Gorce DEF pool water keep fish in wear 
-TERM Gorcock DEF moor cock red grouse See 
+TERM Gorcock DEF moor cock red grouse 
 TERM Gorcrow DEF carrion crow called also 
 TERM Gord DEF instrument gaming sort dice 
-TERM Gordiacea DEF division nematoid worms including hairworms hair eels See Appendix 
+TERM Gordiacea DEF division nematoid worms including hairworms hair eels Appendix 
 TERM Gordian DEF Pertaining king Phrygia knot tied him hence intricate complicated inextricable Pertaining Gordiacea 
 TERM Gordian DEF Gordiacea 
 TERM Gordius DEF genus long slender nematoid worms parasitic insects near maturity leave insect live water deposit eggs called also absurd common widely diffused notion metamorphosed horsehairs 
@@ -2585,12 +2585,12 @@ TERM Gorge DEF eat greedily satiety
 TERM Gorged DEF gorge throat Bearing coronet ring neck Glutted fed full 
 TERM Gorgelet DEF small gorget humming bird 
 TERM Gorgeous DEF Imposing splendid various colors showy fine magnificent 
-TERM Gorgerin DEF columns part capital termination shaft annulet echinus space neck moldings called also See 
+TERM Gorgerin DEF columns part capital termination shaft annulet echinus space neck moldings called also 
 TERM Gorget DEF piece armor whether chain mail plate defending throat upper part breast forming part double breastplate 14th century piece plate armor covering parts worn buff coat 17th century without steel armor small ornamental plate usually crescent-shaped gilded copper formerly hung around neck officers full uniform modern armies ruff worn women cutting instrument used lithotomy crescent-shaped colored patch neck bird mammal 
-TERM Gorgon DEF fabled sisters Stheno Euryale Medusa snaky hair terrific aspect sight turned beholder stone name particularly given Medusa Anything ugly horrid brindled gnu See 
+TERM Gorgon DEF fabled sisters Stheno Euryale Medusa snaky hair terrific aspect sight turned beholder stone name particularly given Medusa Anything ugly horrid brindled gnu 
 TERM Gorgon DEF Like Gorgon ugly terrific 
-TERM Gorgonacea DEF See 
-TERM Gorgonean DEF See 1 
+TERM Gorgonacea DEF 
+TERM Gorgonean DEF 1 
 TERM Gorgoneion DEF mask carved imitation Gorgon's head 
 TERM Gorgonia DEF genus Gorgoniacea formerly extensive restricted species West Indian sea fan sea plume allied species flexible horny axis slender branched gorgonian 
 TERM Gorgoniacea DEF principal divisions Alcyonaria including forms firm usually branched axis covered porous crust polyp cells situated 
@@ -2603,18 +2603,18 @@ TERM Gorilla DEF large arboreal anthropoid ape West Africa larger man remarkable
 TERM Goring cloth DEF 
 TERM Goring DEF piece canvas cut obliquely widen sail foot 
 TERM Gorky DEF industrial city European part Soviet Russia 
-TERM Gorm DEF Axle grease See 
+TERM Gorm DEF Axle grease 
 TERM Gorm DEF daub hands clothing gorm daub anything sticky 
 TERM Gorma DEF European cormorant 
 TERM Gormand DEF greedy ravenous eater 
 TERM Gormand DEF Gluttonous voracious 
-TERM Gormander DEF See 
+TERM Gormander DEF 
 TERM Gormandism DEF Gluttony 
 TERM Gourmandize DEF 
 TERM Gormandize DEF eat greedily swallow voraciously feed ravenously like glutton make pig oneself 
 TERM Gormandizer DEF greedy voracious eater gormand glutton 
 TERM Goroon shell DEF large handsome marine univalve shell 
-TERM Gorse DEF Furze See 
+TERM Gorse DEF Furze 
 TERM Gory DEF Covered gore clotted blood Bloody murderous 
 TERM Gosainthan DEF mountain Tibet 26287 feet high 
 TERM gosan-chiku DEF small bamboo Southeastern China slender culms flexuous young 
@@ -2645,17 +2645,17 @@ TERM Gossipry DEF Spiritual relationship affinity gossiprede special intimacy Id
 TERM Gossipy DEF Full of given to gossip 
 TERM Gossoon DEF boy servant 
 TERM Gossypium DEF genus plants yield cotton arts species much confused name given common cotton plant long-stapled sea-island cotton produced shrubby variety several kinds besides these 
-TERM Got DEF & p See 
+TERM Got DEF & p 
 TERM gotcha DEF Got you got you 
-TERM gotcha DEF situation mistake person pointed another person see situation error indiscretion person deliberately caused another person mild form entrapment malicious humorous intent furious victim situation attribute tends cause make error main learning English frequency non-phonetic 
+TERM gotcha DEF situation mistake person pointed another person situation error indiscretion person deliberately caused another person mild form entrapment malicious humorous intent furious victim situation attribute tends cause make error main learning English frequency non-phonetic 
 TERM Gote DEF channel water 
 TERM Goteborg DEF port southwestern Sweden second largest city Sweden 
 TERM Goter DEF gutter 
 TERM Goth DEF ancient Teutonic race dwelt Elbe Vistula early part Christian era overran took important part subverting Roman empire rude uncivilized barbarian rude ignorant person 
 TERM Gothamist DEF wiseacre person deficient wisdom called Gotham Nottinghamshire England noted pleasant blunders 
 TERM Gothamite DEF gothamist inhabitant New York city 
-TERM Gothic DEF Pertaining Goths also rude barbarous pertaining style architecture pointed arches steep roofs windows large proportion wall spaces and generally great height proportion dimensions prevalent Western Europe 1200 1475 See 
-TERM Gothic DEF language Goths especially language part Visigoths settled Moesia 4th century See kind square-cut type hair lines style described 2 
+TERM Gothic DEF Pertaining Goths also rude barbarous pertaining style architecture pointed arches steep roofs windows large proportion wall spaces and generally great height proportion dimensions prevalent Western Europe 1200 1475 
+TERM Gothic DEF language Goths especially language part Visigoths settled Moesia 4th century kind square-cut type hair lines style described 2 
 TERM Gothicism DEF Gothic idiom Conformity Gothic style architecture Rudeness manners barbarousness 
 TERM Gothicize DEF make Gothic bring back barbarism 
 TERM goethite DEF 
@@ -2670,27 +2670,27 @@ TERM Goud DEF Woad
 TERM Goudron DEF small fascine fagot steeped wax pitch glue used various ways igniting buildings works light ditches ramparts 
 TERM Gouge DEF chisel hollow semicylindrical blade scooping cutting holes channels grooves wood stone etc similar instrument curved edge turning wood bookbinder's tool blind tooling gilding face forms curve incising tool cuts forms blanks gloves envelopes etc leather paper etc Soft material lying wall vein solid vein act scooping gouge gouge groove cavity scooped out gouge Imposition cheat fraud also impostor cheat trickish person 
 TERM Bouge DEF scoop gouge scoop out eye thumb nail force eye (a person) thumb cheat bargain chouse 
-TERM Gouger DEF See 
-TERM Gougeshell DEF sharp-edged tubular marine shell genus also pinna See 
+TERM Gouger DEF 
+TERM Gougeshell DEF sharp-edged tubular marine shell genus also pinna 
 TERM Goujere DEF venereal disease 
-TERM Gouland DEF See 
+TERM Gouland DEF 
 TERM Goulards extract DEF aqueous solution subacetate lead used lotion cases inflammation Goulard's cerate cerate containing extract 
-TERM Gour DEF fire worshiper Gheber Gueber See 
+TERM Gour DEF fire worshiper Gheber Gueber 
 TERM Goura DEF several species large crested ground pigeons genus inhabiting New Guinea adjacent islands Queen Victoria pigeon crowned pigeon among best known species 
 TERM Gourami DEF largo East Indian freshwater fish extensively reared artificial ponds tropical countries highly valued food fish Many unsuccessful efforts made introduce Southern Europe 
 TERM Gourd DEF fleshy three-celled many-seeded fruit melon pumpkin cucumber etc order especially bottle gourd occurs great variety forms and interior part removed serves bottles dippers cups dishes dipper vessel made shell gourd hence drinking vessel bottle 
-TERM Gourd DEF false die See 
+TERM Gourd DEF false die 
 TERM Gourde DEF 
 TERM Gourd DEF silver dollar called Cuba Haiti etc 
 TERM Gourdiness DEF state gourdy 
 TERM Gourd tree DEF tree (the calabash tree) West Indies Central America 
-TERM Gourdworm DEF fluke sheep See 
+TERM Gourdworm DEF fluke sheep 
 TERM Gourdy DEF Swelled legs 
-TERM Gourmand DEF greedy ravenous eater glutton See 
+TERM Gourmand DEF greedy ravenous eater glutton 
 TERM gourmandize DEF 
 TERM Gourmet DEF connoisseur eating drinking epicure 
-TERM Gournet DEF fish See 
-TERM Gout DEF drop clot coagulation constitutional disease occurring paroxysms consists inflammation fibrous ligamentous parts joints almost always attacks first great toe next smaller joints may attack greater articulations attended various sympathetic phenomena particularly digestive organs may also attack internal organs stomach intestines etc inherited disease purine metaboism causes increased level uric acid blood leads deposition crystals sodium urate cartilage within joints connective tissue alleviated diet low purines treated drugs block formation uric acid disease cornstalks See 
+TERM Gournet DEF fish 
+TERM Gout DEF drop clot coagulation constitutional disease occurring paroxysms consists inflammation fibrous ligamentous parts joints almost always attacks first great toe next smaller joints may attack greater articulations attended various sympathetic phenomena particularly digestive organs may also attack internal organs stomach intestines etc inherited disease purine metaboism causes increased level uric acid blood leads deposition crystals sodium urate cartilage within joints connective tissue alleviated diet low purines treated drugs block formation uric acid disease cornstalks 
 TERM Gout DEF Taste relish 
 TERM Goutily DEF gouty manner 
 TERM Goutiness DEF state gouty gout 
@@ -2719,7 +2719,7 @@ TERM Gowan DEF daisy mountain daisy Decomposed granite
 TERM Gowany DEF Having abounding in decked with daisies 
 TERM Gowd DEF Gold wealth 
 TERM Gowden DEF Golden 
-TERM Gowdie DEF See 
+TERM Gowdie DEF 
 TERM Gowdnook DEF saury pike called also gofnick 
 TERM Gowk DEF make a booby one) stupefy 
 TERM Gowk DEF European cuckoo called also gawky simpleton gawk gawky 
@@ -2728,9 +2728,9 @@ TERM Gown DEF loose flowing upper garment loose wrapper worn gentlemen within do
 TERM Gowned DEF Dressed gown clad 
 TERM Gownman DEF 
 TERM Gownsman DEF professional habit gown divine lawyer particularly member English university hence civilian distinction soldier 
-TERM Gozzard DEF See 
+TERM Gozzard DEF 
 TERM Graafian DEF Pertaining to discovered by de Dutch physician 
-TERM Graal DEF See dish 
+TERM Graal DEF dish 
 TERM Grab DEF vessel used Malabar coast masts 
 TERM Grab DEF gripe suddenly seize snatch clutch 
 TERM Grab DEF sudden grasp seizure instrument clutching objects purpose raising them specially applied devices withdrawing drills etc artesian wells drilled bored driven 
@@ -2750,7 +2750,7 @@ TERM Gracillariidae DEF
 TERM Gracious DEF Abounding grace mercy manifesting love bestowing mercy characterized grace beneficent merciful disposed show kindness favor condescending Abounding beauty loveliness amiability graceful excellent Produced divine grace influenced controlled divine influence 
 TERM Graciously DEF gracious manner courteously benignantly Fortunately luckily 
 TERM Graciousness DEF Quality gracious 
-TERM Grackle DEF several American blackbirds family rusty grackle boat-tailed grackle (see Boat-tail) purple grackle See 
+TERM Grackle DEF several American blackbirds family rusty grackle boat-tailed grackle (see Boat-tail) purple grackle 
 TERM Gradate DEF grade arrange (parts whole colors painting etc) shall harmonize bring certain strength grade concentration gradate saline 
 TERM Gradation DEF act progressing regular steps orderly arrangement state graded arranged ranks gradation act process bringing certain grade degree relative position order series gradual passing tint another darker lighter shade painting drawing diatonic ascending descending succession chords 
 TERM Gradation DEF form gradations 
@@ -2776,16 +2776,16 @@ TERM Gradually DEF gradual manner degree
 TERM Gradualness DEF quality state gradual regular progression gradation slowness 
 TERM Graduate DEF mark degrees divide regular steps grades intervals scale thermometer scheme punishment rewards etc admit elevate certain grade degree esp college university admit close course honorable standing defined diploma graduated Yale prepare gradually arrange temper modify degrees certain degree determine degrees of graduate heat bring certain degree consistency evaporation fluid 
 TERM Graduate DEF pass degrees change gradually shade off sandstone gneiss carnelian sometimes taper tail certain birds take degree college university become graduate receive diploma 
-TERM Graduate DEF received academical professional degree completed prescribed course study school institution learning graduated cup tube flask cylinder glass measuring container used apothecaries chemists See 
+TERM Graduate DEF received academical professional degree completed prescribed course study school institution learning graduated cup tube flask cylinder glass measuring container used apothecaries chemists 
 TERM Graduate DEF Arranged successive steps degrees graduated 
-TERM Graduated DEF Marked with divided into degrees divided grades Tapered said bird's tail outer feathers shortest successively longer visible marks numbers vertical intervals permitting estimate quantitity material contained vessels commonly used laboratories containing liquids See etc below 
+TERM Graduated DEF Marked with divided into degrees divided grades Tapered said bird's tail outer feathers shortest successively longer visible marks numbers vertical intervals permitting estimate quantitity material contained vessels commonly used laboratories containing liquids etc below 
 TERM Graduateship DEF State graduate 
 TERM Graduation DEF act graduating state graduated scale college graduation color evaporation bird's tail marks instrument vessel indicate degrees quantity scale exposure liquid large surfaces air hasten evaporation 
 TERM Graduator DEF determines indicates graduation graduator instrument dividing line right curve small regular intervals apparatus diffusing solution brine vinegar large surface exposure air 
 TERM Gradus DEF dictionary prosody designed aid writing Greek Latin poetry 
-TERM Graf DEF German title nobility equivalent earl English count French See 
+TERM Graf DEF German title nobility equivalent earl English count French 
 TERM Graff DEF steward overseer 
-TERM Graff DEF See 
+TERM Graff DEF 
 TERM Graffage DEF scarp ditch moat 
 TERM Graffer DEF notary scrivener 
 TERM Graffiti DEF Inscriptions figure drawings etc found walls ancient sepulchers ruins Catacombs Pompeii writings drawings surface public place placed without authorization owner object written usually unwelcome considered form vandalism 
@@ -2804,8 +2804,8 @@ TERM Grail DEF broad open dish chalice used
 TERM Grail DEF Small particles earth gravel 
 TERM Grail DEF small feathers hawk 
 TERM Graille DEF halfround single-cut file fioat curved face straight face used comb makers 
-TERM Grain DEF See 
-TERM Grain DEF single small hard seed kernel especially plants like wheat seeds used food fruit certain grasses furnish chief food man corn wheat rye oats etc plants themselves used collectively small hard particle sand sugar salt etc hence minute portion particle gunpowder pollen starch sense wit unit English system weights called considered equal average grains taken middle ears wheat 7000 grains constitute pound avoirdupois 5760 grains pound troy grain equal 0648 gram See reddish dye made coccus insect kermes hence red color tint hue crimson scarlet etc sometimes used poets equivalent composite particles substance arrangement particles body determines comparative roughness hardness texture marble sugar sandstone etc fine direction arrangement appearance fibers wood strata stone slate etc fiber forms substance wood fibrous material side piece leather marking side remains grain etc brewing distillation hence residuum Also called rounded prominence back sepal common dock See 4 Temper natural disposition inclination sort spice grain paradise 
+TERM Grain DEF 
+TERM Grain DEF single small hard seed kernel especially plants like wheat seeds used food fruit certain grasses furnish chief food man corn wheat rye oats etc plants themselves used collectively small hard particle sand sugar salt etc hence minute portion particle gunpowder pollen starch sense wit unit English system weights called considered equal average grains taken middle ears wheat 7000 grains constitute pound avoirdupois 5760 grains pound troy grain equal 0648 gram reddish dye made coccus insect kermes hence red color tint hue crimson scarlet etc sometimes used poets equivalent composite particles substance arrangement particles body determines comparative roughness hardness texture marble sugar sandstone etc fine direction arrangement appearance fibers wood strata stone slate etc fiber forms substance wood fibrous material side piece leather marking side remains grain etc brewing distillation hence residuum Also called rounded prominence back sepal common dock 4 Temper natural disposition inclination sort spice grain paradise 
 TERM Grain DEF paint imitation grain wood marble etc form (powder sugar etc) grains take hair (skins) soften raise grain (leather etc) 
 TERM Grain DEF yield fruit form grains assume granular form result crystallization granulate 
 TERM Grain DEF branch tree stalk stem plant tine prong fork blade sword knife etc thin piece metal used mold steady core 
@@ -2815,14 +2815,14 @@ TERM Grainfield DEF field grain grown
 TERM graininess DEF quality composed relatively large particles 
 TERM Graining DEF Indentation roughening milling edges coins process dressing leather skin softened grain raised Painting staining imitation grain wood stone etc process separating soap spent lye salt 
 TERM Graining DEF small European fresh-water fish called also 
-TERM Grains DEF See 5th 2 Pigeon's dung used tanning See 1 
+TERM Grains DEF 5th 2 Pigeon's dung used tanning 1 
 TERM Grainy DEF Resembling grains granular 
 TERM Graip DEF dungfork 
-TERM Graith DEF See 
+TERM Graith DEF 
 TERM Graith DEF Furniture apparatus accouterments work traveling war etc 
-TERM Grakle DEF See 
+TERM Grakle DEF 
 TERM Grallae DEF order birds formerly included waders later writers usually restricted sandpipers plovers allied forms called also 
-TERM Grallatores DEF See 
+TERM Grallatores DEF 
 TERM Grallatory DEF 
 TERM Grallatorial DEF pertaining Grallatores waders 
 TERM Grallic DEF Pertaining 
@@ -2832,7 +2832,7 @@ TERM -gram DEF suffix indicating something drawn written drawing writing as mono
 TERM Gram DEF Angry 
 TERM Gram DEF East Indian name chick-pea seeds also similar seeds used food 
 TERM Gramme DEF 
-TERM Gram DEF unit mass weight metric system intended exactly nearly equivalent weight vacuum cubic centimeter pure water maximum density equal 15432 grains See 4 
+TERM Gram DEF unit mass weight metric system intended exactly nearly equivalent weight vacuum cubic centimeter pure water maximum density equal 15432 grains 4 
 TERM Grama grass DEF name several kinds pasture grasses found Western United States esp 
 TERM Gramarye DEF Necromancy magic 
 TERM Gramashes DEF Gaiters reaching knee leggings 
@@ -2841,7 +2841,7 @@ TERM Gramercy DEF word formerly used express thankfulness surprise many thanks
 TERM Graminaceous DEF Pertaining to resembling grasses gramineous 
 TERM Gramineae DEF grasses chiefly herbaceous woody plants including cereals bamboo reeds sugar cane 
 TERM Gramineal DEF Gramineous 
-TERM Gramineous DEF Like pertaining to grass See 2 
+TERM Gramineous DEF Like pertaining to grass 2 
 TERM Graminifolious DEF Bearing leaves resembling grass 
 TERM Graminivorous DEF Feeding subsisting grass like food said horses cattle animals 
 TERM gramma DEF pasture grass plains South America western North America see 
@@ -2866,13 +2866,13 @@ TERM grammer DEF common misspelling
 TERM Gramophone DEF instrument recording preserving reproducing sounds record tracing phonautograph etched solid material Reproduction accomplished means system attached elastic diaphragm older term almost completely replaced modern devices word (or technological changes made term sound antiquated usually used refer older non-electronic versions phonograph 
 TERM Grampus DEF toothed delphinoid cetacean genus esp Europe America valued oil grows fifteen twenty feet long color gray white streaks Called also California grampus kind tongs used bloomery 
 TERM Granado DEF 
-TERM Granade DEF See 
+TERM Granade DEF 
 TERM Granadilla DEF fruit certain species passion flower (esp found Brazil West Indies large child's head good dessert fruit fruit used flavoring ices 
 TERM granadillo DEF West Indian tree yielding fine grade green ebony 
 TERM Granary DEF storehouse repository grain esp thrashed husked cornhouse region fertile grain sense equivalent used figuratively Ukraine Soviet 
-TERM Granate DEF See 
-TERM Granatin DEF D-mannitol called found pomegranate See 
-TERM Granatite DEF See 
+TERM Granate DEF 
+TERM Granatin DEF D-mannitol called found pomegranate 
+TERM Granatite DEF 
 TERM Grand DEF large size extent great extensive hence relatively great greatest chief principal mountain army Great size fine imposing appearance impression illustrious dignifled noble (said persons) majestic splendid magnificent sublime (said things) monarch lord general view higher rank dignity size importance persons things name lodge vizier piano Standing second remote degree parentage descent generalIy used composition grandfather grandson grandchild 
 TERM Grandam DEF old woman specifically grandmother 
 TERM Grandaunt DEF aunt one's father mother 
@@ -2897,7 +2897,7 @@ TERM Grandity DEF Grandness
 TERM Grandly DEF grand manner 
 TERM Grandmamma DEF 
 TERM Grandma DEF grandmother 
-TERM Grand mercy DEF See 
+TERM Grand mercy DEF 
 TERM Grandmother DEF mother one's father mother 
 TERM Grandmotherly DEF Like grandmother age manner kind indulgent 
 TERM Grandnephew DEF grandson one's brother sister 
@@ -2910,7 +2910,7 @@ TERM Grandson DEF son's daughter's son
 TERM Granduncle DEF father's mother's uncle 
 TERM grand unification theory DEF 
 TERM grand unified theory DEF class physics theories attempts explain electroweak forces stong force gravitation within single mathematical conceptual scheme 1990's prominent examples Abbreviated plural 
-TERM Grane DEF See 
+TERM Grane DEF 
 TERM Grange DEF building storing grain granary farmhouse barns buildings farming purposes farmhouse monastery rents tithes paid grain deposited farm generally farm house distance neighbors association farmers designed interests particularly bring producers consumers farmers manufacturers direct commercial relations without intervention middlemen traders first grange organized 1867 
 TERM Granger DEF farm steward member grange 
 TERM Grangerism DEF practice illustrating particular book engravings collected books 
@@ -2975,7 +2975,7 @@ TERM Graphically DEF graphic manner vividly
 TERM Graphicalness DEF 
 TERM Graphicness DEF quality state graphic 
 TERM Graphics DEF art science drawing esp drawing according mathematical rules perspective projection like 
-TERM Graphiscope DEF See 
+TERM Graphiscope DEF 
 TERM Graphite DEF Native carbon hexagonal crystals also foliated granular massive black color metallic luster soft leave trace paper used pencils (improperly called crucibles lubricator etc Often called 
 TERM Graphitic DEF Pertaining to containing derived from resembling graphite 
 TERM Graphitoidal DEF 
@@ -3014,7 +3014,7 @@ TERM grassfinch DEF several usually brightly-colored Australian weaverbirds ofte
 TERM grassfire DEF uncontrolled fire grassy area 
 TERM Grass-green DEF Green grass color grass clear vivid green 
 TERM Grass-grown DEF Overgrown grass grass-grown 
-TERM Grasshopper DEF jumping orthopterous insect families large hind legs adapted leaping chewing mouth parts species genera numerous destructive crops former family includes Western grasshopper locust noted great extent ravages region beyond Mississippi Eastern United States red-legged closely related species ravages less important closely related migratory locusts Old World See ordinary square upright pianos London make escapement lever jack made taken replaced key called also antipersonnel mine jumps ground body height activated explodes hurling metal fragments wide area mixed alcoholic beverage containing de menthe light cream sometimes de cacao name comes light green color 
+TERM Grasshopper DEF jumping orthopterous insect families large hind legs adapted leaping chewing mouth parts species genera numerous destructive crops former family includes Western grasshopper locust noted great extent ravages region beyond Mississippi Eastern United States red-legged closely related species ravages less important closely related migratory locusts Old World ordinary square upright pianos London make escapement lever jack made taken replaced key called also antipersonnel mine jumps ground body height activated explodes hurling metal fragments wide area mixed alcoholic beverage containing de menthe light cream sometimes de cacao name comes light green color 
 TERM Grassiness DEF state abounding grass grassy state 
 TERM Grassless DEF Destitute grass 
 TERM grass-of-Parnassus DEF various usually evergreen bog plants genus broad smooth basal leaves single pale buttercuplike flower 
@@ -3051,17 +3051,17 @@ TERM Gratulate DEF salute declaration joy congratulate
 TERM Gratulate DEF Worthy gratulation 
 TERM Gratulation DEF act gratulating felicitating congratulation 
 TERM Gratulatory DEF Expressing gratulation joy congratulatory 
-TERM Graunt DEF See 
+TERM Graunt DEF 
 TERM Grauwacke DEF Graywacke 
 TERM Gravamen DEF grievance complained of substantial cause action also general ground essence complaint Bouvier 
-TERM -grave DEF final syllable signifying ruler landgrave margrave See 
+TERM -grave DEF final syllable signifying ruler landgrave margrave 
 TERM Grave DEF clean vessel's bottom barnacles grass etc pay pitch called formerly used purpose 
 TERM Grave DEF great weight heavy ponderous importance momentous weighty influential sedate serious said character relations etc deportment character influence light gay solemn sober plain color acute sharp low deep said sound note Slow solemn movement 
 TERM Grave DEF dig Chaucer carve cut letters figures hard substance engrave carve give shape to cutting chisel sculpture impress deeply (on mind) fix indelibly entomb bury 
 TERM Grave DEF write delineate hard substances means incised lines practice engraving 
 TERM Grave DEF excavation earth place burial also place interment tomb sepulcher Hence Death destruction 
 TERM Graveclothes DEF clothes dress dead interred 
-TERM Gravedigger DEF digger graves See 
+TERM Gravedigger DEF digger graves 
 TERM Gravel DEF Small stones fragments stone small pebbles often intermixed particles sand deposit small calculous concretions kidneys urinary gall bladder also disease symptom 
 TERM Gravel DEF cover gravel gravel run (as ship) upon gravel beach run aground cause stick fast gravel sand check stop embarrass perplex hurt lame (a horse) gravel lodged shoe foot 
 TERM Graveless DEF Without grave unburied 
@@ -3096,7 +3096,7 @@ TERM gravimetry DEF measurement specific gravity
 TERM Graving DEF act cleaning ship's bottom 
 TERM Graving DEF act art carving figures hard substances especially incision intaglio graved carved Impression upon mind heart 
 TERM Gravitate DEF obey law gravitation exert force pressure tend move influence gravitation tend direction toward object 
-TERM Gravitation DEF act gravitating species attraction force bodies particles matter universe tend toward other called also See 
+TERM Gravitation DEF act gravitating species attraction force bodies particles matter universe tend toward other called also 
 TERM Gravitational DEF pertaining force gravity 
 TERM Gravitative DEF Causing gravitate tending center 
 TERM graviton DEF theoretical gauge boson mediates (extremely weak) gravitational interactions particles quantum gravitational field zero rest mass spin 2 
@@ -3110,9 +3110,9 @@ TERM Graybeard DEF old man
 TERM Grayfly DEF trumpet fly 
 TERM gray-headed DEF 
 TERM gray-haired DEF showing characteristics age especially gray white hair 
-TERM Grayhound DEF See 
+TERM Grayhound DEF 
 TERM Grayish DEF Somewhat gray 
-TERM Graylag DEF common wild gray goose Europe believed wild form domestic goose See 
+TERM Graylag DEF common wild gray goose Europe believed wild form domestic goose 
 TERM Grayling DEF European fish allied trout broad dorsal fin called also inhabits cold mountain streams valued game fish American fish genus similar habits above species inhabits several streams Michigan another found Yellowstone region 
 TERM Grayness DEF quality gray 
 TERM Graystone DEF grayish greenish compact rock composed feldspar augite allied basalt 
@@ -3125,8 +3125,8 @@ TERM Grazer DEF grazes creature feeds growing grass herbage
 TERM Grazier DEF pastures cattle rears market 
 TERM Grazing DEF act who which grazes pasture growing grass 
 TERM Grazioso DEF Gracefully smoothly elegantly 
-TERM Gre DEF See step 
-TERM Gre DEF See good will 
+TERM Gre DEF step 
+TERM Gre DEF good will 
 TERM Grease DEF Animal fat tallow lard especially soft state oily unctuous matter kind inflammation horse's heels suspending ordinary greasy secretion part producing dryness scurfiness followed cracks ulceration fungous excrescences 
 TERM Grease DEF smear anoint daub grease fat lubricate grease wheels bribe corrupt presents cheat cozen overreach affect (a horse) grease disease 
 TERM greaseball DEF person Italian descent used derogatory ethnic slur considered offensive 
@@ -3141,7 +3141,7 @@ TERM greaseproof DEF resistant penetration grease oil wax wrapping
 TERM greasewood DEF low hardy much-branched spiny shrub common alkaline soils Western America 
 TERM Greasily DEF greasy manner gross indelicate manner 
 TERM Greasiness DEF quality state greasy oiliness unctuousness grossness 
-TERM Greasy DEF Composed of characterized by grease oily unctuous Smeared defiled grease Like grease oil smooth seemingly unctuous touch mineral soapstone Fat body bulky Gross indelicate indecent Affected disease called as heels horse See 2 
+TERM Greasy DEF Composed of characterized by grease oily unctuous Smeared defiled grease Like grease oil smooth seemingly unctuous touch mineral soapstone Fat body bulky Gross indelicate indecent Affected disease called as heels horse 2 
 TERM Great DEF Large space much size big immense enormous expanded opposed house ship farm plain distance Large number numerous company multitude series Long continued lengthened duration prolonged time while Superior admirable commanding applied thoughts actions feelings Endowed extraordinary powers uncommonly gifted able accomplish vast results strong powerful mighty noble hero scholar genius philosopher Holding chief position elevated lofty eminent distinguished foremost principal men seal marshal Entitled earnest consideration weighty important argument truth Pregnant big (with young) ordinary degree considerable degree use caution Older younger remote single generation often used grand indicate degree remote direct line descent (a grandfather's grandmother's father) 
 TERM Great DEF whole gross contract build ship 
 TERM Great-bellied DEF great belly bigbellied pregnant teeming 
@@ -3179,7 +3179,7 @@ TERM Grecque DEF ornament supposed Greek origin esp fret meander
 TERM Gree DEF Good will favor pleasure satisfaction used esp phrases as take accept is take favorably Rank degree position prize honor day bear carry 
 TERM Gree DEF agree 
 TERM Gree DEF step 
-TERM Greece DEF See step 
+TERM Greece DEF step 
 TERM Greed DEF eager desire longing greediness 
 TERM Greedily DEF greedy manner 
 TERM Greediness DEF quality greedy vehement selfish desire 
@@ -3202,7 +3202,7 @@ TERM Green DEF make green
 TERM Green DEF become grow green 
 TERM Greenback DEF legal tender notes United States note paper currency United States first issued 1862 devices back printed green ink prevent alterations counterfeits 
 TERM Greenbacker DEF supported greenback paper money opposed resumption specie payments 
-TERM green-blind DEF Unable see color green distinguish green purplish-red 
+TERM green-blind DEF Unable color green distinguish green purplish-red 
 TERM green-blindness DEF defect color vision characterized inability distinguish green purplish-red 
 TERM Greenbone DEF garfish 
 TERM Green-broom DEF plant genus dyer's weed called also 
@@ -3210,8 +3210,8 @@ TERM Greencloth DEF board court justice formerly held counting house British sov
 TERM Greenery DEF Green plants verdure 
 TERM Green-eyed DEF green eyes Seeing everything influence emotions discolor distort suspicious unduly suspicious fearful displaced rival 
 TERM Greenfinch DEF European finch called also Texas sparrow general color olive green rufous stripes head 
-TERM Greenfish DEF See 
-TERM Greengage DEF kind plum medium size roundish shape greenish flesh delicious flavor called France queen Francis I See 
+TERM Greenfish DEF 
+TERM Greengage DEF kind plum medium size roundish shape greenish flesh delicious flavor called France queen Francis I 
 TERM Greengill DEF oyster gills tinged green pigment said due abnormal condition blood 
 TERM Greengrocer DEF retailer vegetables fruits fresh green state 
 TERM Greenhead DEF mallard 
@@ -3224,7 +3224,7 @@ TERM Greenish DEF Somewhat green tinge green
 TERM Greenland DEF island situated Atlantic Arctic Oceans largest island world Danish territory 
 TERM Greenlander DEF native Greenland 
 TERM Green-leek DEF Australian parrakeet called also 
-TERM Greenlet DEF numerous species small American singing birds genus solitary blue-headed brotherly-love warbling greenlet yellow-throated greenlet others See species genus tropical American birds allied tits 
+TERM Greenlet DEF numerous species small American singing birds genus solitary blue-headed brotherly-love warbling greenlet yellow-throated greenlet others species genus tropical American birds allied tits 
 TERM greenling DEF spiny-finned food fish northern Pacific coasts genus 
 TERM Greenly DEF green color newly freshly immaturely 
 TERM greenmail DEF act performed publicly traded corporation paying corporate raider give takeover attempt buying shares stock owns also threat posed corporate raiders take company unless stocks purchased company price giving large profit 
@@ -3237,7 +3237,7 @@ TERM Green-stall DEF stall greens fresh vegetables exposed sale
 TERM Greenstone DEF name formerly applied rather loosely certain dark-colored igneous rocks including diorite diabase etc 
 TERM Greensward DEF Turf green grass 
 TERM Greenth DEF state quality green verdure 
-TERM Greenweed DEF See 
+TERM Greenweed DEF 
 TERM greenwing DEF common teal Eurasia North America 
 TERM Greenwood DEF forest appears spring summer 
 TERM Greenwood DEF Pertaining greenwood 
@@ -3250,8 +3250,8 @@ TERM Greet DEF Greeting
 TERM Greeter DEF greets salutes another 
 TERM Greeter DEF weeps mourns 
 TERM Greeting DEF Expression kindness joy salutation meeting compliment absent 
-TERM Greeve DEF See overseer 
-TERM Greeze DEF step See step 
+TERM Greeve DEF overseer 
+TERM Greeze DEF step step 
 TERM Greffier DEF registrar recorder notary 
 TERM Gregal DEF Pertaining to like flock 
 TERM Gregarian DEF Gregarious belonging herd common sort common 
@@ -3267,7 +3267,7 @@ TERM Gregorian DEF Pertaining to originated by person named Gregory especially p
 TERM Gregory DEF Gregory born 1572 died 1585 pope introduced modern calendar Gregory born circa 540 died 604 pope Gregorian chants named 
 TERM Greillade DEF Iron ore coarse powder prepared reduction Catalan process 
 TERM Greisen DEF crystalline rock consisting quarts mica common tin regions Cornwall Saxony 
-TERM Greit DEF See weep 
+TERM Greit DEF weep 
 TERM Greith DEF make ready often used reflexively 
 TERM Greith DEF Goods furniture 
 TERM Gremial DEF pertaining lap bosom 
@@ -3282,7 +3282,7 @@ TERM Grenado DEF
 TERM Grene DEF Green 
 TERM Gres DEF Grass 
 TERM Gressorious DEF 
-TERM Gressorial DEF Adapted walking anisodactylous feet certain birds insects See 
+TERM Gressorial DEF Adapted walking anisodactylous feet certain birds insects 
 TERM Grete DEF 
 TERM Gret DEF Great 
 TERM Gretto DEF salute 
@@ -3290,19 +3290,19 @@ TERM Greve DEF grove
 TERM Grew DEF 
 TERM Gruesome DEF 
 TERM Grewsome DEF Ugly frightful 
-TERM Grey DEF See (the correct orthography) 
+TERM Grey DEF (the correct orthography) 
 TERM greybeard DEF man old 
 TERM grey-haired DEF showing characteristics age especially gray white hair 
 TERM grey-headed DEF 
 TERM Greyhound DEF slender graceful breed dogs remarkable keen sight swiftness oldest varieties known figured Egyptian monuments swift steamer esp ocean steamer 
 TERM greyish DEF somewhat gray 
-TERM Greylag DEF See Graylag 
+TERM Greylag DEF Graylag 
 TERM greyness DEF neutral achromatic color midway black 
 TERM Grias DEF genus trees including anchovy pear tree fruit somewhat like mango 
 TERM Gribble DEF small marine isopod crustacean burrows rapidly destroys submerged timber piles wharves Europe America 
 TERM Grice DEF little pig 
-TERM Grice DEF See step 
-TERM Grid DEF grating thin parallel bars similar gridiron plate sheet lead perforations irregularities surface active material secondary battery accumulator supported mesh coil fine wire electron tube connected circuit regulate current passing tube network crossing horizontal vertical lines used example reference coordinates locate objects places map anything resembling grid{4} Manhattan street See also network connected conductors distributing electrical power especially using high-tension lines wide geographic distribution power Northeast power 
+TERM Grice DEF step 
+TERM Grid DEF grating thin parallel bars similar gridiron plate sheet lead perforations irregularities surface active material secondary battery accumulator supported mesh coil fine wire electron tube connected circuit regulate current passing tube network crossing horizontal vertical lines used example reference coordinates locate objects places map anything resembling grid{4} Manhattan street also network connected conductors distributing electrical power especially using high-tension lines wide geographic distribution power Northeast power 
 TERM Griddle DEF iron plate pan used cooking cakes sieve wire bottom used miners 
 TERM Griddlecake DEF cake baked fried griddle esp thin batter cake buckwheat common flour 
 TERM Gride DEF cut grating sound cut penetrate pierce harshly 
@@ -3313,7 +3313,7 @@ TERM gridiron-tailed lizard DEF lizard long tail black bands lives deserts south
 TERM Grief DEF Pain mind account something past mental suffering arising cause misfortune loss friends misconduct one's self others etc sorrow sadness Cause sorrow pain afficts distresses trial grievance Physical pain cause it malady 
 TERM Griefful DEF Full grief sorrow 
 TERM Griefless DEF Without grief 
-TERM Griego DEF See 
+TERM Griego DEF 
 TERM Grievable DEF Lamentable 
 TERM Grievance DEF cause uneasiness complaint wrong done suffered gives ground remonstrance resistance arising injustice tyranny etc injury Grieving grief affliction 
 TERM Grievancer DEF occasions grievance gives ground complaint 
@@ -3407,18 +3407,18 @@ TERM Gris DEF costly kind fur
 TERM Gris DEF little pig 
 TERM Grisaille DEF Decorative painting gray monochrome used English especially painted glass kind French fancy dress goods 
 TERM Grisamber DEF Ambergris 
-TERM Grise DEF See pig 
+TERM Grise DEF pig 
 TERM Grise DEF step (in flight stairs) degree 
 TERM Griseous DEF light color white mottled black brown grizzled grizzly 
 TERM Grisette DEF French girl young married woman lower class frequently young working woman fond gallantry 
 TERM Griskin DEF spine hog 
-TERM Grisled DEF See Grizzled 
+TERM Grisled DEF Grizzled 
 TERM Grisliness DEF quality state grisly horrid 
 TERM Grisly DEF Frightful horrible dreadful harsh locks 
 TERM Grison DEF South American animal family Mustelidae feet long exclusive tail parts black Also called American 
 TERM Grisons DEF Inhabitants eastern Swiss Alps 
 TERM Grist DEF Ground corn ground time much grain carried mill time meal produces Supply provision rope making given size rope rope inches circumference twenty yarns strands 
-TERM Gristle DEF Cartilage See 
+TERM Gristle DEF Cartilage 
 TERM Gristly DEF Consisting of containing gristle like gristle cartilaginous 
 TERM Gristmill DEF mill grinding grain especially mill grinding grists portions grain brought different customers custom mill 
 TERM Grit DEF Sand gravel rough hard particles coarse part meal Grain esp oats wheat hulled coarsely ground high milling fragments cracked wheat smaller groats hard coarse-grained siliceous sandstone millstone called also name also applied finer sharp-grained sandstone grindstone Structure adapted grind sharpen hone good Firmness mind invincible spirit unyielding courage fortitude 
@@ -3426,18 +3426,18 @@ TERM Grit DEF give forth grating sound sand feet grate grind
 TERM Grit DEF grind rub harshly together grate grit 
 TERM Grith DEF Peace security agreement 
 TERM Gritstone DEF 
-TERM Gritrock DEF See 4 
+TERM Gritrock DEF 4 
 TERM Grittiness DEF quality gritty 
 TERM Gritty DEF Containing sand grit consisting grit caused grit full hard particles Spirited resolute unyielding 
 TERM Grivet DEF monkey upper Nile Abyssinia upper parts dull green lower parts white hands ears face black known ancient Egyptians Called also 
 TERM Grize DEF 
-TERM Grizelin DEF See 
+TERM Grizelin DEF 
 TERM Grizzle DEF Gray gray color mixture white black 
 TERM Grizzle DEF make become grizzly grayish 
 TERM Grizzle DEF worry fret bother grumble 
 TERM Grizzled DEF Gray grayish sprinkled mixed gray mixed white black 
 TERM Grizzly DEF Somewhat gray grizzled 
-TERM Grizzly DEF grizzly bear See hydraulic mining gratings used catch throw large stones sluices 
+TERM Grizzly DEF grizzly bear hydraulic mining gratings used catch throw large stones sluices 
 TERM groan DEF give forth low moaning sound breathing utter groan pain sorrow derision moan strive earnestly groans 
 TERM Groan DEF affect groans 
 TERM Groan DEF low moaning sound usually deep mournful sound uttered pain great distress sometimes expression strong disapprobation remark received 
@@ -3462,7 +3462,7 @@ TERM Groin DEF fashion groins build groins
 TERM Groined DEF Built groins ceiling 
 TERM Grolier DEF name de (1479-1565) French bibliophile commonly known used naming certain style binding design etc 
 TERM Gromet DEF 
-TERM Gromill DEF See 
+TERM Gromill DEF 
 TERM grommet DEF ring formed twisting single strand unlaid rope Sometimes written eyelet ring metal material inserted hole sheet material sailing metallic ring sail mailbag ring rubber insulating material inserted hole surface device prevent wires passing hole making contact surface used especially electrical electronic devices prevent undesired electrical contact ring rope used wad hold cannon ball place 
 TERM Gromwell DEF plant genus anciently used stony pericarp cure gravel 
 TERM Grond DEF obs 
@@ -3472,7 +3472,7 @@ TERM Groom DEF tend care for curry clean a horse
 TERM Groomer DEF who which grooms horses especially brush rotated flexible jointed revolving shaft cleaning horses 
 TERM grooming DEF Preparing person position requiring skilled behavior especially providing opposrtunity practise guidance making right decisions provide one's successor activity getting dressed washed generally neat appearance activity cleaning oneself removing lice ticks dirt etc fur animals 
 TERM Groomsman DEF male attendant bridegroom wedding chief attendant also called correlative 
-TERM Grooper DEF See 
+TERM Grooper DEF 
 TERM Groove DEF furrow channel long hollow may formed cutting molding grinding wearing force flowing water constant travel depressed way worn path rut Hence habitual course life work affairs fixed routine shaft excavation 
 TERM Groove DEF cut groove channel in form channels grooves furrow 
 TERM grooved DEF grooves record marked thin parallel marks channels 
@@ -3489,7 +3489,7 @@ TERM Groschen DEF small silver coin money account Germany worth cents discontinu
 TERM Grosgrain DEF coarse texture applied silk heavy thread running crosswise 
 TERM Gross DEF Great large bulky fat huge size excessively large Coarse rough fine delicate easily aroused excited sensitive perception feeling dull witless Expressing originating in animal sensual appetites hence coarse vulgar low obscene impure Disgusting repulsive highly offensive Thick dense attenuated Great palpable serious vagrant shameful mistake injustice Whole entire total without deduction sum amount opposed 
 TERM Gross DEF main body chief part bulk mass number twelve dozen twelve times twelve bottles 
-TERM Grossbeak DEF See 
+TERM Grossbeak DEF 
 TERM Gross-headed DEF Thick-skulled stupid 
 TERM Grossification DEF act making gross thick state becoming so swelling ovary plants fertilization Henslow 
 TERM Grossly DEF gross manner greatly coarsely without delicacy shamefully disgracefully 
@@ -3534,7 +3534,7 @@ TERM Groundly DEF Solidly deeply thoroughly
 TERM Groundnut DEF fruit (native country uncertain) peanut earthnut 
 TERM Groundsel DEF annual composite plant common widely distributed weeds globe 
 TERM Groundsill DEF 
-TERM Groundsel DEF See 
+TERM Groundsel DEF 
 TERM groundsheet DEF piece waterproofed cloth spread ground (as tent) protect occupants moisture 
 TERM groundswell DEF long deep wave sea sometimes caused distant winds storms rising sentiment support enthusiasm especially among general public opinion favoring campaign finance 
 TERM Groundwork DEF forms foundation support anything basis essential fundamental part first principle development convenient DNA sequencing technique layed many subsequent advances molecular 
@@ -3548,7 +3548,7 @@ TERM Grouse DEF seek shoot grouse complain grumble employees incompetent
 TERM Grouser DEF pointed timber attached boat sliding vertically thrust ground means anchorage 
 TERM Grout DEF Coarse meal ground malt Formerly kind beer ale Lees dregs grounds thin coarse mortar used pouring joints masonry brickwork also finer material used finishing best ceilings 
 TERM Grout DEF fill finish grout joints stones 
-TERM Grouthead DEF See 
+TERM Grouthead DEF 
 TERM Grouting DEF process filling finishing grout also grout thus filled in 
 TERM Groutnol DEF 
 TERM Grouty DEF Cross sulky sullen 
@@ -3576,16 +3576,16 @@ TERM Growse DEF shiver chills
 TERM Growth DEF process growing gradual increase animal vegetable body development seed germ root full size maturity increase size number frequency strength etc augmentation advancement production prevalence influence trade power intemperance Idle weeds fast grown growing anything produced product consequence effect result 
 TERM Growthead DEF lazy person blockhead 
 TERM Growthful DEF capacity growth 
-TERM Groyne DEF See 
+TERM Groyne DEF 
 TERM Grozing iron DEF tool hardened steel point formerly used instead diamond cutting glass tool smoothing solder joints lead pipe 
 TERM Grub DEF dig ground generally object difficult reach extricate occupied digging drudge menial work 
 TERM Grub DEF dig dig roots root digging followed up trees rushes supply food 
-TERM Grub DEF larva insect especially beetle called also See short thick man dwarf Victuals food 
+TERM Grub DEF larva insect especially beetle called also short thick man dwarf Victuals food 
 TERM Grubber DEF who which grubs especially machine tool nature grub ax grub hook etc 
 TERM Grubble DEF feel grope dark 
 TERM Grubby DEF Dirty unclean 
 TERM Grubby DEF species sculpin 
-TERM Grubworm DEF See 1 
+TERM Grubworm DEF 1 
 TERM Grucche DEF murmur grumble 
 TERM Grudge DEF look upon desire possess appropriate envy (one) possession of begrudge covet give reluctance desire get back again followed direct object only direct indirect objects hold harbor malicious disposition purpose cherish enviously 
 TERM Grudge DEF covetous envious show discontent murmur complain repine unwilling reluctant feel compunction grief 
@@ -3603,7 +3603,7 @@ TERM Gruelly DEF Like gruel consistence gruel
 TERM gruesome DEF Ugly frightful 
 TERM Gruf DEF Forwards one's face ground 
 TERM Gruff DEF rough stern manner voice countenance sour surly severe harsh 
-TERM Grugru palm DEF West Indian name several kinds palm See 
+TERM Grugru palm DEF West Indian name several kinds palm 
 TERM Grugru worm DEF larva grub large South American beetle lives pith palm trees sugar cane eaten natives esteemed delicacy 
 TERM Gruidae DEF natural family comprising cranes 
 TERM Gruiformes DEF order inland marsh-dwelling birds long legs necks bills wade water search food including cranes rails bustards 
@@ -3616,7 +3616,7 @@ TERM Grumblingly DEF grumbling manner
 TERM Grume DEF thick viscid fluid clot blood 
 TERM Grumly DEF grum manner 
 TERM Grumose DEF Clustered grains intervals grumous 
-TERM Grumous DEF Resembling containing grume thick concreted clotted grumous See 
+TERM Grumous DEF Resembling containing grume thick concreted clotted grumous 
 TERM Grumousness DEF state grumous 
 TERM Grumpily DEF surly manner sullenly 
 TERM Grumpy DEF Surly dissatisfied grouty 
@@ -3626,16 +3626,16 @@ TERM Grundyism DEF Narrow unintelligent conventionalism
 TERM grungy DEF thickily covered ingrained dirt soot 
 TERM Grunt DEF make deep short noise hog utter short groan deep guttural sound 
 TERM Grunt DEF deep guttural sound hog several species American food fishes genus allied snappers as black grunt redmouth grunt Southern United States also applied allied species genera Called also called noise makes taken U S infantryman used especially fighting war Vietnam 
-TERM Grunter DEF who which grunts specifically hog several American marine fishes See 2 hook used lifting crucible 
+TERM Grunter DEF who which grunts specifically hog several American marine fishes 2 hook used lifting crucible 
 TERM Gruntingly DEF grunting manner 
 TERM Gruntle DEF grunt grunt repeatedly 
 TERM Gruntling DEF young hog 
 TERM Grus DEF constellation southern celestial hemisphere Indus Piscis Austrinus 
-TERM Grutch DEF See 
+TERM Grutch DEF 
 TERM Gruyere cheese DEF kind cheese made firm cheese containing numerous cells known United States 
 TERM Gry DEF measure equal tenth line Anything small little value 
-TERM Gryde DEF gride See 
-TERM Gryfon DEF See 
+TERM Gryde DEF gride 
+TERM Gryfon DEF 
 TERM Gryllus DEF genus insects including common crickets 
 TERM Grype DEF gripe 
 TERM Grype DEF vulture griffin 
@@ -3657,21 +3657,21 @@ TERM Guaiacum DEF genus small crooked trees growing tropical America heart wood 
 TERM Guaira DEF great waterfall Brazil-Paraguay border 
 TERM guama DEF tropical tree Central America West Indies Puerto Rico spikes white flowers used shade coffee plantations 
 TERM Guan DEF many species large gallinaceous birds Central South America belonging allied genera Several species often domesticated 
-TERM Guana DEF See 
+TERM Guana DEF 
 TERM Guanaco DEF South American mammal allied llama larger size graceful form inhabiting southern Andes Patagonia supposed llama wild state 
 TERM Guanidine DEF strongly alkaline base formed oxidation guanin also obtained combined methyl decomposition creatin Boiled dilute sulphuric acid yields urea ammonia 
 TERM Guaniferous DEF Yielding guano 
 TERM Guanin DEF crystalline substance contained guano also constituent liver pancreas glands mammals 
 TERM Guano DEF substance found great abundance coasts islands frequented sea fowls composed chiefly excrement rich phosphates ammonia used powerful fertilizer 
-TERM Guara DEF scarlet ibis See 
+TERM Guara DEF scarlet ibis 
 TERM Guarana DEF preparation seeds woody climber Brazil used making astringent drink also cure headache 
 TERM Guaranine DEF alkaloid extracted guarana 
-TERM Guarantee DEF law common usage promise answer payment debt performance duty case failure another person is first instance liable payment performance engagement secures insures another contingency warranty security binds see undertaking another performed guarantor person guaranty made correlative 
+TERM Guarantee DEF law common usage promise answer payment debt performance duty case failure another person is first instance liable payment performance engagement secures insures another contingency warranty security binds undertaking another performed guarantor person guaranty made correlative 
 TERM Guarantee DEF law common usage undertake engage payment (a debt) performance (a duty) another person undertake secure (a possession right claim etc) another specified contingency events give guarantee concerning engage assure secure thing may depended on warrant execution 
 TERM guaranteed DEF secured written agreement certified 
 TERM Guarantor DEF makes gives guaranty warrantor surety 
 TERM Guaranty DEF law common usage undertaking answer payment debt performance contract duty another case failure pay perform guarantee warranty security 
-TERM Guaranty DEF law common usage undertake engage another person shall perform (what stipulated) undertake answerable (the debt default another) engage answer performance (some promise duty another) case failure latter perform undertake secure (something) another case contingency See 
+TERM Guaranty DEF law common usage undertake engage another person shall perform (what stipulated) undertake answerable (the debt default another) engage answer performance (some promise duty another) case failure latter perform undertake secure (something) another case contingency 
 TERM Guard DEF protect danger secure surprise attack injury keep safety defend shelter shield surprise attack protect attendance accompany protection care for keep watch over order prevent escape restrain acts violence like protect edge of esp ornamental border hence face ornament lists laces etc fasten binding gird 
 TERM Guard DEF watch way caution defense cautious state position defense safety careful persons 
 TERM Guard DEF who which guards injury danger exposure attack defense protection man body men stationed protect control person position watch sentinel charge mail coach railway train conductor fixture attachment designed protect secure injury soiling defacement theft loss posture defense fencing bayonet saber exercise expression admission intended secure objections censure Watch heed care attention keep fibrous sheath covers phragmacone Belemnites 
@@ -3699,7 +3699,7 @@ TERM Guards DEF body picked troops Household
 TERM Guardship DEF Care protection 
 TERM Guardsman DEF guards guard member either officer private military body called Guards 
 TERM Guarish DEF heal 
-TERM Guatemala grass DEF See 
+TERM Guatemala grass DEF 
 TERM Guatemalan DEF pertaining Guatemala pertaining inhabitants Guatemala 
 TERM Guatemalan DEF native inhabitant Guatemala 
 TERM Guava DEF tropical tree fruit genus varieties well known fruit berry shaped like pomegranate much smaller somewhat astringent makes delicious jelly 
@@ -3727,7 +3727,7 @@ TERM Guerdonable DEF Worthy reward
 TERM Guerdonless DEF Without reward guerdon 
 TERM Guereza DEF beautiful Abyssinian monkey body black fringe long silky white hair along sides tuft end tail frontal band cheeks chin white 
 TERM gueridon DEF small round table 
-TERM Guerilla DEF See 
+TERM Guerilla DEF 
 TERM Guerite DEF projecting turret sentry salient angles works acute angles bastions 
 TERM Guernsey lily DEF South African plant handsome lilylike flowers naturalized island Guernsey 
 TERM Guerrilla DEF irregular mode carrying war constant attacks independent bands adopted north Spain Peninsular war carries on assists carrying on irregular warfare especially member independent band engaged predatory excursions war time 
@@ -3753,7 +3753,7 @@ TERM Guevina DEF genus species Chilean nut
 TERM guff DEF ludicrously false statment Insolent disrespectful talk don't give young 
 TERM Guffaw DEF loud burst laughter horse laugh 
 TERM Guffer DEF eelpout guffer eel 
-TERM Guggle DEF See 
+TERM Guggle DEF 
 TERM Guhr DEF loose earthy deposit water found cavities clefts rocks mostly white sometimes red yellow mixture clay ocher 
 TERM Guiac DEF 
 TERM Guiacol DEF colorless liquid resembling phenols found constituent woodtar creosote produced dry distillation guaiac resin 
@@ -3776,7 +3776,7 @@ TERM Guideress DEF female guide
 TERM Guide rope DEF rope hung balloon dirigible trail along ground half length used preserve altitude automatically variation length dragging ground without loss ballast gas 
 TERM Guidguid DEF South American ant bird genus called also 
 TERM Guidon DEF small flag streamer carried cavalry broad end nearly pointed other used direct movements body infantry make signals sea also flag guild fraternity United States service company cavalry guidon carries flag community established Rome Charlemagne guide pilgrims Holy Land 
-TERM Guige DEF See 
+TERM Guige DEF 
 TERM Guild DEF association men belonging class engaged kindred pursuits formed mutual aid protection business fraternity corporation Stationers' Ironmongers' originally licensed government endowed special privileges authority guildhall religious association society organized charitable purposes assistance parish work 
 TERM Guildable DEF Liable tax 
 TERM Guilder DEF Dutch silver coin worth forty cents called also 
@@ -3809,21 +3809,21 @@ TERM Guinea pig DEF small Brazilian rodent inches length usually white color spo
 TERM Guinea-pig director DEF director (usually holding number directorships) serves merely mainly fee (in England often guinea) paid attendance 
 TERM Guinness DEF kind bitter stout also called glass 
 TERM Guipure DEF term used lace different kinds properly lace large pattern heavy material ground mesh pattern held together connecting threads called 
-TERM Guirland DEF See 
+TERM Guirland DEF 
 TERM Guise DEF Customary way speaking acting custom fashion manner behavior mien mode practice often used formerly phrases as is fashion suit External appearance manner dress appropriate indication expression garb shape Cover cloak 
 TERM Guiser DEF person disguise masker mummer 
 TERM Guitar DEF stringed instrument music resembling lute violin larger strings silk covered silver wire catgut played upon fingers 
 TERM guitarfish DEF primitive tropical bottom-dwelling ray family guitar-shaped body 
 TERM guitarist DEF musician plays guitar 
-TERM Guitguit DEF several species small tropical American birds family allied creepers called also See 
+TERM Guitguit DEF several species small tropical American birds family allied creepers called also 
 TERM gula DEF 
 TERM gulae DEF upper front neck next chin upper throat capping molding 
-TERM Gular DEF Pertaining gula throat See 
+TERM Gular DEF Pertaining gula throat 
 TERM Gulaund DEF arctic sea bird 
 TERM Gulch DEF Act gulching gulping glutton ravine part deep bed torrent dry gully 
 TERM Gulch DEF swallow greedily gulp down 
-TERM Guld DEF flower See 
-TERM Gulden DEF See 
+TERM Guld DEF flower 
+TERM Gulden DEF 
 TERM Gule DEF give color gules to 
 TERM Gule DEF throat gullet 
 TERM Gules DEF tincture red indicated seals engraved figures escutcheons parallel vertical lines Hence used poetically red color red 
@@ -3849,13 +3849,13 @@ TERM Gully DEF flow noisily
 TERM Gulosity DEF Excessive appetite greediness voracity 
 TERM Gulp DEF swallow eagerly large draughts swallow up take swallow 
 TERM Gulp DEF act taking large mouthful swallow much awallowed once disgorging 
-TERM Gulph DEF See 
-TERM Gult DEF Guilt See 
+TERM Gulph DEF 
+TERM Gult DEF Guilt 
 TERM Gulty DEF Guilty 
 TERM Guly DEF pertaining gules red 
 TERM Gum DEF dense tissues invest teeth cover adjacent parts jaws 
-TERM Gum DEF deepen enlarge spaces teeth (a worn saw) See 
-TERM Gum DEF vegetable secretion many trees plants hardens exudes soluble water arabic tragacanth cherry Also less propriety exudations soluble water copal sandarac really See hive made section hollow gum tree hence roughly made hive also vessel bin made hollow log rubber overshoe 
+TERM Gum DEF deepen enlarge spaces teeth (a worn saw) 
+TERM Gum DEF vegetable secretion many trees plants hardens exudes soluble water arabic tragacanth cherry Also less propriety exudations soluble water copal sandarac really hive made section hollow gum tree hence roughly made hive also vessel bin made hollow log rubber overshoe 
 TERM Gum DEF smear gum close gum unite stiffen gum gumlike substance make sticky gumlike substance chew gums rather teeth 
 TERM Gum DEF exude form gum become gummy 
 TERM gumball DEF piece chewing gum shape ball usually covered colored glaze sugar often sold small special-purpose coin-operated vending machine called 
@@ -3880,27 +3880,27 @@ TERM gumshoe DEF detective private eye shoe made rubber rubber overshoe sneaker{
 TERM gum tree DEF tree exudes gum 
 TERM gumweed DEF various Western American plants genus resinous leaves stems formerly used medicinally often poisonous livestock 
 TERM gumwood DEF wood lumber various gum trees especially sweet gum 
-TERM Gun DEF weapon throws propels missile distance firearm instrument throwing projectiles consisting tube barrel closed end projectile placed explosive charge (such guncotton gunpowder) behind ignited various means Pistols rifles carbines muskets fowling pieces smaller guns hand use called Larger guns called etc See terms Vocabulary piece heavy ordnance restricted sense cannon Violent blasts wind 
+TERM Gun DEF weapon throws propels missile distance firearm instrument throwing projectiles consisting tube barrel closed end projectile placed explosive charge (such guncotton gunpowder) behind ignited various means Pistols rifles carbines muskets fowling pieces smaller guns hand use called Larger guns called etc terms Vocabulary piece heavy ordnance restricted sense cannon Violent blasts wind 
 TERM Gun DEF practice fowling hunting small game chiefly participial form go 
 TERM gun for DEF pursue intent kill make effort harm someone especially determination also used humorously 
 TERM Guna DEF Sanskrit grammar lengthening simple vowels prefixing element term sometimes used denote vowel change languages 
-TERM Gunarchy DEF See 
+TERM Gunarchy DEF 
 TERM Gunboat DEF vessel light draught carrying guns used operations shallow waters small naval vessel carrying mounted guns 
-TERM Guncotton DEF See 
-TERM Gundelet DEF See 
+TERM Guncotton DEF 
+TERM Gundelet DEF 
 TERM Gunflint DEF sharpened flint lock gun ignite charge common use introduction percussion caps 
-TERM Gunjah DEF See 
+TERM Gunjah DEF 
 TERM gunk DEF thick gooey messy substance 
-TERM Gunlock DEF mechanism gun producing discharge See 
+TERM Gunlock DEF mechanism gun producing discharge 
 TERM Gunnage DEF number guns carried ship war 
 TERM Gunnel DEF gunwale small eel-shaped marine fish genus esp Europe America called also 
-TERM Gunner DEF works gun cannon whether land sea air cannoneer warrant officer navy charge ordnance vessel great northern diver loon See 
+TERM Gunner DEF works gun cannon whether land sea air cannoneer warrant officer navy charge ordnance vessel great northern diver loon 
 TERM Gunnery DEF branch military science comprehends theory projectiles manner constructing using ordnance 
 TERM Gunnie DEF Space left removal ore 
 TERM Gunning DEF act practice hunting shooting game gun 
 TERM Gunny cloth DEF 
 TERM Gunny DEF strong coarse kind sacking made fibers (called plants genus India fiber also used manufacture cordage 
-TERM Gunocracy DEF See 
+TERM Gunocracy DEF 
 TERM gunplay DEF instance firing small arms intent kill frighten 
 TERM gunpoint DEF muzzle's direction held open discharging end gun 
 TERM Gunpowder DEF black granular explosive substance consisting intimate mechanical mixture saltpeter charcoal sulphur used gunnery blasting 
@@ -3917,27 +3917,27 @@ TERM gunster DEF gunner
 TERM gunstock DEF stock wood barrel hand gun fastened 
 TERM gunstone DEF cannon ball called originally made stone 
 TERM Gunter rig DEF topmast arranged metal bands readily slide lower mast 
-TERM Gunter's chain DEF chain ordinarily used measuring land See 4 
+TERM Gunter's chain DEF chain ordinarily used measuring land 4 
 TERM Gunter's line DEF logarithmic line Gunter's scale used performing multiplication division numbers mechanically dividers called also 
-TERM Gunter's quadrant DEF thin quadrant made brass wood etc showing stereographic projection plane equator found hour day sun's azimuth altitude objects degrees etc See 
+TERM Gunter's quadrant DEF thin quadrant made brass wood etc showing stereographic projection plane equator found hour day sun's azimuth altitude objects degrees etc 
 TERM Gunter's scale DEF scale invented Rev Edmund (1581-1626) professor astronomy Gresham College London invented also 
 TERM Gunwale DEF upper edge vessel's boat's side uppermost wale ship (not including bulwarks) piece timber reaches either side quarter-deck forecastle uppermost bend finishes upper works hull 
 TERM guppy DEF small freshwater fish South America West Indies originaly called often kept aquariums also called 
 TERM Gurge DEF whirlpool 
 TERM Gurge DEF swallow up 
-TERM Gurgeons DEF See 
+TERM Gurgeons DEF 
 TERM Gurgle DEF run flow broken irregular noisy current water bottle small stream among pebbles stones 
 TERM Gurgle DEF act gurgling broken bubbling noise 
 TERM Gurglet DEF porous earthen jar cooling water evaporation 
 TERM Gurglingly DEF gurgling manner 
-TERM Gurgoyle DEF See 
+TERM Gurgoyle DEF 
 TERM Gurjun DEF thin balsam wood oil derived East Indian tree used medicine substitute linseed oil coarser kinds paint 
-TERM Gurl DEF young person either sex See 
+TERM Gurl DEF young person either sex 
 TERM Gurlet DEF pickax sharp point cutting edge 
 TERM Gurmy DEF level working 
 TERM Gurnet DEF 
 TERM Gurnard DEF ofseveral European marine fishes genus allied genera large spiny head mailed cheeks species highly esteemed food name sometimes applied American sea robins 
-TERM Gurniad DEF See 
+TERM Gurniad DEF 
 TERM Gurry DEF alvine evacuation also refuse matter 
 TERM Gurry DEF small fort 
 TERM Gurt DEF gutter channel water hewn bottom working drift 
@@ -3968,7 +3968,7 @@ TERM Gustless DEF Tasteless insipid
 TERM Gusto DEF Nice keen appreciation enjoyment relish taste fancy ate 
 TERM Gustoso DEF Tasteful tasteful agreeable manner 
 TERM Gusty DEF Subject to characterized by gusts squalls windy stormy tempestuous 
-TERM Gut DEF narrow passage water intenstine bowel whole alimentary canal enteron bowels entrails prepared entrails animal esp sheep used various purposes See sac silk taken silkworm (when ready spin cocoon) purpose drawing thread This dry exceedingly strong used snood fish line 
+TERM Gut DEF narrow passage water intenstine bowel whole alimentary canal enteron bowels entrails prepared entrails animal esp sheep used various purposes sac silk taken silkworm (when ready spin cocoon) purpose drawing thread This dry exceedingly strong used snood fish line 
 TERM Gut DEF take bowels from eviscerate plunder contents destroy remove interior contents of mob 
 TERM gutless DEF lacking courage vitality yellow Opposite 
 TERM gutsy DEF marked courage determination face difficulties danger rough plain sophisticated refined earthy Opposite 
@@ -4014,10 +4014,10 @@ TERM Guzzle DEF swallow much often swallow immoderate gust drink greedily contin
 TERM Guzzle DEF insatiable thing person 
 TERM Guzzler DEF immoderate drinker 
 TERM Gwiniad DEF fish North Wales Northern Europe allied lake whitefish called also 
-TERM Gyall DEF See 
+TERM Gyall DEF 
 TERM Gybe DEF 
-TERM Gyb DEF See 
-TERM Gybe DEF See 
+TERM Gyb DEF 
+TERM Gybe DEF 
 TERM Gybe DEF shift side vessel other said boom fore-and-aft sail vessel steered wind sail fills opposite side 
 TERM Gye DEF guide govern 
 TERM Gyle DEF Fermented wort used making vinegar 
@@ -4038,19 +4038,19 @@ TERM Gymnite DEF hydrous silicate magnesia
 TERM Gymnoblastea DEF Athecata called medusoid buds inclosed capsule 
 TERM Gymnoblastic DEF pertaining Gymnoblastea 
 TERM Gymnocarpous DEF Naked-fruited fruit either smooth adherent perianth 
-TERM Gymnochroa DEF division Hydroidea including hydra See 
+TERM Gymnochroa DEF division Hydroidea including hydra 
 TERM Gymnocladus DEF genus leguminous plants Kentucky coffee tree leaves cathartic seeds substitute coffee 
 TERM Gymnocopa DEF group transparent free-swimming Annelida cephalic appendages 
 TERM Gymnocyte DEF cytode without proper cell wall nucleus 
 TERM Gymnocytode DEF cytode without either cell wall nucleus 
-TERM Gymnodont DEF group plectognath fishes teeth jaws consolidated bony plates jaw diodonts tetradonts See 
+TERM Gymnodont DEF group plectognath fishes teeth jaws consolidated bony plates jaw diodonts tetradonts 
 TERM Gymnogen DEF class plants called ovules fertilized direct contact pollen 
 TERM Gymnoglossa DEF division gastropods odontophore without teeth 
 TERM Gymnolaemata DEF 
 TERM Gymnolaema DEF order Bryozoa epistome 
 TERM Gymnonoti DEF order fishes includes Gymnotus electrical eel dorsal fin wanting 
 TERM Gymnopaedic DEF young naked hatched said certain birds 
-TERM Gymnophiona DEF order Amphibia long annulated snakelike body See 
+TERM Gymnophiona DEF order Amphibia long annulated snakelike body 
 TERM Gymnophthalmata DEF group acalephs including naked-eyed known free-swimming progeny (gonophores) hydroids 
 TERM Gymnoplast DEF cell mass protoplasm devoid envelope white blood corpuscle 
 TERM Gymnorhinal DEF unfeathered nostrils certain birds 
@@ -4061,14 +4061,14 @@ TERM Gymnosperm DEF plant bears naked seeds seeds inclosed ovary) common pine he
 TERM Gymnospermous DEF naked seeds seeds inclosed capsule vessel 
 TERM Gymnotoka DEF Athecata 
 TERM Gymnotus DEF genus South American fresh-water fishes including electric eel greenish eel-like body possessed electric power 
-TERM Gyn DEF begin See 
+TERM Gyn DEF begin 
 TERM Gynaecium DEF 
 TERM Gynaeceum DEF part large house among ancients exclusively appropriated women 
 TERM Gynaecian DEF 
 TERM gynecological DEF 
 TERM gynaecological DEF pertaining gynecology 
 TERM gynaecology DEF branch medicine deals diseases hygiene women 
-TERM Gynaecophore DEF ventral canal groove males trematodes carry female See 
+TERM Gynaecophore DEF ventral canal groove males trematodes carry female 
 TERM Gynander DEF plant stamens inserted pistil 
 TERM Gynandria DEF class plants system stamens grow of united with pistil 
 TERM Gynandrous DEF 
@@ -4078,25 +4078,25 @@ TERM Gynandromorphism DEF abnormal condition certain animals side external chara
 TERM Gynandromorphous DEF Affected gynandromorphism 
 TERM Gynantherous DEF Pertaining abnormal condition flower stamens converted pistils 
 TERM Gynarchy DEF Government woman 
-TERM Gyneceum DEF See 
+TERM Gyneceum DEF 
 TERM Gynecian DEF relating women 
 TERM Gynecocracy DEF Government woman female power gyneocracy 
 TERM Gynecological DEF pertaining gynecology 
 TERM Gynecology DEF science treats structure diseases women 
-TERM Gyneocracy DEF See 
+TERM Gyneocracy DEF 
 TERM Gyneolatry DEF adoration worship woman 
 TERM Gynephobia DEF Hatred women repugnance society women 
-TERM Gynne DEF begin See 
+TERM Gynne DEF begin 
 TERM Gynobase DEF dilated base receptacle supporting multilocular ovary 
 TERM Gynobasic DEF Pertaining to having gynobase 
 TERM Gynocracy DEF Female government gynecocracy 
 TERM Gynodioecious DEF hermaphrodite perfect flowers individual plant bears mostly pistillate flowers 
-TERM Gynoecium DEF pistils flower taken collectively See 
+TERM Gynoecium DEF pistils flower taken collectively 
 TERM Gynophore DEF pedicel raising pistil ovary stamens passion flower branches bearing female gonophores certain Siphonophora 
 TERM Gyp DEF college servant called Cambridge England Oxford called 
-TERM Gypse DEF See 
+TERM Gypse DEF 
 TERM Gypseous DEF Resembling containing gypsum partaking qualities gypsum 
-TERM Gypsey DEF gypsy See 
+TERM Gypsey DEF gypsy 
 TERM Gypsiferous DEF Containing gypsum 
 TERM Gypsine DEF Gypseous 
 TERM Gypsography DEF act art engraving gypsum 
@@ -4121,11 +4121,11 @@ TERM Gyre DEF circular motion circle described moving body turn revolution circu
 TERM Gyre DEF turn round gyrate 
 TERM Gyreful DEF Abounding gyres 
 TERM Gyrencephala DEF higher orders Mammalia cerebrum convoluted 
-TERM Gyrfalcon DEF several species varieties large Arctic falcons esp white species circumpolar black gray varieties former See 
-TERM Gyri DEF See 
+TERM Gyrfalcon DEF several species varieties large Arctic falcons esp white species circumpolar black gray varieties former 
+TERM Gyri DEF 
 TERM Gyrland DEF garland 
 TERM Gyrodus DEF genus extinct fishes rounded teeth several rows adapted crushing 
-TERM Gyrogonite DEF petrified fruit species stonewort See 
+TERM Gyrogonite DEF petrified fruit species stonewort 
 TERM Gyroidal DEF Spiral arrangement action planes arranged spirally incline right (or left) vertical line said certain hemihedral forms Turning plane polarization circularly spirally right left 
 TERM Gyrolepis DEF genus ganoid fishes found strata new red sandstone lias bone beds 
 TERM Gyroma DEF turning round 
@@ -4139,7 +4139,7 @@ TERM Gyrose DEF Turned round like crook bent fro
 TERM Gyrostat DEF modification gyroscope consisting essentially fly wheel fixed inside rigid case attached thin flange metal supporting instrument used studying dynamics rotating bodies 
 TERM Gyrostatic DEF pertaining gyrostat gyrostatics 
 TERM Gyrostatics DEF doctrine theory gyrostat phenomena rotating bodies 
-TERM Gyrus DEF convoluted ridge grooves convolution brain brain See 
+TERM Gyrus DEF convoluted ridge grooves convolution brain brain 
 TERM Gyse DEF Guise 
 TERM Gyte DEF Delirious senselessly extravagant man clean 
 TERM Gyve DEF shackle especially confine legs fetter 

@@ -1,0 +1,31 @@
+Thesaurus was generated for the letter Z
+
+TERM			# OF GENERATED SYNONYMS		# OF COMMON SYNONYMS		% OF CORRECT GENERATED SYNONYMS
+ZANY					5						3						0.6
+ZANY					5						3						0.6
+ZEAL					5						0						0.0
+ZEAL					5						0						0.0
+ZEALOT					1						0						0.0
+ZEALOTRY					6						0						0.0
+ZEALOUS					1						0						0.0
+ZENITH					4						3						0.75
+ZEPHYR					6						1						0.166666666667
+ZERO					5						0						0.0
+ZEST					5						1						0.2
+ZEST					5						1						0.2
+ZESTFUL					5						1						0.2
+ZEUS					2						0						0.0
+ZIGZAG					20						2						0.1
+ZIGZAG					20						2						0.1
+ZIGZAG					20						2						0.1
+ZIGZAG					20						2						0.1
+ZION					3						0						0.0
+ZIP					2						0						0.0
+ZIP					2						0						0.0
+ZIPPER					2						1						0.5
+ZIPPY					3						0						0.0
+ZODIAC					2						0						0.0
+ZONE					14						0						0.0
+ZONE					14						0						0.0
+ZOOLOGICAL					4						0						0.0
+ZOOLOGIST					4						0						0.0
